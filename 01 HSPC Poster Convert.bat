@@ -1,6 +1,5 @@
 @echo off
 setlocal enabledelayedexpansion
-
 REM Check if ImageMagick is installed
 where magick >nul 2>nul
 if %errorlevel% neq 0 (
@@ -23,12 +22,11 @@ set "output_file=D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\HSPCPos
 
 REM Resize the image
 magick "%~1" -resize %target_width%x -auto-orient "%output_file%"
-
 if %errorlevel% equ 0 (
     echo Image successfully resized and saved to:
     echo %output_file%
+    exit /b 0
 ) else (
     echo An error occurred while resizing the image.
+    exit /b 1
 )
-
-pause
