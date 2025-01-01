@@ -18,7 +18,7 @@ if "%~1"=="" (
 )
 
 REM Set the target directory
-set "target_dir=D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\Movie Posters\Christmas"
+set "target_dir=D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\Movie Posters\Regular"
 
 REM Ensure the target directory exists
 if not exist "%target_dir%" (
