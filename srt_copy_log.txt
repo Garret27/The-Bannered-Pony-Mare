@@ -1,0 +1,26 @@
+SRT Copy Log - Fri 08/15/2025  6:47:31.76 
+================================== 
+ 
+Script started 
+Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
+ 
+Raw argument 1: ""J:\Movies J Drive\But I'm a Cheerleader (2000)\But I'm a Cheerleader (2000).srt"" 
+Clean argument 1: "J:\Movies J Drive\But I'm a Cheerleader (2000)\But I'm a Cheerleader (2000).srt" 
+File name: "But I'm a Cheerleader (2000).srt" 
+File extension: ".srt" 
+ 
+File argument exists 
+File has .srt extension 
+Source file exists 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+ 
+Attempting copy command... 
+        1 file(s) copied.
+Copy command returned success (errorlevel 0
+SUCCESS: Target file exists after copy 
+Copy command failed with errorlevel: 0 
+ 
+Script finished 
+================================== 
+The log file has been created at: 
+D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\srt_copy_log.txt 
