@@ -1,18 +1,18 @@
-SRT Copy Log - Fri 08/15/2025  6:47:31.76 
+SRT Copy Log - Wed 08/20/2025  9:16:41.29 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\But I'm a Cheerleader (2000)\But I'm a Cheerleader (2000).srt"" 
-Clean argument 1: "J:\Movies J Drive\But I'm a Cheerleader (2000)\But I'm a Cheerleader (2000).srt" 
-File name: "But I'm a Cheerleader (2000).srt" 
+Raw argument 1: ""\\SHARK-PLEX\J Drive\Movies J Drive\The Bad Guys 2 (2025)\The Bad Guys 2 (2025).eng.srt"" 
+Clean argument 1: "\\SHARK-PLEX\J Drive\Movies J Drive\The Bad Guys 2 (2025)\The Bad Guys 2 (2025).eng.srt" 
+File name: "The Bad Guys 2 (2025).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
