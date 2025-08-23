@@ -1,18 +1,18 @@
-SRT Copy Log - Wed 08/20/2025  9:16:41.29 
+SRT Copy Log - Sat 08/23/2025 14:09:51.74 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""\\SHARK-PLEX\J Drive\Movies J Drive\The Bad Guys 2 (2025)\The Bad Guys 2 (2025).eng.srt"" 
-Clean argument 1: "\\SHARK-PLEX\J Drive\Movies J Drive\The Bad Guys 2 (2025)\The Bad Guys 2 (2025).eng.srt" 
-File name: "The Bad Guys 2 (2025).eng.srt" 
+Raw argument 1: ""\\SHARK-PLEX\J Drive\Movies J Drive\Brokeback Mountain (2005)\Brokeback Mountain (2005).eng.srt"" 
+Clean argument 1: "\\SHARK-PLEX\J Drive\Movies J Drive\Brokeback Mountain (2005)\Brokeback Mountain (2005).eng.srt" 
+File name: "Brokeback Mountain (2005).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
