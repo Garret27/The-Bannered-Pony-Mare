@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 08/23/2025 14:09:51.74 
+SRT Copy Log - Fri 08/29/2025 16:15:32.87 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""\\SHARK-PLEX\J Drive\Movies J Drive\Brokeback Mountain (2005)\Brokeback Mountain (2005).eng.srt"" 
-Clean argument 1: "\\SHARK-PLEX\J Drive\Movies J Drive\Brokeback Mountain (2005)\Brokeback Mountain (2005).eng.srt" 
-File name: "Brokeback Mountain (2005).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Vivarium (2019)\Vivarium (2019).eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Vivarium (2019)\Vivarium (2019).eng.srt" 
+File name: "Vivarium (2019).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
