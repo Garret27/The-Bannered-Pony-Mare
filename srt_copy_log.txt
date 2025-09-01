@@ -1,18 +1,18 @@
-SRT Copy Log - Fri 08/29/2025 16:15:32.87 
+SRT Copy Log - Mon 09/01/2025  9:46:27.77 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Vivarium (2019)\Vivarium (2019).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Vivarium (2019)\Vivarium (2019).eng.srt" 
-File name: "Vivarium (2019).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Monsters University (2013)\Monsters University (2013) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Monsters University (2013)\Monsters University (2013) 1080p AAC.eng.srt" 
+File name: "Monsters University (2013) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
