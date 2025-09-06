@@ -1,18 +1,18 @@
-SRT Copy Log - Wed 09/03/2025  4:45:30.68 
+SRT Copy Log - Fri 09/05/2025 22:16:02.21 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Superman (2025)\Superman (2025).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Superman (2025)\Superman (2025).eng.srt" 
-File name: "Superman (2025).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Nobody 2 (2025)\Nobody 2 (2025).srt"" 
+Clean argument 1: "J:\Movies J Drive\Nobody 2 (2025)\Nobody 2 (2025).srt" 
+File name: "Nobody 2 (2025).srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
