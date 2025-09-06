@@ -1,12 +1,12 @@
-SRT Copy Log - Fri 09/05/2025 22:16:02.21 
+SRT Copy Log - Sat 09/06/2025  8:34:17.88 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Nobody 2 (2025)\Nobody 2 (2025).srt"" 
-Clean argument 1: "J:\Movies J Drive\Nobody 2 (2025)\Nobody 2 (2025).srt" 
-File name: "Nobody 2 (2025).srt" 
+Raw argument 1: ""J:\Movies J Drive\Nobody (2021)\Nobody (2021) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Nobody (2021)\Nobody (2021) 1080p AAC.eng.srt" 
+File name: "Nobody (2021) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
