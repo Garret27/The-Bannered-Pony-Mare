@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 09/06/2025  8:34:17.88 
+SRT Copy Log - Sat 09/06/2025  8:41:46.16 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Nobody (2021)\Nobody (2021) 1080p AAC.eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Nobody (2021)\Nobody (2021) 1080p AAC.eng.srt" 
-File name: "Nobody (2021) 1080p AAC.eng.srt" 
+Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\nobody_english-2640628\Nobody (2021) [1080p].srt"" 
+Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\nobody_english-2640628\Nobody (2021) [1080p].srt" 
+File name: "Nobody (2021) [1080p].srt" 
 File extension: ".srt" 
  
 File argument exists 
