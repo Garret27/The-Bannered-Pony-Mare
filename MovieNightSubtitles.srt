@@ -1,4842 +1,4810 @@
 1
-00:04:03,834 --> 00:04:05,708
-Oh!
+00:05:32,999 --> 00:05:34,535
+I can't hold her much longer, Murphy.
 
 2
-00:04:13,876 --> 00:04:15,791
-Ah!
+00:05:34,543 --> 00:05:35,373
+Port bow is heeling.
 
 3
-00:04:17,251 --> 00:04:18,666
-Doug?
+00:05:35,377 --> 00:05:36,867
+She's taking on too much water.
 
 4
-00:04:21,001 --> 00:04:23,208
-Honey, are you all right?
+00:05:36,878 --> 00:05:39,369
+What is going on back there?
 
 5
-00:04:25,501 --> 00:04:28,250
-You were dreaming. Doug?
+00:05:39,381 --> 00:05:40,996
+Keep your pants on, Murphy.
 
 6
-00:04:29,334 --> 00:04:31,291
-Was it about Mars?
+00:05:46,054 --> 00:05:48,340
+Damn, Murphy, we blew
+the starboard engine.
 
 7
-00:04:37,001 --> 00:04:39,166
-- Is that better?
-- Hmm.
+00:05:48,348 --> 00:05:49,838
+Port engine's running way too hot.
 
 8
-00:04:41,501 --> 00:04:43,166
-My poor baby.
+00:05:49,850 --> 00:05:51,181
+- Hold on.
+- Shorten the tow.
 
 9
-00:04:44,292 --> 00:04:46,666
-This is getting to be an obsession.
+00:05:51,184 --> 00:05:52,184
+Cut her loose.
 
 10
-00:04:54,584 --> 00:04:56,000
-Was she there?
+00:05:53,144 --> 00:05:56,432
+Epps, get off my damn tugboat.
 
 11
-00:04:58,167 --> 00:05:00,000
-Who?
+00:05:56,439 --> 00:05:57,645
+We don't have much time.
 
 12
-00:05:01,667 --> 00:05:04,291
-The one you told me about.
-The brunette.
+00:05:58,650 --> 00:06:00,936
+Move it, epps. Move it!
 
 13
-00:05:05,167 --> 00:05:06,791
-Oh, Lori.
+00:06:00,944 --> 00:06:02,855
+If she sinks, she's taking us with her.
 
 14
-00:05:09,751 --> 00:05:12,625
-I can't believe
-you're jealous of a dream.
+00:06:10,161 --> 00:06:12,152
+Got a punch in the port floater.
 
 15
-00:05:13,501 --> 00:05:16,166
-- Who is she?
-- Nobody.
+00:06:12,163 --> 00:06:14,074
+I'll give it minutes before she floods.
 
 16
-00:05:16,334 --> 00:05:18,625
-"Nobody"? What's her name?
+00:06:14,082 --> 00:06:15,242
+You got less than that!
 
 17
-00:05:18,792 --> 00:05:21,291
-I don't know.
+00:06:15,250 --> 00:06:16,080
+Get back here.
 
 18
-00:05:21,459 --> 00:05:23,333
-- Tell me!
-- I don't know!
+00:06:16,084 --> 00:06:17,995
+We're cutting her loose.
 
 19
-00:05:23,501 --> 00:05:25,458
-You better tell me!
+00:06:18,003 --> 00:06:18,992
+Cut her loose, Murphy.
 
 20
-00:05:25,626 --> 00:05:29,291
-It's not funny, Doug.
-You dream about her every night.
+00:06:19,004 --> 00:06:20,665
+That's it. Now, get back here.
 
 21
-00:05:29,459 --> 00:05:32,041
-And I'm always back
-in the morning.
+00:06:20,672 --> 00:06:22,879
+Come on, epps! You heard the man!
 
 22
-00:05:32,209 --> 00:05:34,250
-Let me go!
+00:06:22,883 --> 00:06:25,124
+Took us three months to
+get her off the bottom.
 
 23
-00:05:36,251 --> 00:05:38,375
-Come on, baby.
+00:06:25,135 --> 00:06:27,091
+I will not lose her now!
 
 24
-00:05:38,542 --> 00:05:41,208
-You know you're the girl
-of my dreams.
+00:06:28,805 --> 00:06:29,794
+Goddamn it, epps!
 
 25
-00:05:41,792 --> 00:05:43,375
-You mean it?
+00:06:29,806 --> 00:06:32,218
+You can't fix everything!
 
 26
-00:05:44,501 --> 00:05:46,375
-You know I do.
+00:06:32,225 --> 00:06:33,225
+= Christ!
 
 27
-00:05:55,834 --> 00:05:58,791
-I'll give you
-something to dream about.
+00:06:39,900 --> 00:06:42,107
+I'm telling you for the
+last time, get back here!
 
 28
-00:06:08,542 --> 00:06:12,166
-<i>The chairman defended the attack,
-saying that space-based weapons</i>
+00:06:42,110 --> 00:06:43,691
+She's taking on too much water!
 
 29
-00:06:12,334 --> 00:06:16,333
-<i>are our only defence against the
-southern block's numerical superiority.</i>
+00:06:46,156 --> 00:06:48,522
+Why do you always
+have to break my balls?
 
 30
-00:06:16,501 --> 00:06:18,833
-<i>And more violence last night on Mars</i>
+00:06:48,533 --> 00:06:49,568
+I said get back here!
 
 31
-00:06:19,001 --> 00:06:21,250
-<i>where terrorists
-demanding independence</i>
+00:06:54,247 --> 00:06:58,331
+Do you want me to come down
+there and kick your ass?
 
 32
-00:06:21,417 --> 00:06:24,833
-<i>once again halted the extraction
-of terbinium ore.</i>
+00:06:58,335 --> 00:06:59,495
+"Cause I'll do it.
 
 33
-00:06:29,876 --> 00:06:31,958
-<i>Kuato and his so-called
-freedom brigade</i>
+00:07:05,091 --> 00:07:08,003
+Well, here's to the best damn
+salvage crew in the business!
 
 34
-00:06:32,126 --> 00:06:34,083
-<i>claimed credit
-for this latest bombing,</i>
+00:07:09,387 --> 00:07:11,753
+Yeah, we did it, guys!
 
 35
-00:06:34,251 --> 00:06:37,833
-<i>which attempted to reopen
-the sealed-off Pyramid Mines.</i>
+00:07:11,765 --> 00:07:12,971
+Yeah, look at that!
 
 36
-00:06:41,126 --> 00:06:44,250
-<i>Mars military restored order
-with minimal use of force</i>
+00:07:12,974 --> 00:07:15,090
+All right! Nice work!
 
 37
-00:06:44,417 --> 00:06:48,291
-<i>and all damage to the strategic facility
-was repaired within hours.</i>
+00:07:17,687 --> 00:07:20,474
+Here's to the fucking sea!
 
 38
-00:06:48,459 --> 00:06:49,750
-<i>No cameras!</i>
+00:07:20,482 --> 00:07:25,442
+To the sea.
 
 39
-00:06:49,917 --> 00:06:53,875
-<i>With one mine already closed,
-Mars administrator Vilos Cohaagen</i>
+00:07:26,488 --> 00:07:27,819
+To a job well done.
 
 40
-00:06:54,042 --> 00:06:56,125
-<i>vowed that troops
-would be used if necessary</i>
+00:07:27,822 --> 00:07:30,108
+Hi. Hi, Mr. Murphy?
 
 41
-00:06:56,292 --> 00:06:59,000
-<i>to keep production at full capacity...</i>
+00:07:30,116 --> 00:07:30,946
+I'm Jack ferriman.
 
 42
-00:07:00,167 --> 00:07:03,916
-No wonder you're having nightmares.
-You're always watching the news.
+00:07:30,951 --> 00:07:33,033
+I was wondering if I
+could buy you a drink.
 
 43
-00:07:08,001 --> 00:07:09,916
-- Lori.
-- Doug?
+00:07:33,036 --> 00:07:34,036
+He doesn't drink.
 
 44
-00:07:10,084 --> 00:07:13,500
-- Let's do it.
-- Do what?
+00:07:38,750 --> 00:07:42,208
+Okay, think I talk
+to you alone for a sec?
 
 45
-00:07:13,667 --> 00:07:15,041
-Move to Mars.
+00:07:42,212 --> 00:07:43,668
+You talk to me, you talk to my crew.
 
 46
-00:07:16,209 --> 00:07:19,541
-Honey, why do you have to spoil
-a perfectly wonderful morning?
+00:07:43,672 --> 00:07:44,707
+That's the way it is.
 
 47
-00:07:21,251 --> 00:07:22,666
-Just think about it.
+00:07:46,424 --> 00:07:49,837
+Okay, I fly the arctic
+weather patrol flights
 
 48
-00:07:24,834 --> 00:07:28,333
-Sweetheart, we've been through this
-a million times. You'd hate it on Mars.
+00:07:49,844 --> 00:07:51,755
+out of MacKenzie bay. - Yeah?
 
 49
-00:07:28,501 --> 00:07:31,333
-It's dry, it's ugly, it's boring.
+00:07:51,763 --> 00:07:54,880
+And last month, I was out
+in the middle of the strait
 
 50
-00:07:32,584 --> 00:07:36,333
-I mean, really, a revolution could
-break out there any second.
+00:07:54,891 --> 00:07:56,506
+when I came across this.
 
 51
-00:07:36,501 --> 00:07:39,541
-Cohaagen says
-it's just a few extremists.
+00:07:58,144 --> 00:08:01,682
+Congratulations, you found a boat,
 
 52
-00:07:39,709 --> 00:07:41,166
-You believe him?
+00:08:01,690 --> 00:08:04,397
+in the middle of the ocean, of all places.
 
 53
-00:07:47,167 --> 00:07:49,458
-OK. Forget about it.
+00:08:04,401 --> 00:08:06,437
+Well, I did three flybys
 
 54
-00:07:52,334 --> 00:07:56,791
-<i>Absolutely not. Mars was colonised by
-the northern block at enormous expense.</i>
+00:08:06,444 --> 00:08:08,355
+and tried for radio
+contact and got nothing,
 
 55
-00:07:56,959 --> 00:08:00,500
-<i>Our entire war effort
-depends on their terbinium.</i>
+00:08:08,363 --> 00:08:09,978
+so I figured she had to be adrift.
 
 56
-00:08:00,667 --> 00:08:04,083
-<i>It's ridiculous to think we'd give it away
-just because some lazy mutants...</i>
+00:08:11,449 --> 00:08:12,780
+This was in the Bering strait?
 
 57
-00:08:04,251 --> 00:08:05,333
-Doug.
-
-58
-00:08:07,042 --> 00:08:10,750
-- Maybe we should take a trip.
-- Lori, move, please.
-
-59
-00:08:10,917 --> 00:08:14,500
-<i>...you've closed the Pyramid Mine
-because you found alien artefacts?</i>
-
-60
-00:08:14,667 --> 00:08:17,875
-There's a lot better places
-than Mars.
-
-61
-00:08:18,042 --> 00:08:20,916
-What about Saturn?
-Don't you wanna see Saturn?
-
-62
-00:08:21,084 --> 00:08:22,875
-<i>I wish we could find some artefacts.</i>
-
-63
-00:08:23,042 --> 00:08:25,083
-<i>Our tourist industry could use a boost.</i>
-
-64
-00:08:25,251 --> 00:08:27,625
-Everybody says that its gorgeous.
-
-65
-00:08:27,792 --> 00:08:31,416
-<i>Fact is, it's Mr Kuato and his terrorists
-who spread these rumours</i>
-
-66
-00:08:31,584 --> 00:08:33,583
-<i>to undermine trust in the government.</i>
-
-67
-00:08:33,751 --> 00:08:37,416
-We could take a long space cruise,
-the kind with nothing to do.
-
-68
-00:08:37,584 --> 00:08:41,083
-- <i>Have you found Kuato yet?</i>
-- <i>We don't even know what he looks like.</i>
-
-69
-00:08:41,251 --> 00:08:45,250
-- What do you say?
-- I'm late, Lori.
-
-70
-00:08:50,417 --> 00:08:52,791
-Sweetheart. Doug.
-
-71
-00:08:55,417 --> 00:08:59,583
-I know it's hard being in a new town,
-but let's give it a chance, OK?
-
-72
-00:09:01,542 --> 00:09:03,500
-Lori, don't you understand?
-
-73
-00:09:03,667 --> 00:09:06,500
-I feel like I was meant
-for something more than this.
-
-74
-00:09:07,459 --> 00:09:11,291
-I want to do something with my life.
-I want to be somebody.
-
-75
-00:09:11,459 --> 00:09:13,416
-You are somebody.
-
-76
-00:09:13,584 --> 00:09:15,541
-You're the man I love.
-
-77
-00:09:20,251 --> 00:09:21,750
-Bye.
-
-78
-00:09:24,167 --> 00:09:26,208
-Have a nice day.
-
-79
-00:09:44,917 --> 00:09:47,958
-<i>You are now entering
-a safety zone.</i>
-
-80
-00:09:48,126 --> 00:09:52,250
-<i>No unauthorised weapons allowed
-beyond this point.</i>
-
-81
-00:09:52,417 --> 00:09:55,791
-<i>You are now entering a safety zone.</i>
-
-82
-00:09:55,959 --> 00:10:00,041
-<i>No unauthorised weapons allowed
-beyond this point.</i>
-
-83
-00:10:02,834 --> 00:10:08,208
-<i>Would you like to ski
-but you're snowed under with work?</i>
-
-84
-00:10:08,376 --> 00:10:12,500
-<i>Do you dream of a vacation
-at the bottom of the ocean,</i>
-
-85
-00:10:12,667 --> 00:10:15,000
-<i>but you can't float the bill?</i>
-
-86
-00:10:15,167 --> 00:10:18,833
-<i>Have you always wanted
-to climb the mountains of Mars...</i>
-
-87
-00:10:20,167 --> 00:10:22,458
-<i>...but now you're over the hill?</i>
-
-88
-00:10:23,584 --> 00:10:25,583
-<i>Then come to Rekall Incorporated</i>
-
-89
-00:10:25,751 --> 00:10:28,583
-<i>where you can buy the memory
-of your ideal vacation</i>
-
-90
-00:10:28,751 --> 00:10:31,333
-<i>cheaper, safer and better
-than the real thing.</i>
-
-91
-00:10:32,042 --> 00:10:34,250
-<i>So don't let life pass you by.</i>
-
-92
-00:10:34,417 --> 00:10:37,791
-<i>Call Rekall for the memory of a lifetime.</i>
-
-93
-00:10:37,959 --> 00:10:41,791
-<i>For the memory of a lifetime</i>
-
-94
-00:10:41,959 --> 00:10:45,458
-<i>Rekall, Rekall, Rekall</i>
-
-95
-00:11:04,084 --> 00:11:05,208
-Harry.
-
-96
-00:11:07,417 --> 00:11:10,875
-- Harry! You ever hear of Rekall?
-- Rekall?
-
-97
-00:11:11,042 --> 00:11:12,875
-Where they sell
-those fake memories.
-
-98
-00:11:13,042 --> 00:11:17,125
-Oh, Rekall!
-Rekall, rekall, rekall!
-
-99
-00:11:17,292 --> 00:11:19,416
-- Thinking of going there?
-- I don't know. Maybe.
-
-100
-00:11:19,584 --> 00:11:21,250
-- Well, don't.
-- Why not?
-
-101
-00:11:21,417 --> 00:11:25,958
-A friend of mine tried one of their special
-offers, nearly got himself lobotomised.
-
-102
-00:11:26,709 --> 00:11:27,791
-No shit?
-
-103
-00:11:27,959 --> 00:11:30,666
-Don't fuck with your brain, pal.
-It ain't worth it.
-
-104
-00:11:32,459 --> 00:11:34,458
-I guess not.
-
-105
-00:12:15,917 --> 00:12:17,833
-Hello.
-
-106
-00:12:18,709 --> 00:12:21,041
-Good afternoon.
-Welcome to Rekall.
-
-107
-00:12:21,209 --> 00:12:23,291
-Douglas Quaid.
-I have an appointment.
-
-108
-00:12:26,792 --> 00:12:28,250
-- Bob?
-- <i>Yeah?</i>
-
-109
-00:12:28,417 --> 00:12:30,500
-- Doug Quaid is here to see you.
-- <i>I'll be right out.</i>
-
-110
-00:12:30,667 --> 00:12:32,083
-OK.
-
-111
-00:12:32,251 --> 00:12:34,208
-That'll be just one minute, Mr Quaid.
-
-112
-00:12:35,417 --> 00:12:37,208
-Thank you.
-
-113
-00:12:44,542 --> 00:12:47,958
-- Doug! Bob McClane. Good to see you.
-- Nice to meet you.
-
-114
-00:12:48,126 --> 00:12:50,333
-Come on in. Through here.
-
-115
-00:12:51,417 --> 00:12:53,125
-Go and have a seat.
-Make yourself comfortable.
-
-116
-00:12:53,292 --> 00:12:54,541
-- Thank you.
-
-117
-00:12:54,709 --> 00:12:56,333
-Now, help me out here, Doug.
-
-118
-00:12:56,501 --> 00:12:59,583
-- You were interested in a memory of...
-- Of Mars.
-
-119
-00:13:00,292 --> 00:13:01,791
-Yeah. Mars.
-
-120
-00:13:01,959 --> 00:13:04,125
-- Is there a problem?
-- Uh...
-
-121
-00:13:05,417 --> 00:13:08,500
-To be perfectly honest with you, Doug,
-if outer space is your thing,
-
-122
-00:13:08,667 --> 00:13:11,583
-you'd be much happier
-with one of our Saturn cruises.
-
-123
-00:13:11,751 --> 00:13:13,166
-Everybody raves about them.
-
-124
-00:13:13,334 --> 00:13:16,166
-No. I'm not interested in Saturn.
-I said Mars.
-
-125
-00:13:17,084 --> 00:13:19,166
-OK. You're the boss.
-
-126
-00:13:19,917 --> 00:13:21,833
-Mars it is.
-
-127
-00:13:22,584 --> 00:13:24,250
-Now, let me see.
-
-128
-00:13:24,417 --> 00:13:29,750
-The basic Mars package
-will run you 899 credits.
-
-129
-00:13:29,917 --> 00:13:33,208
-Now, that's for two full weeks
-of memories, complete in every detail.
-
-130
-00:13:33,376 --> 00:13:36,833
-If you want a longer trip, that'll cost you
-more cos it's a deeper implant.
-
-131
-00:13:37,001 --> 00:13:39,291
-What's in the two-week package?
-
-132
-00:13:39,459 --> 00:13:43,000
-When you go Rekall, you get nothing
-but first-class memories.
-
-133
-00:13:44,292 --> 00:13:48,041
-Private cabin on the shuttle, deluxe suite
-at the Hilton, all the major sights:
-
-134
-00:13:48,209 --> 00:13:53,041
-Mount Pyramid, the Grand Canals
-and of course, Venusville.
-
-135
-00:13:53,209 --> 00:13:54,958
-But how real does it seem?
-
-136
-00:13:55,126 --> 00:13:59,208
-- As real as any memory in your head.
-- Come on. Don't bullshit me.
-
-137
-00:13:59,376 --> 00:14:02,166
-No. I'm telling you, Doug.
-Your brain will not know the difference.
-
-138
-00:14:02,334 --> 00:14:04,333
-And that's guaranteed
-or your money back.
-
-139
-00:14:04,501 --> 00:14:07,875
-What about the guy you lobotomised?
-Did he get a refund?
-
-140
-00:14:11,584 --> 00:14:13,541
-You're talking ancient history.
-
-141
-00:14:13,709 --> 00:14:17,500
-Nowadays, travelling with Rekall
-is safer than getting on a rocket.
-
-142
-00:14:17,667 --> 00:14:19,625
-Check out those statistics.
-
-143
-00:14:19,792 --> 00:14:23,333
-Besides, a real holiday
-is a pain in the butt.
-
-144
-00:14:23,501 --> 00:14:28,208
-You got lost luggage, lousy weather,
-crooked taxi drivers.
-
-145
-00:14:28,376 --> 00:14:33,625
-When you travel with Rekall,
-everything is perfect.
-
-146
-00:14:33,792 --> 00:14:35,875
-So, what do you say?
-
-147
-00:14:37,001 --> 00:14:39,625
-- All right.
-- Smart move.
-
-148
-00:14:39,792 --> 00:14:43,083
-All right,
-while you fill out this questionnaire,
-
-149
-00:14:43,251 --> 00:14:45,666
-I'm going to familiarise you
-with some of our options.
-
-150
-00:14:45,834 --> 00:14:47,416
-No options.
-
-151
-00:14:48,292 --> 00:14:51,791
-Whatever you say.
-Can I ask you just one question?
-
-152
-00:14:52,792 --> 00:14:54,708
-What is that is exactly the same
-
-153
-00:14:54,876 --> 00:14:57,875
-about every single vacation
-you have ever taken?
-
-154
-00:14:58,876 --> 00:15:00,083
-I give up.
-
-155
-00:15:00,251 --> 00:15:02,875
-You. You're the same.
-
-156
-00:15:03,042 --> 00:15:05,625
-No matter where you go, there you are.
-It's always the same old you.
-
-157
-00:15:06,584 --> 00:15:10,458
-Let me suggest that you take
-a vacation from yourself.
-
-158
-00:15:10,626 --> 00:15:12,250
-I know, it sounds wild.
-
-159
-00:15:12,417 --> 00:15:15,125
-It is the latest thing in travel.
-We call it the Ego Trip.
-
-160
-00:15:15,292 --> 00:15:17,333
-No. I'm not interested in that.
-
-161
-00:15:17,501 --> 00:15:19,250
-You're gonna love this, Doug.
-
-162
-00:15:19,417 --> 00:15:22,958
-We offer you a choice of
-alternate identities during your trip.
-
-163
-00:15:23,126 --> 00:15:26,625
-Why go to Mars as a tourist,
-when you can go as a playboy?
-
-164
-00:15:26,792 --> 00:15:29,750
-- Or a famous jock or...?
-- "Secret agent."
-
-165
-00:15:29,917 --> 00:15:31,625
-How much is that?
-
-166
-00:15:32,959 --> 00:15:36,166
-A-ha! Let me tantalise you.
-
-167
-00:15:37,334 --> 00:15:42,000
-You are a top operative under deep cover
-on your most important mission.
-
-168
-00:15:42,167 --> 00:15:44,666
-People are trying to kill you.
-Left and right!
-
-169
-00:15:44,834 --> 00:15:47,791
-You meet this beautiful,
-exotic woman.
-
-170
-00:15:47,959 --> 00:15:49,041
-Go on.
-
-171
-00:15:49,209 --> 00:15:51,833
-I don't wanna spoil it for you, Doug,
-
-172
-00:15:52,001 --> 00:15:54,041
-but by the time the trip is over,
-
-173
-00:15:54,209 --> 00:15:58,125
-you get the girl, kill the bad guys
-and save the entire planet.
-
-174
-00:15:58,292 --> 00:16:03,000
-Now, you tell me.
-Isn't that worth a measly 300 credits?
-
-175
-00:16:17,334 --> 00:16:19,583
-- Your first trip?
-- Mm-hm.
-
-176
-00:16:19,751 --> 00:16:22,916
-Well, don't worry. Things hardly ever
-fuck up around here.
-
-177
-00:16:23,959 --> 00:16:25,958
-Good evening... Doug.
-
-178
-00:16:26,126 --> 00:16:28,208
-- I'm Dr Lull.
-- Nice to meet you.
-
-179
-00:16:28,376 --> 00:16:32,208
-Ernie, patch in matrix 62-B-37.
-
-180
-00:16:32,376 --> 00:16:35,250
-And would you like us
-to integrate some alien stuff?
-
-181
-00:16:35,417 --> 00:16:37,500
-Sure. Why not?
-
-182
-00:16:38,792 --> 00:16:42,166
-- Two-headed monsters?
-- Don't you keep up with the news?
-
-183
-00:16:42,334 --> 00:16:45,916
-- We're doing alien artefacts now.
-- It's wild.
-
-184
-00:16:46,084 --> 00:16:48,666
-Yeah, they date back a million years.
-
-185
-00:16:50,084 --> 00:16:51,750
-- Ernie?
-- That's a new one.
-
-186
-00:16:51,917 --> 00:16:53,666
-- Blue sky on Mars.
-- Been married long?
-
-187
-00:16:54,751 --> 00:16:57,375
-- Eight years.
-- Oh, I see.
-
-188
-00:16:57,542 --> 00:16:59,708
-Slipping away for
-a little hanky-panky.
-
-189
-00:16:59,876 --> 00:17:02,666
-- No. I'm fascinated with Mars.
-- All systems go.
-
-190
-00:17:02,834 --> 00:17:04,625
-Then we're set.
-
-191
-00:17:04,792 --> 00:17:07,541
-Ready for dreamland?
-
-192
-00:17:08,709 --> 00:17:12,791
-I'll be asking you some questions
-so we can fine-tune the Ego program.
-
-193
-00:17:12,959 --> 00:17:15,791
-You answer honestly,
-you'll enjoy yourself a whole lot more.
-
-194
-00:17:15,959 --> 00:17:18,708
-- Your sexual orientation.
-- Hetero.
-
-195
-00:17:24,251 --> 00:17:26,291
-So, how do you like your women?
-
-196
-00:17:26,459 --> 00:17:29,250
-Blonde? Brunette? Redhead?
-
-197
-00:17:30,042 --> 00:17:31,416
-Brunette.
-
-198
-00:17:33,751 --> 00:17:38,041
-Slim. Athletic. Voluptuous.
-
-199
-00:17:41,084 --> 00:17:42,541
-Athletic.
-
-200
-00:17:46,876 --> 00:17:50,708
-Demure. Aggressive. Sleazy.
-
-201
-00:17:50,876 --> 00:17:53,875
-- Be honest.
-- Sleazy.
-
-202
-00:17:57,876 --> 00:17:59,416
-Demure.
-
-203
-00:18:02,251 --> 00:18:04,041
-41A, Ernie.
-
-204
-00:18:05,459 --> 00:18:07,458
-Boy, is he gonna have a wild time.
-
-205
-00:18:08,584 --> 00:18:11,958
-- He's not gonna want to come back.
-- Oh, that's for sure.
-
-206
-00:18:33,251 --> 00:18:34,250
-So...
-
-207
-00:18:34,417 --> 00:18:36,250
-what do you say?
-
-208
-00:18:36,417 --> 00:18:39,333
-I'm not so sure,
-and I don't get a souvenir.
-
-209
-00:18:39,501 --> 00:18:41,666
-Not true. For just a few more credits,
-
-210
-00:18:41,834 --> 00:18:44,625
-we supply T-shirts,
-snapshots of you at the site,
-
-211
-00:18:44,792 --> 00:18:46,666
-and even letters from...
-
-212
-00:18:46,834 --> 00:18:50,125
-<i>Bob!</i>
-
-213
-00:18:50,292 --> 00:18:52,416
-- What is it?
-- <i>You'd better get down here.</i>
-
-214
-00:18:52,584 --> 00:18:54,625
-I am with a very important client.
-
-215
-00:18:54,792 --> 00:18:57,250
-<i>Looks like we got
-another schizoid embolism.</i>
-
-216
-00:18:58,959 --> 00:19:01,625
-- I'll be right back.
-- Uh... Mr McClane?
-
-217
-00:19:01,792 --> 00:19:05,166
-- Mr McClane?
-- Bob! What's wrong?
-
-218
-00:19:05,334 --> 00:19:07,250
-Don't let her leave!
-
-219
-00:19:11,959 --> 00:19:13,625
-Get off!
-
-220
-00:19:13,792 --> 00:19:15,416
-Ah!
-
-221
-00:19:15,584 --> 00:19:17,250
-You blew my cover!
-
-222
-00:19:17,417 --> 00:19:20,541
-What's going on? You can't do
-a simple goddamn double implant?
-
-223
-00:19:20,709 --> 00:19:22,375
-It's not my fault we hit a memory cap.
-
-224
-00:19:22,542 --> 00:19:25,000
-They'll be here any minute!
-They'll kill you all!
-
-225
-00:19:25,167 --> 00:19:27,458
-- What is he talking about?
-- Let me go!
-
-226
-00:19:27,626 --> 00:19:29,458
-Mr Quaid, try to calm down!
-
-227
-00:19:31,584 --> 00:19:33,833
-My name is not Quaid.
-
-228
-00:19:34,001 --> 00:19:36,833
-- Let me go! Untie me now!
-- Ernie, grab his leg!
-
-229
-00:19:37,001 --> 00:19:38,500
-- Untie me!
-- Hold him down!
-
-230
-00:19:38,667 --> 00:19:40,583
-Let me go!
-
-231
-00:19:47,126 --> 00:19:48,666
-Ah!
-
-232
-00:20:04,334 --> 00:20:06,291
-Are you all right?
-
-233
-00:20:06,459 --> 00:20:09,750
-Listen to me.
-He's been going on and on about Mars.
-
-234
-00:20:09,917 --> 00:20:12,500
-- He has really been there.
-- Use your head, you dumb bitch.
-
-235
-00:20:12,667 --> 00:20:16,041
-He's just acting out the "secret agent"
-portion of his ego trip.
-
-236
-00:20:16,209 --> 00:20:17,875
-- I'm afraid that's not possible.
-- Why not?
-
-237
-00:20:18,042 --> 00:20:19,875
-Because we haven't implanted it yet.
-
-238
-00:20:23,959 --> 00:20:25,250
-Oh, shit.
-
-239
-00:20:25,417 --> 00:20:26,791
-Oh, shit!
-
-240
-00:20:26,959 --> 00:20:30,375
-I've been trying to tell you,
-someone has erased his memory.
-
-241
-00:20:30,542 --> 00:20:33,625
-Excuse me. "Someone"?
-
-242
-00:20:33,792 --> 00:20:35,833
-We're talking about the fucking Agency.
-
-243
-00:20:36,001 --> 00:20:38,666
-- Shut up!
-- Bob, the client's gone.
-
-244
-00:20:39,626 --> 00:20:42,125
-OK, all right. All right, look.
-Here's what we're going to do.
-
-245
-00:20:42,292 --> 00:20:44,916
-Renata, cover up any memory
-he's got of us or Rekall.
-
-246
-00:20:45,084 --> 00:20:46,916
-I'll do what I can.
-It's pretty messy in there.
-
-247
-00:20:47,084 --> 00:20:50,083
-Ernie, dump him in a cab around
-the corner. Tiffany, you help him.
-
-248
-00:20:50,251 --> 00:20:52,166
-I'm gonna destroy his file
-and refund his money.
-
-249
-00:20:52,876 --> 00:20:56,583
-And if anybody comes asking,
-we never heard of Douglas Quaid.
-
-250
-00:21:11,001 --> 00:21:12,416
-Where am I?
-
-251
-00:21:14,959 --> 00:21:18,375
-- You're in a Johnnycab.
-- What am I doing here?
-
-252
-00:21:18,542 --> 00:21:21,833
-I'm sorry. Would you please
-rephrase the question?
-
-253
-00:21:22,001 --> 00:21:24,041
-How did I get in this taxi?
-
-254
-00:21:24,209 --> 00:21:26,958
-The door opened, you got in.
-
-255
-00:21:28,876 --> 00:21:31,458
-Hell of a day, isn't it?
-
-256
-00:21:45,084 --> 00:21:47,083
-- This OK?
-- Right here.
-
-257
-00:21:47,251 --> 00:21:49,916
-- Thank you for taking Johnnycab.
-- Thank you.
-
-258
-00:21:50,084 --> 00:21:52,250
-Hope you enjoyed the ride.
-
-259
-00:21:52,417 --> 00:21:53,791
-Hey, Quaid.
-
-260
-00:21:54,584 --> 00:21:57,250
-- Harry.
-- How was your trip to Mars?
-
-261
-00:21:57,417 --> 00:22:00,833
-- What trip?
-- You went to Rekall. Remember?
-
-262
-00:22:01,834 --> 00:22:03,875
-- I did?
-- Yeah, you did.
-
-263
-00:22:04,042 --> 00:22:07,333
-- I told you not to, but you went anyway.
-- What are you, my father?
-
-264
-00:22:08,917 --> 00:22:12,125
-- Come on, I'll buy you a drink.
-- Listen. I'm already late. Thank you...
-
-265
-00:22:14,001 --> 00:22:16,958
-OK, bring him...
-Come on, move it!
-
-266
-00:22:17,126 --> 00:22:19,208
-Let's go get that drink. Move it!
-
-267
-00:22:19,376 --> 00:22:22,750
-What the hell is going on?
-What the fuck did I do wrong?
-
-268
-00:22:22,917 --> 00:22:25,875
-- Tell me!
-- You blabbed about Mars!
-
-269
-00:22:26,042 --> 00:22:29,166
-Are you crazy? I don't even know
-anything about Mars!
-
-270
-00:22:29,334 --> 00:22:33,750
-You should've listened to me, Quaid.
-I was there to keep you out of trouble.
-
-271
-00:22:36,126 --> 00:22:39,916
-You're making a big mistake. You got me
-mixed up with somebody else.
-
-272
-00:22:40,084 --> 00:22:42,416
-Uh-uh, pal.
-You got yourself mixed up with...
-
-273
-00:22:46,959 --> 00:22:47,916
-Ah!
-
-274
-00:23:09,709 --> 00:23:11,666
-Ah!
-
-275
-00:23:32,709 --> 00:23:35,250
-<i>And pivot... and serve...</i>
-
-276
-00:23:35,417 --> 00:23:39,333
-<i>and shift... and stroke... and pivot.</i>
-
-277
-00:23:39,501 --> 00:23:43,208
-<i>And serve... and shift... and stroke.</i>
-
-278
-00:23:43,376 --> 00:23:45,291
-<i>Very good. Perfect form.</i>
-
-279
-00:23:45,459 --> 00:23:48,500
-<i>And serve... and shift... and stroke.</i>
-
-280
-00:23:48,667 --> 00:23:50,416
-Hi, honey.
-
-281
-00:23:52,584 --> 00:23:55,583
-- What are you doing?
-- Some men just tried to kill me.
-
-282
-00:23:55,751 --> 00:23:57,125
-Muggers? Are you all right?
-
-283
-00:23:57,292 --> 00:23:59,333
-No, they were spies or something.
-
-284
-00:23:59,501 --> 00:24:02,166
-And Harry from work, he was the...
-Get down!
-
-285
-00:24:02,334 --> 00:24:06,041
-- Harry from work, he was the boss.
-- Take it easy, Doug, OK?
-
-286
-00:24:06,209 --> 00:24:09,125
-Tell me exactly what happened.
-Why would spies want to kill you?
-
-287
-00:24:09,292 --> 00:24:11,833
-I don't know.
-But it had something to do with Mars.
-
-288
-00:24:12,001 --> 00:24:13,625
-You've never been to Mars.
-
-289
-00:24:13,792 --> 00:24:17,125
-It sounds crazy, but I went
-to this Rekall place after work...
-
-290
-00:24:17,292 --> 00:24:19,458
-- You went to those brain butchers?
-- Let me finish.
-
-291
-00:24:19,626 --> 00:24:22,041
-- What did they do to you?
-- I got a trip to Mars.
-
-292
-00:24:22,209 --> 00:24:24,000
-- So what happened...
-- Oh...
-
-293
-00:24:24,167 --> 00:24:27,416
-Forget about Rekall. Will you?
-These guys were going to kill me.
-
-294
-00:24:27,584 --> 00:24:30,291
-- Doug, nobody tried to kill you.
-- They did.
-
-295
-00:24:30,459 --> 00:24:32,416
-But I killed them.
-
-296
-00:24:34,376 --> 00:24:35,958
-Listen to me, sweetheart.
-
-297
-00:24:36,126 --> 00:24:39,083
-Those assholes at Rekall
-have fucked up your mind.
-
-298
-00:24:39,251 --> 00:24:41,291
-You're having paranoid delusions.
-
-299
-00:24:41,459 --> 00:24:44,041
-You call this a delusion?
-
-300
-00:24:49,834 --> 00:24:51,666
-Doug.
-
-301
-00:24:52,626 --> 00:24:56,541
-- Doug, I'm gonna call a doctor.
-- Don't. Don't call anybody.
-
-302
-00:25:00,834 --> 00:25:02,666
-<i>Hello.</i>
-
-303
-00:25:24,959 --> 00:25:27,541
-Lori, go! Get out!
-
-304
-00:25:53,167 --> 00:25:55,083
-Lori?
-
-305
-00:26:18,542 --> 00:26:21,291
-Why are you doing this, Lori?
-
-306
-00:26:36,917 --> 00:26:38,333
-Talk! I said talk.
-
-307
-00:26:38,501 --> 00:26:40,416
-- I'm not your wife.
-- The hell you're not.
-
-308
-00:26:40,584 --> 00:26:42,625
-I never saw you
-before six weeks ago.
-
-309
-00:26:42,792 --> 00:26:44,875
-Our marriage
-is just a memory implant.
-
-310
-00:26:45,042 --> 00:26:47,791
-You think I'm stupid?
-I remember our wedding.
-
-311
-00:26:47,959 --> 00:26:49,416
-It was implanted by the Agency.
-
-312
-00:26:49,584 --> 00:26:51,250
-- Falling in love.
-- Implanted.
-
-313
-00:26:51,417 --> 00:26:55,041
-Our friends, my job, 8 years together.
-All of this was implanted too?
-
-314
-00:26:55,209 --> 00:26:57,875
-The job's real.
-The Agency set it up.
-
-315
-00:26:58,042 --> 00:26:59,833
-Bullshit.
-
-316
-00:27:02,126 --> 00:27:04,666
-They erased your identity
-and implanted a new one.
-
-317
-00:27:04,834 --> 00:27:07,041
-I was written in as your wife
-so I could watch you
-
-318
-00:27:07,209 --> 00:27:09,416
-and make sure the erasure took.
-
-319
-00:27:15,251 --> 00:27:18,625
-Sorry, Quaid.
-Your whole life is just a dream.
-
-320
-00:27:20,876 --> 00:27:25,166
-OK, then if I'm not me,
-who the hell am I?
-
-321
-00:27:25,334 --> 00:27:26,500
-Beats me.
-
-322
-00:27:27,917 --> 00:27:30,125
-I just work here.
-
-323
-00:27:35,792 --> 00:27:37,166
-Doug.
-
-324
-00:27:38,167 --> 00:27:40,625
-Doug, there's something
-I want you to know.
-
-325
-00:27:42,334 --> 00:27:46,166
-You were the best assignment
-I ever had. Really.
-
-326
-00:27:46,334 --> 00:27:47,875
-I'm honoured.
-
-327
-00:27:48,042 --> 00:27:52,000
-You sure you don't want to,
-just for old times' sake?
-
-328
-00:27:53,001 --> 00:27:56,125
-Come on. If you don't trust me,
-you can tie me up.
-
-329
-00:27:58,334 --> 00:28:02,041
-- I didn't know you were so kinky.
-- Maybe it's time you found out.
-
-330
-00:28:07,459 --> 00:28:09,041
-Clever girl.
-
-331
-00:28:11,334 --> 00:28:15,541
-You wouldn't shoot me, would you,
-Doug? After all we've been through.
-
-332
-00:28:16,459 --> 00:28:18,541
-Some of it was fun.
-
-333
-00:28:21,167 --> 00:28:23,041
-Nice knowing you.
-
-334
-00:28:57,542 --> 00:28:59,166
-Don't touch her.
-
-335
-00:28:59,334 --> 00:29:00,666
-Nobody here.
-
-336
-00:29:02,334 --> 00:29:05,791
-- Are you OK?
-- I guess I blew it.
-
-337
-00:29:05,959 --> 00:29:08,541
-- What does he remember?
-- Nothing, so far.
-
-338
-00:29:08,709 --> 00:29:10,208
-I've got him.
-
-339
-00:29:23,834 --> 00:29:26,291
-Shit, he's going for the subway.
-Let's get him. Go.
-
-340
-00:29:26,459 --> 00:29:28,833
-Let's go. Move it.
-
-341
-00:29:41,792 --> 00:29:44,666
-Pack your stuff
-and get outta here.
-
-342
-00:29:44,834 --> 00:29:46,708
-What if they bring him back?
-
-343
-00:29:47,792 --> 00:29:49,208
-Not a chance.
-
-344
-00:29:58,209 --> 00:29:59,708
-Subway! Go!
-
-345
-00:30:05,001 --> 00:30:06,375
-Hey!
-
-346
-00:30:10,042 --> 00:30:12,500
-Get him! He's got a gun!
-
-347
-00:30:13,292 --> 00:30:16,166
-- Cut him off! That way!
-- Over there!
-
-348
-00:30:16,334 --> 00:30:18,750
-- Hold it!
-- Don't move!
-
-349
-00:30:48,792 --> 00:30:50,666
-The escalator.
-
-350
-00:30:50,834 --> 00:30:53,416
-You four go up.
-You come with me.
-
-351
-00:31:07,709 --> 00:31:09,708
-Get out of the way! Come on!
-
-352
-00:31:12,501 --> 00:31:13,916
-Get out of the way! Move!
-
-353
-00:31:44,709 --> 00:31:46,000
-The platform!
-
-354
-00:31:49,834 --> 00:31:52,000
-- Which way?
-- To the right.
-
-355
-00:32:18,876 --> 00:32:23,041
-<i>Botco. Tomorrow's fuels,
-tomorrow's prices.</i>
-
-356
-00:32:23,209 --> 00:32:26,166
-<i>Don't settle for pale memories
-or fake implants.</i>
-
-357
-00:32:26,334 --> 00:32:28,791
-<i>Experience space travel
-the old-fashioned way</i>
-
-358
-00:32:28,959 --> 00:32:32,416
-<i>on a real, live holiday
-you can afford.</i>
-
-359
-00:32:38,292 --> 00:32:40,000
-I want that fucker dead.
-
-360
-00:32:40,167 --> 00:32:43,291
-I don't blame you. I wouldn't want
-Quaid porking my old lady.
-
-361
-00:32:43,459 --> 00:32:47,916
-- You saying she likes it?
-- No, I'm sure she hated every minute.
-
-362
-00:32:50,334 --> 00:32:54,458
-<i>Six-beta-nine, we have
-a live transmission from Mr Cohaagen.</i>
-
-363
-00:32:54,626 --> 00:32:57,166
-- Richter here. Patch it through.
-- <i>You're on, Mr Cohaagen.</i>
-
-364
-00:32:57,334 --> 00:33:00,750
-- <i>What the fuck is going on?</i>
-- I'm trying to neutralise a traitor, sir.
-
-365
-00:33:00,917 --> 00:33:03,458
-<i>If I wanted him dead, you moron,
-I wouldn't have dumped him on Earth.</i>
-
-366
-00:33:03,626 --> 00:33:05,791
-We can't let him run around.
-He knows too much.
-
-367
-00:33:07,459 --> 00:33:09,291
-<i>Lori says he can't remember jack shit.</i>
-
-368
-00:33:09,459 --> 00:33:11,916
-That's now. In an hour
-he could have total recall.
-
-369
-00:33:12,084 --> 00:33:16,625
-<i>Listen to me, Richter. I want Quaid
-delivered alive for re-implantation.</i>
-
-370
-00:33:16,792 --> 00:33:18,375
-<i>Have you got that?</i>
-
-371
-00:33:18,542 --> 00:33:21,083
-<i>I want him back in place with Lori.</i>
-
-372
-00:33:22,834 --> 00:33:24,958
-<i>Did you hear me?</i>
-
-373
-00:33:25,126 --> 00:33:26,833
-What was that, sir?
-I couldn't hear you.
-
-374
-00:33:27,001 --> 00:33:29,875
-- <i>Richter, what are you doing?</i>
-- I got Quaid again.
-
-375
-00:33:30,042 --> 00:33:32,750
-Switching to another channel, sir.
-I've got sunspots.
-
-376
-00:33:34,542 --> 00:33:37,250
-- <i>Call him back! Call him back!</i>
-- I'm losing you.
-
-377
-00:33:37,417 --> 00:33:40,291
-- Where is he?
-- Second level, galleria.
-
-378
-00:33:40,459 --> 00:33:42,583
-We should've killed Quaid on Mars.
-
-379
-00:34:07,751 --> 00:34:09,166
-- How we doing?
-- Fine.
-
-380
-00:34:12,376 --> 00:34:15,083
-Zooming in... We got him!
-
-381
-00:34:36,584 --> 00:34:38,541
-<i>If you want to live, don't hang up.</i>
-
-382
-00:34:38,709 --> 00:34:40,583
-- What do you want?
-- <i>They've got you bugged.</i>
-
-383
-00:34:40,751 --> 00:34:42,458
-<i>They'll be busting down your door
-in about three minutes</i>
-
-384
-00:34:42,626 --> 00:34:44,875
-<i>unless you do exactly what I say.</i>
-
-385
-00:34:45,042 --> 00:34:48,291
-<i>Don't bother searching.
-The bug's in your skull.</i>
-
-386
-00:34:50,959 --> 00:34:52,875
-- Who are you?
-- <i>Never mind.</i>
-
-387
-00:34:53,042 --> 00:34:55,833
-<i>Wet a towel and wrap it around
-your head. That'll muffle the signal.</i>
-
-388
-00:34:56,001 --> 00:34:58,958
-- How'd you find me?
-- <i>I'd advise you to hurry.</i>
-
-389
-00:35:01,751 --> 00:35:05,166
-<i>This'll buy you some time.
-They won't be able to pinpoint you.</i>
-
-390
-00:35:12,626 --> 00:35:14,083
-Shit!
-
-391
-00:35:14,251 --> 00:35:16,500
-- What?
-- I lost him.
-
-392
-00:35:16,959 --> 00:35:19,458
-- Well, find him!
-- Yeah, right.
-
-393
-00:35:19,626 --> 00:35:22,000
-<i>Come on. Hurry up.
-You look beautiful.</i>
-
-394
-00:35:24,542 --> 00:35:27,625
-<i>Now go to the window. Go.</i>
-
-395
-00:35:30,667 --> 00:35:32,958
-- <i>Can you see me down here?</i>
-- Mm-hm.
-
-396
-00:35:33,126 --> 00:35:36,083
-- <i>This is the suitcase you gave me.</i>
-- I gave you?
-
-397
-00:35:36,251 --> 00:35:39,625
-<i>I'm gonna set it here.
-You come and get it, keep moving.</i>
-
-398
-00:35:39,792 --> 00:35:41,833
-- Wait. Wait.
-- <i>What?</i>
-
-399
-00:35:42,001 --> 00:35:45,500
-- Who are you?
-- <i>We were buddies in the Agency.</i>
-
-400
-00:35:45,667 --> 00:35:48,916
-<i>You asked me, if you disappeared,
-to find you, so here I am.</i>
-
-401
-00:35:49,084 --> 00:35:51,500
-What was I doing on Mars? Damn!
-
-402
-00:35:56,042 --> 00:35:57,791
-Excuse me, ma'am, but this is mine.
-
-403
-00:35:57,959 --> 00:36:01,125
-- I don't see your name on it.
-- Someone left it for me.
-
-404
-00:36:01,292 --> 00:36:04,125
-- Find your own bag.
-- Excuse me, ma'am, but I need it!
-
-405
-00:36:05,459 --> 00:36:07,041
-Fuck you, you asshole!
-
-406
-00:36:16,751 --> 00:36:18,500
-Son of a bitch gotta be here
-somewhere.
-
-407
-00:36:22,292 --> 00:36:24,750
-That guy there.
-
-408
-00:36:33,459 --> 00:36:36,833
-Hello, I'm Johnnycab.
-Where can I take you tonight?
-
-409
-00:36:38,376 --> 00:36:40,583
-Drive. Drive!
-
-410
-00:36:40,751 --> 00:36:44,166
-- Please repeat the destination.
-- Anywhere! Just go! Go! Go!
-
-411
-00:36:44,334 --> 00:36:45,916
-Please state the street
-and number.
-
-412
-00:36:46,084 --> 00:36:48,125
-Shit. Shit!
-
-413
-00:36:48,292 --> 00:36:52,000
-I'm not familiar with that address.
-Would you please repeat...?
-
-414
-00:36:59,501 --> 00:37:01,125
-Fasten your seat belt!
-
-415
-00:37:34,834 --> 00:37:36,583
-The fare is 18 credits, please.
-
-416
-00:37:36,751 --> 00:37:38,083
-Sue me, dickhead.
-
-417
-00:37:38,251 --> 00:37:39,416
-Ah!
-
-418
-00:37:48,209 --> 00:37:50,625
-We hope you enjoyed the ride.
-
-419
-00:39:09,209 --> 00:39:10,291
-Hmm.
-
-420
-00:39:25,584 --> 00:39:27,958
-<i>Howdy, stranger.
-This is Hauser.</i>
-
-421
-00:39:29,126 --> 00:39:31,541
-<i>If things have gone wrong,
-I'm talking to myself</i>
-
-422
-00:39:31,709 --> 00:39:34,541
-<i>and you've got a wet towel
-wrapped around your head.</i>
-
-423
-00:39:34,709 --> 00:39:38,458
-<i>Now, whatever your name is,
-get ready for the big surprise.</i>
-
-424
-00:39:39,626 --> 00:39:42,666
-<i>You are not you. You are me.</i>
-
-425
-00:39:43,709 --> 00:39:45,291
-No shit.
-
-426
-00:39:47,084 --> 00:39:49,916
-<i>Six-beta-nine, six-beta-nine,
-come in.</i>
-
-427
-00:39:50,084 --> 00:39:51,250
-Did you find him?
-
-428
-00:39:51,417 --> 00:39:54,166
-<i>We picked up an explosion
-at the old cement factory.</i>
-
-429
-00:39:55,251 --> 00:39:57,875
-- Send two units. We'll meet you there.
-- <i>Roger.</i>
-
-430
-00:40:02,334 --> 00:40:05,000
-<i>All my life I've worked
-for Mars Intelligence.</i>
-
-431
-00:40:05,167 --> 00:40:07,375
-<i>I did Cohaagen's dirty work.</i>
-
-432
-00:40:07,542 --> 00:40:10,375
-<i>But a few weeks ago
-I met somebody, a woman,</i>
-
-433
-00:40:10,542 --> 00:40:12,541
-<i>and I learned a few things.</i>
-
-434
-00:40:12,709 --> 00:40:15,291
-<i>Like I've been playing
-for the wrong team.</i>
-
-435
-00:40:16,584 --> 00:40:19,666
-<i>All I can do now is try
-to make up for it.</i>
-
-436
-00:40:20,459 --> 00:40:23,791
-<i>There's enough shit in here
-to fuck Cohaagen good.</i>
-
-437
-00:40:23,959 --> 00:40:28,000
-<i>Unfortunately, if you're listening to
-this, that means he has got to me first.</i>
-
-438
-00:40:28,959 --> 00:40:30,708
-<i>Here comes the hard part,
-old buddy.</i>
-
-439
-00:40:30,876 --> 00:40:33,000
-<i>Now it is all up to you.</i>
-
-440
-00:40:33,167 --> 00:40:34,375
-Great.
-
-441
-00:40:46,251 --> 00:40:48,041
-- What have we got?
-- Nothing here.
-
-442
-00:40:48,209 --> 00:40:50,458
-- He's gone.
-- I got a weak signal over there.
-
-443
-00:40:50,626 --> 00:40:52,041
-Split up. Find him.
-
-444
-00:40:52,209 --> 00:40:55,125
-<i>First let's get rid
-of that bug in your head.</i>
-
-445
-00:40:55,292 --> 00:40:58,958
-<i>Take this thing out of the case
-and stick it up your nose.</i>
-
-446
-00:40:59,126 --> 00:41:01,166
-<i>Don't worry. it's self-guiding.</i>
-
-447
-00:41:07,084 --> 00:41:09,125
-<i>Just shove real hard.</i>
-
-448
-00:41:15,084 --> 00:41:16,833
-<i>When it crunches, you're there.</i>
-
-449
-00:41:18,417 --> 00:41:20,208
-<i>Just pull it out.</i>
-
-450
-00:41:20,376 --> 00:41:22,541
-<i>Be careful. It's my head too.</i>
-
-451
-00:41:22,709 --> 00:41:25,333
-Ah! Ah!
-
-452
-00:41:44,584 --> 00:41:48,291
-- I've got a lock.
-- Up. Let's go.
-
-453
-00:41:50,126 --> 00:41:51,875
-<i>This is the plan.</i>
-
-454
-00:41:52,042 --> 00:41:53,500
-<i>Get your ass to Mars,</i>
-
-455
-00:41:53,667 --> 00:41:56,875
-<i>then go to the Hilton and flash
-the Brubaker ID at the desk.</i>
-
-456
-00:41:57,042 --> 00:41:58,750
-<i>That's all there's to it.</i>
-
-457
-00:41:58,917 --> 00:42:00,541
-<i>Just do what I tell you.</i>
-
-458
-00:42:00,709 --> 00:42:04,666
-<i>And we can nail that son of the bitch
-who fucked you and me.</i>
-
-459
-00:42:04,834 --> 00:42:06,750
-<i>I'm counting on you, buddy.</i>
-
-460
-00:42:06,917 --> 00:42:08,583
-<i>Don't let me down.</i>
-
-461
-00:42:37,376 --> 00:42:38,583
-Straight ahead.
-
-462
-00:42:42,667 --> 00:42:44,250
-In there.
-
-463
-00:42:52,542 --> 00:42:54,041
-There!
-
-464
-00:42:59,459 --> 00:43:01,041
-There!
-
-465
-00:43:04,042 --> 00:43:05,458
-There!
-
-466
-00:43:11,126 --> 00:43:13,250
-What? Give me that.
-
-467
-00:43:13,417 --> 00:43:15,500
-<i>Get your ass to Mars.</i>
-
-468
-00:43:17,376 --> 00:43:19,875
-- <i>Get your ass to Mars.</i>
-- Shit.
-
-469
-00:43:21,459 --> 00:43:26,541
-<i>Get your ass to Mars...
-Get your ass to Mars...</i>
-
-470
-00:43:58,417 --> 00:44:00,875
-<i>Welcome to the Mars
-Federal Colony.</i>
-
-471
-00:44:01,042 --> 00:44:03,791
-<i>For your safety and comfort,
-domes have been installed</i>
-
-472
-00:44:03,959 --> 00:44:06,416
-<i>to protect you
-from the vacuum outside.</i>
-
-473
-00:44:06,584 --> 00:44:10,333
-<i>Please do not touch
-exterior windows or air locks.</i>
-
-474
-00:44:10,501 --> 00:44:14,291
-<i>Air volume is limited. No smoking
-is allowed anywhere in the colony.</i>
-
-475
-00:44:14,459 --> 00:44:15,791
-Next.
-
-476
-00:44:15,959 --> 00:44:20,166
-<i>Thank you,
-and enjoy your stay on Mars.</i>
-
-477
-00:44:20,334 --> 00:44:21,875
-Passport.
-
-478
-00:44:33,376 --> 00:44:34,625
-Hmm?
-
-479
-00:44:34,792 --> 00:44:38,541
-Get out of the way.
-Make way! Stand back!
-
-480
-00:44:44,792 --> 00:44:47,583
-Mr Cohaagen wants to see you
-right away.
-
-481
-00:44:48,584 --> 00:44:50,125
-Any news of Quaid?
-
-482
-00:44:50,292 --> 00:44:53,250
-- Not since you lost him.
-- Watch your mouth, Captain...
-
-483
-00:44:54,334 --> 00:44:57,333
-- So how long do you plan to stay?
-- Two weeks.
-
-484
-00:44:57,917 --> 00:45:00,208
-Look at that shit.
-
-485
-00:45:00,376 --> 00:45:03,875
-- What the hell's this?
-- The Martians love Kuato.
-
-486
-00:45:04,042 --> 00:45:06,041
-They think he's fuckin'
-George Washington.
-
-487
-00:45:06,209 --> 00:45:07,833
-Kill the bastard.
-
-488
-00:45:08,001 --> 00:45:09,583
-Nobody knows who he is.
-
-489
-00:45:11,251 --> 00:45:13,541
-Have you brought
-any fruits or vegetables?
-
-490
-00:45:13,709 --> 00:45:15,458
-Two weeks.
-
-491
-00:45:16,751 --> 00:45:18,125
-Excuse me?
-
-492
-00:45:18,292 --> 00:45:20,750
-Two weeks.
-
-493
-00:45:21,917 --> 00:45:24,166
-Two weeks!
-
-494
-00:45:27,917 --> 00:45:32,625
-It's not just graffiti. The rebels
-took over the refinery last night.
-
-495
-00:45:32,792 --> 00:45:34,708
-No terbinium is going out.
-
-496
-00:45:34,876 --> 00:45:36,375
-And it gets worse.
-
-497
-00:45:36,542 --> 00:45:38,583
-T-w-o...
-
-498
-00:45:56,917 --> 00:45:58,250
-Quaid.
-
-499
-00:45:59,417 --> 00:46:01,000
-- That's Quaid!
-- Where?
-
-500
-00:46:01,167 --> 00:46:02,875
-The woman!
-Get him... her!
-
-501
-00:46:03,876 --> 00:46:05,333
-Arrest that woman!
-
-502
-00:46:05,501 --> 00:46:07,000
-Get that woman. Grab her!
-
-503
-00:46:36,751 --> 00:46:37,833
-Catch!
-
-504
-00:46:40,084 --> 00:46:42,125
-Get ready for a surprise!
-
-505
-00:47:27,834 --> 00:47:28,958
-Ah!
-
-506
-00:47:53,292 --> 00:47:54,958
-- Open the goddamn door!
-- I can't!
-
-507
-00:47:55,126 --> 00:47:56,333
-Open it!
-
-508
-00:47:56,501 --> 00:47:58,291
-They're all connected!
-
-509
-00:48:07,584 --> 00:48:08,916
-That's terrible.
-
-510
-00:48:09,084 --> 00:48:11,000
-A few days ago
-Cohaagen raised the price of air.
-
-511
-00:48:11,167 --> 00:48:12,333
-Again?
-
-512
-00:48:12,501 --> 00:48:14,791
-Nobody on Earth gives a damn
-what happens up here.
-
-513
-00:48:14,959 --> 00:48:17,416
-They just want our terbinium
-so they can fight their war.
-
-514
-00:48:17,584 --> 00:48:19,500
-Excuse me. What's that?
-
-515
-00:48:19,667 --> 00:48:21,708
-You mean the Pyramid Mine?
-
-516
-00:48:21,876 --> 00:48:25,333
-I used to work there until
-they found that alien shit inside.
-
-517
-00:48:25,501 --> 00:48:27,333
-Well, that's a rumour, isn't it?
-
-518
-00:48:28,001 --> 00:48:29,250
-Think so?
-
-519
-00:48:58,876 --> 00:49:00,291
-Mr Cohaagen.
-
-520
-00:49:07,792 --> 00:49:09,708
-You wanted to see me, sir?
-
-521
-00:49:13,292 --> 00:49:14,708
-Richter...
-
-522
-00:49:16,001 --> 00:49:17,958
-Do you know why
-I'm such a happy person?
-
-523
-00:49:18,126 --> 00:49:19,458
-No, sir.
-
-524
-00:49:21,584 --> 00:49:24,833
-Because I've got the greatest job
-in the solar system.
-
-525
-00:49:25,001 --> 00:49:28,375
-As long as the terbinium keeps flowing,
-I can do anything I want.
-
-526
-00:49:29,209 --> 00:49:30,791
-Anything.
-
-527
-00:49:32,209 --> 00:49:35,291
-In fact, the only thing
-that I ever worry about
-
-528
-00:49:35,459 --> 00:49:40,791
-is that one day, if the rebels win,
-it all might end...
-
-529
-00:49:42,042 --> 00:49:43,541
-and you're fucking making it happen!
-
-530
-00:49:44,709 --> 00:49:47,583
-First you try to kill Quaid,
-then you let him get away.
-
-531
-00:49:47,751 --> 00:49:50,000
-He had help from our side, sir.
-
-532
-00:49:51,084 --> 00:49:52,250
-I know that.
-
-533
-00:49:54,584 --> 00:49:56,625
-- But I thought...
-- Who told you to think?
-
-534
-00:49:56,792 --> 00:49:59,791
-I don't give you enough information
-to think.
-
-535
-00:50:01,917 --> 00:50:05,000
-You do what you're told.
-That's what you do.
-
-536
-00:50:07,459 --> 00:50:08,875
-Yes, sir.
-
-537
-00:50:09,584 --> 00:50:11,500
-Now...
-
-538
-00:50:13,792 --> 00:50:15,416
-Let's get to business.
-
-539
-00:50:17,167 --> 00:50:19,458
-We've got a tricky situation here.
-
-540
-00:50:19,626 --> 00:50:21,833
-Kuato wants what's in Quaid's head.
-
-541
-00:50:23,584 --> 00:50:26,625
-And he might be able to get it,
-cos they say he's psychic.
-
-542
-00:50:28,167 --> 00:50:31,208
-And I have a plan
-to keep this from happening.
-
-543
-00:50:34,709 --> 00:50:36,250
-Do you think you could play along?
-
-544
-00:50:36,417 --> 00:50:38,458
-- Yes, sir.
-- Great.
-
-545
-00:50:38,626 --> 00:50:41,000
-Cos otherwise, I'll erase your ass.
-
-546
-00:50:55,834 --> 00:50:59,208
-You've got some
-identification? Yeah, you too.
-
-547
-00:50:59,376 --> 00:51:03,291
-Taxi? You need a taxi, sir?
-I got magazines, music, whisky.
-
-548
-00:51:03,459 --> 00:51:06,000
-Hey, man, you need a cab, man?
-Come on! Come on!
-
-549
-00:51:31,042 --> 00:51:32,750
-Good afternoon. Can I help you?
-
-550
-00:51:32,917 --> 00:51:35,333
-Yes, I would like
-to have a room, please.
-
-551
-00:51:40,876 --> 00:51:43,416
-Nice to have you back, Mr Brubaker.
-Would you like the same suite?
-
-552
-00:51:43,584 --> 00:51:45,250
-Oh, definitely.
-
-553
-00:51:47,251 --> 00:51:49,375
-Seems you've left something
-in our safe.
-
-554
-00:51:49,542 --> 00:51:51,208
-Could you get it, please?
-
-555
-00:51:56,584 --> 00:51:58,208
-Identification?
-
-556
-00:52:07,667 --> 00:52:10,291
-- I'll encode your room key.
-- Thank you.
-
-557
-00:52:26,376 --> 00:52:29,833
-- Suite 610 in the east wing.
-- Thank you.
-
-558
-00:52:30,001 --> 00:52:32,583
-- Could I borrow your pen, please?
-- Certainly.
-
-559
-00:52:44,334 --> 00:52:45,458
-Thank you.
-
-560
-00:52:50,834 --> 00:52:53,208
-Hey, man, you need a cab?
-
-561
-00:52:53,376 --> 00:52:57,750
-- What's wrong with this one?
-- He ain't got five kids to feed.
-
-562
-00:52:57,917 --> 00:53:01,041
-- Where's yours?
-- Right over there, man.
-
-563
-00:53:01,209 --> 00:53:03,291
-Hey! Hey, man.
-
-564
-00:53:03,459 --> 00:53:05,291
-Hey, asshole! That's my fare!
-
-565
-00:53:05,459 --> 00:53:08,125
-- Eat this!
-- Damn you, Benny!
-
-566
-00:53:14,459 --> 00:53:16,000
-Welcome to Mars, man!
-
-567
-00:53:20,167 --> 00:53:21,750
-What the hell was that, an accident?
-
-568
-00:53:21,917 --> 00:53:25,208
-That's the rebels, man.
-Let's get outta here...
-
-569
-00:53:25,376 --> 00:53:27,166
-Before they arrest us!
-
-570
-00:53:27,334 --> 00:53:29,041
-What do the rebels want?
-
-571
-00:53:29,209 --> 00:53:32,666
-The usual.
-More money, more freedom, more air.
-
-572
-00:53:37,751 --> 00:53:38,916
-So, where to?
-
-573
-00:53:39,084 --> 00:53:40,791
-Last Resort.
-
-574
-00:53:40,959 --> 00:53:42,875
-You're getting off to an early start.
-
-575
-00:53:43,917 --> 00:53:46,125
-- First time on Mars?
-- Yes.
-
-576
-00:53:46,292 --> 00:53:49,541
-Well, actually, no. Well, sort of.
-
-577
-00:53:49,709 --> 00:53:53,875
-The man don't even know
-whether he's been to Mars or not.
-
-578
-00:54:04,417 --> 00:54:06,791
-Voila. Venusville.
-
-579
-00:54:06,959 --> 00:54:10,291
-Ha, ha!
-Hey, you see anything you like?
-
-580
-00:54:14,501 --> 00:54:17,583
-Well, this is the end of the line.
-We'd better walk from here.
-
-581
-00:54:17,751 --> 00:54:19,666
-I'll show you where.
-
-582
-00:54:19,834 --> 00:54:23,375
-- Do you want to know the future?
-- What about the past?
-
-583
-00:54:23,542 --> 00:54:27,208
-Come on. It's around the corner,
-right down this alley.
-
-584
-00:54:27,376 --> 00:54:29,416
-They got everything.
-
-585
-00:54:32,084 --> 00:54:33,750
-Not bad, huh?
-
-586
-00:54:35,417 --> 00:54:39,791
-Read your palm? Your mind? Your aura?
-Probe the secrets of your heart?
-
-587
-00:54:39,959 --> 00:54:42,083
-I bet I can guess your birthday.
-
-588
-00:54:42,251 --> 00:54:45,208
-- You're a Taurus, right?
-- How did you guess?
-
-589
-00:54:47,876 --> 00:54:50,083
-- Tell me, are all psychics...?
-- Freaks?
-
-590
-00:54:50,251 --> 00:54:52,208
-Afraid so, man.
-It goes with the territory.
-
-591
-00:54:52,376 --> 00:54:57,333
-- What happened to them?
-- Cheap domes, no air to clean the rays.
-
-592
-00:54:57,501 --> 00:55:01,375
-So, this is it. The Last Resort.
-You sure you want to go in here?
-
-593
-00:55:01,542 --> 00:55:04,875
-- Why not?
-- There's a better place down there.
-
-594
-00:55:05,042 --> 00:55:07,708
-The girls are cleaner,
-the liquor ain't watered down...
-
-595
-00:55:07,876 --> 00:55:10,208
-Sure, and you get kickbacks.
-
-596
-00:55:10,376 --> 00:55:13,208
-Hey, man, I got five kids to feed.
-
-597
-00:55:13,376 --> 00:55:14,916
-Take them to the dentist.
-
-598
-00:55:15,084 --> 00:55:17,583
-Hey, thanks, mister!
-I'll be waiting for you.
-
-599
-00:55:17,751 --> 00:55:19,875
-You just take your time.
-Benny's the name.
-
-600
-00:55:40,126 --> 00:55:42,083
-- What do you want?
-- I'm looking for Melina.
-
-601
-00:55:42,251 --> 00:55:43,958
-She's busy.
-
-602
-00:55:44,126 --> 00:55:45,958
-But Mary here, she's free.
-
-603
-00:55:46,709 --> 00:55:49,416
-Well, not free, honey, but...
-
-604
-00:55:50,209 --> 00:55:51,625
-...available.
-
-605
-00:55:52,501 --> 00:55:54,375
-Ha-ha-ha!
-
-606
-00:55:54,542 --> 00:55:56,833
-Thanks. I'll wait for Melina.
-
-607
-00:55:57,001 --> 00:55:58,125
-Earth slime.
-
-608
-00:55:58,292 --> 00:56:00,875
-Thing is, friend, Mel's real picky.
-
-609
-00:56:01,042 --> 00:56:03,250
-She kind of sticks to her regulars.
-
-610
-00:56:03,417 --> 00:56:05,416
-She'll like me.
-
-611
-00:56:06,417 --> 00:56:07,625
-Mel!
-
-612
-00:56:07,792 --> 00:56:09,291
-Hey, Mel!
-
-613
-00:56:45,376 --> 00:56:46,916
-Hello, Hauser.
-
-614
-00:56:47,917 --> 00:56:49,583
-Still bulging, I see.
-
-615
-00:56:51,167 --> 00:56:54,375
-- What you been feeding this thing?
-- Blondes.
-
-616
-00:56:56,209 --> 00:56:58,375
-I think it's still hungry.
-
-617
-00:57:00,709 --> 00:57:03,625
-You got a lot of nerve
-showing your face around here, Hauser.
-
-618
-00:57:03,792 --> 00:57:05,708
-Look who's talking.
-
-619
-00:57:05,876 --> 00:57:08,583
-Hey, Tony,
-give the big guy a break.
-
-620
-00:57:08,751 --> 00:57:11,000
-Relax. You'll live longer.
-
-621
-00:57:11,167 --> 00:57:12,916
-Come on.
-
-622
-00:57:18,209 --> 00:57:21,166
-- Honey, take care of Tony, will you?
-- No problem.
-
-623
-00:57:21,876 --> 00:57:24,875
-If you need any help with this one,
-give me a holler.
-
-624
-00:57:39,917 --> 00:57:41,708
-You son of a bitch.
-
-625
-00:57:41,876 --> 00:57:44,541
-You're alive? I thought that
-Cohaagen tortured you to death.
-
-626
-00:57:44,709 --> 00:57:46,500
-Well, I guess he didn't.
-
-627
-00:57:46,667 --> 00:57:50,416
-And you couldn't get me a message? You
-never wondered what happened to me?
-
-628
-00:57:58,001 --> 00:58:00,333
-Hauser, thank God you're alive.
-
-629
-00:58:01,417 --> 00:58:03,833
-Melin... Melina. Melina.
-
-630
-00:58:04,667 --> 00:58:08,583
-- Melina, I have to tell you something.
-- What?
-
-631
-00:58:08,751 --> 00:58:12,291
-- I don't remember you.
-- What are you talking about?
-
-632
-00:58:12,459 --> 00:58:14,541
-I don't remember you.
-
-633
-00:58:14,709 --> 00:58:18,041
-I don't remember us.
-I don't even remember me.
-
-634
-00:58:20,209 --> 00:58:22,500
-Did you get amnesia?
-How did you get here?
-
-635
-00:58:22,667 --> 00:58:24,958
-- Hauser left me a note.
-- Hauser? You're Hauser.
-
-636
-00:58:25,126 --> 00:58:27,000
-Not anymore.
-
-637
-00:58:27,167 --> 00:58:30,166
-Now I'm Quaid. Douglas Quaid.
-
-638
-00:58:33,417 --> 00:58:37,416
-- Hauser, you've lost your mind.
-- I didn't. Cohaagen stole it.
-
-639
-00:58:37,584 --> 00:58:42,041
-He found out that Hauser switched sides,
-so he turned him into somebody else: me.
-
-640
-00:58:42,209 --> 00:58:43,583
-This is too weird.
-
-641
-00:58:43,751 --> 00:58:46,166
-He dumped me on earth
-with a wife and a lousy job...
-
-642
-00:58:46,334 --> 00:58:49,166
-Did you say wife?
-Are you fucking married?
-
-643
-00:58:49,334 --> 00:58:51,291
-- She wasn't really my wife.
-- Oh, she isn't?
-
-644
-00:58:51,459 --> 00:58:53,708
-How stupid of me.
-She was Hauser's wife?
-
-645
-00:58:53,876 --> 00:58:56,875
-- Look. Forget that I said wife.
-- Let's just forget everything.
-
-646
-00:58:57,042 --> 00:59:00,541
-- I'm sick of hearing your goddamn lies.
-- Why would I lie to you?
-
-647
-00:59:01,709 --> 00:59:05,000
-Because you're still
-working for Cohaagen.
-
-648
-00:59:05,167 --> 00:59:07,583
-Don't be ridiculous.
-
-649
-00:59:10,459 --> 00:59:12,500
-You never loved me, Hauser.
-
-650
-00:59:12,667 --> 00:59:14,583
-You just used me to get inside.
-
-651
-00:59:14,751 --> 00:59:16,708
-Inside what?
-
-652
-00:59:20,792 --> 00:59:22,791
-I think you'd better leave.
-
-653
-00:59:22,959 --> 00:59:26,041
-- Hauser sent me to do something.
-- I'm not falling for it.
-
-654
-00:59:26,209 --> 00:59:28,375
-He says there's enough in here
-to nail Cohaagen for good.
-
-655
-00:59:28,542 --> 00:59:30,375
-- Get out!
-- You've got to help me remember!
-
-656
-00:59:30,542 --> 00:59:32,666
-- I said, get out!
-- Melina, please!
-
-657
-00:59:32,834 --> 00:59:34,625
-People are trying to kill me.
-
-658
-00:59:35,501 --> 00:59:37,125
-Really?
-
-659
-00:59:39,501 --> 00:59:41,541
-All right, I'm leaving.
-
-660
-00:59:53,334 --> 00:59:56,375
-Baby, you make me wish
-I had three hands.
-
-661
-00:59:56,542 --> 00:59:59,208
-I think you're doing
-just fine with two.
-
-662
-00:59:59,376 --> 01:00:01,666
-Excuse me, baby.
-We'll pick this up later.
-
-663
-01:00:01,834 --> 01:00:04,166
-Hey, that didn't take long.
-
-664
-01:00:04,334 --> 01:00:06,833
-Listen. Let me ask you a question.
-Did you ever fuck a mutant?
-
-665
-01:00:07,001 --> 01:00:09,375
-- Take me to the hotel.
-- I know these Siamese twins.
-
-666
-01:00:09,542 --> 01:00:12,333
-Man, you won't know
-if you're coming or going.
-
-667
-01:00:21,917 --> 01:00:22,208
-<i>This afternoon at 4:30 p.m.,
-I signed an order declaring martial law</i>
-
-668
-01:00:22,209 --> 01:00:25,583
-<i>This afternoon at 4:30 p.m.,
-I signed an order declaring martial law</i>
-
-669
-01:00:25,751 --> 01:00:27,833
-<i>throughout the Mars federal colony.</i>
-
-670
-01:00:28,001 --> 01:00:32,750
-<i>I will not tolerate any further damage
-to our mineral export operations.</i>
-
-671
-01:00:32,917 --> 01:00:34,916
-<i>Mr Kuato and his terrorists
-must understand</i>
-
-672
-01:00:35,084 --> 01:00:38,708
-<i>that their self-defeating efforts
-will only bring misery and suffering...</i>
-
-673
-01:00:42,334 --> 01:00:45,166
-- Mr Quaid?
-- What?
-
-674
-01:00:45,334 --> 01:00:47,833
-I need to talk to you
-about Mr Hauser.
-
-675
-01:00:49,042 --> 01:00:51,250
-- Who are you?
-- Dr Edgemar from Rekall.
-
-676
-01:00:51,417 --> 01:00:53,583
-- How did you find me?
-- It's difficult to explain.
-
-677
-01:00:53,751 --> 01:00:56,833
-Could you open the door?
-I'm unarmed.
-
-678
-01:00:58,876 --> 01:01:01,208
-Don't worry. I'm alone.
-May I come in?
-
-679
-01:01:03,126 --> 01:01:04,333
-What do you want?
-
-680
-01:01:04,501 --> 01:01:06,750
-This is going to be very difficult
-for you to accept, Mr Quaid.
-
-681
-01:01:06,917 --> 01:01:11,875
-- I'm listening.
-- You're not really standing here now.
-
-682
-01:01:12,042 --> 01:01:15,041
-- Doc, you could have fooled me.
-- I'm quite serious.
-
-683
-01:01:15,209 --> 01:01:18,291
-You're not here and neither am I.
-
-684
-01:01:18,459 --> 01:01:19,791
-That's amazing.
-
-685
-01:01:19,959 --> 01:01:22,583
-- Where are we?
-- At Rekall.
-
-686
-01:01:23,209 --> 01:01:24,791
-You're strapped into
-an implant chair,
-
-687
-01:01:24,959 --> 01:01:28,208
-and I'm monitoring you
-from the psychoprobe console.
-
-688
-01:01:29,209 --> 01:01:31,625
-Ah, I get it. I'm dreaming.
-
-689
-01:01:31,792 --> 01:01:35,000
-And all this is part of the delightful
-vacation your company has sold me.
-
-690
-01:01:35,167 --> 01:01:36,500
-Not exactly.
-
-691
-01:01:36,667 --> 01:01:40,750
-What you're experiencing is a free-form
-delusion based on our memory tapes
-
-692
-01:01:40,917 --> 01:01:43,875
-but you're inventing it yourself
-as you go along.
-
-693
-01:01:45,001 --> 01:01:48,375
-If it is my delusion,
-who the hell invited you?
-
-694
-01:01:48,542 --> 01:01:52,166
-I've been artificially implanted
-as an emergency measure.
-
-695
-01:01:52,334 --> 01:01:55,666
-I'm sorry to tell you this,
-but you've suffered a schizoid embolism.
-
-696
-01:01:55,834 --> 01:01:58,041
-We can't snap you
-out of your fantasy,
-
-697
-01:01:58,209 --> 01:02:01,333
-and I've been sent in
-to try to talk you down.
-
-698
-01:02:01,501 --> 01:02:03,250
-How much is Cohaagen
-paying you for this?
-
-699
-01:02:04,751 --> 01:02:08,875
-Think about it. Your dream started
-in the middle of the implant procedure.
-
-700
-01:02:09,042 --> 01:02:11,250
-Everything after that,
-the chases, the trip to Mars,
-
-701
-01:02:11,417 --> 01:02:15,875
-the suite at the Hilton, are elements
-of your Rekall Holiday and Ego Trip.
-
-702
-01:02:16,042 --> 01:02:18,333
-You paid to be a secret agent.
-
-703
-01:02:18,501 --> 01:02:20,916
-Bullshit. It's coincidence.
-
-704
-01:02:21,084 --> 01:02:23,750
-And what about the girl?
-
-705
-01:02:23,917 --> 01:02:26,458
-Brunette, athletic,
-sleazy and demure?
-
-706
-01:02:26,626 --> 01:02:29,000
-Just as you specified.
-Is that coincidence?
-
-707
-01:02:29,167 --> 01:02:32,708
-She's real. I dreamt about her
-before I even went to Rekall.
-
-708
-01:02:32,876 --> 01:02:34,833
-Ha, Mr Quaid.
-
-709
-01:02:35,001 --> 01:02:39,000
-Can you hear yourself?
-She's real because you dreamed her?
-
-710
-01:02:39,167 --> 01:02:42,083
-- That's right.
-- Maybe this will convince you.
-
-711
-01:02:42,251 --> 01:02:44,625
-Would you mind opening the door?
-
-712
-01:02:46,626 --> 01:02:51,083
-- You open it.
-- No need to be rude. I'll do it.
-
-713
-01:02:57,501 --> 01:02:58,750
-Sweetheart?
-
-714
-01:03:01,292 --> 01:03:03,708
-Come in, Mrs Quaid.
-
-715
-01:03:07,584 --> 01:03:12,208
-- I suppose you're not here either.
-- I'm here... at Rekall.
-
-716
-01:03:16,917 --> 01:03:18,625
-I love you.
-
-717
-01:03:18,792 --> 01:03:22,041
-Right.
-That's why you tried to kill me.
-
-718
-01:03:22,209 --> 01:03:25,250
-No. I'd never do anything
-to hurt you.
-
-719
-01:03:26,251 --> 01:03:28,500
-I want you to come back to me.
-
-720
-01:03:30,792 --> 01:03:33,958
-- Bullshit.
-- What's bullshit, Mr Quaid?
-
-721
-01:03:34,126 --> 01:03:35,958
-That you're having
-a paranoid episode
-
-722
-01:03:36,126 --> 01:03:38,708
-triggered by acute
-neurochemical trauma?
-
-723
-01:03:38,876 --> 01:03:42,750
-Or that you're really an invincible
-secret agent from Mars,
-
-724
-01:03:42,917 --> 01:03:46,958
-who's the victim of an interplanetary
-conspiracy to make him think
-
-725
-01:03:47,126 --> 01:03:49,041
-he's a lowly construction worker?
-
-726
-01:03:56,626 --> 01:03:58,833
-Stop punishing yourself, Doug.
-
-727
-01:03:59,001 --> 01:04:01,916
-You're a fine, upstanding man.
-You have a beautiful wife who loves you.
-
-728
-01:04:03,459 --> 01:04:05,416
-- Your whole life is ahead of you.
-- I do.
-
-729
-01:04:07,459 --> 01:04:10,041
-But you've got to want
-to return to reality.
-
-730
-01:04:12,417 --> 01:04:15,000
-Let's assume I do. Then what?
-
-731
-01:04:17,917 --> 01:04:20,958
-- Swallow this.
-- What is it?
-
-732
-01:04:21,126 --> 01:04:24,333
-It's a symbol of your desire
-to return to reality.
-
-733
-01:04:25,251 --> 01:04:27,833
-Inside your dream, you'll fall asleep.
-
-734
-01:04:31,459 --> 01:04:36,125
-All right, let's say you're telling
-the truth and this is all a dream.
-
-735
-01:04:36,292 --> 01:04:38,250
-Then I could pull this trigger
-and it won't matter.
-
-736
-01:04:38,417 --> 01:04:41,375
-- Doug, don't.
-- It won't make a difference to me.
-
-737
-01:04:41,542 --> 01:04:45,958
-But the consequences to you would be
-devastating. In your mind I'll be dead.
-
-738
-01:04:46,126 --> 01:04:49,416
-With no one to guide you out,
-you'll be stuck in permanent psychosis.
-
-739
-01:04:49,584 --> 01:04:51,791
-Doug, let Dr Edgemar help you.
-
-740
-01:04:51,959 --> 01:04:54,041
-The walls of reality
-will come crashing down.
-
-741
-01:04:54,209 --> 01:04:56,375
-One minute you'll be
-the saviour of the rebel cause,
-
-742
-01:04:56,542 --> 01:05:00,000
-and the next thing you know
-you'll be Cohaagen's bosom buddy.
-
-743
-01:05:00,167 --> 01:05:04,083
-You'll even have fantasies about
-alien civilisations, as you requested,
-
-744
-01:05:04,251 --> 01:05:06,875
-but in the end, back on earth
-you'll be lobotomised!
-
-745
-01:05:09,417 --> 01:05:13,333
-So get a grip on yourself, Doug,
-and put down that gun!
-
-746
-01:05:19,001 --> 01:05:22,500
-Good. Now take the pill
-and put it in your mouth.
-
-747
-01:05:26,792 --> 01:05:28,916
-Swallow it!
-
-748
-01:05:32,167 --> 01:05:33,958
-Go ahead, sweetheart.
-
-749
-01:05:56,667 --> 01:06:00,000
-Now you've done it.
-Now you've done it!
-
-750
-01:06:14,667 --> 01:06:16,000
-Ah!
-
-751
-01:06:19,667 --> 01:06:20,625
-Aargh!
-
-752
-01:06:20,792 --> 01:06:23,291
-That's for making me come to Mars.
-
-753
-01:06:24,584 --> 01:06:28,000
-You know how much I hate
-this fucking planet!
-
-754
-01:06:29,834 --> 01:06:31,125
-Cuff him.
-
-755
-01:06:37,834 --> 01:06:41,208
-- <i>I got him.</i>
-- Bring him down in the service elevator.
-
-756
-01:06:43,376 --> 01:06:44,916
-Let's go.
-
-757
-01:07:58,209 --> 01:07:59,333
-Fuck you!
-
-758
-01:08:09,917 --> 01:08:11,125
-Doug.
-
-759
-01:08:13,126 --> 01:08:15,166
-Honey...
-
-760
-01:08:15,334 --> 01:08:17,791
-You wouldn't hurt me,
-would you, sweetheart?
-
-761
-01:08:19,584 --> 01:08:22,833
-Sweetheart, be reasonable.
-
-762
-01:08:23,001 --> 01:08:25,125
-After all, we're married.
-
-763
-01:08:30,542 --> 01:08:32,041
-Consider that a divorce.
-
-764
-01:08:34,542 --> 01:08:36,166
-That was your wife?
-
-765
-01:08:40,209 --> 01:08:41,625
-What a bitch.
-
-766
-01:08:49,709 --> 01:08:51,833
-Hey, get out of the way!
-
-767
-01:08:55,167 --> 01:08:56,833
-I thought you didn't like me.
-
-768
-01:08:57,001 --> 01:08:59,625
-If Cohaagen wants you dead,
-you might be OK.
-
-769
-01:08:59,792 --> 01:09:03,166
-- Got it.
-- So you've come back to apologise.
-
-770
-01:09:03,334 --> 01:09:05,000
-Kuato wants to see you.
-
-771
-01:09:07,084 --> 01:09:08,625
-Come on.
-
-772
-01:09:36,959 --> 01:09:38,500
-- Now what?
-- Jump!
-
-773
-01:09:42,292 --> 01:09:44,000
-Ah!
-
-774
-01:10:08,167 --> 01:10:12,000
-No! Don't do it!
-You'll crack the fucking dome!
-
-775
-01:10:15,501 --> 01:10:18,708
-What are you trying to do, kill us?
-The dome will crack!
-
-776
-01:10:31,126 --> 01:10:32,541
-- Move!
-- Hey!
-
-777
-01:10:34,084 --> 01:10:36,000
-Taxi!
-
-778
-01:10:36,876 --> 01:10:39,000
-Melina! Melina!
-
-779
-01:10:42,126 --> 01:10:43,541
-- Need a ride?
-- Last Resort. Quick!
-
-780
-01:10:43,709 --> 01:10:45,166
-You guys are going in circles.
-
-781
-01:10:50,209 --> 01:10:51,125
-Jesus!
-
-782
-01:10:51,292 --> 01:10:53,416
-Come on! You drive!
-
-783
-01:10:53,584 --> 01:10:54,625
-You guys are in trouble?
-
-784
-01:10:54,792 --> 01:10:56,500
-Go! Go!
-
-785
-01:11:07,292 --> 01:11:10,125
-- What are you trying to do to me?
-- Shut up and drive!
-
-786
-01:11:10,292 --> 01:11:12,500
-Hey, I got five kids to feed!
-
-787
-01:11:28,459 --> 01:11:30,208
-Aargh!
-
-788
-01:11:46,584 --> 01:11:47,625
-Shit!
-
-789
-01:11:47,792 --> 01:11:49,500
-- No brakes! Ah!
-- Stop it!
-
-790
-01:11:49,667 --> 01:11:51,291
-You idiot!
-
-791
-01:11:54,501 --> 01:11:55,708
-What are you doing?
-
-792
-01:12:08,292 --> 01:12:11,000
-Oh, Christ! Now they're after me!
-
-793
-01:12:12,292 --> 01:12:13,500
-Give me that!
-
-794
-01:12:13,667 --> 01:12:15,625
-Get out of the way!
-
-795
-01:12:17,751 --> 01:12:19,208
-Hey!
-
-796
-01:12:22,126 --> 01:12:23,541
-Tony!
-
-797
-01:12:27,209 --> 01:12:29,625
-Get out of the way!
-Come on!
-
-798
-01:12:29,792 --> 01:12:32,166
-Come on! Come on!
-
-799
-01:12:32,334 --> 01:12:33,583
-Quick!
-
-800
-01:12:35,542 --> 01:12:36,916
-- Thank you, Tony.
-- Uh-um.
-
-801
-01:13:00,209 --> 01:13:04,000
-Hey! You wanna have some fun?
-
-802
-01:13:04,167 --> 01:13:05,291
-Where are they?
-
-803
-01:13:05,459 --> 01:13:07,916
-What are you talking about?
-I don't know.
-
-804
-01:13:16,376 --> 01:13:17,875
-Maybe you know.
-
-805
-01:13:25,167 --> 01:13:26,541
-Kill them all!
-
-806
-01:13:37,876 --> 01:13:39,250
-Ah!
-
-807
-01:13:40,626 --> 01:13:42,125
-Thumbelina!
-
-808
-01:14:06,876 --> 01:14:08,333
-Richter!
-
-809
-01:14:08,501 --> 01:14:11,833
-- A call from Cohaagen!
-- Richter here.
-
-810
-01:14:12,001 --> 01:14:14,666
-- We've got them pinned down.
-- <i>Stop fighting and pull out.</i>
-
-811
-01:14:14,834 --> 01:14:16,708
-But they've got Quaid.
-They're protecting him.
-
-812
-01:14:18,001 --> 01:14:21,083
-<i>Perfect.
-Get out of Sector G now.</i>
-
-813
-01:14:21,251 --> 01:14:22,708
-<i>Don't think.</i>
-
-814
-01:14:22,876 --> 01:14:25,291
-- <i>Do it!</i>
-- Yes, sir.
-
-815
-01:14:25,459 --> 01:14:27,291
-Pull 'em out.
-
-816
-01:14:27,459 --> 01:14:29,750
-Everybody, pull out!
-
-817
-01:14:29,917 --> 01:14:31,458
-Move!
-
-818
-01:14:40,292 --> 01:14:43,416
-- Cohaagen's sealing off the area!
-- Come on, Benny!
-
-819
-01:15:45,126 --> 01:15:46,875
-The first settlers are buried here.
-
-820
-01:15:47,042 --> 01:15:51,000
-They worked themselves to death, but
-Cohaagen ended up with all the money.
-
-821
-01:15:51,167 --> 01:15:53,750
-He built cheap domes and
-watched the kids turn into freaks.
-
-822
-01:15:53,917 --> 01:15:55,083
-I saw them.
-
-823
-01:15:55,251 --> 01:15:57,875
-And if you want to breathe,
-you have to buy his air.
-
-824
-01:15:58,042 --> 01:15:59,625
-Maybe you can change all that.
-
-825
-01:16:00,417 --> 01:16:03,875
-Hey, I think my grandpa might be here.
-
-826
-01:16:04,042 --> 01:16:05,625
-So what can I do?
-
-827
-01:16:05,792 --> 01:16:08,458
-Kuato's gonna make you remember some
-things you knew when you were Hauser.
-
-828
-01:16:08,626 --> 01:16:11,125
-- Like what?
-- All sorts of things.
-
-829
-01:16:11,292 --> 01:16:14,250
-- Maybe you'll remember you loved me.
-- I don't need Kuato for that.
-
-830
-01:16:15,542 --> 01:16:17,458
-Since when?
-
-831
-01:16:27,209 --> 01:16:28,875
-Freeze!
-
-832
-01:16:29,042 --> 01:16:30,708
-Come on, Melina.
-
-833
-01:16:32,001 --> 01:16:33,291
-Kuato's waiting.
-
-834
-01:16:33,459 --> 01:16:35,833
-I didn't find Grandpa, but...
-
-835
-01:16:36,917 --> 01:16:38,375
-Oh, shit.
-
-836
-01:16:38,542 --> 01:16:41,625
-- Who's this?
-- He helped us get away.
-
-837
-01:16:41,792 --> 01:16:45,958
-Hey, don't worry about me, man.
-I'm on your side.
-
-838
-01:16:56,501 --> 01:16:58,416
-You're a mutant, huh?
-
-839
-01:16:58,584 --> 01:17:00,833
-All right, let's go.
-
-840
-01:17:16,042 --> 01:17:18,750
-- Have you tried ramming down the door?
-- You wait here. Follow me.
-
-841
-01:17:18,917 --> 01:17:20,625
-<i>It won't do any good.</i>
-
-842
-01:17:20,792 --> 01:17:24,083
-- <i>Cohaagen depressurised the tunnels.</i>
-- Then drill through to Section M.
-
-843
-01:17:24,251 --> 01:17:27,125
-<i>We can't.
-We're running out of air.</i>
-
-844
-01:17:27,292 --> 01:17:29,291
-<i>We need help.</i>
-
-845
-01:17:29,459 --> 01:17:32,083
-Sit tight.
-Melina just got here with Quaid.
-
-846
-01:17:33,126 --> 01:17:34,833
-<i>I hope he was worth it.</i>
-
-847
-01:17:35,001 --> 01:17:36,833
-So do I.
-
-848
-01:17:39,001 --> 01:17:40,875
-- I'm glad you made it.
-- You don't look glad.
-
-849
-01:17:41,042 --> 01:17:44,250
-Cohaagen sealed up Venusville.
-He shut off the air.
-
-850
-01:17:44,417 --> 01:17:46,500
-You must know something
-pretty important, Quaid.
-
-851
-01:17:46,667 --> 01:17:48,666
-He wants you.
-
-852
-01:17:48,834 --> 01:17:52,166
-If we don't hand you over, everybody
-in this sector will be dead by morning.
-
-853
-01:17:52,334 --> 01:17:54,166
-Then we don't have much choice.
-Do we?
-
-854
-01:17:54,334 --> 01:17:55,875
-We can't turn him in.
-
-855
-01:17:57,167 --> 01:17:59,500
-That's up to Kuato.
-Come with me, Quaid.
-
-856
-01:18:13,626 --> 01:18:15,666
-Sit down.
-
-857
-01:18:15,834 --> 01:18:18,125
-- Where's Kuato?
-- On his way.
-
-858
-01:18:18,792 --> 01:18:21,166
-You heard the rumours
-about the Pyramid Mine?
-
-859
-01:18:21,334 --> 01:18:23,125
+00:08:12,784 --> 00:08:13,614
 Yeah.
 
-860
-01:18:23,292 --> 01:18:26,541
-Cohaagen found something weird inside
-and it's got him scared shitless.
+58
+00:08:13,618 --> 00:08:15,404
+That's 1000 miles from
+the nearest shipping lanes.
 
-861
-01:18:26,709 --> 01:18:28,958
-What? Aliens?
+59
+00:08:15,412 --> 00:08:17,027
+Why didn't you alert the coast guard?
 
-862
-01:18:30,584 --> 01:18:33,291
-- You tell me.
-- I don't know.
+60
+00:08:17,038 --> 00:08:18,869
+I did, but it's international waters,
 
-863
-01:18:33,459 --> 01:18:35,916
-Yes, you do.
-That's why we brought you here.
+61
+00:08:18,873 --> 00:08:20,829
+so they noted it and that's it.
 
-864
-01:18:36,084 --> 01:18:38,625
-Cohaagen's big secret
-is buried in that black hole
+62
+00:08:20,834 --> 00:08:22,825
+You get a name off this boat?
 
-865
-01:18:38,792 --> 01:18:40,833
-you call a brain.
+63
+00:08:22,836 --> 00:08:25,794
+No, I put it out of my head
+until about two days ago,
 
-866
-01:18:43,459 --> 01:18:45,250
-And Kuato's gonna dig it out.
+64
+00:08:25,797 --> 00:08:26,797
+and I saw it again.
 
-867
-01:18:45,417 --> 01:18:48,166
-- You're Kuato, right?
-- Wrong.
+65
+00:08:27,590 --> 00:08:28,921
+What are we talking about here?
 
-868
-01:18:48,959 --> 01:18:52,833
-Kuato's a mutant,
-so don't get upset when you see him.
+66
+00:08:28,925 --> 00:08:31,166
+What kind of tonnage is it?
 
-869
-01:18:57,459 --> 01:18:59,291
-Ah!
+67
+00:08:31,177 --> 00:08:35,216
+Big, huge, could be military.
 
-870
-01:19:31,376 --> 01:19:33,458
-What do you want, Mr Quaid?
+68
+00:08:35,223 --> 00:08:38,090
+Okay, let's say that we're
+a little bit interested.
 
-871
-01:19:34,542 --> 01:19:36,250
-The same as you. To remember.
+69
+00:08:39,269 --> 00:08:40,429
+What's your end?
 
-872
-01:19:36,417 --> 01:19:38,583
-But why?
+70
+00:08:40,437 --> 00:08:41,847
+What's in it for you?
 
-873
-01:19:39,209 --> 01:19:42,458
-- To be myself again.
-- You are what you do.
+71
+00:08:41,855 --> 00:08:44,813
+I want 20% % finder's
+fee, whatever she's worth.
 
-874
-01:19:45,876 --> 01:19:49,083
-A man is defined by his actions...
+72
+00:08:46,026 --> 00:08:48,233
+Have you told anyone else about this?
 
-875
-01:19:49,251 --> 01:19:51,375
-not his memory.
+73
+00:08:48,236 --> 00:08:49,851
+Not a living soul.
 
-876
-01:19:52,542 --> 01:19:55,583
-Please take my hands.
+74
+00:08:52,365 --> 00:08:54,481
+Give us a minute, will you?
 
-877
-01:19:57,834 --> 01:19:59,666
-Ah!
+75
+00:08:54,492 --> 00:08:55,492
+Okay.
 
-878
-01:20:01,334 --> 01:20:03,791
-Now open your mind to me.
+76
+00:08:57,495 --> 00:08:59,235
+So? What do you think, murph?
 
-879
-01:20:04,917 --> 01:20:06,791
-Please.
+77
+00:09:00,248 --> 00:09:01,988
+Who knows?
 
-880
-01:20:09,126 --> 01:20:11,833
-Open your mind.
+78
+00:09:02,000 --> 00:09:03,786
+Could be full of shit.
 
-881
-01:20:13,876 --> 01:20:16,375
-Open your mind.
+79
+00:09:03,793 --> 00:09:05,283
+I do know one thing.
 
-882
-01:20:18,584 --> 01:20:22,250
-Open your mind.
+80
+00:09:05,295 --> 00:09:08,128
+I've seen strange things
+happen in the strait.
 
-883
-01:20:23,709 --> 01:20:27,375
-Open your mind.
+81
+00:09:08,131 --> 00:09:09,086
+I know something else.
 
-884
-01:20:29,209 --> 01:20:32,833
-Open your mind.
+82
+00:09:09,090 --> 00:09:11,456
+If the sea gives you an
+opportunity, you take it.
 
-885
-01:21:04,459 --> 01:21:06,708
-We should blow the thing up
-before the rebels turn it on.
+83
+00:09:12,594 --> 00:09:14,505
+That's at least a week
+out of our way, Murphy.
 
-886
-01:21:06,876 --> 01:21:09,166
-I say we throw the switch
-and see what happens.
+84
+00:09:14,512 --> 00:09:17,345
+I mean, we've been out
+for six months already.
 
-887
-01:21:09,334 --> 01:21:11,291
-- Don't be an idiot.
-- We can't risk it.
+85
+00:09:17,348 --> 00:09:19,509
+I got my fiance waiting, remember?
 
-888
-01:21:11,459 --> 01:21:14,291
-The chain reaction could spread
-to all the terbinium in the planet.
+86
+00:09:19,517 --> 00:09:22,224
+I mean, I'm getting married in a month.
 
-889
-01:21:14,459 --> 01:21:17,291
-That means a meltdown,
-a meltdown on a planetary scale.
+87
+00:09:22,228 --> 00:09:24,093
+The plan was to go back to Anchorage.
 
-890
-01:21:17,459 --> 01:21:19,791
-Don't you think whoever
-built this thing thought of that?
+88
+00:09:24,105 --> 00:09:26,471
+Starboard diesel needs a total overhaul.
 
-891
-01:21:19,959 --> 01:21:22,958
-Who knows what the hell they thought?
-They weren't human.
+89
+00:09:26,483 --> 00:09:29,225
+In our business, the only plan is...
 
-892
-01:21:23,126 --> 01:21:25,583
-Maybe it's a trap.
-Maybe they want a meltdown.
+90
+00:09:29,235 --> 00:09:31,271
+There is no plan.
 
-893
-01:21:25,751 --> 01:21:27,833
-We don't even know
-if this piece of junk will work.
+91
+00:09:31,279 --> 00:09:33,520
+Listen, of you don't want
+to go, that's fine with me.
 
-894
-01:21:28,001 --> 01:21:30,500
+92
+00:09:33,531 --> 00:09:35,567
+Let's just tell him
+we'll get somebody else.
+
+93
+00:09:35,575 --> 00:09:36,530
+No big deal.
+
+94
+00:09:36,534 --> 00:09:38,195
+No, wait a minute, wait a minute.
+
+95
+00:09:38,203 --> 00:09:39,909
+Let's not be hasty.
+
+96
+00:09:39,913 --> 00:09:42,370
+What do you think a ship
+like that could be worth?
+
+97
+00:09:42,373 --> 00:09:44,159
+Who knows?
+
+98
+00:09:44,167 --> 00:09:46,249
+Millions? Thousands?
+
+99
+00:09:46,252 --> 00:09:47,207
+Could be worth nothing.
+
+100
+00:09:47,212 --> 00:09:48,873
+Depends on a lot of things.
+
+101
+00:09:48,880 --> 00:09:51,462
+Mainly, if we have the
+right to salvage it.
+
+102
+00:09:51,466 --> 00:09:52,797
+That's a pretty big "if."
+
+103
+00:09:52,801 --> 00:09:53,801
+What's the split?
+
+104
+00:09:54,886 --> 00:09:57,093
+We split it even, six ways.
+
+105
+00:09:57,097 --> 00:09:58,052
+Even split?
+
+106
+00:09:58,056 --> 00:10:00,798
+Uh-huh, beats
+me paying you overtime.
+
+107
+00:10:00,809 --> 00:10:04,017
+I'm good.
+
+108
+00:10:04,020 --> 00:10:05,385
+I'm in.
+
+109
+00:10:06,940 --> 00:10:08,646
+Greer? What do you say?
+
+110
+00:10:10,443 --> 00:10:11,443
+All right.
+
+111
+00:10:14,489 --> 00:10:16,275
+Hey, ferryman! Can you come over here?
+
+112
+00:10:16,282 --> 00:10:17,282
+Oi.
+
+113
+00:10:18,827 --> 00:10:21,534
+Okay, so this is the way it works.
+
+114
+00:10:21,538 --> 00:10:26,453
+10% 9% instead of your
+20% 79% finder's fee.
+
+115
+00:10:28,795 --> 00:10:32,788
+I'm sorry, I can't let you
+take advantage of me like that.
+
+116
+00:10:32,799 --> 00:10:33,959
+That's the way it is.
+
+117
+00:10:33,967 --> 00:10:34,967
+Take it or leave it.
+
+118
+00:10:42,433 --> 00:10:44,765
+Fine. But I go with you.
+
+119
+00:10:46,437 --> 00:10:48,644
+Not on my boat, you don't.
+
+120
+00:10:48,648 --> 00:10:50,184
+Look, I mean, do you
+think I'm stupid enough
+
+121
+00:10:50,191 --> 00:10:53,024
+to tell you where a fortune
+might be without some insurance?
+
+122
+00:10:53,027 --> 00:10:54,892
+There's five other
+salvage boats on this dock
+
+123
+00:10:54,904 --> 00:10:56,610
+that would jump at what I got.
+
+124
+00:10:56,614 --> 00:10:59,105
+I come with you, so you
+"take it or leave it."
+
+125
+00:11:31,107 --> 00:11:33,189
+Ow! Those things are dull!
+
+126
+00:11:37,238 --> 00:11:38,694
+Gonna love it. What do you think?
+
+127
+00:11:39,741 --> 00:11:41,823
+I think you took a little
+too much off the sides,
+
+128
+00:11:41,826 --> 00:11:44,613
+but I think I can come up
+with something she'll love.
+
+129
+00:11:44,621 --> 00:11:46,077
+Shave that yourself.
+
+130
+00:11:46,080 --> 00:11:47,160
+You sure you
+don't want to help me out?
+
+131
+00:11:47,165 --> 00:11:49,497
+Who the fuck are you kidding, greer?
+
+132
+00:11:49,500 --> 00:11:52,037
+Everybody knows you Navy
+boys take it up the ass.
+
+133
+00:12:12,774 --> 00:12:14,355
+Enjoying the ride, Jack?
+
+134
+00:12:14,359 --> 00:12:17,396
+No, sir.
+
+135
+00:12:29,540 --> 00:12:31,246
+Not the same as flying weather planes
+
+136
+00:12:31,251 --> 00:12:32,491
+over ice sheets, is it?
+
+137
+00:12:33,711 --> 00:12:35,292
+What's the appeal?
+
+138
+00:12:35,296 --> 00:12:36,126
+I could ask you the same thing.
+
+139
+00:12:36,130 --> 00:12:37,995
+You mean, "what's a
+nice girl doing like me
+
+140
+00:12:38,007 --> 00:12:40,714
+doing in a dump like this
+instead of raising a family?"
+
+141
+00:12:40,718 --> 00:12:44,210
+Simple, I own a third
+of Murphy's operation.
+
+142
+00:12:44,222 --> 00:12:45,712
+I'm not that nice.
+
+143
+00:12:45,723 --> 00:12:47,509
+And these monkeys are my family.
+
+144
+00:12:50,019 --> 00:12:53,762
+Santos to Murphy, come in.
+
+145
+00:12:55,817 --> 00:12:57,148
+- Yep?
+- Yo, murph,
+
+146
+00:12:57,151 --> 00:12:59,233
+I think you should get up here.
+
+147
+00:12:59,237 --> 00:13:00,443
 What is it?
-A million? Half a million?
-
-895
-01:21:30,667 --> 01:21:33,625
-- About half a million.
-- Half a million years old.
-
-896
-01:21:33,792 --> 01:21:35,666
-Let's make sure Kuato...
-
-897
-01:22:06,584 --> 01:22:09,916
-Wake up! Wake up!
-Come on, wake up!
-
-898
-01:22:11,334 --> 01:22:13,875
-They found us! Shit! Let's go!
-
-899
-01:22:15,126 --> 01:22:17,750
-Wake up! Snap out of it now!
-Come on!
-
-900
-01:22:22,001 --> 01:22:24,833
-- They found us! Everybody out!
-- Melina!
-
-901
-01:22:25,001 --> 01:22:26,833
-Get moving! Get out!
-
-902
-01:22:28,334 --> 01:22:30,000
-Get out!
-
-903
-01:22:39,042 --> 01:22:41,083
-Everybody out! Get out!
-
-904
-01:22:46,751 --> 01:22:49,041
-Get to the air lock! Follow me!
-
-905
-01:22:50,834 --> 01:22:52,375
-Benny, come on!
-
-906
-01:22:56,459 --> 01:22:59,125
-- Benny!
-- I'm coming!
-
-907
-01:23:11,251 --> 01:23:12,583
-- Ah!
-- This way!
-
-908
-01:23:18,292 --> 01:23:21,916
-Put these spacesuits on!
-We're going outside!
-
-909
-01:23:24,584 --> 01:23:26,583
-Benny, hurry.
-
-910
-01:23:34,209 --> 01:23:38,208
-Congratulations, Quaid.
-You led us right to him.
-
-911
-01:23:38,376 --> 01:23:41,125
-How can you do this?
-You're a mutant.
-
-912
-01:23:42,417 --> 01:23:46,166
-- I got four kids to feed.
-- So what happened to number five?
-
-913
-01:23:48,084 --> 01:23:51,291
-Oh, shit, man. You got me.
-
-914
-01:23:51,459 --> 01:23:53,041
-I ain't even married.
-
-915
-01:23:53,209 --> 01:23:55,333
-Now put your fucking hands
-in the air!
-
-916
-01:24:01,126 --> 01:24:03,125
-Quaid.
-
-917
-01:24:04,709 --> 01:24:06,708
-Quaid.
-
-918
-01:24:08,292 --> 01:24:11,875
-Forget it, man.
-His fortunetelling days are over.
-
-919
-01:24:14,584 --> 01:24:17,291
-Start the reactor.
-
-920
-01:24:17,459 --> 01:24:19,291
-Free Mars.
-
-921
-01:24:24,459 --> 01:24:27,041
-Mr Cohaagen
-would like to talk to you.
-
-922
-01:24:35,042 --> 01:24:37,833
-So this is the great man.
-
-923
-01:24:42,376 --> 01:24:44,500
-No wonder he kept out of sight.
-
-924
-01:24:46,459 --> 01:24:48,666
-Well, my boy...
-
-925
-01:24:50,959 --> 01:24:52,875
-- You're a hero.
-- Fuck you.
-
-926
-01:24:53,042 --> 01:24:56,708
-Uh? Don't be modest.
-Kuato is dead.
-
-927
-01:24:56,876 --> 01:25:01,083
-The resistance is completely wiped out,
-and you were the key to the whole thing.
-
-928
-01:25:01,251 --> 01:25:02,583
-He's lying.
-
-929
-01:25:03,584 --> 01:25:06,250
-You two-faced bastard.
-
-930
-01:25:07,251 --> 01:25:11,083
-Ha, ha. You can't blame him, angel.
-He's innocent.
-
-931
-01:25:12,959 --> 01:25:16,791
-You see, Quaid, none of my people
-could get close to Kuato.
-
-932
-01:25:17,376 --> 01:25:20,125
-Fucking mutants
-could always sniff us out.
-
-933
-01:25:20,292 --> 01:25:24,375
-So Hauser and I sat down
-and invented you, the perfect mole.
-
-934
-01:25:24,542 --> 01:25:27,625
-You know you're lying.
-Hauser turned against you.
-
-935
-01:25:31,709 --> 01:25:33,458
-That's what we wanted
-you to think.
-
-936
-01:25:34,376 --> 01:25:37,541
-The fact is, Hauser volunteered
-to become Doug Quaid.
-
-937
-01:25:38,834 --> 01:25:40,666
-It was the only way
-to fool the psychics.
-
-938
-01:25:40,834 --> 01:25:42,291
-Get your story straight.
-
-939
-01:25:42,459 --> 01:25:45,875
-This idiot here has been trying to kill me
-ever since I went to Rekall.
-
-940
-01:25:46,042 --> 01:25:48,250
-You don't kill somebody
-you're trying to plant.
-
-941
-01:25:48,417 --> 01:25:51,666
-He wasn't in on it.
-You set him off by going to Rekall.
-
-942
-01:25:52,417 --> 01:25:55,250
-- So why am I still alive?
-- We gave you lots of help.
-
-943
-01:25:55,417 --> 01:25:57,208
-- Benny here.
-- My pleasure, man.
-
-944
-01:25:57,376 --> 01:26:00,875
-The guy with the suitcase,
-the mask, the money,
-
-945
-01:26:01,042 --> 01:26:04,875
-the message from Hauser,
-all of that was set up by us.
-
-946
-01:26:05,042 --> 01:26:07,458
-Sorry. Too perfect.
-
-947
-01:26:07,626 --> 01:26:09,208
-Perfect, my ass!
-
-948
-01:26:09,376 --> 01:26:11,958
-You pop your memory cap
-before we can activate you.
-
-949
-01:26:12,126 --> 01:26:16,083
-Richter goes hog-wild, screwing up
-everything I spent a year planning.
-
-950
-01:26:16,251 --> 01:26:20,000
-Frankly, I'm amazed it worked.
-
-951
-01:26:20,167 --> 01:26:21,500
-Well, Cohaagen,
-
-952
-01:26:21,667 --> 01:26:25,208
-I have to hand it to you.
-It's the best mind-fuck yet.
-
-953
-01:26:26,542 --> 01:26:29,208
-Well, don't take my word for it.
-
-954
-01:26:31,042 --> 01:26:36,166
-- Someone you trust wants to talk to you.
-- Who is it this time? My mother?
-
-955
-01:26:38,251 --> 01:26:39,583
-<i>Howdy, Quaid.</i>
-
-956
-01:26:39,751 --> 01:26:43,208
-<i>If you're listening to this,
-it means that Kuato is dead</i>
-
-957
-01:26:43,376 --> 01:26:45,583
-<i>and you have led us to him.</i>
-
-958
-01:26:45,751 --> 01:26:47,708
-<i>I knew you wouldn't let me down.</i>
-
-959
-01:26:47,876 --> 01:26:52,500
-<i>Sorry for the shit I've put you through,
-but hey, what are friends for?</i>
-
-960
-01:26:52,667 --> 01:26:55,875
-<i>I would like to wish you
-happiness and long life, old buddy,</i>
-
-961
-01:26:56,042 --> 01:26:58,875
-<i>but unfortunately,
-this is not gonna happen.</i>
-
-962
-01:26:59,042 --> 01:27:03,208
-<i>You see, it's my body
-you've got there and I want it back.</i>
-
-963
-01:27:03,376 --> 01:27:07,500
-<i>Sorry to be an Indian giver,
-but I was here first.</i>
-
-964
-01:27:07,667 --> 01:27:10,208
-<i>So adios, amigo.</i>
-
-965
-01:27:10,376 --> 01:27:13,500
-<i>And thanks for not
-getting yourself killed.</i>
-
-966
-01:27:13,667 --> 01:27:16,250
-<i>Hey, maybe we'll meet
-in our dreams.</i>
-
-967
-01:27:19,876 --> 01:27:21,875
-<i>You never know.</i>
-
-968
-01:27:26,542 --> 01:27:28,666
-You bastards!
-
-969
-01:27:46,751 --> 01:27:48,250
-Let go of me!
-
-970
-01:28:04,376 --> 01:28:06,375
-- Ready?
-- Auto.
-
-971
-01:28:06,542 --> 01:28:09,458
-- Check.
-- Ready to go, sir.
-
-972
-01:28:11,459 --> 01:28:13,583
-Relax, Quaid.
-
-973
-01:28:13,751 --> 01:28:17,083
-- You'll like being Hauser.
-- The guy's a fucking asshole.
-
-974
-01:28:17,251 --> 01:28:20,375
-Not true.
-He's one of my best friends.
-
-975
-01:28:20,542 --> 01:28:23,375
-Besides, he's got
-a big house and a Mercedes.
-
-976
-01:28:23,542 --> 01:28:27,500
-And you like Melina, right?
-You'll get to fuck her every night.
-
-977
-01:28:27,667 --> 01:28:30,541
-That's right.
-She's going to be Hauser's babe.
-
-978
-01:28:30,709 --> 01:28:32,875
-I'll bust his balls.
-
-979
-01:28:35,167 --> 01:28:37,375
-Uh-uh, princess.
-
-980
-01:28:37,542 --> 01:28:39,875
-We're having you fixed.
-
-981
-01:28:40,042 --> 01:28:43,208
-You're going to be
-respectful, compliant
-
-982
-01:28:43,376 --> 01:28:46,791
-and appreciative,
-the way a woman should be.
-
-983
-01:28:50,667 --> 01:28:52,750
-Mr Cohaagen, telephone.
-
-984
-01:28:55,459 --> 01:28:57,083
-Yes? What is it?
-
-985
-01:28:57,251 --> 01:28:59,875
-<i>The oxygen level
-is bottoming out in Sector G.</i>
-
-986
-01:29:00,042 --> 01:29:02,208
-<i>What do you want me
-to do about it?</i>
-
-987
-01:29:02,376 --> 01:29:06,375
-- Don't do anything.
-- <i>But they won't last an hour, sir.</i>
-
-988
-01:29:06,542 --> 01:29:08,916
-Fuck 'em. it'll be a good lesson
-to the others.
-
-989
-01:29:09,084 --> 01:29:12,875
-Come on, you got what you want.
-Give these people air.
-
-990
-01:29:13,042 --> 01:29:16,791
-My friend, in five minutes
-you won't give a shit about the people.
-
-991
-01:29:16,959 --> 01:29:18,083
-Fire it up, Doc.
-
-992
-01:29:18,251 --> 01:29:20,291
-Excuse me, Doctor.
-
-993
-01:29:20,459 --> 01:29:22,500
-- Is he gonna remember any of this?
-- Not a thing.
-
-994
-01:29:23,542 --> 01:29:24,750
-Oh, really?
-
-995
-01:29:35,251 --> 01:29:38,583
-Quaid, I'm having a party tonight.
-Why don't you and Melina drop by?
-
-996
-01:29:38,751 --> 01:29:40,250
-- Remind him, Doc.
-- Sure.
-
-997
-01:29:40,417 --> 01:29:42,000
-See you at the party.
-
-998
-01:29:56,667 --> 01:29:59,166
-Keep still.
-Fighting just makes it hurt.
-
-999
-01:30:11,959 --> 01:30:14,750
-If you don't keep still,
-you'll end up psychotic.
-
-1000
-01:30:18,959 --> 01:30:20,458
-Hey, don't!
-
-1001
-01:30:27,376 --> 01:30:29,041
-Melina, hold on!
-
-1002
-01:30:51,959 --> 01:30:55,208
-Are you all right?
-Are you still you?
-
-1003
-01:30:55,376 --> 01:30:58,750
-I'm not sure, dear.
-What do you think?
-
-1004
-01:31:01,667 --> 01:31:04,041
-Let's get the hell out of here.
-
-1005
-01:31:30,292 --> 01:31:32,625
-You have to make a decision, sir.
-
-1006
-01:31:43,126 --> 01:31:44,416
-Kill him.
-
-1007
-01:31:45,626 --> 01:31:47,625
-It's about goddamn time.
-
-1008
-01:32:39,917 --> 01:32:42,541
-- Where are you going?
-- To the reactor.
-
-1009
-01:32:42,709 --> 01:32:46,333
-- What reactor?
-- The one in the mines. Come on!
-
-1010
-01:32:46,501 --> 01:32:50,458
-People are dying, Quaid!
-Stop! We've got to get air!
-
-1011
-01:32:50,626 --> 01:32:53,750
-The reactor makes air.
-That's Cohaagen's secret. Let's go.
-
-1012
-01:32:53,917 --> 01:32:55,333
-Where's this reactor come from?
-
-1013
-01:32:55,501 --> 01:32:57,458
-- Aliens built it.
-- Aliens?
-
-1014
-01:32:57,626 --> 01:33:01,000
-- Are you sure about this?
-- It's just up ahead.
-
-1015
-01:33:03,626 --> 01:33:05,833
-What the hell?
-
-1016
-01:33:29,292 --> 01:33:33,333
-Quaid! Hey, Quaid,
-you remember me?
-
-1017
-01:33:33,501 --> 01:33:35,750
-Benny! Benny's the name!
-
-1018
-01:33:50,001 --> 01:33:51,500
-Oh, that's good!
-
-1019
-01:33:57,292 --> 01:34:01,458
-I'm gonna drill you, sucker!
-I'm gonna grind you up!
-
-1020
-01:34:07,167 --> 01:34:10,416
-Ha-ha! I'm coming!
-
-1021
-01:34:10,584 --> 01:34:12,416
-I'm coming for you, baby!
-
-1022
-01:34:27,917 --> 01:34:29,958
-What the fuck is this?
-
-1023
-01:34:36,501 --> 01:34:38,583
-Damn this piece of Martian junk!
-
-1024
-01:34:41,001 --> 01:34:43,416
-Hey, Quaid,
-I'm gonna squash you!
-
-1025
-01:34:44,709 --> 01:34:46,583
-Benny, here!
-
-1026
-01:34:49,792 --> 01:34:51,416
-Where the fuck are you?
-
-1027
-01:34:57,084 --> 01:34:58,791
-Screw you!
-
-1028
-01:35:04,917 --> 01:35:08,791
-- Quaid, get over here!
-- What is it?
-
-1029
-01:35:09,792 --> 01:35:13,583
-- There's an opening.
-- I knew it.
-
-1030
-01:35:42,417 --> 01:35:45,625
-This whole thing is one big reactor
-made out of terbinium.
-
-1031
-01:35:45,792 --> 01:35:49,041
-Cohaagen knows it makes air.
-The bastard won't turn it on.
-
-1032
-01:35:49,209 --> 01:35:53,500
-Of course not. If Mars had
-an atmosphere, he'd lose control.
-
-1033
-01:35:54,709 --> 01:35:56,083
-See down there?
-
-1034
-01:35:57,209 --> 01:35:59,541
-It's a glacier.
-
-1035
-01:35:59,709 --> 01:36:02,750
-The whole core of Mars is ice.
-
-1036
-01:36:02,917 --> 01:36:07,125
-The reactor melts it
-and it releases the oxygen.
-
-1037
-01:36:07,292 --> 01:36:08,541
+
+148
+00:13:00,446 --> 00:13:02,437
+I think you should see this!
+
+149
+00:13:04,951 --> 00:13:06,987
+Not a damn thing was
+there a second ago, man!
+
+150
+00:13:06,995 --> 00:13:07,825
+10 miles to the northwest.
+
+151
+00:13:07,829 --> 00:13:10,115
+Would you turn off that fucking music?
+
+152
+00:13:12,375 --> 00:13:13,205
+Man, I'm telling you,
+
+153
+00:13:13,209 --> 00:13:14,949
+there must be some kind of
+glitch with the machine.
+
+154
+00:13:14,961 --> 00:13:15,791
+It was there a second ago.
+
+155
+00:13:15,795 --> 00:13:16,625
+I saw it with my own eyes.
+Glitch, my ass.
+
+156
+00:13:16,629 --> 00:13:18,210
+There's nothing there.
+
+157
+00:13:18,214 --> 00:13:19,499
+Give me a look at this thing.
+
+158
+00:13:22,260 --> 00:13:23,090
+There! Take a look!
+
+159
+00:13:23,094 --> 00:13:24,004
+There it is! Right in front of you!
+
+160
+00:13:24,012 --> 00:13:24,842
+Okay?
+
+161
+00:13:24,846 --> 00:13:25,631
+View it with our own eyes,
+
+162
+00:13:25,638 --> 00:13:26,998
+and tell me you don't see nothing.
+
+163
+00:13:27,765 --> 00:13:28,720
+Huh? Do you see what I'm saying?
+
+164
+00:13:28,725 --> 00:13:30,807
+Can't you see what I'm saying to you?
+
+165
+00:13:33,104 --> 00:13:35,846
+Dodge, could you get on the bow light?
+
+166
+00:13:35,857 --> 00:13:36,937
+All right, murph.
+
+167
+00:13:43,656 --> 00:13:44,987
+It's there, right?
+
+168
+00:13:44,991 --> 00:13:46,151
+There's something there.
+
+169
+00:13:53,833 --> 00:13:55,164
+Hey, murph, what's up?
+
+170
+00:13:58,671 --> 00:14:01,083
+Vessel at position seven-five north.
+
+171
+00:14:01,090 --> 00:14:02,455
+This is arctic warrior.
+
+172
+00:14:05,219 --> 00:14:06,219
+Come in.
+
+173
+00:14:08,348 --> 00:14:11,135
+This is tugboat arctic
+warrior, do you read me?
+
+174
+00:14:14,270 --> 00:14:15,680
+This is arctic warrior.
+
+175
+00:14:16,606 --> 00:14:17,971
+Do you read me? Come in.
+
+176
+00:14:38,753 --> 00:14:39,993
+= shit!
+
+177
+00:15:06,280 --> 00:15:08,111
+Huh? Now do you believe me?
+
+178
+00:15:08,116 --> 00:15:09,116
+Holy shit!
+
+179
+00:15:11,411 --> 00:15:13,197
+An ocean liner?
+
+180
+00:15:13,204 --> 00:15:15,240
+Where did that come from?
+
+181
+00:15:23,548 --> 00:15:25,163
+The antonia graza.
+
+182
+00:15:26,717 --> 00:15:27,752
+Jesus Christ.
+
+183
+00:15:29,262 --> 00:15:32,254
+This is civilian tugboat arctic warrior.
+
+184
+00:15:32,265 --> 00:15:34,005
+Is there anyone aboard?
+
+185
+00:15:34,016 --> 00:15:36,052
+This is civilian tugboat arctic warrior.
+
+186
+00:15:36,978 --> 00:15:37,978
+Is anyone aboard?
+
+187
+00:15:38,729 --> 00:15:40,936
+This is arctic warrior. Can you read us?
+
+188
+00:15:46,154 --> 00:15:49,692
+- You know her, Murphy?
+- Only in my dreams.
+
+189
+00:15:55,872 --> 00:15:57,453
+Christ, she's beautiful.
+
+190
+00:15:59,834 --> 00:16:02,200
+These Italian liners, they
+couldn't compete for speed,
+
+191
+00:16:02,211 --> 00:16:04,452
+so they built floating
+art palaces instead.
+
+192
+00:16:07,008 --> 00:16:09,875
+She was reported missing
+on the 21st of may, 1962,
+
+193
+00:16:09,886 --> 00:16:12,172
+somewhere off the coast of labrador.
+
+194
+00:16:12,180 --> 00:16:14,387
+Funny thing is, there
+was no distress signal,
+
+195
+00:16:14,390 --> 00:16:15,800
+no contact, she just disappeared.
+
+196
+00:16:15,808 --> 00:16:16,808
+She was gone.
+
+197
+00:16:17,810 --> 00:16:18,765
+So ever since that day,
+
+198
+00:16:18,769 --> 00:16:21,226
+every captain and his
+mother's been looking for her,
+
+199
+00:16:21,230 --> 00:16:22,561
+hoping she hasn't gone down.
+
+200
+00:16:25,109 --> 00:16:25,939
+Do you know what this means?
+
+201
+00:16:25,943 --> 00:16:26,943
+What?
+
+202
+00:16:27,820 --> 00:16:30,232
+It means, under the law
+of the sea, she's ours.
+
+203
+00:16:31,240 --> 00:16:33,322
+Let's not keep a lady waiting, guys.
+
+204
+00:16:33,326 --> 00:16:35,533
+Santos, bring us alongside.
+
+205
+00:16:35,536 --> 00:16:36,446
+Greer, fire up the crane.
+
+206
+00:16:36,454 --> 00:16:37,489
+We got business to do.
+
+207
+00:16:38,498 --> 00:16:40,955
+Okay, when we get on board, stay together.
+
+208
+00:16:40,958 --> 00:16:44,121
+We don't know what kind
+of shape she's in, okay?
+
+209
+00:16:44,128 --> 00:16:45,618
+Take us up, greer.
+
+210
+00:16:45,630 --> 00:16:47,245
+Aye, aye, captain.
+
+211
+00:16:48,299 --> 00:16:51,086
+Hey, Murphy, please remember
+to keep all channels open.
+
+212
+00:16:51,093 --> 00:16:52,093
+Thank you.
+
+213
+00:16:57,517 --> 00:16:59,348
+They won't let me go.
+
+214
+00:16:59,352 --> 00:17:00,842
+Safety first.
+
+215
+00:17:00,853 --> 00:17:02,263
+That's why you go last, Jack.
+
+216
+00:17:03,773 --> 00:17:04,762
+Can you sit down, please?
+
+217
+00:17:04,774 --> 00:17:06,935
+I'm trying to keep this thing steady.
+
+218
+00:17:06,943 --> 00:17:07,898
+I just want... = sit down!
+
+219
+00:17:07,902 --> 00:17:09,017
+Get out of the way, man!
+
+220
+00:17:09,028 --> 00:17:10,484
+Get out of the way!
+
+221
+00:17:10,488 --> 00:17:11,523
+Okay. Fuck.
+
+222
+00:17:14,700 --> 00:17:17,487
+She's had some battering
+over the last 40 years,
+
+223
+00:17:17,495 --> 00:17:18,780
+you can tell that.
+
+224
+00:17:18,788 --> 00:17:19,777
+Stand by, murph.
+
+225
+00:17:19,789 --> 00:17:20,995
+Setting you down topside.
+
+226
+00:17:22,708 --> 00:17:25,074
+Wow, she's still a beaut, eh?
+
+227
+00:17:27,213 --> 00:17:28,213
+= unbelievable.
+
+228
+00:17:30,299 --> 00:17:31,960
+Okay, guys,
+you better stay alert.
+
+229
+00:17:31,968 --> 00:17:33,253
+Watch your step.
+
+230
+00:17:33,261 --> 00:17:36,549
+40 years of rust can turn
+deck plates into quicksand.
+
+231
+00:17:36,556 --> 00:17:37,762
+We'll make our way in at the fore,
+
+232
+00:17:37,765 --> 00:17:39,505
+then check the bridge, okay?
+
+233
+00:17:39,517 --> 00:17:41,178
+This way. Be careful now.
+
+234
+00:17:42,061 --> 00:17:43,141
+Forward mast is history.
+
+235
+00:17:43,145 --> 00:17:46,763
+Epps and Murphy, are
+they a couple or just...
+
+236
+00:17:47,775 --> 00:17:50,391
+Hell, no. She's like a daughter to him.
+
+237
+00:17:50,403 --> 00:17:51,609
+He'd be lost without her.
+
+238
+00:17:52,530 --> 00:17:54,691
+Well, the
+superstructure's in decent shape.
+
+239
+00:17:54,699 --> 00:17:56,781
+No sign of damage here.
+
+240
+00:17:56,784 --> 00:17:58,991
+Lifeboats
+are gone, stern to bow.
+
+241
+00:18:00,162 --> 00:18:02,443
+I see the life
+preserver lockers are all empty.
+
+242
+00:18:03,874 --> 00:18:06,707
+You sure no survivors
+ever turned up, murph?
+
+243
+00:18:06,711 --> 00:18:08,793
+Sure as we're walking
+on the graza, dodge.
+
+244
+00:18:08,796 --> 00:18:10,377
+This way.
+
+245
+00:18:23,811 --> 00:18:24,811
+Let's go.
+
+246
+00:18:34,989 --> 00:18:37,776
+Jesus, she's no Fiddler's green.
+
+247
+00:18:38,743 --> 00:18:42,156
+You're wrong,
+munder. She's beautiful.
+
+248
+00:18:42,163 --> 00:18:45,155
+Whoever was on here
+originally sure left in a hurry.
+
+249
+00:18:48,711 --> 00:18:49,711
+Murphy, come in.
+
+250
+00:18:57,511 --> 00:18:59,752
+Whoa.
+
+251
+00:19:04,602 --> 00:19:07,309
+Ladies and gentlemen, welcome aboard.
+
+252
+00:19:07,313 --> 00:19:10,350
+I'm Julie. I'll be your
+hostess this evening.
+
+253
+00:19:10,358 --> 00:19:12,349
+J the love boat /
+
+254
+00:19:14,904 --> 00:19:18,271
+shh! Have some respect, okay?
+
+255
+00:19:18,282 --> 00:19:19,282
+Shh!
+
+256
+00:19:26,040 --> 00:19:28,156
+Hey, check out all
+those champagne bottles.
+
+257
+00:19:29,085 --> 00:19:32,043
+It looks like we
+missed one hell of a party.
+
+258
+00:19:32,046 --> 00:19:34,537
+- And one hell of a hangover.
+- Shut up!
+
+259
+00:20:03,953 --> 00:20:04,738
+Shut up!
+
+260
+00:20:04,745 --> 00:20:06,155
+Let's go find the bridge.
+
+261
+00:20:06,163 --> 00:20:07,699
+- Such a manly man.
+- What?
+
+262
+00:20:09,083 --> 00:20:10,664
+- What? All right?
+- Shut up!
+
+263
+00:20:11,585 --> 00:20:13,246
+Come on, Mary, let's go.
+
+264
+00:20:19,719 --> 00:20:22,836
+Murph, how many
+passengers did she carry?
+
+265
+00:20:22,847 --> 00:20:24,303
+= over 600.
+
+266
+00:20:24,306 --> 00:20:27,639
+The creme de la creme of
+society from all over Europe.
+
+267
+00:20:27,643 --> 00:20:29,725
+Crew of 500 from Italy.
+
+268
+00:20:29,729 --> 00:20:30,559
+Talk to me, man.
+
+269
+00:20:30,563 --> 00:20:32,724
+How's everything going up there?
+
+270
+00:20:39,071 --> 00:20:40,060
+Okay, good.
+
+271
+00:20:40,072 --> 00:20:42,313
+This companionway should
+get us to the bridge.
+
+272
+00:20:43,784 --> 00:20:45,320
+Here, epps, hold this.
+
+273
+00:21:04,555 --> 00:21:05,670
+What's going on?
+
+274
+00:21:07,933 --> 00:21:10,640
+- After you.
+- No, after you.
+
+275
+00:21:10,644 --> 00:21:12,680
+No, no, no, no, no. After me.
+
+276
+00:21:12,688 --> 00:21:13,973
+Oh. Tough guy.
+
+277
+00:21:30,164 --> 00:21:31,199
+Don't let go!
+
+278
+00:21:33,000 --> 00:21:35,036
+= pull! Hold on!
+
+279
+00:21:35,044 --> 00:21:36,044
+Pull up!
+
+280
+00:21:39,757 --> 00:21:41,748
+Please, epps, don't let go!
+
+281
+00:21:41,759 --> 00:21:44,375
+Give me your hand. = pull us up!
+
+282
+00:21:44,386 --> 00:21:45,592
+= pull us back!
+
+283
+00:21:51,227 --> 00:21:52,227
+Oh, god!
+
+284
+00:21:55,481 --> 00:21:59,520
+I told you to
+watch your fucking step!
+
+285
+00:22:01,362 --> 00:22:02,522
+- Oh, shit. Oh, Jesus.
+- From now on,
+
+286
+00:22:02,530 --> 00:22:04,111
+you let me lead. Okay?
+
+287
+00:22:05,115 --> 00:22:06,446
+Okay - let's go.
+
+288
+00:22:08,160 --> 00:22:10,151
+I think I just shit my pants.
+
+289
+00:22:10,162 --> 00:22:12,118
+No, you always smell that way.
+
+290
+00:22:59,879 --> 00:23:00,879
+Compass is dead.
+
+291
+00:23:07,469 --> 00:23:09,755
+Helm's not responding, either.
+
+292
+00:23:09,763 --> 00:23:11,378
+Fuel tanks are empty.
+
+293
+00:23:11,390 --> 00:23:14,553
+She must've rode on full
+throttle till she was bone-dry.
+
+294
+00:23:18,689 --> 00:23:19,689
+Epps!
+
+295
+00:23:20,941 --> 00:23:21,941
+Epps!
+
+296
+00:23:25,362 --> 00:23:27,148
+I'm looking for the ship's log.
+
+297
+00:23:27,156 --> 00:23:30,944
+Let's get this documentation back...
+
+298
+00:23:30,951 --> 00:23:32,532
+Are you okay? = yeah.
+
+299
+00:23:33,829 --> 00:23:35,569
+- You sure?
+- Yeah.
+
+300
+00:23:36,957 --> 00:23:37,957
+Let's get to it.
+
+301
+00:23:43,756 --> 00:23:45,212
+Hey, check this out.
+
+302
+00:23:47,760 --> 00:23:50,172
+Hey, it's a watch.
+Congratulations, buddy.
+
+303
+00:23:50,179 --> 00:23:53,012
+No. Look again, you moron.
+
+304
+00:23:53,015 --> 00:23:55,597
+It's a digital watch. Do the math.
+
+305
+00:23:55,601 --> 00:23:58,638
+They didn't have digital watches in 1962.
+
+306
+00:24:01,273 --> 00:24:02,273
+But she's ours now.
+
+307
+00:24:03,525 --> 00:24:04,685
+Let's get a couple hours of sleep.
+
+308
+00:24:04,693 --> 00:24:06,854
+We'll have to tow her at dawn.
+
+309
+00:24:06,862 --> 00:24:08,898
+Let's hope there's no more surprises.
+
+310
+00:24:10,115 --> 00:24:12,447
+Amen to that.
+
+311
+00:24:16,121 --> 00:24:17,121
+Oh, god.
+
+312
+00:24:23,253 --> 00:24:25,585
+Epps, can I get some tea?
+
+313
+00:24:29,635 --> 00:24:31,171
+Any sign of what might've happened?
+
+314
+00:24:31,178 --> 00:24:32,178
+How she got here?
+
+315
+00:24:34,390 --> 00:24:37,257
+That's the $64 million
+question, isn't it?
+
+316
+00:24:37,267 --> 00:24:39,633
+You ever hear of a ship
+called the Marie Celeste?
+
+317
+00:24:39,645 --> 00:24:40,475
+No.
+
+318
+00:24:40,479 --> 00:24:41,889
+She was a twin-masted brigantine
+
+319
+00:24:41,897 --> 00:24:45,310
+out of Charleston, south
+Carolina, during the civil war.
+
+320
+00:24:45,317 --> 00:24:48,855
+She was bound for London with
+a cargo of cotton in her hull.
+
+321
+00:24:48,862 --> 00:24:49,862
+Thanks.
+
+322
+00:24:50,698 --> 00:24:52,780
+Anyway, two months after she set sail,
+
+323
+00:24:52,783 --> 00:24:55,991
+she was sighted by fishermen off Tripoli.
+
+324
+00:24:55,995 --> 00:24:58,828
+She was doing 12 knots an
+hour in a stiff breeze.
+
+325
+00:24:59,999 --> 00:25:02,991
+Something wasn't quite right.
+
+326
+00:25:03,002 --> 00:25:05,618
+They didn't know what,
+so they went on board.
+
+327
+00:25:06,797 --> 00:25:08,003
+You know what they found?
+
+328
+00:25:13,971 --> 00:25:15,927
+No passengers, no crew,
+
+329
+00:25:16,890 --> 00:25:20,007
+no captain, no sign of distress.
+
+330
+00:25:21,020 --> 00:25:23,432
+59 days after the last entry in the log,
+
+331
+00:25:23,439 --> 00:25:27,273
+that ship had traveled 4,500
+miles across the open ocean,
+
+332
+00:25:27,276 --> 00:25:31,394
+past the rock of Gibraltar
+and into the mediterranean sea
+
+333
+00:25:31,405 --> 00:25:32,645
+at full sail,
+
+334
+00:25:35,242 --> 00:25:36,607
+and nobody at the helm.
+
+335
+00:25:37,953 --> 00:25:39,739
+What do you make of that?
+
+336
+00:25:39,747 --> 00:25:40,747
+A ghost ship.
+
+337
+00:25:42,583 --> 00:25:43,663
+Hey, you smell that?
+
+338
+00:25:44,668 --> 00:25:46,158
+Ti smell bullshit.
+
+339
+00:25:50,090 --> 00:25:52,046
+Been on the sea a lot
+longer than you, dodge.
+
+340
+00:25:52,051 --> 00:25:53,211
+T know.
+
+341
+00:25:53,218 --> 00:25:56,381
+I've seen things that
+you can't even imagine.
+
+342
+00:25:58,140 --> 00:26:02,600
+Maritime history is
+full of Marie celestes.
+
+343
+00:26:02,603 --> 00:26:05,470
+So, what's our plan?
+
+344
+00:26:05,481 --> 00:26:07,563
+Well, I think we should
+do what we came to do.
+
+345
+00:26:07,566 --> 00:26:09,602
+Tie her up, tug her in.
+
+346
+00:26:09,610 --> 00:26:10,565
+What, you think our little tug
+
+347
+00:26:10,569 --> 00:26:13,026
+is gonna pull this entire ocean liner?
+
+348
+00:26:13,030 --> 00:26:14,030
+Yeah.
+
+349
+00:26:14,740 --> 00:26:17,402
+Not with the problems we got.
+
+350
+00:26:17,409 --> 00:26:18,990
+We could set her at anchor,
+
+351
+00:26:18,994 --> 00:26:21,360
+come back later with two or three tugs.
+
+352
+00:26:21,371 --> 00:26:24,238
+No, some Russian trawler
+will come along, scoop her up.
+
+353
+00:26:24,249 --> 00:26:26,160
+I've already looked
+for her anchors, anyway.
+
+354
+00:26:26,168 --> 00:26:27,168
+They're gone.
+
+355
+00:26:28,921 --> 00:26:29,876
+What do you think, greer?
+
+356
+00:26:29,880 --> 00:26:32,212
+If Santos gets the
+engines working right,
+
+357
+00:26:32,216 --> 00:26:34,207
+it could take us two weeks minimum
+
+358
+00:26:34,218 --> 00:26:35,924
+to tow a vessel this size.
+
+359
+00:26:35,928 --> 00:26:38,044
+But for my share of what she's worth,
+
+360
+00:26:38,055 --> 00:26:40,967
+I'd drag her big ass
+back to Anchorage myself.
+
+361
+00:26:52,444 --> 00:26:53,650
+Don't let go!
+
+362
+00:26:54,613 --> 00:26:56,399
+Help me! Don't let go!
+
+363
+00:27:00,994 --> 00:27:02,655
+Thought you might want a jacket.
+
+364
+00:27:03,789 --> 00:27:04,789
+Thanks.
+
+365
+00:27:17,094 --> 00:27:18,630
+Boy, do I miss that.
+
+366
+00:27:18,637 --> 00:27:19,843
+You okay?
+
+367
+00:27:19,847 --> 00:27:21,553
+You seem quiet since you came back.
+
+368
+00:27:25,561 --> 00:27:28,348
+I think I saw something I
+couldn't possibly have seen.
+
+369
+00:27:30,274 --> 00:27:31,104
+Like what?
+
+370
+00:27:31,108 --> 00:27:32,439
+No, it's crazy. It doesn't matter.
+
+371
+00:27:32,442 --> 00:27:33,773
+No, I'm curious. Tell me.
+
+372
+00:27:40,951 --> 00:27:42,407
+I think I saw a little girl.
+
+373
+00:27:43,871 --> 00:27:46,954
+On, on the boat?
+
+374
+00:27:49,543 --> 00:27:51,829
+Yeah. Looking right at me.
+
+375
+00:27:54,631 --> 00:27:55,837
+And then what happened?
+
+376
+00:27:56,842 --> 00:27:58,173
+Nothing. She disappeared.
+
+377
+00:27:59,469 --> 00:28:02,836
+Sometimes, when I'd be
+flying for hours on end,
+
+378
+00:28:04,266 --> 00:28:06,131
+I'd think I'd see stuff too.
+
+379
+00:28:07,644 --> 00:28:09,976
+It'd be there one second
+and gone the next,
+
+380
+00:28:09,980 --> 00:28:11,060
+like a dream, you know?
+
+381
+00:28:15,194 --> 00:28:16,194
+Thanks.
+
+382
+00:28:17,613 --> 00:28:21,401
+- See you in the A.M.
+- Okay.
+
+383
+00:28:21,408 --> 00:28:22,408
+Good night.
+
+384
+00:28:25,746 --> 00:28:27,156
+See you tomorrow. - Yeah.
+
+385
+00:28:51,313 --> 00:28:53,053
+She's got a big hole.
+
+386
+00:28:53,065 --> 00:28:54,065
+She's sinking.
+
+387
+00:28:56,777 --> 00:28:58,017
+This is where the damage is. See?
+
+388
+00:28:58,028 --> 00:29:01,236
+There's a breach in
+the hull, about 10 by 20,
+
+389
+00:29:01,240 --> 00:29:03,572
+torn to the port collision bulkhead.
+
+390
+00:29:03,575 --> 00:29:05,111
+Did it hit an iceberg or something?
+
+391
+00:29:06,328 --> 00:29:08,740
+No, you don't need
+an iceberg to rupture a hull.
+
+392
+00:29:08,747 --> 00:29:09,907
+I don't know, I was just...
+
+393
+00:29:10,666 --> 00:29:11,906
+Looks like she's been hit recently.
+
+394
+00:29:11,917 --> 00:29:13,953
+About a week ago, I'd say.
+
+395
+00:29:13,961 --> 00:29:15,792
+This is where we are.
+
+396
+00:29:15,796 --> 00:29:18,708
+The problem is this group of
+islands 60 miles westerly,
+
+397
+00:29:18,715 --> 00:29:20,546
+nothing spectacular,
+just a bunch of rocks,
+
+398
+00:29:20,550 --> 00:29:22,006
+a couple of thousand seals.
+
+399
+00:29:22,010 --> 00:29:24,046
+The antonia graza's caught here
+
+400
+00:29:24,054 --> 00:29:26,420
+in this really strong current loop.
+
+401
+00:29:26,431 --> 00:29:29,514
+And slowly but surly, she's
+been pushed towards those rocks.
+
+402
+00:29:29,518 --> 00:29:30,928
+Last time she hit them.
+
+403
+00:29:30,936 --> 00:29:32,221
+What about next time”?
+
+404
+00:29:32,229 --> 00:29:33,719
+There won't be a next time.
+
+405
+00:29:33,730 --> 00:29:36,096
+We've got three days to fix it.
+
+406
+00:29:36,108 --> 00:29:37,814
+That's if the weather holds.
+
+407
+00:29:37,818 --> 00:29:39,524
+Why can't we tow it like it is?
+
+408
+00:29:39,528 --> 00:29:41,689
+It'd be like towing a '57 Cadillac
+
+409
+00:29:41,697 --> 00:29:43,107
+with four flat tires, man.
+
+410
+00:29:43,115 --> 00:29:44,730
+It's a bump in the road.
+
+411
+00:29:44,741 --> 00:29:45,651
+We can fix it.
+
+412
+00:29:45,659 --> 00:29:47,365
+Whoa, murph, bump in the road?
+
+413
+00:29:48,495 --> 00:29:52,408
+Look, you know, the breach
+we can probably patch
+
+414
+00:29:52,416 --> 00:29:54,407
+if we can get to the inside.
+
+415
+00:29:54,418 --> 00:29:56,329
+Then we'll weld shut the
+flooded compartments,
+
+416
+00:29:56,336 --> 00:29:58,201
+pump out the water through
+the collision bulkhead,
+
+417
+00:29:58,213 --> 00:30:00,249
+run it right up to the aft peak.
+
+418
+00:30:00,257 --> 00:30:03,044
+On top of that, the rudder's jammed.
+
+419
+00:30:03,051 --> 00:30:05,758
+We Jerry-rig it, set a
+38-degree current drift
+
+420
+00:30:05,762 --> 00:30:07,127
+to clear the island chain.
+
+421
+00:30:08,098 --> 00:30:10,510
+What does all that mean?
+
+422
+00:30:10,517 --> 00:30:14,385
+Well, I mean, that's
+a lot of work for three days.
+
+423
+00:30:14,396 --> 00:30:16,182
+Yeah, but with the
+gear we've got on board,
+
+424
+00:30:16,189 --> 00:30:19,147
+and with what's on that
+ship, we can give it a shot.
+
+425
+00:30:19,151 --> 00:30:20,357
+We can do it, right?
+
+426
+00:30:21,611 --> 00:30:23,977
+Murph, with the gear we've got on board,
+
+427
+00:30:23,989 --> 00:30:25,354
+I can't fix our little engine problem.
+
+428
+00:30:25,365 --> 00:30:26,400
+Why don't you quit bitching
+
+429
+00:30:26,408 --> 00:30:28,820
+and just overhaul the
+starboard engine, please?
+
+430
+00:30:28,827 --> 00:30:30,158
+So that's the plan? Right.
+
+431
+00:30:30,162 --> 00:30:31,162
+= just do it.
+
+432
+00:30:36,335 --> 00:30:37,290
+= I'll call it in.
+
+433
+00:30:37,294 --> 00:30:39,751
+Eh, I wouldn't do that
+if I were you, greer.
+
+434
+00:30:39,755 --> 00:30:40,585
+Maritime law states that...
+
+435
+00:30:40,589 --> 00:30:42,375
+Yeah, I know what maritime law states.
+
+436
+00:30:42,382 --> 00:30:44,794
+We just don't want any unexpected guests.
+
+437
+00:30:46,178 --> 00:30:47,178
+Just leave it.
+
+438
+00:30:49,139 --> 00:30:50,299
+Your call, captain.
+
+439
+00:30:54,853 --> 00:30:57,219
+All right, you know the drill.
+
+440
+00:30:57,230 --> 00:30:59,812
+We do a complete recon,
+just enough to make sure
+
+441
+00:30:59,816 --> 00:31:02,148
+we've got no more problems
+before we get to work.
+
+442
+00:31:02,152 --> 00:31:03,392
+Stay right beside me, greer.
+
+443
+00:31:03,403 --> 00:31:04,768
+No wandering off, okay?
+All right.
+
+444
+00:31:04,780 --> 00:31:07,738
+Dodge, munder, go to the
+port collision bulkhead.
+
+445
+00:31:07,741 --> 00:31:10,027
+Jack and I'll work back from the fore.
+
+446
+00:31:10,035 --> 00:31:11,525
+And call me if you need anything.
+
+447
+00:31:11,536 --> 00:31:12,536
+How about a pizza?
+
+448
+00:31:13,830 --> 00:31:15,115
+You're so funny.
+
+449
+00:31:15,123 --> 00:31:18,786
+"The only plan in this business
+is that there is no plan.”
+
+450
+00:31:18,794 --> 00:31:20,204
+I mean, what is that?
+
+451
+00:31:20,212 --> 00:31:21,702
+I mean, what these
+people talking crazy for?
+
+452
+00:31:21,713 --> 00:31:23,453
+Why are looking at me like that?
+
+453
+00:31:23,465 --> 00:31:24,875
+That's not even good english.
+
+454
+00:31:26,510 --> 00:31:27,499
+It's okay.
+
+455
+00:31:27,511 --> 00:31:29,297
+Hey, you hang in there, okay, preciosa?
+
+456
+00:31:29,304 --> 00:31:31,135
+Because someday he's gonna
+find some other genius
+
+457
+00:31:31,139 --> 00:31:32,720
+to fix his goddamn boat.
+
+458
+00:31:37,145 --> 00:31:39,727
+Hey, you want to play like that? Yeah?
+
+459
+00:31:41,858 --> 00:31:43,849
+That is still sweet though, huh?
+
+460
+00:31:43,860 --> 00:31:45,100
+Light coming up.
+
+461
+00:31:51,952 --> 00:31:53,567
+Oh yeah.
+
+462
+00:31:53,578 --> 00:31:57,070
+You were right. She is beautiful.
+
+463
+00:31:57,082 --> 00:31:58,197
+She sure is.
+
+464
+00:32:38,123 --> 00:32:40,739
+Epps, we're heading for
+the main engine room. Epps?
+
+465
+00:32:45,839 --> 00:32:46,839
+Epps?
+
+466
+00:33:07,819 --> 00:33:10,105
+Yeah, all right, capitano.
+
+467
+00:33:58,453 --> 00:34:03,413
+Oh, shit.
+
+468
+00:34:05,544 --> 00:34:09,787
+J I'm just slippin" in the darkness j
+
+469
+00:35:16,239 --> 00:35:17,239
+Oh, shit.
+
+470
+00:35:18,742 --> 00:35:20,949
+We're gonna have to dive
+to get to that tear.
+
+471
+00:35:23,121 --> 00:35:25,737
+Epps, the engine room is totally flooded.
+
+472
+00:35:28,168 --> 00:35:29,248
+Epps, can you hear me?
+
+473
+00:35:37,594 --> 00:35:38,594
+Wait!
+
+474
+00:35:40,847 --> 00:35:42,963
+What happened? You okay?
+
+475
+00:35:44,100 --> 00:35:45,260
+Come here.
+
+476
+00:35:45,268 --> 00:35:47,054
+What are you doing down there?
+
+477
+00:35:47,062 --> 00:35:48,848
+Did you hurt yourself?
+
+478
+00:36:31,022 --> 00:36:32,603
+The whole bottom's riddled with them.
+
+479
+00:36:34,442 --> 00:36:37,149
+Looks like someone used
+it for target practice.
+
+480
+00:36:37,153 --> 00:36:39,189
+That's the happy version.
+
+481
+00:36:39,197 --> 00:36:40,653
+What's the not-so-happy version?
+
+482
+00:36:40,657 --> 00:36:42,067
+There were people in there.
+
+483
+00:36:43,868 --> 00:36:45,733
+I saw that little girl again.
+
+484
+00:36:45,745 --> 00:36:46,745
+What? Where?
+
+485
+00:36:50,083 --> 00:36:52,324
+I must be losing my goddamn mind.
+
+486
+00:36:52,335 --> 00:36:54,200
+Well, did she say anything?
+
+487
+00:36:54,212 --> 00:36:56,544
+Forget it. Come on.
+
+488
+00:37:23,908 --> 00:37:26,570
+Murphy, come in.
+
+489
+00:37:26,578 --> 00:37:27,784
+Dodge! Anybody!
+
+490
+00:37:30,457 --> 00:37:31,457
+Shit.
+
+491
+00:37:35,503 --> 00:37:38,165
+I think she's fucking with us.
+
+492
+00:38:21,758 --> 00:38:23,168
+Looks like central laundry.
+
+493
+00:38:29,557 --> 00:38:31,843
+This ventilation shaft
+connects to the forward hold.
+
+494
+00:38:31,851 --> 00:38:33,341
+We need to see if it's flooded.
+
+495
+00:38:34,395 --> 00:38:35,931
+I might need help shutting it again.
+
+496
+00:38:35,939 --> 00:38:37,019
+So get ready.
+
+497
+00:38:37,023 --> 00:38:38,023
+Yoouu sure?
+
+498
+00:38:56,000 --> 00:38:58,616
+Murphy, where the hell are you?
+
+499
+00:38:58,628 --> 00:39:00,334
+How long do you think they've been here?
+
+500
+00:39:00,338 --> 00:39:02,078
+I don't know, a month, maybe less.
+
+501
+00:39:02,090 --> 00:39:03,330
+Well, what are we gonna do?
+
+502
+00:39:03,341 --> 00:39:05,457
+We're gonna call the coast
+guard, get off this boat!
+
+503
+00:39:05,468 --> 00:39:06,298
+But the ship...
+
+504
+00:39:06,302 --> 00:39:07,291
+If it sinks, it sinks, Jack!
+
+505
+00:39:07,303 --> 00:39:08,167
 Come on.
 
+506
+00:39:08,179 --> 00:39:09,179
+You're right.
+
+507
+00:39:10,765 --> 00:39:11,765
+Stinks.
+
+508
+00:39:14,310 --> 00:39:15,470
+What the hell?
+
+509
+00:39:15,478 --> 00:39:16,308
+We came through here.
+
+510
+00:39:16,312 --> 00:39:17,312
+= no shit!
+
+511
+00:39:22,610 --> 00:39:23,610
+Come on!
+
+512
+00:39:27,615 --> 00:39:29,446
+This way. Come on, Jack.
+
+513
+00:39:47,302 --> 00:39:48,302
+What the...
+
+514
+00:39:56,019 --> 00:39:58,101
+When did you start wearing lipstick, epps?
+
+515
+00:39:59,439 --> 00:40:00,439
+Epps?
+
+516
+00:40:04,986 --> 00:40:08,774
+"Francesca." nice titties.
+
+517
+00:40:10,241 --> 00:40:12,482
+Not that you can hold a candle
+
+518
+00:40:12,493 --> 00:40:14,575
+to the future Mrs. greer, though.
+
+519
+00:40:28,259 --> 00:40:30,045
+Come on, Jack.
+
+520
+00:40:30,053 --> 00:40:31,088
+Stop dragging ass!
+
+521
+00:40:31,095 --> 00:40:32,210
+What's your problem?
+
+522
+00:40:39,270 --> 00:40:40,851
+What's this?
+
+523
+00:40:40,855 --> 00:40:41,719
+Forget it.
+
+524
+00:40:41,731 --> 00:40:43,517
+Let's go! Jack!
+
+525
+00:40:44,984 --> 00:40:45,814
+Hey!
+
+526
+00:40:45,818 --> 00:40:47,558
+This is '58 Jaguar x150.
+
+527
+00:40:47,570 --> 00:40:49,185
+I had dreams about this
+car since I was a kid...
+
+528
+00:40:49,197 --> 00:40:51,028
+We have to get out of here now.
+
+529
+00:40:51,032 --> 00:40:52,363
+Do you understand me? Now.
+
+530
+00:40:53,576 --> 00:40:54,576
+Okay.
+
+531
+00:41:00,833 --> 00:41:02,573
+There's something moving in there.
+
+532
+00:41:21,354 --> 00:41:22,184
+Fuck!
+
+533
+00:41:22,188 --> 00:41:24,395
+Oh, oh my god! I hate rats!
+
+534
+00:41:27,777 --> 00:41:28,777
+What?
+
+535
+00:41:30,571 --> 00:41:32,778
+Oh, my god! Look at this!
+
+536
+00:41:33,783 --> 00:41:35,523
+I have to get Murphy.
+
+537
+00:41:35,535 --> 00:41:37,116
+Murphy!
+
+538
+00:41:37,120 --> 00:41:38,120
+Murphy!
+
+539
+00:41:44,043 --> 00:41:45,999
+Is someone trying to call me?
+
+540
+00:41:46,004 --> 00:41:47,665
+Dodge? Munder?
+
+541
+00:41:48,923 --> 00:41:51,790
+Maureen, Maureen...
+
+542
+00:41:51,801 --> 00:41:52,801
+Who is Maureen?
+
+543
+00:41:54,095 --> 00:41:55,801
+It's my first name.
+
+544
+00:41:58,433 --> 00:42:00,014
+It's cold, it's cold...
+
+545
+00:42:00,018 --> 00:42:02,054
+Did he say "cold?"
+
+546
+00:42:02,061 --> 00:42:03,096
+The galley.
+
+547
+00:42:13,406 --> 00:42:15,863
+- It's cold.
+- Please help us.
+
+548
+00:42:21,622 --> 00:42:23,237
+Don't go in there.
+
+549
+00:43:02,038 --> 00:43:04,450
+You fucking assholes!
+
+550
+00:43:04,457 --> 00:43:05,457
+Fuck you!
+
+551
+00:43:06,334 --> 00:43:07,540
+Take it easy!
+
+552
+00:43:08,669 --> 00:43:10,250
+Come on. You were fucking with us.
+
+553
+00:43:10,254 --> 00:43:11,369
+We fucked with you.
+
+554
+00:43:11,380 --> 00:43:12,711
+Why aren't you laughing?
+
+555
+00:43:12,715 --> 00:43:14,046
+Do you wanna hear something funnier?
+
+556
+00:43:14,050 --> 00:43:17,417
+We found a bunch of dead guys
+floating in the laundry room.
+
+557
+00:43:17,428 --> 00:43:20,135
+And this in the cargo hold.
+
+558
+00:43:34,112 --> 00:43:36,603
+Need some help there, skipper?
+
+559
+00:43:40,409 --> 00:43:41,409
+I'm sorry.
+
+560
+00:43:58,553 --> 00:44:00,339
+- Holy shit!
+- Oh, man.
+
+561
+00:44:06,102 --> 00:44:07,102
+Yes!
+
+562
+00:44:07,812 --> 00:44:08,812
+Yeah!
+
+563
+00:44:10,648 --> 00:44:13,264
+We're rich!
+
+564
+00:44:13,276 --> 00:44:16,359
+You son of a bitch! = rich!
+
+565
+00:44:20,408 --> 00:44:21,397
+Come on. Let's go.
+
+566
+00:44:21,409 --> 00:44:24,651
+= let's move this shit out of here!
+
+567
+00:44:24,662 --> 00:44:26,277
+You fucking creep!
+
+568
+00:44:43,806 --> 00:44:45,546
+How much we figure it's worth, boss?
+
+569
+00:44:46,601 --> 00:44:47,841
+There's a lot of gold there.
+
+570
+00:44:47,852 --> 00:44:49,262
+Hard to know.
+
+571
+00:44:49,270 --> 00:44:51,386
+2, 300 million, maybe. Maybe more.
+
+572
+00:44:51,397 --> 00:44:53,809
+- Jesus.
+- I don't know, Murphy.
+
+573
+00:44:53,816 --> 00:44:56,023
+Lock boxes with half of fort Knox in them?
+
+574
+00:44:56,027 --> 00:44:57,267
+They gotta be insured.
+
+575
+00:44:57,278 --> 00:44:58,893
+I mean, there's no way
+somebody's gonna let
+
+576
+00:44:58,905 --> 00:45:00,566
+this amount of gold just float away.
+
+577
+00:45:00,573 --> 00:45:02,529
+Well, this has got something to with it.
+
+578
+00:45:02,533 --> 00:45:04,740
+The markings have been filed down.
+
+579
+00:45:04,744 --> 00:45:05,950
+What does that mean?
+
+580
+00:45:05,953 --> 00:45:08,820
+Well, it means that somebody
+didn't want this traceable.
+
+581
+00:45:10,041 --> 00:45:11,201
+It's stolen.
+
+582
+00:45:11,209 --> 00:45:13,291
+It might have something
+to do with the reason why
+
+583
+00:45:13,294 --> 00:45:16,001
+this ship disappeared when it did.
+
+584
+00:45:16,005 --> 00:45:16,915
+= wait a minute.
+
+585
+00:45:16,923 --> 00:45:19,539
+If the gold's got
+something to do with 1962,
+
+586
+00:45:19,550 --> 00:45:21,586
+then what about those
+guys that epps found?
+
+587
+00:45:21,594 --> 00:45:24,336
+I mean, they can't be
+more than three weeks old.
+
+588
+00:45:24,347 --> 00:45:26,804
+Look, somebody's gotta say
+it, and it might as well be me.
+
+589
+00:45:26,807 --> 00:45:29,298
+This ship is fucked up, Murphy.
+
+590
+00:45:29,310 --> 00:45:30,800
+Earlier when I was doing my recon,
+
+591
+00:45:30,811 --> 00:45:32,392
+I could swear I heard a
+woman's voice singing to me.
+
+592
+00:45:32,396 --> 00:45:33,636
+It was like she was,
+
+593
+00:45:34,899 --> 00:45:36,764
+like she was coming on to me or something.
+
+594
+00:45:36,776 --> 00:45:39,734
+Oh, no!
+
+595
+00:45:41,322 --> 00:45:43,529
+It was the sexiest
+voice I ever heard, man.
+
+596
+00:45:45,201 --> 00:45:47,066
+Hey man, she got any backup singers?
+
+597
+00:45:48,037 --> 00:45:50,449
+But, brother, whatever
+you're on, give me some!
+
+598
+00:45:51,540 --> 00:45:52,905
+I think maybe you're not quite ready
+
+599
+00:45:52,917 --> 00:45:56,000
+to get married, greer.
+
+600
+00:45:56,003 --> 00:45:57,709
+- Fuck you.
+- Okay, guys.
+
+601
+00:45:57,713 --> 00:45:59,249
+What about the coast guard?
+
+602
+00:45:59,257 --> 00:46:01,919
+No, if you call the coast guard, I mean,
+
+603
+00:46:01,926 --> 00:46:04,087
+what if the gold did
+turn out to be stolen?
+
+604
+00:46:06,055 --> 00:46:09,513
+Okay, under international maritime law,
+
+605
+00:46:09,517 --> 00:46:11,758
+anything that's found
+in international waters
+
+606
+00:46:11,769 --> 00:46:13,885
+belongs to the finder.
+
+607
+00:46:13,896 --> 00:46:15,807
+Okay? That is the law.
+
+608
+00:46:15,815 --> 00:46:17,976
+- Right.
+- Finders keepers.
+
+609
+00:46:17,984 --> 00:46:21,818
+Hey, look, if we're gonna
+do this, I say we do it now.
+
+610
+00:46:21,821 --> 00:46:24,278
+I say we get our boat
+going, grab the gold,
+
+611
+00:46:24,282 --> 00:46:25,442
+and get the hell out of here.
+
+612
+00:46:25,449 --> 00:46:27,656
+Okay, we leave the boat, take the gold.
+
+613
+00:46:27,660 --> 00:46:28,660
+Who's with me?
+
+614
+00:46:29,829 --> 00:46:31,035
+I'm with the gold, man.
+
+615
+00:46:33,457 --> 00:46:34,457
+Gold.
+
+616
+00:46:35,793 --> 00:46:36,793
+The gold.
+
+617
+00:46:41,132 --> 00:46:42,588
+Epps?
+
+618
+00:46:42,591 --> 00:46:44,502
+I just want to get off this boat.
+
+619
+00:46:44,510 --> 00:46:45,670
+Okay. Let's go to work.
+
+620
+00:46:48,264 --> 00:46:51,006
+Okay. Warrior
+is in position, murph.
+
+621
+00:46:51,017 --> 00:46:53,099
+Now, can we please get
+the hell out of here?
+
+622
+00:46:54,729 --> 00:46:57,266
+Yeah, preciosa! Smell that money!
+
+623
+00:46:57,273 --> 00:47:00,015
+100 million, do you hear what I'm saying?
+
+624
+00:47:00,026 --> 00:47:01,026
+100 million!
+
+625
+00:47:03,654 --> 00:47:06,145
+Greer? Get those engines going.
+
+626
+00:47:06,157 --> 00:47:07,943
+I'm bringing the gold down.
+
+627
+00:47:07,950 --> 00:47:09,190
+Yes, sir, captain, sir.
+
+628
+00:47:10,786 --> 00:47:13,653
+Hey, Santos. Hurry your ass up, vato.
+
+629
+00:47:13,664 --> 00:47:14,995
+We almost got the gold on deck.
+
+630
+00:47:14,999 --> 00:47:16,159
+Andele! Andele!
+
+631
+00:47:16,167 --> 00:47:18,374
+I wanna see these gauges rocking,
+
+632
+00:47:18,377 --> 00:47:21,084
+because you just had a
+overhaul from Santos, baby.
+
+633
+00:47:21,088 --> 00:47:23,044
+And you, I want you to give me some too.
+
+634
+00:47:29,513 --> 00:47:30,628
+Let's do this!
+
+635
+00:47:31,640 --> 00:47:33,380
+Hey, yo, greer! Fire it up!
+
+636
+00:47:34,226 --> 00:47:35,341
+We're gonna haul some ass out of here.
+
+637
+00:47:35,353 --> 00:47:36,433
+Bring it on!
+
+638
+00:47:36,437 --> 00:47:38,974
+We're gonna be so fucking rich!
+
+639
+00:47:40,149 --> 00:47:42,105
+Stop!
+
+640
+00:47:42,109 --> 00:47:45,522
+Stop! You don't know what you're doing!
+
+641
+00:47:45,529 --> 00:47:48,316
+Yeah, we're good to go, skipper.
+
+642
+00:47:51,077 --> 00:47:52,487
+Don't start the boat! He'll...
+
+643
+00:47:54,914 --> 00:47:55,914
+= shit!
+
+644
+00:47:56,707 --> 00:47:57,822
+Greer!
+
+645
+00:48:01,587 --> 00:48:03,327
+Greer! What the hell just happened?
+
+646
+00:48:04,757 --> 00:48:05,963
+= Jesus Christ!
+
+647
+00:48:07,134 --> 00:48:08,749
+Fire on deck!
+
+648
+00:48:18,145 --> 00:48:19,885
+Santos! Greer! Munder!
+
+649
+00:48:37,998 --> 00:48:38,998
+I got you.
+
+650
+00:48:40,209 --> 00:48:42,370
+Epps! I got munder!
+
+651
+00:48:42,378 --> 00:48:43,378
+Greer!
+
+652
+00:48:44,088 --> 00:48:45,294
+Greer! Come on!
+
+653
+00:48:48,634 --> 00:48:50,750
+Santos! Santos, answer me!
+
+654
+00:48:53,931 --> 00:48:54,931
+Santos!
+
+655
+00:49:13,659 --> 00:49:16,446
+I don't know what happened.
+
+656
+00:49:16,454 --> 00:49:17,694
+The engine room just blew.
+
+657
+00:49:19,540 --> 00:49:21,496
+I don't know, maybe
+Santos rushed the engines,
+
+658
+00:49:21,500 --> 00:49:23,616
+didn't seal up the gaskets
+right, I don't know.
+
+659
+00:49:23,627 --> 00:49:25,913
+Hey, Jack, did you find anything out
+
+660
+00:49:25,921 --> 00:49:28,663
+about this ship before
+you sent us out here?
+
+661
+00:49:28,674 --> 00:49:29,914
+No, but I...
+
+662
+00:49:29,925 --> 00:49:32,507
+Look, I mean, we've got the
+gold, and we are still alive.
+
+663
+00:49:32,511 --> 00:49:34,297
+Yeah, tell that to Santos, asshole!
+
+664
+00:49:34,305 --> 00:49:35,795
+Hey! Dodge, ease up!
+
+665
+00:49:35,806 --> 00:49:37,046
+Well, this is bullshit!
+
+666
+00:49:37,057 --> 00:49:39,969
+Hey, look, Santos came
+here out of free will,
+
+667
+00:49:39,977 --> 00:49:42,059
+just like the rest of us.
+What does that mean, huh?
+
+668
+00:49:42,062 --> 00:49:43,677
+What the fuck do you mean...
+Hey! Enough!
+
+669
+00:49:43,689 --> 00:49:45,680
+Santos is dead because of you!
+
+670
+00:49:45,691 --> 00:49:46,601
+Come on, come on, come on.
+
+671
+00:49:46,609 --> 00:49:49,225
+That's not gonna bring him back.
+
+672
+00:50:02,416 --> 00:50:03,416
+Hey.
+
+673
+00:50:07,963 --> 00:50:09,078
+Murph, it's not your fault.
+
+674
+00:50:09,089 --> 00:50:10,169
+You know that.
+
+675
+00:50:13,385 --> 00:50:14,385
+Murph...
+
+676
+00:50:23,354 --> 00:50:24,354
+How is he?
+
+677
+00:50:26,899 --> 00:50:28,480
+All right, here's the plan.
+
+678
+00:50:28,484 --> 00:50:29,815
+The way I figure it,
+
+679
+00:50:29,818 --> 00:50:32,355
+we're professional salvors
+with a fortune on board.
+
+680
+00:50:32,363 --> 00:50:35,651
+I say we do what we do best,
+we fix this rust bucket.
+
+681
+00:50:35,658 --> 00:50:38,400
+Try and control her drift,
+and clear those islands.
+
+682
+00:50:38,410 --> 00:50:40,742
+We can survive on here long
+enough to get picked up.
+
+683
+00:50:40,746 --> 00:50:42,111
+Why is this even a question?
+
+684
+00:50:42,122 --> 00:50:43,237
+We have the materials.
+
+685
+00:50:43,249 --> 00:50:44,364
+We have the manpower.
+
+686
+00:50:44,375 --> 00:50:46,661
+Why don't we build a raft
+and get off of this thing?
+
+687
+00:50:46,669 --> 00:50:48,079
+I told you guys earlier
+
+688
+00:50:48,087 --> 00:50:50,203
+that there was something
+seriously wrong with this boat!
+
+689
+00:50:50,214 --> 00:50:51,329
+The longer we stay here,
+
+690
+00:50:51,340 --> 00:50:52,580
+the less chance we have of surviving.
+
+691
+00:50:52,591 --> 00:50:55,298
+You want to build a raft?
+= I want to build a raft.
+
+692
+00:50:55,302 --> 00:50:56,633
+Epps, even with the warrior,
+
+693
+00:50:56,637 --> 00:50:59,003
+we were stretching to get
+this done in three days.
+
+694
+00:50:59,014 --> 00:51:00,629
+We can't do this. I can't do it.
+
+695
+00:51:00,641 --> 00:51:02,927
+Munder, you're the
+best spot-welder I know.
+
+696
+00:51:02,935 --> 00:51:06,143
+Come on. We can do it
+right now, but I need you.
+
+697
+00:51:09,108 --> 00:51:10,314
+Okay, fine, whatever.
+
+698
+00:51:10,317 --> 00:51:12,103
+But, there's no way we're doing
+
+699
+00:51:12,111 --> 00:51:14,227
+a major patch-and-pump in the dark.
+
+700
+00:51:14,238 --> 00:51:16,729
+Even with the lights we have,
+it'd be like going in blind.
+
+701
+00:51:16,740 --> 00:51:19,482
+Okay, fine. We'll chill
+tonight and go in the A.M..
+
+702
+00:51:23,998 --> 00:51:26,284
+Greer? What do you say?
+
+703
+00:51:26,292 --> 00:51:28,908
+What, now you want to know
+what the first mate has to say?
+
+704
+00:51:30,504 --> 00:51:32,165
+Well, I say go to hell, epps.
+
+705
+00:51:32,172 --> 00:51:34,584
+You're not fucking qualified
+to get us off this ship.
+
+706
+00:51:34,592 --> 00:51:36,548
+And had Murphy let me do
+it my way from the start,
+
+707
+00:51:36,552 --> 00:51:38,292
+we wouldn't be in this
+situation right now.
+
+708
+00:51:38,304 --> 00:51:39,635
+And the coast guard, everybody's
+so fucking worried about...
+
+709
+00:51:39,638 --> 00:51:42,550
+Right. So it's everybody
+else's fault but your own, right?
+
+710
+00:51:42,558 --> 00:51:44,844
+We'd be on our way home, millionaires.
+
+711
+00:51:45,936 --> 00:51:47,221
+= that's bullshit.
+
+712
+00:51:48,397 --> 00:51:49,933
+Grow up, asshole.
+
+713
+00:51:51,275 --> 00:51:52,481
+- Hey!
+- Fucking bitch!
+
+714
+00:51:52,484 --> 00:51:54,349
+Keep fucking talking!
+
+715
+00:51:54,361 --> 00:51:57,694
+Say another word!
+
+716
+00:52:47,289 --> 00:52:48,278
+Here it is.
+
+717
+00:52:48,290 --> 00:52:50,451
+Katie, b-deck.
+
+718
+00:52:51,752 --> 00:52:52,752
+You were alone.
+
+719
+00:52:57,633 --> 00:52:59,544
+100-to-1, somebody
+poisoned the passengers
+
+720
+00:52:59,551 --> 00:53:00,711
+to get the gold.
+
+721
+00:53:00,719 --> 00:53:01,834
+Okay, okay, Sherlock,
+
+722
+00:53:01,845 --> 00:53:03,255
+if the passengers were poisoned,
+
+723
+00:53:03,263 --> 00:53:04,844
+why do you think these cans safe?
+
+724
+00:53:04,848 --> 00:53:06,463
+They're still sealed.
+
+725
+00:53:06,475 --> 00:53:07,806
+This stuff's been sealed for 40 years.
+
+726
+00:53:07,810 --> 00:53:09,266
+It's gotta be safe.
+
+727
+00:53:09,269 --> 00:53:11,601
+Okay, shoot
+for it. Loser goes first.
+
+728
+00:53:13,190 --> 00:53:16,728
+Ah! Paper beats rock.
+
+729
+00:53:16,735 --> 00:53:17,724
+Best of three.
+
+730
+00:53:17,736 --> 00:53:19,647
+= bullshit! You lost.
+
+731
+00:53:19,655 --> 00:53:20,815
+Where's your empathy?
+
+732
+00:53:20,823 --> 00:53:23,314
+Winners do not empathize with losers.
+
+733
+00:53:24,284 --> 00:53:25,615
+Bon appetit.
+
+734
+00:53:35,504 --> 00:53:37,586
+I screwed up.
+
+735
+00:53:37,589 --> 00:53:39,796
+I should've called it in.
+
+736
+00:53:39,800 --> 00:53:41,415
+Damn! I knew better!
+
+737
+00:53:44,054 --> 00:53:46,010
+I'll make it home to you, baby. I swear.
+
+738
+00:53:49,768 --> 00:53:51,349
+What the hell are you looking at?
+
+739
+00:54:00,863 --> 00:54:02,524
+Mm, that's all right.
+
+740
+00:54:02,531 --> 00:54:05,398
+- No way.
+- No, really, it's good.
+
+741
+00:54:05,409 --> 00:54:07,240
+Look, I'm not kidding.
+
+742
+00:54:07,244 --> 00:54:10,862
+- Are you serious?
+- I'm serious. It's good!
+
+743
+00:54:12,207 --> 00:54:13,367
+Mm. Oh, wow!
+
+744
+00:54:13,375 --> 00:54:15,331
+You gotta try that!
+
+745
+00:54:15,335 --> 00:54:16,165
+That's good!
+
+746
+00:54:16,170 --> 00:54:18,582
+That's great!
+
+747
+00:54:18,589 --> 00:54:19,589
+Katie?
+
+748
+00:54:27,264 --> 00:54:28,264
+Katie?
+
+749
+00:54:49,745 --> 00:54:50,609
+Can I tell you something else?
+
+750
+00:54:50,621 --> 00:54:52,953
+We get back, I'm gonna take my money
+
+751
+00:54:52,956 --> 00:54:55,743
+and I'm gonna buy you a bathtub.
+
+752
+00:54:57,753 --> 00:54:59,584
+I'm gonna get you a lifetime supply
+
+753
+00:54:59,588 --> 00:55:02,170
+of titty magazines and toilet paper!
+
+754
+00:55:02,174 --> 00:55:03,710
+I already beat you to it, bro!
+
+755
+00:55:10,224 --> 00:55:11,839
+There's something on your...
+
+756
+00:55:31,078 --> 00:55:32,078
+Katie?
+
+757
+00:58:08,235 --> 00:58:10,942
+Buonasera, capitano. Benvenuto.
+
+758
+00:58:35,012 --> 00:58:37,628
+Vuoi ballare con me?
+
+759
+00:58:37,639 --> 00:58:38,639
+Who, me?
+
+760
+00:58:39,349 --> 00:58:40,349
+Si.
+
+761
+00:58:45,063 --> 00:58:48,931
+Francesca, I know
+all of this isn't real.
+
+762
+00:58:48,942 --> 00:58:51,729
+So I'm just gonna go with it, okay?
+
+763
+00:58:55,157 --> 00:58:57,864
+Can't cheat on your fiance
+with a dead girl, right?
+
+764
+00:59:26,521 --> 00:59:27,521
+Her parents.
+
+765
+00:59:31,610 --> 00:59:33,521
+Please.
+
+766
+00:59:35,697 --> 00:59:36,903
+Don't close it.
+
+767
+00:59:40,952 --> 00:59:42,408
+I haven't seen them for years.
+
+768
+00:59:45,123 --> 00:59:46,363
+They moved to New York.
+
+769
+00:59:48,043 --> 00:59:49,408
+I was on my way to join them.
+
+770
+00:59:52,923 --> 00:59:53,923
+But they're dead now.
+
+771
+00:59:56,218 --> 00:59:57,583
+How would you know that?
+
+772
+00:59:57,594 --> 01:00:00,506
+When you're like this,
+vou know these things.
+
+773
+01:00:03,058 --> 01:00:07,518
+My mother, she made me this dress.
+
+774
+01:00:09,481 --> 01:00:10,481
+Do you like it?
+
+775
+01:00:16,363 --> 01:00:17,478
+You remind me of her.
+
+776
+01:00:20,200 --> 01:00:21,200
+T don't think so.
+
+777
+01:00:24,996 --> 01:00:25,996
+Well, here.
+
+778
+01:00:26,915 --> 01:00:28,155
+You should have this back.
+
+779
+01:00:34,965 --> 01:00:39,880
+Oh, god, you really are a fucking ghost.
+
+780
+01:00:43,223 --> 01:00:45,009
+Where are you going?
+
+781
+01:00:55,277 --> 01:00:57,233
+Santos. Povero Santos.
+
+782
+01:00:58,488 --> 01:01:01,571
+Santos was my goddamn responsibility.
+
+783
+01:01:16,047 --> 01:01:17,207
+= the Lorelei.
+
+784
+01:01:17,215 --> 01:01:19,251
+= she was adrift. We rescued her.
+
+785
+01:01:20,218 --> 01:01:22,083
+I've heard the story of the Lorelei.
+
+786
+01:01:25,140 --> 01:01:26,971
+I didn't know the graza was involved.
+
+787
+01:01:30,645 --> 01:01:33,102
+The gold was on board the Lorelei?
+
+788
+01:01:34,900 --> 01:01:39,189
+It says here "may 19, 1962."
+
+789
+01:01:40,822 --> 01:01:43,108
+That's two days before
+your ship disappeared.
+
+790
+01:01:46,661 --> 01:01:48,868
+There were no survivors
+on board the Lorelei.
+
+791
+01:01:57,923 --> 01:01:58,923
+Jesus Christ!
+
+792
+01:02:04,304 --> 01:02:05,304
+Where you going?
+
+793
+01:02:26,743 --> 01:02:29,200
+Most spirits are free
+to be with their families.
+
+794
+01:02:30,121 --> 01:02:31,736
+So why aren't you with yours?
+
+795
+01:02:36,419 --> 01:02:39,161
+- We're all trapped here.
+- Who?
+
+796
+01:02:41,049 --> 01:02:42,129
+My shipmates and 1.
+
+797
+01:02:43,802 --> 01:02:45,383
+Even the ones who aren't marked.
+
+798
+01:02:46,888 --> 01:02:49,470
+Marked? Katie, what do you mean?
+
+799
+01:02:50,725 --> 01:02:52,010
+When the boat's full...
+
+800
+01:02:54,562 --> 01:02:56,894
+What? It's okay, you can tell me.
+
+801
+01:02:56,898 --> 01:02:58,934
+When he has all the souls he needs,
+
+802
+01:03:00,402 --> 01:03:01,642
+and has filled his quota,
+
+803
+01:03:03,738 --> 01:03:07,356
+we'll all be ferried to...
+
+804
+01:03:09,160 --> 01:03:11,025
+What is it? What's wrong?
+
+805
+01:03:13,164 --> 01:03:14,745
+What is it? Katie, what's wrong?
+
+806
+01:03:14,749 --> 01:03:16,990
+He doesn't want me talking to you.
+
+807
+01:03:17,002 --> 01:03:17,832
+He who?
+
+808
+01:03:17,836 --> 01:03:19,792
+= but I'm not like the others!
+
+809
+01:03:19,796 --> 01:03:21,536
+Katie, you need to tell me.
+
+810
+01:03:21,548 --> 01:03:23,379
+You must go at once.
+
+811
+01:03:23,383 --> 01:03:26,125
+Leave the ship while you still can!
+
+812
+01:03:26,136 --> 01:03:29,970
+Katie, what is it?
+
+813
+01:03:29,973 --> 01:03:31,008
+Katie! Katie?
+
+814
+01:03:34,894 --> 01:03:35,894
+Epps?
+
+815
+01:03:37,147 --> 01:03:38,147
+Come on!
+
+816
+01:03:39,399 --> 01:03:40,514
+We have to leave.
+
+817
+01:03:43,820 --> 01:03:45,606
+- Where you going, Murphy?
+- What?
+
+818
+01:03:49,200 --> 01:03:50,030
+What's the matter, huh?
+
+819
+01:03:50,035 --> 01:03:51,035
+It's me,
+
+820
+01:03:52,287 --> 01:03:53,287
+Santos.
+
+821
+01:03:54,331 --> 01:03:55,662
+You know, it's no fun lying around
+
+822
+01:03:55,665 --> 01:03:57,621
+down at the bottom of the ocean.
+
+823
+01:04:01,254 --> 01:04:03,711
+No bright lights at the end of the tunnel.
+
+824
+01:04:03,715 --> 01:04:04,715
+Not for me, murph.
+
+825
+01:04:06,134 --> 01:04:08,500
+No 10,000 virgins at the pearly gates. No.
+
+826
+01:04:11,973 --> 01:04:16,137
+Because of the plan, I'm trapped
+on this dreamboat of yours.
+
+827
+01:04:16,144 --> 01:04:17,509
+So you know what?
+
+828
+01:04:17,520 --> 01:04:20,227
+You're coming along for the ride.
+
+829
+01:04:43,129 --> 01:04:46,212
+No!
+
+830
+01:04:48,343 --> 01:04:50,299
+Benvenuto a bordo.
+
+831
+01:04:53,014 --> 01:04:54,014
+Murphy?
+
+832
+01:04:59,813 --> 01:05:00,813
+Murph?
+
+833
+01:05:02,982 --> 01:05:03,982
+Murphy?
+
+834
+01:05:05,443 --> 01:05:07,308
+You all right, murph?
+
+835
+01:05:09,823 --> 01:05:10,823
+You okay?
+
+836
+01:05:15,161 --> 01:05:16,947
+What's the matter, murph? Come on.
+
+837
+01:05:16,955 --> 01:05:17,955
+= it's Mel
+
+838
+01:05:21,626 --> 01:05:22,626
+murph!
+
+839
+01:05:24,629 --> 01:05:25,744
+It's Mel
+
+840
+01:05:25,755 --> 01:05:26,585
+do it, come on.
+
+841
+01:05:26,589 --> 01:05:27,669
+It'll make you feel good.
+
+842
+01:05:36,266 --> 01:05:37,266
+= come on!
+
+843
+01:05:44,274 --> 01:05:45,639
+= come on!
+
+844
+01:05:45,650 --> 01:05:46,856
+Hey!
+
+845
+01:05:48,027 --> 01:05:49,027
+Murph!
+
+846
+01:05:54,409 --> 01:05:56,866
+Oh, god. Epps, are you okay?
+
+847
+01:06:01,916 --> 01:06:03,952
+He'll be safe if we
+keep him in the aquarium.
+
+848
+01:06:03,960 --> 01:06:04,824
+No, listen to me. He was drunk.
+
+849
+01:06:04,836 --> 01:06:06,701
+He didn't know what he was doing.
+
+850
+01:06:08,715 --> 01:06:10,455
+Look, he just tried to kill you.
+
+851
+01:06:10,467 --> 01:06:11,467
+He stays in there.
+
+852
+01:06:13,511 --> 01:06:14,511
+Let's go find greer.
+
+853
+01:06:27,150 --> 01:06:28,150
+Any sign of him?
+
+854
+01:06:29,611 --> 01:06:30,942
+No, we looked all over.
+
+855
+01:06:30,945 --> 01:06:32,731
+The man is severely pissed off.
+
+856
+01:06:32,739 --> 01:06:35,071
+Seems to happen to everybody on this boat.
+
+857
+01:06:35,074 --> 01:06:36,314
+At least we weren't around 40 years ago.
+
+858
+01:06:36,326 --> 01:06:38,442
+Do you think somebody
+poisoned the passengers
+
+859
+01:06:38,453 --> 01:06:39,283
+to get to the gold?
+
+860
+01:06:39,287 --> 01:06:40,276
+I know you think that's a little...
+
+861
+01:06:40,288 --> 01:06:41,573
+Extreme? Yeah, maybe.
+
+862
+01:06:41,581 --> 01:06:43,071
+But if the shoe fits...
+
+863
+01:06:43,082 --> 01:06:43,992
+I mean, look, next thing you know,
+
+864
+01:06:44,000 --> 01:06:46,207
+we'll be trying to kill each other.
+
+865
+01:06:46,211 --> 01:06:47,951
+What's with the heart?
+
+866
+01:06:47,962 --> 01:06:50,578
+Found it. Belonged to this little girl.
+
+867
+01:06:50,590 --> 01:06:51,590
+What girl?
+
+868
+01:06:52,550 --> 01:06:53,835
+She told me to get off this boat.
+
+869
+01:06:53,843 --> 01:06:55,754
+You mean she's talking to you now?
+
+870
+01:06:55,762 --> 01:06:57,969
+What the hell are
+you guys talking about?
+
+871
+01:06:57,972 --> 01:06:59,508
+You're seeing ghosts, epps?
+
+872
+01:07:00,391 --> 01:07:01,380
+Anyway, just forget it.
+
+873
+01:07:01,392 --> 01:07:03,303
+So the ship's got a few kinks in it.
+
+874
+01:07:03,311 --> 01:07:05,677
+Look, I just say we
+stick with munder's specs
+
+875
+01:07:05,688 --> 01:07:07,849
+and we try to fix the ship.
+
+876
+01:07:07,857 --> 01:07:10,314
+Well, there's like no way
+five people and the gold
+
+877
+01:07:10,318 --> 01:07:11,524
+are gonna fit on any raft.
+
+878
+01:07:11,528 --> 01:07:13,268
+Murphy's not going anywhere right now,
+
+879
+01:07:13,279 --> 01:07:14,894
+and we're not leaving him here.
+
+880
+01:07:14,906 --> 01:07:17,488
+We stick with the plan. Fix the boat.
+
+881
+01:07:17,492 --> 01:07:19,323
+Let's get going, guys. Come on.
+
+882
+01:07:29,420 --> 01:07:32,708
+That's the
+collision bulkhead hatch.
+
+883
+01:07:32,715 --> 01:07:34,421
+Wheel's busted.
+It's not gonna open.
+
+884
+01:07:34,425 --> 01:07:36,040
+Arming the c4.
+
+885
+01:07:36,052 --> 01:07:37,132
+Dodge? - I'm good.
+
+886
+01:07:37,136 --> 01:07:38,922
+- Munder?
+- I'm good.
+
+887
+01:07:38,930 --> 01:07:39,930
+Contact.
+
+888
+01:07:45,186 --> 01:07:46,722
+There's the tear, portside.
+
+889
+01:07:46,729 --> 01:07:48,219
+Looks bigger from here.
+
+890
+01:07:49,148 --> 01:07:51,104
+I'll shut her up, no problem.
+
+891
+01:07:54,028 --> 01:07:56,735
+Munder, rudder's fixed.
+
+892
+01:07:56,739 --> 01:07:58,195
+You all right? - I'm good.
+
+893
+01:08:00,702 --> 01:08:02,408
+What do you think, dodge?
+
+894
+01:08:02,412 --> 01:08:03,492
+She'll hold.
+
+895
+01:08:07,166 --> 01:08:09,407
+Okay, we're set
+with the pumps down here.
+
+896
+01:08:09,419 --> 01:08:10,419
+Start 'em up.
+
+897
+01:08:11,546 --> 01:08:12,581
+Copy that, epps.
+
+898
+01:08:12,589 --> 01:08:14,796
+One and two, kicking in.
+
+899
+01:08:14,799 --> 01:08:17,131
+I give it 12
+hours till she's bone-dry.
+
+900
+01:08:17,135 --> 01:08:18,545
+Both on full.
+
+901
+01:08:18,553 --> 01:08:20,544
+Get ready, epps. Here it comes.
+
+902
+01:08:21,889 --> 01:08:23,425
+Great work, guys.
+
+903
+01:08:41,909 --> 01:08:43,774
+Damn. Current's faster than I thought.
+
+904
+01:08:46,956 --> 01:08:49,163
+If we control her drift as much
+as possible with the rudder,
+
+905
+01:08:49,167 --> 01:08:50,873
+keeping her headed in this direction,
+
+906
+01:08:50,877 --> 01:08:53,084
+we should just clear those islands.
+
+907
+01:08:53,087 --> 01:08:54,202
+We'll keep this sucker afloat
+
+908
+01:08:54,213 --> 01:08:56,329
+as long as it takes to get picked up.
+
+909
+01:08:56,341 --> 01:08:59,799
+Son of a bitch, we may
+just get out of this yet.
+
+910
+01:08:59,802 --> 01:09:00,632
+Kazillionaires.
+
+911
+01:09:00,637 --> 01:09:02,969
+I want you to check on the
+bridge when you're done here.
+
+912
+01:09:02,972 --> 01:09:03,802
+Watch our drift.
+
+913
+01:09:03,806 --> 01:09:06,639
+I'm gonna see if I can
+find greer down below.
+
+914
+01:09:11,397 --> 01:09:12,397
+Greer?
+
+915
+01:09:15,026 --> 01:09:16,026
+Greer?
+
+916
+01:09:29,832 --> 01:09:30,832
+Katie?
+
+917
+01:09:44,055 --> 01:09:45,090
+Greer? Jesus!
+
+918
+01:09:53,648 --> 01:09:54,763
+Aw shit!
+
+919
+01:09:54,774 --> 01:09:56,685
+Number two's clogged. Who's going?
+
+920
+01:09:56,693 --> 01:09:57,693
+You go.
+
+921
+01:10:00,196 --> 01:10:02,278
+Aw shit! Every single time!
+
+922
+01:10:05,827 --> 01:10:06,862
+Oh, my god.
+
+923
+01:10:08,496 --> 01:10:09,496
+Come with me.
+
+924
+01:10:12,125 --> 01:10:14,286
+I want to show you something.
+
+925
+01:11:51,390 --> 01:11:52,505
+No!
+
+926
+01:12:24,924 --> 01:12:26,380
+J silent in my sanity j
+
+927
+01:12:26,384 --> 01:12:28,670
+j I live safe inside my cell j
+
+928
+01:12:28,678 --> 01:12:30,714
+j in the darkness that surrounds me j
+
+929
+01:12:30,721 --> 01:12:33,212
+j I see my own special hell
+
+930
+01:12:33,224 --> 01:12:35,260
+j comfort in my suffering j
+
+931
+01:12:35,268 --> 01:12:37,680
+j; Feeling warm inside this pain j
+
+932
+01:12:37,687 --> 01:12:40,303
+j; Four walls coming down on me j
+
+933
+01:12:40,314 --> 01:12:43,351
+j come on down again
+
+934
+01:12:47,864 --> 01:12:52,654
+j you woke me out of my secret grave j
+
+935
+01:12:52,660 --> 01:12:55,151
+j you let your pretty world in j
+
+936
+01:12:56,247 --> 01:12:57,908
+j cradle falls
+j sorry that it had
+
+937
+01:12:57,915 --> 01:13:00,907
+j to be this way j
+
+938
+01:13:00,918 --> 01:13:05,161
+j but you took me out of my skin j
+
+939
+01:13:05,172 --> 01:13:06,753
+j unholy walls j you woke it j
+
+940
+01:13:06,757 --> 01:13:10,750
+j out of my secret grave
+
+941
+01:13:10,761 --> 01:13:14,970
+j you let your pretty world in j
+
+942
+01:13:14,974 --> 01:13:17,386
+j cradle falls j
+
+943
+01:13:17,393 --> 01:13:19,884
+j unholy walls j
+
+944
+01:13:31,866 --> 01:13:34,152
+J now you're in my world j
+
+945
+01:13:34,160 --> 01:13:36,742
+j; Did you dream it'd be so small j
+
+946
+01:13:36,746 --> 01:13:38,907
+j my little box was perfect j
+
+947
+01:13:38,915 --> 01:13:41,372
+j until you destroyed it all j
+
+948
+01:13:41,375 --> 01:13:43,912
+j; My sanctity of sorrow gone j
+
+949
+01:13:43,920 --> 01:13:46,081
+j forever in it's place j
+
+950
+01:13:46,088 --> 01:13:48,579
+j; The saccharine sweet of you j
+
+951
+01:13:48,591 --> 01:13:50,673
+j is all that's left to taste j
+
+952
+01:13:50,676 --> 01:13:53,008
+I feeling claustrophobic /
+
+953
+01:13:53,012 --> 01:13:55,799
+j now my world is closing in j
+
+954
+01:13:55,806 --> 01:13:57,842
+j subtle retribution j
+
+955
+01:13:57,850 --> 01:14:00,466
+j where I am and where I've been
+
+956
+01:14:00,478 --> 01:14:02,844
+j I'll take you to a place j
+
+957
+01:14:02,855 --> 01:14:05,392
+j you never knew could be
+
+958
+01:14:05,399 --> 01:14:08,766
+j curled up, in my little box j
+
+959
+01:14:08,778 --> 01:14:11,315
+j cradle falls j
+
+960
+01:14:21,457 --> 01:14:22,457
+Murphy.
+
+961
+01:14:24,502 --> 01:14:25,502
+Murphy!
+
+962
+01:14:38,849 --> 01:14:39,849
+Come on! No!
+
+963
+01:14:41,644 --> 01:14:42,644
+Come on!
+
+964
+01:14:44,063 --> 01:14:45,143
+Come on.
+
+965
+01:14:45,147 --> 01:14:46,762
+You can't die on me!
+
+966
+01:15:42,371 --> 01:15:45,408
+Dodge, Murphy's dead.
+
+967
+01:15:45,416 --> 01:15:46,496
+- What?
+- We have got to get off
+
+968
+01:15:46,500 --> 01:15:47,740
+this boat now.
+
+969
+01:15:47,752 --> 01:15:48,582
+You, me, and munder,
+
+970
+01:15:48,586 --> 01:15:50,793
+there is a reason you why the
+three of us are still alive.
+
+971
+01:15:50,796 --> 01:15:53,162
+That's why he came after
+us, to fix his ship.
+
+972
+01:15:53,174 --> 01:15:54,254
+I just saw Murphy.
+
+973
+01:15:55,426 --> 01:15:56,426
+What's happening?
+
+974
+01:15:59,346 --> 01:16:00,346
+T don't know.
+
+975
+01:16:03,225 --> 01:16:05,591
+But I want you and dodge
+to stay on the rudder here.
+
+976
+01:16:05,603 --> 01:16:06,638
+Wait! But you just said...
+
+977
+01:16:06,645 --> 01:16:08,510
+Dodge, listen to me.
+
+978
+01:16:08,522 --> 01:16:09,682
+I'm gonna get munder.
+
+979
+01:16:09,690 --> 01:16:11,646
+We're gonna check and see
+if the welds are holding.
+
+980
+01:16:11,650 --> 01:16:13,561
+I want you both to stay
+here till we get back.
+
+981
+01:16:13,569 --> 01:16:14,809
+You understand?
+
+982
+01:16:14,820 --> 01:16:17,311
+I do not want you out
+of each other's sight.
+
+983
+01:16:17,323 --> 01:16:18,984
+Take this.
+
+984
+01:16:18,991 --> 01:16:19,991
+Take it.
+
+985
+01:16:22,912 --> 01:16:25,403
+- Be careful down there.
+- Ti will.
+
+986
+01:16:54,443 --> 01:16:55,649
+Munder! Munder!
+
+987
+01:17:20,553 --> 01:17:22,009
+That's it, then. We made it.
+
+988
+01:17:22,930 --> 01:17:24,386
+For now.
+
+989
+01:17:24,390 --> 01:17:25,630
+I'm gonna go check on epps.
+
+990
+01:17:25,641 --> 01:17:27,256
+No, you're not. She said to wait here.
+
+991
+01:17:27,268 --> 01:17:28,303
+Yeah, I know, but I just wanna make sure
+
+992
+01:17:28,310 --> 01:17:29,891
+she's okay.
+Hey, she said to wait!
+
+993
+01:17:29,895 --> 01:17:30,895
+So wait.
+
+994
+01:17:44,785 --> 01:17:45,785
+You disgust me.
+
+995
+01:17:46,745 --> 01:17:48,656
+What did you say?
+=- you heard me.
+
+996
+01:17:49,748 --> 01:17:51,784
+You're a pathetic excuse for a man.
+
+997
+01:17:51,792 --> 01:17:53,953
+She says "jump,” and you jump.
+
+998
+01:17:53,961 --> 01:17:55,201
+You're disgusting.
+
+999
+01:17:55,212 --> 01:17:56,543
+I don't have time for this.
+
+1000
+01:18:02,970 --> 01:18:04,255
+Who the hell are you?
+
+1001
+01:18:04,263 --> 01:18:05,218
+Don't worry about who I am.
+
+1002
+01:18:05,222 --> 01:18:07,929
+The question is, who are you?
+
+1003
+01:18:07,933 --> 01:18:09,139
+I've seen the way you look at her.
+
+1004
+01:18:09,143 --> 01:18:09,973
+You worship her,
+
+1005
+01:18:09,977 --> 01:18:11,308
+yet you've never had
+the balls to tell her,
+
+1006
+01:18:11,312 --> 01:18:14,725
+because you're a weak, cowardly child.
+
+1007
+01:18:14,732 --> 01:18:18,270
+However, if you'll kindly
+step out of my way,
+
+1008
+01:18:18,277 --> 01:18:19,767
+I'll make your dream a reality.
+
+1009
+01:18:22,364 --> 01:18:25,356
+You know, dodge, if you kill
+somebody, you go to hell.
+
+1010
+01:18:28,204 --> 01:18:30,536
+Well, you live for her.
+
+1011
+01:18:30,539 --> 01:18:31,619
+You willing to die for her?
+
+1012
+01:19:11,288 --> 01:19:12,288
+Epps!
+
+1013
+01:19:15,834 --> 01:19:16,834
+I shot ferriman.
+
+1014
+01:19:17,670 --> 01:19:19,285
+He's dead.
+
+1015
+01:19:19,296 --> 01:19:22,288
+Yeah? Don't be so sure, dodge.
+
+1016
+01:19:22,299 --> 01:19:23,584
+What are you doing?
+
+1017
+01:19:23,592 --> 01:19:26,129
+Trip's over. I'm sinking the boat.
+
+1018
+01:19:26,136 --> 01:19:27,751
+It's taken its last victim.
+
+1019
+01:19:27,763 --> 01:19:28,843
+= but that'll kill us.
+
+1020
+01:19:28,847 --> 01:19:30,462
+We're gonna have to take our chances.
+
+1021
+01:19:30,474 --> 01:19:31,884
+What about the gold?
+
+1022
+01:19:31,892 --> 01:19:32,972
+You fucking kidding?
+
+1023
+01:19:33,978 --> 01:19:35,343
+We're not getting the gold off this boat.
+
+1024
+01:19:35,354 --> 01:19:36,184
+Nobody ever does.
+
+1025
+01:19:36,188 --> 01:19:37,394
+Wait, wait, wait!
+
+1026
+01:19:38,941 --> 01:19:42,934
+That gold can give us
+everything we ever wanted.
+
+1027
+01:19:42,945 --> 01:19:45,561
+We could have our own boat, the two of us.
+
+1028
+01:19:46,740 --> 01:19:49,026
+We could have a life together, you and me.
+
+1029
+01:19:50,035 --> 01:19:51,775
+What are you talking about?
+
+1030
+01:19:51,787 --> 01:19:53,823
+Dodge, we gotta get out of here, now.
+
+1031
+01:19:55,040 --> 01:19:57,702
+Well, I can't let you do that.
+
+1032
+01:20:04,800 --> 01:20:06,040
+So that's it, huh?
+
+1033
+01:20:09,013 --> 01:20:11,925
+All right. Okay.
+
+1034
+01:20:11,932 --> 01:20:13,468
+You win. All right.
+
+1035
+01:20:14,685 --> 01:20:16,926
+All right! All right!
+
+1036
+01:20:16,937 --> 01:20:18,598
+Fucking bitch!
+
+1037
+01:20:19,440 --> 01:20:20,646
+All right, you win!
+
 1038
-01:36:08,709 --> 01:36:11,625
-- Enough for everyone to breathe?
-- Sure.
+01:20:20,649 --> 01:20:22,139
+Go ahead, do it!
 
 1039
-01:36:11,792 --> 01:36:14,625
-Enough for the whole planet.
+01:20:22,151 --> 01:20:24,608
+Go ahead. Blow it up!
 
 1040
-01:36:14,792 --> 01:36:17,083
-If we turn it on in time.
+01:20:24,611 --> 01:20:25,611
+Kill us all!
 
 1041
-01:36:23,709 --> 01:36:25,708
-Come on. Come on!
+01:20:28,699 --> 01:20:32,783
+Hey, dodge, why haven't you
+asked me where munder is?
 
 1042
-01:36:42,626 --> 01:36:43,875
-Hold on.
+01:20:40,419 --> 01:20:45,379
+Well, I suppose that's
+because I already know.
 
 1043
-01:37:15,209 --> 01:37:16,083
-Now!
+01:20:47,051 --> 01:20:49,292
+You're not gonna pull
+that trigger, Maureen.
 
 1044
-01:37:46,459 --> 01:37:47,708
-Son of a bitch.
+01:20:49,303 --> 01:20:50,839
+Try me.
 
 1045
-01:37:55,584 --> 01:37:57,166
-Move!
+01:20:50,846 --> 01:20:54,259
+Dodge made the same mistake. He's dead.
 
 1046
-01:38:00,001 --> 01:38:02,000
-He's got a hologram!
+01:20:56,143 --> 01:20:57,849
+Katie told you, didn't she?
 
 1047
-01:38:24,001 --> 01:38:26,708
-You think this is
-the real Quaid? It is.
+01:20:57,853 --> 01:21:00,765
+You see, souls without
+sin can't be marked.
 
 1048
-01:39:46,126 --> 01:39:48,375
-You're coming with me!
+01:21:00,773 --> 01:21:02,604
+Makes them tough to control.
 
 1049
-01:40:02,084 --> 01:40:04,291
-See you at the party, Richter.
+01:21:02,608 --> 01:21:04,690
+But as long as I keep the boat afloat,
 
 1050
-01:40:42,584 --> 01:40:47,000
-- Don't touch that! Get back!
-- What are you afraid of?
+01:21:04,693 --> 01:21:06,024
+we'll all go down together.
 
 1051
-01:40:47,167 --> 01:40:49,458
-- Turn it on.
-- Impossible!
+01:21:06,028 --> 01:21:08,064
+What the fuck are you?
 
 1052
-01:40:49,626 --> 01:40:52,750
-Once the reaction starts, it'll spread
-to all the terbinium in the planet.
+01:21:08,072 --> 01:21:10,779
+I'm a salvager, just like you.
 
 1053
-01:40:52,917 --> 01:40:55,166
-Mars will go into global meltdown.
+01:21:11,742 --> 01:21:14,825
+You collect ships, I collect souls.
 
 1054
-01:40:55,334 --> 01:40:57,833
-That's why the aliens
-never turned it on.
+01:21:14,828 --> 01:21:18,537
+And when I fill my quota,
+ti send a boatload home.
 
 1055
-01:40:58,001 --> 01:40:59,958
-And you expect me to believe you?
+01:21:18,540 --> 01:21:20,496
+This will make management happy.
 
 1056
-01:41:00,126 --> 01:41:04,750
-Who gives a shit what you believe?
-In 30 seconds you'll be dead.
+01:21:20,501 --> 01:21:22,287
+You see, it's a job,
 
 1057
-01:41:04,917 --> 01:41:08,125
-Then I'll blow this place up
-and be home in time for cornflakes.
+01:21:22,294 --> 01:21:24,376
+given to me after a lifetime of sin.
 
 1058
-01:41:11,834 --> 01:41:15,791
-I didn't want it to end this way.
-I wanted Hauser back. But no.
+01:21:25,297 --> 01:21:29,336
+So if I lose this ship,
+management won't be happy,
 
 1059
-01:41:17,126 --> 01:41:19,125
-You had to be Quaid!
+01:21:29,343 --> 01:21:30,628
+which is not a good thing.
 
 1060
-01:41:19,292 --> 01:41:21,625
-- I am Quaid.
-- You're nothing!
+01:21:31,553 --> 01:21:33,043
+I don't seem to be getting through to you.
 
 1061
-01:41:21,792 --> 01:41:24,875
-You're nobody!
-You're a stupid dream.
+01:21:33,055 --> 01:21:35,888
+What I'm asking for is an exchange.
 
 1062
-01:41:25,042 --> 01:41:29,000
-Well, all dreams come to an end.
+01:21:35,891 --> 01:21:38,348
+This ship for your life.
 
 1063
-01:42:43,792 --> 01:42:46,041
-Melina, hold on!
+01:21:38,352 --> 01:21:40,809
+I want my crew back.
 
 1064
-01:42:46,209 --> 01:42:49,750
-Don't do it! We'll all die!
+01:21:40,813 --> 01:21:44,305
+Sorry. Once a passenger's
+marked, they're mine.
 
 1065
-01:42:50,709 --> 01:42:53,208
-Everybody will die!
+01:21:45,234 --> 01:21:46,440
+Then I guess it's over.
 
 1066
-01:43:56,292 --> 01:43:57,625
-Quaid!
+01:21:57,079 --> 01:22:00,116
+All you had to do was fix the ship!
 
 1067
-01:49:12,459 --> 01:49:14,833
-I can't believe it.
-It's like a dream.
+01:22:03,544 --> 01:22:05,956
+I gave you a great opportunity.
 
 1068
-01:49:16,167 --> 01:49:17,666
-What's wrong?
+01:22:06,880 --> 01:22:09,587
+All you had to do was take it.
 
 1069
-01:49:17,834 --> 01:49:21,666
-I just had a terrible thought.
-What if this is a dream?
+01:22:13,846 --> 01:22:15,427
+What are you gonna do, shoot me?
 
 1070
-01:49:23,167 --> 01:49:26,250
-Well, then kiss me quick
-before you wake up.
+01:25:40,093 --> 01:25:42,300
+Careful. Hang in there, ma'am.
+
+1071
+01:26:08,914 --> 01:26:11,371
+No!
+
+1072
+01:26:16,797 --> 01:26:21,461
+J; Always, known in, all my time j
+
+1073
+01:26:21,468 --> 01:26:23,800
+I a little left of center now j
+
+1074
+01:26:23,804 --> 01:26:27,296
+I reflect as I realize j
+
+1075
+01:26:27,307 --> 01:26:31,425
+j that all I need is to find
+the middle pillar path
+
+1076
+01:26:31,436 --> 01:26:35,224
+j to sit like the sun by a
+star in the sky and just be j
+
+1077
+01:26:35,232 --> 01:26:39,521
+j sinners, casting stones at me
+
+1078
+01:26:39,528 --> 01:26:42,816
+ji, istand
+
+1079
+01:26:42,823 --> 01:26:44,563
+j not crawling j
+
+1080
+01:26:44,574 --> 01:26:46,860
+j not falling down
+
+1081
+01:26:46,868 --> 01:26:51,828
+j I, I bleed the demons /
+
+1082
+01:26:51,998 --> 01:26:54,239
+j; That drag me down j
+
+1083
+01:26:54,251 --> 01:26:57,664
+ji, istand ; J for nothing, j
+
+1084
+01:26:57,671 --> 01:26:59,457
+I not crawling j j; The center j
+
+1085
+01:26:59,464 --> 01:27:01,671
+j not falling down j
+j of calm's within the eye
+
+1086
+01:27:01,675 --> 01:27:05,133
+ji, I'll bleed 7 j for no one j
+
+1087
+01:27:05,137 --> 01:27:06,923
+j the demons j j but myself j;
+
+1088
+01:27:06,930 --> 01:27:11,970
+j that pull me down [j
+I! For me and no one else
+
+1089
+01:27:11,977 --> 01:27:15,265
+j; Goodbye, sunshine j
+
+1090
+01:27:15,272 --> 01:27:19,936
+j I've put it out again j
+j; Sad j,
+
+1091
+01:27:19,943 --> 01:27:24,858
+j I'm over, personalities conflicting j
+
+1092
+01:27:25,407 --> 01:27:30,367
+j I don't need you, or anyone, but me j
+
+1093
+01:27:31,204 --> 01:27:36,119
+j I'll just be, living my own life j
+
+1094
+01:27:36,126 --> 01:27:40,495
+j I feel my glowing
+center grow, infecting
+
+1095
+01:27:40,505 --> 01:27:42,166
+j I feel alive j
+
+1096
+01:27:42,174 --> 01:27:45,712
+j shovel dirt over lime j
+
+1097
+01:27:45,719 --> 01:27:47,209
+j plant it in myself to sit like a seed /
+
+1098
+01:27:47,220 --> 01:27:49,836
+j under covers of earth and just be j
+
+1099
+01:27:49,848 --> 01:27:53,966
+j sinners, pointing fingers at me j
+
+1100
+01:27:55,228 --> 01:27:58,470
+ji, istand j j for nothing
+
+1101
+01:27:58,482 --> 01:28:00,268
+j not crawling j j by myself j
+
+1102
+01:28:00,275 --> 01:28:02,106
+j not falling down
+
+1103
+01:28:02,110 --> 01:28:06,069
+ji, I'll bleed 7 j for no one j
+
+1104
+01:28:06,072 --> 01:28:07,653
+j the demons j j but myself j;
+
+1105
+01:28:07,657 --> 01:28:09,943
+j; That drag me down j
+
+1106
+01:28:09,951 --> 01:28:13,318
+ji, istand j j for nothing
+
+1107
+01:28:13,330 --> 01:28:15,161
+I not crawling j j; The center j
+
+1108
+01:28:15,165 --> 01:28:17,326
+j not falling down j
+j of calm's within the eye
+
+1109
+01:28:17,334 --> 01:28:20,622
+ji, I'll bleed 7 j for no one j
+
+1110
+01:28:20,629 --> 01:28:22,460
+j the demons j j but myself j;
+
+1111
+01:28:22,464 --> 01:28:26,582
+j that pull me down [j
+I! For me and no one else
+
+1112
+01:28:26,593 --> 01:28:30,506
+j come play kill ;
+
+1113
+01:28:30,514 --> 01:28:33,756
+j; Refuse my body, refuse my shadow j
+
+1114
+01:28:33,767 --> 01:28:37,680
+j stone cold will 2
+
+1115
+01:28:37,687 --> 01:28:40,975
+j refuse to lead this, refuse to follow
+
+1116
+01:28:40,982 --> 01:28:44,816
+j bitter pills j
+
+1117
+01:28:44,820 --> 01:28:48,108
+j refuse to feed this, refuse to swallow j
+
+1118
+01:28:48,114 --> 01:28:51,948
+j come play kill ;
+
+1119
+01:28:51,952 --> 01:28:55,410
+j; Refuse my body, refuse my shadow j
+
+1120
+01:28:55,413 --> 01:28:58,997
+j stone cold will 2
+
+1121
+01:28:59,000 --> 01:29:02,458
+j refuse to lead this, refuse to follow
+
+1122
+01:29:02,462 --> 01:29:06,296
+j bitter pills j
+
+1123
+01:29:06,299 --> 01:29:09,666
+j refuse to feed this, refuse to swallow j
+
+1124
+01:29:09,678 --> 01:29:11,293
+j I'm fueled godless
+
+1125
+01:29:11,304 --> 01:29:19,304
+j come play j
+
+1126
+01:29:20,522 --> 01:29:28,522
+j just be
+
+1127
+01:29:45,881 --> 01:29:49,214
+Ji, istand j j for nothing
+
+1128
+01:29:49,217 --> 01:29:51,082
+j not crawling j j by myself j
+
+1129
+01:29:51,094 --> 01:29:53,210
+j not falling down
+
+1130
+01:29:53,221 --> 01:29:56,554
+ji, I'll bleed 7 j for no one j
+
+1131
+01:29:56,558 --> 01:29:58,469
+j the demons j j but myself j;
+
+1132
+01:29:58,476 --> 01:30:00,592
+j; That drag me down j
+
+1133
+01:30:00,604 --> 01:30:03,971
+ji, istand j j for nothing
+
+1134
+01:30:03,982 --> 01:30:05,893
+I not crawling j j; The center j
+
+1135
+01:30:05,901 --> 01:30:08,062
+j not falling down j
+j of calm's within the eye
+
+1136
+01:30:08,069 --> 01:30:11,186
+ji, I'll bleed 7 j for no one j
+
+1137
+01:30:11,197 --> 01:30:13,233
+j the demons j j but myself j;
+
+1138
+01:30:13,241 --> 01:30:15,357
+j; That drag me down j
+
+1139
+01:30:15,368 --> 01:30:18,781
+ji, istand j j for nothing
+
+1140
+01:30:18,788 --> 01:30:20,494
+I not crawling j j; The center j
+
+1141
+01:30:20,498 --> 01:30:22,864
+j not falling down j
+j of calm's within the eye
+
+1142
+01:30:22,876 --> 01:30:26,209
+ji, I'll bleed 7 j for no one j
+
+1143
+01:30:26,212 --> 01:30:28,077
+j the demons j j but myself j;
+
+1144
+01:30:28,089 --> 01:30:33,049
+j that drag me down
+I! For me and no one else
+
