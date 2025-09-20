@@ -1,18 +1,18 @@
-SRT Copy Log - Fri 09/19/2025  5:42:37.43 
+SRT Copy Log - Sat 09/20/2025 16:09:33.02 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\SUBDL.com__the.hangover.part.ii506695\f-hangover2.720p.srt"" 
-Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\SUBDL.com__the.hangover.part.ii506695\f-hangover2.720p.srt" 
-File name: "f-hangover2.720p.srt" 
+Raw argument 1: ""J:\Movies J Drive\Trainspotting (1996)\Trainspotting (1996).srt"" 
+Clean argument 1: "J:\Movies J Drive\Trainspotting (1996)\Trainspotting (1996).srt" 
+File name: "Trainspotting (1996).srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
