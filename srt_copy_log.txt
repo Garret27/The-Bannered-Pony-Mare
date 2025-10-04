@@ -1,18 +1,18 @@
-SRT Copy Log - Fri 09/26/2025  6:19:07.70 
+SRT Copy Log - Sat 10/04/2025  6:12:14.88 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Stranger Than Fiction (2006)\Stranger Than Fiction (2006).srt"" 
-Clean argument 1: "J:\Movies J Drive\Stranger Than Fiction (2006)\Stranger Than Fiction (2006).srt" 
-File name: "Stranger Than Fiction (2006).srt" 
+Raw argument 1: ""J:\Movies J Drive\Ginger Snaps Back The Beginning (2004)\Ginger Snaps Back - The Beginning (2004) 1080p AAC.srt"" 
+Clean argument 1: "J:\Movies J Drive\Ginger Snaps Back The Beginning (2004)\Ginger Snaps Back - The Beginning (2004) 1080p AAC.srt" 
+File name: "Ginger Snaps Back - The Beginning (2004) 1080p AAC.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
