@@ -1,18 +1,18 @@
-SRT Copy Log - Thu 10/09/2025 17:02:27.11 
+SRT Copy Log - Fri 10/10/2025  6:14:58.11 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Interview with the Vampire (1994)\Interview with the Vampire (1994).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Interview with the Vampire (1994)\Interview with the Vampire (1994).eng.srt" 
-File name: "Interview with the Vampire (1994).eng.srt" 
+Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\buffy-the-vampire-slayer_english-2122727\Buffy.the.Vampire.Slayer.1992.1080p.BluRay.H264.AAC-RARBG_Eng.srt"" 
+Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\buffy-the-vampire-slayer_english-2122727\Buffy.the.Vampire.Slayer.1992.1080p.BluRay.H264.AAC-RARBG_Eng.srt" 
+File name: "Buffy.the.Vampire.Slayer.1992.1080p.BluRay.H264.AAC-RARBG_Eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
