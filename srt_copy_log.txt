@@ -1,18 +1,18 @@
-SRT Copy Log - Sat 10/18/2025  3:55:35.39 
+SRT Copy Log - Sat 10/18/2025  4:06:19.11 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: "C:\Users\ripja\AppData\Local\Temp\Rar$DRa33824.47141.rartemp\Werewolves.2024.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.MX].en[sdh].srt" 
-Clean argument 1: "C:\Users\ripja\AppData\Local\Temp\Rar$DRa33824.47141.rartemp\Werewolves.2024.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.MX].en[sdh].srt" 
-File name: "Werewolves.2024.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.MX].en[sdh].srt" 
+Raw argument 1: ""J:\Movies J Drive\The Rocky Horror Picture Show (1975)\The Rocky Horror Picture Show (1975) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\The Rocky Horror Picture Show (1975)\The Rocky Horror Picture Show (1975) 1080p AAC.eng.srt" 
+File name: "The Rocky Horror Picture Show (1975) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
