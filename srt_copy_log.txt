@@ -1,24 +1,15 @@
-SRT Copy Log - Sat 10/18/2025  4:06:19.11 
+SRT Copy Log - Tue 10/21/2025 17:52:00.62 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\The Rocky Horror Picture Show (1975)\The Rocky Horror Picture Show (1975) 1080p AAC.eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\The Rocky Horror Picture Show (1975)\The Rocky Horror Picture Show (1975) 1080p AAC.eng.srt" 
-File name: "The Rocky Horror Picture Show (1975) 1080p AAC.eng.srt" 
-File extension: ".srt" 
+Raw argument 1: "" 
+Clean argument 1: "" 
+File name: "" 
+File extension: "" 
  
-File argument exists 
-File has .srt extension 
-Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
- 
-Attempting copy command... 
-        1 file(s) copied.
-Copy command returned success (errorlevel 0
-SUCCESS: Target file exists after copy 
-Copy command failed with errorlevel: 0 
+ERROR: No file argument provided 
  
 Script finished 
 ================================== 
