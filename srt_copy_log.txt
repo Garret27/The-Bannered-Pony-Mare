@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 10/25/2025 10:21:19.68 
+SRT Copy Log - Sun 10/26/2025 12:02:24.19 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Grafted (2024)\Grafted (2024).srt"" 
-Clean argument 1: "J:\Movies J Drive\Grafted (2024)\Grafted (2024).srt" 
-File name: "Grafted (2024).srt" 
+Raw argument 1: ""J:\Movies J Drive\KPop Demon Hunters (2025)\KPop Demon Hunters (2025).eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\KPop Demon Hunters (2025)\KPop Demon Hunters (2025).eng.srt" 
+File name: "KPop Demon Hunters (2025).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
