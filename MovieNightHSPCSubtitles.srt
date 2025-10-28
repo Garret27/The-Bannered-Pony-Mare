@@ -1,4818 +1,4244 @@
 1
-00:00:35,362 --> 00:00:37,656
-<i>Michael Rennie was ill</i>
+00:00:24,560 --> 00:00:27,131
+<font color="#D900D9">(THUNDER CRASHING)</font>
 
 2
-00:00:37,906 --> 00:00:40,993
-<i>The day the earth stood still</i>
+00:00:32,800 --> 00:00:34,211
+<font color="#D900D9">(FILM PROJECTOR WHIRRING)</font>
 
 3
-00:00:41,243 --> 00:00:46,290
-<i>But he told us where we stand</i>
+00:00:35,000 --> 00:00:37,401
+<font color="#D900D9">(OMINOUS MUSIC PLAYING)</font>
 
 4
-00:00:46,540 --> 00:00:48,709
-<i>And Flash Gordon was there</i>
+00:00:37,640 --> 00:00:38,926
+<font color="#808080">MRS. FRANKENSTEIN:</font>
+Victor, I don't know that it's...
 
 5
-00:00:48,959 --> 00:00:52,004
-<i>In silver underwear</i>
+00:00:39,000 --> 00:00:40,889
+<font color="#808080">VICTOR:</font> Mom, you have to
+wear the glasses.
 
 6
-00:00:52,254 --> 00:00:56,383
-<i>Claude Rains was the Invisible Man</i>
+00:00:40,960 --> 00:00:43,964
+<font color="#808080">MR. FRANKENSTEIN:</font> It's 3D, honey<font color="#808080">.
+MRS. FRANKENSTEIN:</font> Yes, Of course.
 
 7
-00:00:57,301 --> 00:00:59,761
-<i>Then something went wrong</i>
+00:00:47,240 --> 00:00:49,447
+<font color="#808080">MRS. FRANKENSTEIN:</font>
+So that's where my candlestick went.
 
 8
-00:01:00,012 --> 00:01:02,472
-<i>For Fay Wray and King Kong</i>
+00:00:50,600 --> 00:00:52,682
+Isn't that your
+grandmother's tablecloth?
 
 9
-00:01:02,723 --> 00:01:07,019
-<i>They got caught in a celluloid jam</i>
+00:00:52,760 --> 00:00:53,841
+Yeah.
 
 10
-00:01:07,728 --> 00:01:10,355
-<i>Then at a deadly pace</i>
+00:00:54,640 --> 00:00:56,290
+- That looks great.
+<font color="#D900D9">(BARKS)</font>
 
 11
-00:01:10,564 --> 00:01:13,692
-<i>It came from outer space</i>
+00:00:58,920 --> 00:01:01,366
+<font color="#808080">MR. FRANKENSTEIN:</font> Whoa! I just felt
+like I was attacked!
 
 12
-00:01:13,900 --> 00:01:18,280
-<i>And this is how the message ran</i>
+00:01:01,440 --> 00:01:02,487
+<font color="#D900D9">(SCREAMS)</font>
 
 13
-00:01:20,115 --> 00:01:23,910
-<i>Science fiction</i>
+00:01:03,760 --> 00:01:05,683
+Send in the marines!
 
 14
-00:01:26,246 --> 00:01:29,333
-<i>Double feature</i>
+00:01:11,800 --> 00:01:13,006
+<font color="#D900D9">(FATHER GASPS)</font>
 
 15
-00:01:31,752 --> 00:01:34,755
-<i>Dr. X</i>
+00:01:14,600 --> 00:01:16,602
+<font color="#808080">SOLDIER:</font> <i>Over here, men! This way!</i>
 
 16
-00:01:36,715 --> 00:01:39,968
-<i>Will build a creature</i>
+00:01:17,920 --> 00:01:19,251
+<font color="#808080">MRS. FRANKENSTEIN:</font> <font color="#D900D9">(GASPS)</font> Oh!<font color="#808080">
+MR. FRANKENSTEIN:</font> Whoa!
 
 17
-00:01:41,637 --> 00:01:45,390
-<i>See androids fighting</i>
+00:01:19,320 --> 00:01:20,480
+<font color="#808080">MRS. FRANKENSTEIN:</font> Watch out!
 
 18
-00:01:47,726 --> 00:01:51,021
-<i>Brad and Janet</i>
+00:01:22,840 --> 00:01:25,366
+<font color="#808080">MOTHER:</font> <font color="#D900D9">(GASPS)</font> - Sparky!
+- Sparky, that's you!
 
 19
-00:01:52,439 --> 00:01:56,652
-<i>Anne Francis stars in...</i>
+00:01:25,480 --> 00:01:26,527
+<font color="#D900D9">(BARKS)</font>
 
 20
-00:01:58,195 --> 00:02:00,947
-Forbidden Planet
+00:01:27,800 --> 00:01:29,006
+<font color="#D900D9">(GROWLING)</font>
 
 21
-00:02:01,198 --> 00:02:03,533
-<i>Oh</i>
+00:01:30,800 --> 00:01:32,643
+<font color="#808080">MR. FRANKENSTEIN:</font>
+You tell them, Sparky.
 
 22
-00:02:07,120 --> 00:02:09,581
-<i>At the late-night</i>
+00:01:39,160 --> 00:01:41,811
+<font color="#D900D9">(GROWLING)</font>
 
 23
-00:02:09,790 --> 00:02:12,125
-<i>Double feature</i>
+00:01:41,880 --> 00:01:43,689
+<font color="#D900D9">(SOLDIERS CLAMORING)</font>
 
 24
-00:02:12,376 --> 00:02:14,586
-<i>Picture show</i>
+00:01:43,880 --> 00:01:45,882
+<font color="#808080">MR. FRANKENSTEIN:</font> Whoo!
+<font color="#D900D9">(CHUCKLING)</font>
 
 25
-00:02:23,762 --> 00:02:26,556
-<i>I knew Leo G. Carrol</i>
+00:01:46,840 --> 00:01:47,880
+<font color="#808080">MRS. FRANKENSTEIN:</font> Oh, my!
 
 26
-00:02:26,807 --> 00:02:28,892
-<i>Was over a barrel</i>
+00:01:49,640 --> 00:01:51,290
+<font color="#808080">MR. FRANKENSTEIN:</font> - Bravo!
+<font color="#D900D9">(BARKS)</font>
 
 27
-00:02:29,142 --> 00:02:34,189
-<i>When Tarantula took to the hills</i>
+00:01:52,120 --> 00:01:53,326
+<font color="#808080">MRS. FRANKENSTEIN:</font> Oh!<font color="#808080">
+MR. FRANKENSTEIN:</font> Oh, Oh!
 
 28
-00:02:34,481 --> 00:02:36,900
-<i>And I really got hot</i>
+00:01:53,800 --> 00:01:54,881
+<font color="#D900D9">(GASPS)</font>
+- Oh!
 
 29
-00:02:37,150 --> 00:02:39,444
-<i>When I saw Janette Scott</i>
+00:01:55,040 --> 00:01:56,451
+<font color="#808080">MR. FRANKENSTEIN:</font> Um<font color="#808080">...
+MRS. FRANKENSTEIN:</font> Oh!
 
 30
-00:02:39,778 --> 00:02:41,113
-<i>Fight a Triffid that</i>
+00:01:56,520 --> 00:01:57,521
+Maybe just unplug it.
 
 31
-00:02:41,363 --> 00:02:44,616
-<i>Spits poison and kills</i>
+00:01:58,480 --> 00:01:59,527
+<font color="#D900D9">(BARKS)</font>
 
 32
-00:02:45,117 --> 00:02:48,203
-<i>Dana Andrews said prunes</i>
+00:02:04,040 --> 00:02:05,644
+Well, it certainly was exciting.
 
 33
-00:02:48,453 --> 00:02:50,580
-<i>Gave him the runes</i>
+00:02:05,720 --> 00:02:08,080
+<font color="#808080">MR. FRANKENSTEIN:</font>
+Yeah, it was a big finish. Well done, son.
 
 34
-00:02:50,831 --> 00:02:55,460
-<i>And passing them used lots of skills</i>
+00:02:09,200 --> 00:02:11,043
+I can fix this. Come on, boy.
 
 35
-00:02:55,752 --> 00:02:58,171
-<i>But when worlds collide</i>
+00:02:22,280 --> 00:02:24,123
+All that time he spends up there.
 
 36
-00:02:58,380 --> 00:03:00,507
-<i>Said George Pal to his bride</i>
+00:02:24,200 --> 00:02:26,646
+A boy his age
+needs to be outside with his friends.
 
 37
-00:03:00,757 --> 00:03:02,175
-<i>I'm gonna give you</i>
+00:02:26,720 --> 00:02:30,167
+I don't know that Victor has friends,
+dear. Other than Sparky.
 
 38
-00:03:02,426 --> 00:03:05,304
-<i>Some terrible thrills</i>
+00:02:30,240 --> 00:02:31,366
+<font color="#D900D9">(BARKS)</font>
 
 39
-00:03:05,554 --> 00:03:07,556
-<i>Like a</i>
+00:02:42,520 --> 00:02:43,681
+That's my point.
 
 40
-00:03:08,056 --> 00:03:11,310
-<i>Science fiction</i>
+00:02:43,760 --> 00:02:46,764
+I don't want him to turn out,
+you know, weird.
 
 41
-00:03:13,437 --> 00:03:16,315
-<i>Double feature</i>
+00:02:46,960 --> 00:02:51,204
+There's nothing wrong with Victor.
+He's just in his own world.
 
 42
-00:03:18,650 --> 00:03:21,320
-<i>Dr. X</i>
+00:03:06,680 --> 00:03:07,841
+<font color="#D900D9">(PANTING)</font>
 
 43
-00:03:23,280 --> 00:03:26,950
-<i>Will build a creature</i>
+00:03:14,440 --> 00:03:15,441
+<font color="#D900D9">(WHIMPERS)</font>
 
 44
-00:03:28,285 --> 00:03:31,955
-<i>See androids fighting</i>
+00:03:19,400 --> 00:03:20,401
+<font color="#D900D9">(PANTING)</font>
 
 45
-00:03:34,249 --> 00:03:37,169
-<i>Brad and Janet</i>
+00:03:32,680 --> 00:03:33,886
+<font color="#D900D9">(VICTOR GASPS)</font>
 
 46
-00:03:38,879 --> 00:03:43,008
-<i>Anne Francis stars in...</i>
+00:03:34,640 --> 00:03:35,766
+<font color="#D900D9">(CHUCKLES SOFTLY)</font>
 
 47
-00:03:44,301 --> 00:03:47,095
-Forbidden Planet
+00:03:35,880 --> 00:03:37,211
+Easy, boy.
 
 48
-00:03:47,346 --> 00:03:49,890
-<i>Oh</i>
+00:03:54,880 --> 00:03:56,723
+See you later, sweetie.
 
 49
-00:03:53,226 --> 00:03:55,520
-<i>At the late-night</i>
+00:03:56,840 --> 00:03:58,410
+Have a good day.
 
 50
-00:03:55,812 --> 00:03:58,023
-<i>Double feature</i>
+00:03:58,480 --> 00:04:00,562
+Victor! Come on, honey.
+You're going to be late.
 
 51
-00:03:58,357 --> 00:04:00,442
-<i>Picture show</i>
+00:04:00,640 --> 00:04:02,165
+Go put Sparky in the back yard.
 
 52
-00:04:00,692 --> 00:04:03,445
-<i>I want to go</i>
+00:04:03,680 --> 00:04:05,205
+Come on, Sparky!
 
 53
-00:04:03,737 --> 00:04:06,782
-<i>Oh</i>
+00:04:05,280 --> 00:04:06,327
+<font color="#D900D9">(BARKING)</font>
 
 54
-00:04:08,909 --> 00:04:11,370
-<i>To the late-night</i>
+00:04:09,360 --> 00:04:10,407
+<font color="#D900D9">(GASPS)</font>
 
 55
-00:04:11,620 --> 00:04:13,872
-<i>Double feature</i>
+00:04:12,520 --> 00:04:13,567
+<font color="#D900D9">(GRUMBLES)</font>
 
 56
-00:04:14,122 --> 00:04:16,375
-<i>Picture show</i>
+00:04:13,920 --> 00:04:14,921
+<font color="#D900D9">(WHIMPERING)</font>
 
 57
-00:04:16,583 --> 00:04:19,086
-<i>By RKO</i>
+00:04:15,000 --> 00:04:16,843
+Good morning, Mr. Burgemeister.
 
 58
-00:04:19,378 --> 00:04:22,631
-<i>Oh</i>
+00:04:16,920 --> 00:04:20,208
+Your dog has been
+sniffing around my Dutch Dazzlers.
 
 59
-00:04:24,716 --> 00:04:27,052
-<i>To the late-night</i>
+00:04:20,760 --> 00:04:23,923
+The other day
+I caught him peeing on my flamingo.
 
 60
-00:04:27,302 --> 00:04:29,721
-<i>Double feature</i>
+00:04:25,360 --> 00:04:26,521
+I'll keep an eye on him.
 
 61
-00:04:29,972 --> 00:04:32,015
-<i>Picture show</i>
+00:04:27,600 --> 00:04:28,761
+You better.
 
 62
-00:04:32,265 --> 00:04:34,935
-<i>In the back row</i>
+00:04:29,520 --> 00:04:30,521
+Yes, sir.
 
 63
-00:04:35,227 --> 00:04:37,646
-<i>Oh</i>
+00:04:36,360 --> 00:04:38,283
+Go on, Sparky. That's right!
 
 64
-00:04:40,732 --> 00:04:43,068
-<i>To the late-night</i>
+00:04:39,520 --> 00:04:41,966
+Good boy. See you later!
 
 65
-00:04:43,443 --> 00:04:45,612
-<i>Double feature</i>
+00:04:43,960 --> 00:04:44,961
+<font color="#D900D9">(WHINES)</font>
 
 66
-00:04:45,862 --> 00:04:47,739
-<i>Picture show</i>
+00:04:52,560 --> 00:04:53,766
+<font color="#D900D9">(CHUCKLES)</font>
 
 67
-00:05:04,923 --> 00:05:06,425
-Here they come.
+00:04:55,520 --> 00:04:57,010
+Where do you think you're going?
 
 68
-00:05:19,104 --> 00:05:21,064
-I'd like the parents
-and the grandparents.
+00:04:57,520 --> 00:04:58,567
+School.
 
 69
-00:05:21,315 --> 00:05:23,525
-Yes, all the close family.
+00:04:59,160 --> 00:05:01,128
+What about that dog of yours?
 
 70
-00:05:29,114 --> 00:05:31,783
-Smile! Hold fast. Beautiful!
+00:05:01,200 --> 00:05:04,170
+She's not in the house
+and she's away from your tulips.
 
 71
-00:05:49,009 --> 00:05:50,886
-Congratulations.
+00:05:04,520 --> 00:05:06,648
+I want you to remember something.
 
 72
-00:05:51,136 --> 00:05:52,304
-Well...
+00:05:06,720 --> 00:05:10,566
+While your parents are away,
+I am in charge here.
 
 73
-00:05:52,763 --> 00:05:55,015
-I guess we really did it, huh?
+00:05:11,000 --> 00:05:12,331
+Yes, Uncle Bob.
 
 74
-00:05:56,475 --> 00:05:59,186
-You and Betty have been inseparable...
+00:05:12,520 --> 00:05:15,808
+Dutch Day is coming up,
+and I don't need any trouble.
 
 75
-00:05:59,394 --> 00:06:01,480
-since you met in Dr. Scott's courses.
+00:05:15,880 --> 00:05:18,406
+- How's your song coming?
+- Okay.
 
 76
-00:06:01,730 --> 00:06:06,485
-Tell you the truth, Brad, that was
-the only reason I came in the first place.
+00:05:18,880 --> 00:05:20,291
+Keep at it!
 
 77
-00:06:07,694 --> 00:06:10,781
-- I mean...
-- Okay, guys, this is it! You ready?
+00:05:20,360 --> 00:05:23,603
+Dutch Day is a big day for me.
 
 78
-00:06:10,989 --> 00:06:13,784
-Look, Betty's gonna throw her bouquet.
+00:05:23,680 --> 00:05:24,966
+Yes, sir.
 
 79
-00:06:18,664 --> 00:06:19,998
-I got it!
+00:05:31,360 --> 00:05:33,249
+Good morning, children.
 
 80
-00:06:20,207 --> 00:06:22,376
-- I got it!
-- Hey, big fella.
+00:05:33,320 --> 00:05:36,324
+I am Mr. Rzykruski.
 
 81
-00:06:22,626 --> 00:06:25,170
-Looks like it could be your turn next.
+00:05:37,440 --> 00:05:39,568
+I will be your new science teacher.
 
 82
-00:06:25,420 --> 00:06:26,922
-Who knows.
+00:05:41,040 --> 00:05:45,125
+Apparently, Mr. Holcomb
+had an incident.
 
 83
-00:06:27,172 --> 00:06:29,216
-So long. See you, Brad.
+00:05:45,400 --> 00:05:47,448
+He got hit by lightning!
 
 84
-00:06:32,719 --> 00:06:34,429
-Come on, hop in.
+00:05:47,720 --> 00:05:49,688
+Well, that is bad.
 
 85
-00:06:38,642 --> 00:06:40,560
-See you, Brad.
+00:05:49,760 --> 00:05:53,162
+But he did not get "hit" by lightning.
 
 86
-00:06:53,865 --> 00:06:57,619
-Brad, wasn't it wonderful?
-Didn't Betty look radiantly beautiful?
+00:05:53,240 --> 00:05:58,565
+Lightning does not hit a person the way
+one is hit by a baseball or a cabbage.
 
 87
-00:06:57,869 --> 00:07:00,831
-Just an hour ago she was
-plain old Betty Munroe.
+00:05:59,800 --> 00:06:02,644
+Lightning is simply electricity.
 
 88
-00:07:01,081 --> 00:07:05,502
-And now she's Mrs. Ralph Hapschatt.
+00:06:04,000 --> 00:06:07,607
+The cloud is angry. Yes. Making storm.
 
 89
-00:07:08,088 --> 00:07:11,341
-- Yes, Janet. Ralph's a lucky guy.
-- Yes.
+00:06:08,080 --> 00:06:11,482
+All the electrons are saying,
+"I am leaving you!"
 
 90
-00:07:12,050 --> 00:07:15,095
-Oh, I always cry at weddings.
+00:06:11,680 --> 00:06:14,684
+"I go to the land of opportunity!"
 
 91
-00:07:16,722 --> 00:07:19,725
-Everyone knows Betty's
-a wonderful little cook.
+00:06:14,760 --> 00:06:15,886
+The ground says,
 
 92
-00:07:19,975 --> 00:07:21,351
-Yes.
+00:06:15,960 --> 00:06:20,488
+"Yes, we need electrons
+trained in science just like you!"
 
 93
-00:07:26,940 --> 00:07:29,484
-Ralph will be in line
-for promotion in a year.
+00:06:20,680 --> 00:06:23,490
+"Come. Come! Welcome."
 
 94
-00:07:29,693 --> 00:07:30,944
-Yes.
+00:06:24,320 --> 00:06:26,891
+So both sides start to build a ladder.
 
 95
-00:07:34,156 --> 00:07:36,158
-- Hey, Janet.
-- Yes, Brad?
+00:06:27,360 --> 00:06:30,842
+This man, he comes out
+to look at the storm.
 
 96
-00:07:38,410 --> 00:07:40,329
-I've got something to say.
+00:06:31,200 --> 00:06:33,521
+He does not see the invisible ladders.
 
 97
-00:07:42,914 --> 00:07:44,708
-<i>I really loved</i>
+00:06:33,600 --> 00:06:36,206
+When the two ladders meet... Boom!
 
 98
-00:07:48,962 --> 00:07:50,756
-<i>The skillful way</i>
+00:06:36,320 --> 00:06:37,401
+<font color="#D900D9">(STUDENTS GASP)</font>
 
 99
-00:07:52,049 --> 00:07:54,343
-<i>You beat the other girls</i>
+00:06:37,480 --> 00:06:38,766
+The circuit is complete
 
 100
-00:07:54,801 --> 00:07:56,303
-<i>To the bride's bouquet</i>
+00:06:38,840 --> 00:06:42,561
+and all of the electrons rush
+to the land of opportunity.
 
 101
-00:07:57,011 --> 00:07:58,946
-Oh, Brad.
+00:06:42,880 --> 00:06:45,121
+This man is in the way!
 
 102
-00:08:01,892 --> 00:08:04,936
-- <i>The river was deep but I swam it</i>
-- <i>Janet</i>
+00:06:45,520 --> 00:06:46,601
+Ahh!
 
 103
-00:08:05,145 --> 00:08:07,773
-- <i>The future is ours, so let's plan it</i>
-- <i>Janet</i>
+00:06:50,560 --> 00:06:54,007
+But it is very rare
+to have such an incident.
 
 104
-00:08:08,023 --> 00:08:10,901
-- <i>So please don't tell me to can it</i>
-- <i>Janet</i>
+00:06:55,000 --> 00:06:56,604
+But it's not rare.
 
 105
-00:08:11,151 --> 00:08:14,529
-<i>I've one thing to say and that's
-Damn it, Janet</i>
+00:06:56,680 --> 00:07:00,082
+Lightning happens
+to people all the time here.
 
 106
-00:08:14,780 --> 00:08:16,615
-<i>I love you</i>
+00:07:00,160 --> 00:07:02,766
+There's a thunderstorm
+almost every night.
 
 107
-00:08:18,283 --> 00:08:20,869
-- <i>The road was long but I ran it</i>
-- <i>Janet</i>
+00:07:02,840 --> 00:07:04,490
+My dad got hit twice.
 
 108
-00:08:21,078 --> 00:08:24,581
-- <i>A fire's in my heart and you fan it</i>
-- <i>Janet</i>
+00:07:04,840 --> 00:07:09,323
+They built New Holland
+on an abandoned gold mine.
 
 109
-00:08:24,790 --> 00:08:27,292
-- <i>There's one fool for you and I am it</i>
-- <i>Janet</i>
+00:07:09,400 --> 00:07:11,289
+I heard it was a cemetery.
 
 110
-00:08:27,542 --> 00:08:30,629
-<i>I've one thing to say and that's
-Damn it, Janet</i>
+00:07:11,360 --> 00:07:15,524
+That's where they buried the miners.
 
 111
-00:08:30,879 --> 00:08:32,381
-<i>I love you</i>
+00:07:17,560 --> 00:07:20,166
+It's the windmill that does it.
 
 112
-00:08:34,841 --> 00:08:36,843
-<i>Here's a ring to prove</i>
+00:07:20,640 --> 00:07:27,171
+Turning, turning the air until
+the sky itself rages against the night.
 
 113
-00:08:37,052 --> 00:08:38,929
-<i>That I'm no joker</i>
+00:07:28,000 --> 00:07:30,970
+No. Cemetery. Definitely.
 
 114
-00:08:40,889 --> 00:08:42,057
-<i>There's three ways</i>
+00:07:48,400 --> 00:07:49,481
+<font color="#D900D9">(BARKS)</font>
 
 115
-00:08:42,265 --> 00:08:45,811
-<i>That love can grow</i>
+00:08:03,160 --> 00:08:04,525
+<font color="#D900D9">(SNIFFING)</font>
 
 116
-00:08:47,104 --> 00:08:48,939
-<i>That's good, bad</i>
+00:08:10,640 --> 00:08:11,641
+<font color="#D900D9">(PANTING)</font>
 
 117
-00:08:49,147 --> 00:08:52,067
-<i>Or mediocre</i>
+00:08:13,600 --> 00:08:14,761
+<font color="#D900D9">(BARKS)</font>
 
 118
-00:08:52,859 --> 00:08:55,112
-<i>Oh, J-A-N-E-T</i>
+00:08:20,600 --> 00:08:21,726
+<font color="#D900D9">(WHINES SADLY)</font>
 
 119
-00:08:55,362 --> 00:08:57,698
-<i>I love you so</i>
+00:08:26,560 --> 00:08:27,800
+<font color="#D900D9">(BARKING)</font>
 
 120
-00:08:59,032 --> 00:09:02,536
-- <i>Oh, it's nicer than Betty Munroe had</i>
-- <i>Oh, Brad</i>
+00:08:33,920 --> 00:08:35,604
+<font color="#D900D9">(SNIFFING)</font>
 
 121
-00:09:02,744 --> 00:09:06,081
-- <i>Now we're engaged and I'm so glad</i>
-- <i>Oh, Brad</i>
+00:08:36,720 --> 00:08:37,721
+<font color="#D900D9">(WHINES)</font>
 
 122
-00:09:06,290 --> 00:09:08,875
-- <i>That you met Mom and you know Dad</i>
-- <i>Oh, Brad</i>
+00:08:41,400 --> 00:08:42,481
+<font color="#D900D9">(BARKS)</font>
 
 123
-00:09:09,126 --> 00:09:12,087
-<i>I've one thing to say and that's
-Brad, I'm mad</i>
+00:08:49,080 --> 00:08:54,928
+Students, on your way out, take
+a permission slip for the science fair.
 
 124
-00:09:12,337 --> 00:09:14,381
-<i>For you too</i>
+00:08:56,440 --> 00:08:58,602
+First prize is a huge trophy!
 
 125
-00:09:16,967 --> 00:09:19,177
-<i>Oh, Brad</i>
+00:09:10,120 --> 00:09:11,770
+- Hello, Victor.
+<font color="#D900D9">(PURRING)</font>
 
 126
-00:09:19,636 --> 00:09:22,097
-<i>Oh, damn it</i>
+00:09:12,480 --> 00:09:13,481
+Hi.
 
 127
-00:09:22,389 --> 00:09:25,017
-<i>I'm mad</i>
+00:09:13,560 --> 00:09:17,565
+Mr. Whiskers had
+a dream about you last night.
 
 128
-00:09:25,726 --> 00:09:28,562
-<i>Oh, Janet</i>
+00:09:18,160 --> 00:09:19,286
+How do you know?
 
 129
-00:09:28,770 --> 00:09:30,856
-<i>For you</i>
+00:09:19,640 --> 00:09:22,644
+Because this morning he made this.
 
 130
-00:09:31,064 --> 00:09:33,775
-<i>I love you too</i>
+00:09:23,160 --> 00:09:24,161
+Oh.
 
 131
-00:09:34,860 --> 00:09:39,698
-<i>There's one thing left to do
-Ah-ooh</i>
+00:09:26,480 --> 00:09:28,926
+Did you get that out of the litter box?
 
 132
-00:09:40,741 --> 00:09:43,619
-- <i>And that's go see the man who began it</i>
-- <i>Janet</i>
+00:09:29,320 --> 00:09:31,448
+It's an omen.
 
 133
-00:09:43,869 --> 00:09:46,913
-- <i>When we met in his science, exam it</i>
-- <i>Janet</i>
+00:09:32,000 --> 00:09:35,004
+Last month he dreamed about Bob.
 
 134
-00:09:47,164 --> 00:09:50,042
-- <i>Made me give you the eye, then panic</i>
-- <i>Janet</i>
+00:09:37,000 --> 00:09:38,764
+He fell in a manhole.
 
 135
-00:09:50,250 --> 00:09:53,587
-<i>Now I've one thing to say and that's
-Damn it, Janet</i>
+00:09:38,840 --> 00:09:39,887
+<font color="#D900D9">(GRUNTS)</font>
 
 136
-00:09:53,837 --> 00:09:57,382
-<i>I love you</i>
+00:09:42,000 --> 00:09:43,968
+He dreamed about Toshiaki
 
 137
-00:09:57,633 --> 00:10:00,510
-<i>Damn it, Janet</i>
+00:09:45,520 --> 00:09:49,002
+the day he pitched a perfect game.
 
 138
-00:10:00,761 --> 00:10:03,639
-<i>Oh, Brad, I'm mad</i>
+00:09:49,600 --> 00:09:51,364
+<font color="#D900D9">(CHEERING)</font>
 
 139
-00:10:03,889 --> 00:10:06,516
-<i>Damn it, Janet</i>
+00:09:54,000 --> 00:09:57,368
+And Nassor the day
+he got knocked unconscious.
 
 140
-00:10:06,725 --> 00:10:11,730
-<i>I love you</i>
+00:10:00,000 --> 00:10:02,526
+If Mr. Whiskers dreams about you,
 
 141
-00:10:28,705 --> 00:10:32,501
-I would like, if I may...
+00:10:03,000 --> 00:10:06,163
+it means something big
+is going to happen.
 
 142
-00:10:32,751 --> 00:10:37,589
-to take you on a strange journey.
+00:10:06,280 --> 00:10:07,520
+<font color="#D900D9">(PURRING)</font>
 
 143
-00:10:50,394 --> 00:10:53,480
-It seemed a fairly ordinary night...
+00:10:14,680 --> 00:10:15,761
+<font color="#D900D9">(MEOWS)</font>
 
 144
-00:10:53,730 --> 00:10:58,402
-when Brad Majors and
-his fiancée, Janet Weiss...
+00:10:17,160 --> 00:10:18,764
+You can keep it.
 
 145
-00:10:58,652 --> 00:11:01,613
-two young, ordinary, healthy kids...
+00:10:20,720 --> 00:10:23,883
+One day you'll dream about me,
+won't you, Kitty?
 
 146
-00:11:01,822 --> 00:11:05,534
-left Denton that
-late November evening...
+00:10:31,920 --> 00:10:33,126
+<font color="#D900D9">(BARKING)</font>
 
 147
-00:11:05,784 --> 00:11:09,538
-to visit a Dr. Everett Scott...
+00:10:33,800 --> 00:10:35,882
+Hey, boy. How are you doing?
 
 148
-00:11:09,788 --> 00:11:13,166
-ex-tutor and now friend to both of them.
+00:10:37,920 --> 00:10:38,967
+<font color="#D900D9">(BARKS)</font>
 
 149
-00:11:15,794 --> 00:11:20,382
-It's true there were
-dark storm clouds...
+00:10:39,040 --> 00:10:41,247
+You'll be my partner, right, Victor?
 
 150
-00:11:20,632 --> 00:11:24,094
-heavy, black and pendulous...
+00:10:41,480 --> 00:10:43,687
+Because you have to have a partner
+for the science fair,
 
 151
-00:11:24,344 --> 00:11:26,805
-toward which they were driving.
+00:10:43,840 --> 00:10:45,842
+and whoever is your
+partner is going to win.
 
 152
-00:11:27,180 --> 00:11:30,183
-It's true also that the spare tire
-they carried...
+00:10:45,920 --> 00:10:49,481
+You know the most about science
+so pick me as a partner.
 
 153
-00:11:30,434 --> 00:11:32,477
-was badly in need of some air.
+00:10:49,560 --> 00:10:51,642
+I have lots of ideas!
 
 154
-00:11:32,686 --> 00:11:36,231
-But they, being normal kids and...
+00:10:52,240 --> 00:10:54,049
+We can make a death ray!
 
 155
-00:11:36,481 --> 00:11:37,983
-on a night out...
+00:10:54,160 --> 00:10:55,161
+<font color="#D900D9">(SPARKY WHIMPERS)</font>
 
 156
-00:11:38,233 --> 00:11:42,863
-they were not going to let a storm
-spoil the events of their evening.
+00:10:55,240 --> 00:10:57,049
+it says no death rays. See?
 
 157
-00:11:44,740 --> 00:11:47,034
-On a night out.
+00:10:57,840 --> 00:10:59,080
+Oh, man.
 
 158
-00:11:48,910 --> 00:11:50,621
-It was a night out...
+00:10:59,480 --> 00:11:01,528
+I still want to do it. Come on.
 
 159
-00:11:50,871 --> 00:11:52,914
-they were going to remember...
+00:11:01,840 --> 00:11:03,365
+Who else would be your partner?
 
 160
-00:11:53,165 --> 00:11:56,418
-for a very long time.
+00:11:03,600 --> 00:11:05,967
+You don't have friends and neither do I.
 
 161
-00:12:05,177 --> 00:12:08,305
-<i>I have never been a quitter.</i>
+00:11:06,920 --> 00:11:10,003
+I'm sorry, Edgar.
+I just don't need a partner.
 
 162
-00:12:09,097 --> 00:12:13,226
-<i>To leave office before my term
-is completed is abhorrent...</i>
+00:11:10,640 --> 00:11:12,244
+I like to work alone.
 
 163
-00:12:13,477 --> 00:12:15,604
-<i>to every instinct in my body.</i>
+00:11:17,400 --> 00:11:19,001
+<font color="#808080">VICTOR:</font> Will you sign
+my permission slip?
 
 164
-00:12:16,897 --> 00:12:18,523
-<i>But as president...</i>
+00:11:19,040 --> 00:11:20,401
+<font color="#808080">MRS. FRANKENSTEIN:</font> Dinner's ready.
 
 165
-00:12:18,774 --> 00:12:22,903
-<i>I must put the interests
-of America first.</i>
+00:11:22,360 --> 00:11:25,284
+Victor, have I ever talked to you
+about what I do for a living?
 
 166
-00:12:24,237 --> 00:12:28,033
-<i>America needs a full-time president...</i>
+00:11:25,520 --> 00:11:26,681
+You're a travel agent?
 
 167
-00:12:28,283 --> 00:12:30,827
-<i>and a full-time Congress...</i>
+00:11:27,040 --> 00:11:28,530
+I sell dreams.
 
 168
-00:12:31,203 --> 00:12:33,287
-<i>particularly at this time...</i>
+00:11:28,680 --> 00:11:32,048
+I tell people, "You can sail to Italy."
 
 169
-00:12:34,665 --> 00:12:37,542
-Gosh, that's the third motorcyclist
-that's passed us.
+00:11:32,200 --> 00:11:34,123
+"You can do the hula in Hawaii."
 
 170
-00:12:37,793 --> 00:12:41,088
-They sure do take their lives
-in their hands.
+00:11:34,880 --> 00:11:37,611
+- Will you sign my form?
+- I'm getting to that.
 
 171
-00:12:41,338 --> 00:12:44,967
-Yes, Janet. Life's pretty cheap
-to that type.
+00:11:38,280 --> 00:11:39,281
+Okay.
 
 172
-00:12:51,848 --> 00:12:53,767
-What's the matter, Brad, darling?
+00:11:39,360 --> 00:11:41,442
+In my job, sometimes you have people
 
 173
-00:12:55,936 --> 00:12:58,146
-We took the wrong fork a few miles back.
+00:11:41,520 --> 00:11:44,046
+who don't want quite
+the same thing, right?
 
 174
-00:12:58,355 --> 00:12:59,189
-Oh.
+00:11:44,520 --> 00:11:47,126
+Say a husband wants to
+play golf in Scotland
 
 175
-00:12:59,398 --> 00:13:01,650
-Where did that motorcyclist come from?
+00:11:47,200 --> 00:11:50,488
+but the wife wants to
+paddle down the Amazon.
 
 176
-00:13:03,652 --> 00:13:05,946
-I guess we'll just have to turn back.
+00:11:50,640 --> 00:11:54,122
+All right, you've got two
+conflicting ideas here.
 
 177
-00:13:11,368 --> 00:13:12,369
-What was that bang?
+00:11:54,280 --> 00:11:58,490
+And it's my job, Victor,
+to help them meet halfway.
 
 178
-00:13:12,828 --> 00:13:14,413
-We must have a blowout.
+00:11:58,640 --> 00:12:01,644
+Say... Scottsdale, Arizona.
 
 179
-00:13:15,330 --> 00:13:18,959
-Damn it! I knew I should've gotten
-that spare tire fixed.
+00:12:01,800 --> 00:12:04,280
+He gets to golf, she gets Indians.
 
 180
-00:13:20,252 --> 00:13:22,129
-You stay here and I'll go for help.
+00:12:05,280 --> 00:12:07,886
+But there's no river. And no jungle.
 
 181
-00:13:22,379 --> 00:13:24,548
-We're in the middle of nowhere.
+00:12:07,960 --> 00:12:10,611
+- Nobody gets what they want.
+- Exactly.
 
 182
-00:13:29,428 --> 00:13:32,014
-Didn't we pass a castle
-a few miles back?
+00:12:10,800 --> 00:12:11,881
+And wrong.
 
 183
-00:13:34,057 --> 00:13:36,518
-Maybe they have a telephone I could use.
+00:12:12,000 --> 00:12:15,971
+They both get what they want
+because they compromise.
 
 184
-00:13:36,893 --> 00:13:37,811
-I'm going too.
+00:12:16,560 --> 00:12:19,006
+You'd like to do the science fair
+and that's great.
 
 185
-00:13:38,270 --> 00:13:42,983
-- Both of us don't need to get wet.
-- I'm coming with you.
+00:12:19,080 --> 00:12:23,165
+I'd like you to try a sport.
+Say, I don't know, baseball.
 
 186
-00:13:45,152 --> 00:13:48,614
-Besides, the owner of that phone
-might be a beautiful woman...
+00:12:24,120 --> 00:12:27,886
+Science fair, baseball.
+Science fair, baseball.
 
 187
-00:13:48,864 --> 00:13:51,116
-and you might never come back again.
+00:12:28,760 --> 00:12:31,366
+How do you choose?
+Guess what? You don't have to.
 
 188
-00:14:34,076 --> 00:14:36,828
-<i>In the velvet darkness</i>
+00:12:31,720 --> 00:12:33,688
+No reason you can't do both.
 
 189
-00:14:37,079 --> 00:14:39,331
-<i>Of the blackest night</i>
+00:12:33,840 --> 00:12:36,320
+You meet in the middle.
+Everyone's happy.
 
 190
-00:14:39,581 --> 00:14:42,417
-<i>Burning bright</i>
+00:12:37,080 --> 00:12:38,161
+<font color="#D900D9">(CHUCKLES)</font>
 
 191
-00:14:43,335 --> 00:14:46,797
-<i>There's a guiding star</i>
+00:12:40,160 --> 00:12:41,685
+<font color="#D900D9">(KIDS YELLING)</font>
 
 192
-00:14:49,466 --> 00:14:52,469
-<i>No matter what</i>
+00:12:43,240 --> 00:12:44,685
+Look at what Toshiaki's doing.
 
 193
-00:14:52,719 --> 00:14:54,721
-<i>Or...</i>
+00:12:44,760 --> 00:12:49,243
+He's keeping his eye on the target,
+never losing his concentration.
 
 194
-00:14:55,764 --> 00:14:58,684
-<i>who you are</i>
+00:12:54,680 --> 00:12:56,728
+Strike three! Next batter!
 
 195
-00:15:01,269 --> 00:15:04,314
-<i>There's a light</i>
+00:12:59,640 --> 00:13:04,282
+I want you to concentrate
+on your project for the science fair.
 
 196
-00:15:05,607 --> 00:15:09,653
-<i>Over at the Frankenstein place</i>
+00:13:08,280 --> 00:13:09,520
+Come on, honey!
 
 197
-00:15:09,903 --> 00:15:12,823
-<i>There's a light</i>
+00:13:09,840 --> 00:13:10,841
+<font color="#D900D9">(BARKING)</font>
 
 198
-00:15:16,702 --> 00:15:20,372
-<i>Burning in the fireplace</i>
+00:13:12,840 --> 00:13:13,841
+<font color="#D900D9">(GASPS)</font>
 
 199
-00:15:20,998 --> 00:15:26,128
-<i>There's a light, light</i>
+00:13:14,920 --> 00:13:16,684
+Whoa. Nice catch, Sparky.
 
 200
-00:15:26,420 --> 00:15:30,090
-<i>In the darkness</i>
+00:13:16,760 --> 00:13:17,966
+Come on, Victor, please.
 
 201
-00:15:30,340 --> 00:15:35,178
-<i>Of everybody's life</i>
+00:13:18,040 --> 00:13:20,327
+Tie Sparky up and get
+your head into the game.
 
 202
-00:15:44,730 --> 00:15:49,151
-<i>The darkness must go</i>
+00:13:20,400 --> 00:13:21,606
+Time out!
 
 203
-00:15:49,401 --> 00:15:52,070
-<i>Down the river</i>
+00:13:24,320 --> 00:13:25,481
+Sorry, boy.
 
 204
-00:15:52,279 --> 00:15:56,033
-<i>Of nights dreaming</i>
+00:13:28,080 --> 00:13:29,525
+Hey, Sparky.
 
 205
-00:15:57,200 --> 00:16:00,454
-<i>Flow morphia slow</i>
+00:13:33,080 --> 00:13:34,081
+<font color="#D900D9">(WHIMPERS)</font>
 
 206
-00:16:00,704 --> 00:16:02,956
-<i>Let the sun</i>
+00:13:34,160 --> 00:13:35,400
+<font color="#808080">UMPIRE:</font> Play ball!
 
 207
-00:16:03,206 --> 00:16:06,084
-<i>And light come streaming</i>
+00:13:38,760 --> 00:13:40,171
+Strike one!
 
 208
-00:16:06,335 --> 00:16:09,588
-<i>Into my life</i>
+00:13:40,280 --> 00:13:41,486
+Nice try, son.
 
 209
-00:16:12,090 --> 00:16:15,844
-<i>Into my life</i>
+00:13:42,480 --> 00:13:46,371
+When conducting an experiment,
+trying is the important thing.
 
 210
-00:16:20,265 --> 00:16:23,769
-<i>There's a light</i>
+00:13:46,720 --> 00:13:50,247
+It is okay to fail
+as long as you keep trying!
 
 211
-00:16:24,936 --> 00:16:28,398
-<i>Over at the Frankenstein place</i>
+00:13:52,600 --> 00:13:53,647
+Eh?
 
 212
-00:16:28,649 --> 00:16:31,902
-<i>There's a light</i>
+00:13:54,640 --> 00:13:55,846
+<font color="#D900D9">(PURRING)</font>
 
 213
-00:16:35,489 --> 00:16:39,409
-<i>Burning in the fireplace</i>
+00:13:59,600 --> 00:14:01,841
+<font color="#808080">MRS. FRANKENSTEIN:</font>
+Come on, Victor. You can do it, honey.
 
 214
-00:16:39,826 --> 00:16:42,496
-<i>There's a light</i>
+00:14:07,560 --> 00:14:09,403
+<font color="#D900D9">(VICTOR GRUNTS)</font>
+- Strike two!
 
 215
-00:16:42,996 --> 00:16:45,248
-<i>Light</i>
+00:14:09,760 --> 00:14:10,761
+Yes!
 
 216
-00:16:45,874 --> 00:16:49,670
-<i>In the darkness</i>
+00:14:10,880 --> 00:14:12,405
+Come on, honey!
 
 217
-00:16:49,920 --> 00:16:55,050
-<i>Of everybody's life</i>
+00:14:14,240 --> 00:14:15,287
+<font color="#D900D9">(WHIMPERS)</font>
 
 218
-00:17:01,890 --> 00:17:03,475
-And so...
+00:14:19,400 --> 00:14:20,481
+<font color="#D900D9">(MEOWS)</font>
 
 219
-00:17:04,101 --> 00:17:08,438
-it seemed that fortune
-had smiled on Brad and Janet...
+00:14:32,760 --> 00:14:33,807
+<font color="#D900D9">(GASPS)</font>
 
 220
-00:17:08,689 --> 00:17:13,193
-and they had found the assistance
-that their plight required.
+00:14:44,880 --> 00:14:46,006
+Victor, run!
 
 221
-00:17:13,860 --> 00:17:15,696
-Or had they?
+00:14:51,320 --> 00:14:52,287
+Sparky!
 
 222
-00:17:18,407 --> 00:17:21,118
-Brad, let's go back.
-I'm cold and I'm frightened.
+00:14:52,360 --> 00:14:53,441
+<font color="#D900D9">(BARKING)</font>
 
 223
-00:17:21,368 --> 00:17:23,829
-Just a moment, Janet.
-They may have a phone.
+00:14:56,840 --> 00:14:57,887
+<font color="#D900D9">(GASPS)</font>
 
 224
-00:17:43,307 --> 00:17:44,683
-Hello.
+00:15:08,400 --> 00:15:09,845
+<font color="#D900D9">(CAR APPROACHING)</font>
 
 225
-00:17:46,435 --> 00:17:49,688
-Hi! My name's Brad Majors.
+00:15:11,080 --> 00:15:12,411
+<font color="#D900D9">(THUDDING)</font>
+<font color="#D900D9">(GASPS)</font>
 
 226
-00:17:50,397 --> 00:17:53,358
-This is my fiancée, Janet Weiss.
+00:15:14,800 --> 00:15:15,847
+<font color="#D900D9">(PANTING)</font>
 
 227
-00:17:53,900 --> 00:17:57,863
-I wondered if you might help us.
-Our car broke down up the road.
+00:15:19,480 --> 00:15:20,606
+Sparky!
 
 228
-00:17:58,113 --> 00:17:59,948
-Do you have a phone we might use?
+00:15:25,760 --> 00:15:29,446
+No!
 
 229
-00:18:01,325 --> 00:18:03,076
-You're wet.
+00:15:33,000 --> 00:15:34,729
+<font color="#D900D9">(THUNDER RUMBLING)</font>
 
 230
-00:18:04,995 --> 00:18:07,831
-Yes, it's raining.
+00:16:12,520 --> 00:16:13,601
+<font color="#D900D9">(WHIMPERING)</font>
 
 231
-00:18:08,874 --> 00:18:09,916
-Yes.
+00:16:21,160 --> 00:16:23,811
+He was a great dog. A great friend.
 
 232
-00:18:10,959 --> 00:18:12,628
-Oh.
+00:16:24,200 --> 00:16:26,248
+The best dog a kid could have.
 
 233
-00:18:17,257 --> 00:18:21,595
-I think, perhaps,
-you better both come inside.
+00:16:26,720 --> 00:16:29,849
+When you lose someone you love,
+they never really leave you.
 
 234
-00:18:25,432 --> 00:18:27,225
-You're too kind.
+00:16:31,080 --> 00:16:34,050
+They just move into
+a special place in your heart.
 
 235
-00:18:42,658 --> 00:18:45,160
-I'm frightened.
-What kind of place is this?
+00:16:34,120 --> 00:16:36,088
+He'll always be there, Victor.
 
 236
-00:18:45,410 --> 00:18:49,539
-It's probably some kind of
-hunting lodge for rich weirdos.
+00:16:38,040 --> 00:16:41,840
+I don't want him in my heart.
+I want him here with me.
 
 237
-00:18:55,128 --> 00:18:56,421
-This way.
+00:16:45,760 --> 00:16:46,886
+I know.
 
 238
-00:19:01,426 --> 00:19:03,929
-Are you having a party?
+00:16:47,720 --> 00:16:50,200
+If we could bring him back, we would.
 
 239
-00:19:05,764 --> 00:19:08,558
-You've arrived on
-a rather special night.
+00:16:53,960 --> 00:16:57,681
+Try and get some sleep, sweetheart.
+Things will seem better in the morning.
 
 240
-00:19:08,809 --> 00:19:12,312
-- It's one of the master's affairs.
-- Oh.
+00:17:10,840 --> 00:17:13,207
+<font color="#D900D9">(SNIFFLING)</font>
 
 241
-00:19:12,562 --> 00:19:14,398
-- Lucky him.
-- You're lucky.
+00:17:28,760 --> 00:17:29,807
+<font color="#D900D9">(BARKING)</font>
 
 242
-00:19:14,648 --> 00:19:19,569
-He's lucky, I'm lucky, we're all lucky!
+00:17:57,560 --> 00:18:01,451
+<font color="#808080">MR. RZYKRUSKI:</font> Just like lightning,
+the nervous system is electricity.
 
 243
-00:19:33,542 --> 00:19:35,877
-<i>It's astounding</i>
+00:18:02,640 --> 00:18:06,884
+We are wires and springs and cables
+to send the messages.
 
 244
-00:19:36,128 --> 00:19:38,755
-<i>Time is fleeting</i>
+00:18:09,840 --> 00:18:11,524
+<font color="#D900D9">(STUDENTS EXCLAIMING
+IN DISGUST)</font>
 
 245
-00:19:39,631 --> 00:19:42,801
-<i>Madness takes its toll</i>
+00:18:13,440 --> 00:18:17,001
+Even after death, the wiring remains.
 
 246
-00:19:44,845 --> 00:19:46,680
-<i>But listen closely</i>
+00:18:18,240 --> 00:18:23,087
+Watch as the muscles
+respond to the electricity.
 
 247
-00:19:46,888 --> 00:19:50,017
-<i>Not for very much longer</i>
+00:18:27,560 --> 00:18:28,686
+<font color="#D900D9">(MACHINE WHIRRING)</font>
 
 248
-00:19:50,726 --> 00:19:55,022
-<i>I've got to keep control</i>
+00:18:37,520 --> 00:18:38,601
+<font color="#D900D9">(GASPS)</font>
 
 249
-00:19:55,522 --> 00:19:57,941
-<i>I remember</i>
+00:18:50,440 --> 00:18:51,726
+<font color="#D900D9">(PANTING)</font>
 
 250
-00:19:58,191 --> 00:20:00,861
-<i>Doing the time warp</i>
+00:18:55,800 --> 00:18:56,881
+<font color="#D900D9">(GRUNTS)</font>
 
 251
-00:20:01,570 --> 00:20:02,946
-<i>Drinking</i>
+00:18:59,840 --> 00:19:01,205
+<font color="#D900D9">(GLASS SHATTERING)</font>
 
 252
-00:20:03,196 --> 00:20:05,699
-<i>Those moments when</i>
+00:19:02,040 --> 00:19:03,166
+<font color="#D900D9">(GRUMBLES)</font>
 
 253
-00:20:05,949 --> 00:20:08,368
-<i>The blackness would hit me</i>
+00:19:15,000 --> 00:19:17,401
+Hi, Victor! How was school?
 
 254
-00:20:08,577 --> 00:20:11,288
-<i>And the void would be calling</i>
+00:19:18,080 --> 00:19:19,241
+<font color="#808080">VICTOR:</font> Okay.
 
 255
-00:20:13,457 --> 00:20:16,251
-<i>Let's do the time warp again</i>
+00:19:34,600 --> 00:19:35,601
+<font color="#D900D9">(GASPS)</font>
 
 256
-00:20:17,878 --> 00:20:21,173
-<i>Let's do the time warp again</i>
+00:20:27,320 --> 00:20:28,685
+<font color="#D900D9">(GRUNTING)</font>
 
 257
-00:20:24,217 --> 00:20:26,595
-<i>It's just a jump to the left</i>
+00:20:40,640 --> 00:20:41,641
+<font color="#D900D9">(GRUNTS)</font>
 
 258
-00:20:28,513 --> 00:20:32,267
-- <i>And a step to the right</i>
-- <i>With your hands on your hips</i>
+00:20:45,160 --> 00:20:46,446
+<font color="#D900D9">(GRUNTING)</font>
 
 259
-00:20:33,769 --> 00:20:36,229
-<i>You bring your knees in tight</i>
+00:20:46,560 --> 00:20:47,686
+<font color="#D900D9">(CAT MEOWS)</font>
 
 260
-00:20:36,480 --> 00:20:38,815
-<i>But it's the pelvic thrust</i>
+00:20:53,800 --> 00:20:54,926
+<font color="#D900D9">(HISSES)</font>
 
 261
-00:20:39,066 --> 00:20:41,735
-<i>That really drives you insane</i>
+00:20:55,160 --> 00:20:56,286
+<font color="#D900D9">(GASPS)</font>
 
 262
-00:20:42,861 --> 00:20:47,157
-<i>Let's do the time warp again</i>
+00:20:57,400 --> 00:20:58,925
+- Shoo!
+<font color="#D900D9">(YOWLS)</font>
 
 263
-00:20:48,450 --> 00:20:52,454
-<i>Let's do the time warp again</i>
+00:21:44,760 --> 00:21:47,684
+<font color="#D900D9">(DRAMATIC MUSIC PLAYING ON IV)</font>
 
 264
-00:20:53,080 --> 00:20:55,123
-<i>It's so dreamy</i>
+00:22:06,400 --> 00:22:07,447
+<font color="#D900D9">(GASPS)</font>
 
 265
-00:20:55,374 --> 00:20:58,418
-<i>Oh, fantasy free me</i>
+00:22:07,680 --> 00:22:08,761
+<font color="#D900D9">(GASPS)</font>
 
 266
-00:20:58,627 --> 00:21:00,420
-<i>So you can't see me</i>
+00:22:42,400 --> 00:22:43,401
+<font color="#D900D9">(GRUNTS)</font>
 
 267
-00:21:01,213 --> 00:21:03,131
-<i>No, not at all</i>
+00:23:02,120 --> 00:23:03,201
+<font color="#D900D9">(THUNDER CRASHING)</font>
 
 268
-00:21:03,590 --> 00:21:05,968
-<i>In another dimension</i>
+00:23:03,280 --> 00:23:04,406
+<font color="#D900D9">(GASPS)</font>
 
 269
-00:21:06,218 --> 00:21:08,845
-<i>With voyeuristic intention</i>
+00:24:43,640 --> 00:24:45,483
+<font color="#D900D9">(ELECTRICITY BUZZING)</font>
 
 270
-00:21:09,096 --> 00:21:11,765
-<i>Well secluded</i>
+00:25:52,120 --> 00:25:54,122
+<font color="#D900D9">(ELECTRICITY BUZZING)</font>
 
 271
-00:21:12,182 --> 00:21:14,017
-<i>I see all</i>
+00:26:00,280 --> 00:26:01,441
+<font color="#D900D9">(BUZZING STOPS)</font>
 
 272
-00:21:14,267 --> 00:21:16,645
-<i>With a bit of a mind flip</i>
+00:26:38,800 --> 00:26:40,484
+I'm sorry, boy.
 
 273
-00:21:16,937 --> 00:21:19,690
-<i>You're into the time slip</i>
+00:26:52,440 --> 00:26:53,601
+<font color="#D900D9">(SIGHS)</font>
 
 274
-00:21:20,190 --> 00:21:24,486
-<i>And nothing can ever be the same</i>
+00:27:00,760 --> 00:27:02,444
+<font color="#D900D9">(SPARKY WHINES)</font>
+<font color="#D900D9">(GASPS)</font>
 
 275
-00:21:24,736 --> 00:21:27,322
-<i>You're spaced out on sensation</i>
+00:27:04,360 --> 00:27:05,486
+<font color="#D900D9">(WHIMPERS)</font>
 
 276
-00:21:27,531 --> 00:21:30,534
-<i>Like you're under sedation</i>
+00:27:06,520 --> 00:27:07,885
+You're alive!
 
 277
-00:21:31,326 --> 00:21:35,330
-<i>Let's do the time warp again</i>
+00:27:09,200 --> 00:27:10,201
+<font color="#D900D9">(BARKS)</font>
 
 278
-00:21:36,456 --> 00:21:40,752
-<i>Let's do the time warp again</i>
+00:27:10,280 --> 00:27:11,566
+You're alive!
 
 279
-00:21:41,545 --> 00:21:44,089
-<i>I was walking down the street
-Just having a think</i>
+00:27:12,040 --> 00:27:13,644
+<font color="#D900D9">(BARKS)</font>
+- Sparky!
 
 280
-00:21:44,298 --> 00:21:46,967
-<i>When a snake of a guy
-Gave me an evil wink</i>
+00:27:13,720 --> 00:27:15,085
+You're alive!
 
 281
-00:21:47,175 --> 00:21:49,303
-<i>He shook a me up
-He took me by surprise</i>
+00:27:15,160 --> 00:27:17,401
+I can't believe it! You're alive!
 
 282
-00:21:49,553 --> 00:21:52,389
-<i>He had a pickup truck
-And the devil's eyes</i>
+00:27:19,360 --> 00:27:20,361
+<font color="#D900D9">(LAUGHING)</font>
 
 283
-00:21:52,597 --> 00:21:54,975
-<i>He stared at me
-And I felt a change</i>
+00:27:24,040 --> 00:27:25,405
+I can fix that.
 
 284
-00:21:55,225 --> 00:21:57,394
-<i>Time meant nothing
-Never would again</i>
+00:27:25,720 --> 00:27:27,404
+<font color="#D900D9">(WHINING HAPPILY)</font>
 
 285
-00:21:57,811 --> 00:22:01,940
-<i>Let's do the time warp again</i>
+00:27:28,280 --> 00:27:29,486
+It worked.
 
 286
-00:22:03,317 --> 00:22:07,362
-<i>Let's do the time warp again</i>
+00:27:30,400 --> 00:27:31,811
+<font color="#D900D9">(CHUCKLES)</font> It really worked.
 
 287
-00:22:07,613 --> 00:22:09,156
-<i>It's just a jump to the left</i>
+00:27:36,560 --> 00:27:37,686
+<font color="#D900D9">(SNORING)</font>
 
 288
-00:22:11,074 --> 00:22:14,911
-- <i>And then a step to the right</i>
-- <i>With your hands on your hips</i>
+00:27:37,840 --> 00:27:39,046
+<font color="#808080">MRS. FRANKENSTEIN:</font> Victor!
 
 289
-00:22:16,496 --> 00:22:18,915
-<i>You bring your knees in tight</i>
+00:27:41,600 --> 00:27:43,250
+Victor, breakfast!
 
 290
-00:22:19,166 --> 00:22:21,668
-<i>But it's the pelvic thrust</i>
+00:27:48,240 --> 00:27:49,480
+Victor?
 
 291
-00:22:21,877 --> 00:22:24,546
-<i>That really drives you insane</i>
+00:27:51,800 --> 00:27:53,325
+Are you up here?
 
 292
-00:22:25,631 --> 00:22:29,343
-<i>Let's do the time warp again</i>
+00:27:55,480 --> 00:27:56,766
+<font color="#D900D9">(BARKS)</font>
+- Shh.
 
 293
-00:22:31,094 --> 00:22:35,390
-<i>Let's do the time warp again</i>
+00:27:57,680 --> 00:27:58,966
+<font color="#808080">VICTOR:</font> <font color="#D900D9">(WHISPERS)</font> Quiet down, boy.
 
 294
-00:22:53,742 --> 00:22:57,829
-<i>Let's do the time warp again</i>
+00:27:59,040 --> 00:28:00,080
+<font color="#808080">MRS. FRANKENSTEIN:</font> Victor?
 
 295
-00:22:59,122 --> 00:23:03,293
-<i>Let's do the time warp again</i>
+00:28:00,320 --> 00:28:01,446
+<font color="#D900D9">(GASPS)</font>
 
 296
-00:23:03,543 --> 00:23:04,836
-<i>It's just a jump to the left</i>
+00:28:04,360 --> 00:28:05,850
+<font color="#D900D9">(WHISPERING)</font> Sparky, Shh!
 
 297
-00:23:07,005 --> 00:23:10,634
-- <i>And then a step to the right</i>
-- <i>With your hands on your hips</i>
+00:28:06,440 --> 00:28:07,441
+Quiet.
 
 298
-00:23:12,386 --> 00:23:14,179
-<i>Bring your knees in tight</i>
+00:28:07,920 --> 00:28:08,921
+Victor!
 
 299
-00:23:14,721 --> 00:23:16,848
-<i>But it's the pelvic thrust</i>
+00:28:23,240 --> 00:28:24,890
+<font color="#808080"><font color="#D900D9">(CLATTERING)</font>
+ VICTOR:</font> - Shh!
 
 300
-00:23:17,516 --> 00:23:19,935
-<i>That really drives you insane</i>
+00:28:27,960 --> 00:28:29,883
+French toast or waffles?
 
 301
-00:23:21,311 --> 00:23:25,440
-<i>Let's do the time warp again</i>
+00:28:30,680 --> 00:28:31,681
+Uh, waffles.
 
 302
-00:23:26,692 --> 00:23:30,946
-<i>Let's do the time warp again</i>
+00:28:31,760 --> 00:28:34,047
+Then I'll need my waffle iron back,
+Mr. Director.
 
 303
-00:23:43,166 --> 00:23:44,626
-Say something.
+00:28:43,800 --> 00:28:46,690
+It's my science project. It's a robot.
 
 304
-00:23:45,752 --> 00:23:49,881
-Say! Do any of you guys know
-how to Madison?
+00:28:47,440 --> 00:28:49,966
+- A robotic bucket?
+- Yes.
 
 305
-00:23:54,261 --> 00:23:59,057
-- Brad, please, let's get out of here.
-- Keep a grip on yourself, Janet.
+00:28:50,480 --> 00:28:53,006
+- For mopping, I suppose?
+- Yes.
 
 306
-00:23:59,266 --> 00:24:02,769
-- But it seems so unhealthy here.
-- It's just a party, Janet.
+00:28:53,560 --> 00:28:56,211
+Maybe when you're finished,
+you'll let me use it.
 
 307
-00:24:03,020 --> 00:24:06,732
-- Well, I want to go.
-- We can't till I get to a phone.
+00:29:06,480 --> 00:29:07,641
+<font color="#D900D9">(BARKS)</font>
 
 308
-00:24:06,982 --> 00:24:09,610
-- Then ask the butler or someone.
-- Just a moment.
+00:29:07,880 --> 00:29:11,168
+Sorry, boy, but I can't let
+anyone know about you.
 
 309
-00:24:09,818 --> 00:24:12,154
-We don't want to interfere
-with their celebrations.
+00:29:11,560 --> 00:29:13,085
+They may not understand.
 
 310
-00:24:12,362 --> 00:24:14,448
-This isn't the Chamber of Commerce.
+00:29:13,160 --> 00:29:15,083
+So, you need to stay here today.
 
 311
-00:24:14,656 --> 00:24:17,409
-They're probably foreigners
-with different ways.
+00:29:15,200 --> 00:29:16,247
+<font color="#D900D9">(KISSES)</font>
 
 312
-00:24:17,659 --> 00:24:20,370
-They may do some more folk dancing.
+00:29:20,320 --> 00:29:21,367
+<font color="#D900D9">(WHIMPERS)</font>
 
 313
-00:24:22,581 --> 00:24:25,000
-I'm cold, I'm wet and
-I'm just plain scared.
+00:29:27,000 --> 00:29:28,286
+<font color="#D900D9">(WHIRRING)</font>
 
 314
-00:24:25,208 --> 00:24:28,211
-I'm here, there's nothing
-to worry about.
+00:29:48,320 --> 00:29:49,924
+<font color="#D900D9">(BARKING)</font>
 
 315
-00:24:33,091 --> 00:24:35,093
-<i>How do you do</i>
+00:29:55,840 --> 00:29:56,887
+<font color="#D900D9">(MEOWS)</font>
 
 316
-00:24:35,344 --> 00:24:37,429
-<i>I see you've met</i>
+00:30:00,560 --> 00:30:02,244
+<font color="#D900D9">(SPARKY BARKING)</font>
 
 317
-00:24:37,679 --> 00:24:40,682
-<i>My faithful handyman</i>
+00:30:04,800 --> 00:30:06,450
+No, couldn't be.
 
 318
-00:24:41,016 --> 00:24:43,268
-<i>He's just a little brought down</i>
+00:30:08,960 --> 00:30:09,961
+<font color="#D900D9">(MEOWS)</font>
 
 319
-00:24:43,518 --> 00:24:46,563
-<i>Because when you knocked</i>
+00:30:10,480 --> 00:30:12,084
+<font color="#D900D9">(BARKING)</font>
 
 320
-00:24:46,813 --> 00:24:49,691
-<i>He thought you were the candyman</i>
+00:30:15,480 --> 00:30:16,811
+<font color="#D900D9">(YOWLS)</font>
 
 321
-00:24:51,318 --> 00:24:53,278
-<i>Don't get strung out</i>
+00:30:18,160 --> 00:30:20,003
+<font color="#D900D9">(WHIMPERING)</font>
 
 322
-00:24:53,528 --> 00:24:55,530
-<i>By the way I look</i>
+00:30:22,080 --> 00:30:23,081
+<font color="#D900D9">(MR. WHISKERS MEOWS)</font>
 
 323
-00:24:55,781 --> 00:24:59,201
-<i>Don't judge a book by its cover</i>
+00:30:24,920 --> 00:30:25,887
+<font color="#D900D9">(BARKING)</font>
 
 324
-00:24:59,451 --> 00:25:01,703
-<i>I'm not much of a man</i>
+00:30:25,960 --> 00:30:26,961
+<font color="#D900D9">(YOWLS)</font>
 
 325
-00:25:01,954 --> 00:25:03,705
-<i>By the light of day</i>
+00:30:28,520 --> 00:30:29,567
+<font color="#D900D9">(MEOWS)</font>
 
 326
-00:25:03,956 --> 00:25:07,834
-<i>But by night I'm one hell of a lover</i>
+00:30:37,040 --> 00:30:38,201
+<font color="#D900D9">(MEOWS)</font>
 
 327
-00:25:08,085 --> 00:25:11,588
-<i>I'm just a sweet transvestite</i>
+00:30:41,080 --> 00:30:42,081
+<font color="#D900D9">(GASPS)</font>
 
 328
-00:25:13,131 --> 00:25:16,009
-<i>From Transsexual...</i>
+00:30:43,440 --> 00:30:44,601
+<font color="#D900D9">(MR. WHISKERS YOWLS)</font>
 
 329
-00:25:16,259 --> 00:25:19,262
-<i>Transylvania</i>
+00:30:48,040 --> 00:30:49,121
+<font color="#D900D9">(FLY BUZZING)</font>
 
 330
-00:25:21,807 --> 00:25:23,725
-<i>Let me show you around</i>
+00:30:51,480 --> 00:30:52,561
+<font color="#D900D9">(GROWLS)</font>
 
 331
-00:25:23,976 --> 00:25:26,812
-<i>Maybe play you a sound</i>
+00:31:05,520 --> 00:31:06,521
+What?
 
 332
-00:25:27,104 --> 00:25:30,565
-<i>You look like you're both
-Pretty groovy</i>
+00:31:06,600 --> 00:31:08,125
+<font color="#D900D9">(GROWLING)</font>
 
 333
-00:25:30,774 --> 00:25:33,527
-<i>Or if you want something visual</i>
+00:31:08,800 --> 00:31:10,086
+<font color="#D900D9">(SCREAMS)</font>
 
 334
-00:25:33,777 --> 00:25:35,988
-<i>That's not too abysmal</i>
+00:31:16,560 --> 00:31:18,483
+I know. And Helen said
+she thought they were
 
 335
-00:25:36,238 --> 00:25:39,533
-<i>We could take in an old
-Steve Reeves movie</i>
+00:31:18,560 --> 00:31:21,928
+putting up some
+kind of TV antenna on top of the roof.
 
 336
-00:25:40,784 --> 00:25:43,287
-<i>I'm glad we caught you at home</i>
+00:31:22,640 --> 00:31:23,971
+<font color="#808080">WOMAN 2:</font> In the middle
+of a thunderstorm?
 
 337
-00:25:44,121 --> 00:25:45,998
-<i>Could we use your phone?</i>
+00:31:24,040 --> 00:31:25,246
+<font color="#808080">WOMAN 1:</font> That's what she said.
 
 338
-00:25:46,498 --> 00:25:48,959
-- <i>We're both in a bit of a hurry</i>
-- <i>Right</i>
+00:31:25,440 --> 00:31:26,851
+I don't believe it.
 
 339
-00:25:49,167 --> 00:25:51,003
-<i>We'll just say where we are</i>
+00:31:29,560 --> 00:31:32,564
+And did you get
+that big power surge the other night?
 
 340
-00:25:51,253 --> 00:25:54,589
-- <i>Then go back to the car</i>
-- <i>A pleasure to meet you, Dr. Furter</i>
+00:31:32,720 --> 00:31:34,688
+Jack thought it was a fuse box,
 
 341
-00:25:54,840 --> 00:25:57,050
-<i>We don't want to be any worry</i>
+00:31:34,840 --> 00:31:37,650
+but apparently it affected
+the whole neighborhood.
 
 342
-00:25:57,759 --> 00:26:01,221
-<i>Well, you got caught with a flat</i>
+00:31:37,800 --> 00:31:41,088
+Sometimes I wonder
+just what goes on in that house.
 
 343
-00:26:01,430 --> 00:26:03,140
-<i>Well, how about that</i>
+00:31:41,240 --> 00:31:43,208
+I just don't feel safe walking by there.
 
 344
-00:26:03,390 --> 00:26:06,852
-<i>Well, babies, don't you panic</i>
+00:31:44,640 --> 00:31:45,721
+<font color="#D900D9">(BAWLING)</font>
 
 345
-00:26:07,102 --> 00:26:09,396
-<i>By the light of the night</i>
+00:31:47,560 --> 00:31:50,643
+Sweetie, you okay? Here you go.
 
 346
-00:26:09,646 --> 00:26:11,648
-<i>It'll all seem all right</i>
+00:31:53,200 --> 00:31:55,282
+So anyway, Jack loves it here,
 
 347
-00:26:11,898 --> 00:26:15,736
-<i>I'll get you a satanic mechanic</i>
+00:31:55,360 --> 00:31:56,800
+but if the schools weren't so great,
 
 348
-00:26:15,944 --> 00:26:19,156
-<i>I'm just a sweet transvestite</i>
+00:31:56,840 --> 00:31:59,650
+sometimes I wonder
+if we'd be better off closer to my mother.
 
 349
-00:26:20,782 --> 00:26:23,744
-<i>From Transsexual...</i>
+00:32:13,000 --> 00:32:14,604
+Sparky?
 
 350
-00:26:23,994 --> 00:26:27,497
-<i>Transylvania</i>
+00:32:14,880 --> 00:32:16,006
+<font color="#D900D9">(WHINES)</font>
 
 351
-00:26:29,541 --> 00:26:31,627
-<i>Why don't you stay for the night</i>
+00:32:18,200 --> 00:32:19,281
+Hmm.
 
 352
-00:26:32,044 --> 00:26:34,171
-- <i>Night</i>
-- <i>Or maybe a bite</i>
+00:32:22,560 --> 00:32:24,369
+<font color="#D900D9">(PANTING)</font>
 
 353
-00:26:34,421 --> 00:26:35,255
-<i>Bite</i>
+00:32:29,920 --> 00:32:31,046
+<font color="#D900D9">(BARKING)</font>
 
 354
-00:26:35,505 --> 00:26:38,717
-<i>I could show you
-My favorite obsession</i>
+00:32:57,160 --> 00:32:58,241
+<font color="#D900D9">(ELECTRICITY BUZZES)</font>
 
 355
-00:26:39,343 --> 00:26:42,095
-<i>I've been making a man</i>
+00:33:13,560 --> 00:33:14,607
+<font color="#D900D9">(BICYCLE BELL RINGING)</font>
 
 356
-00:26:42,596 --> 00:26:44,723
-<i>With blond hair and a tan</i>
+00:33:14,720 --> 00:33:15,801
+<font color="#D900D9">(BARKS)</font>
 
 357
-00:26:44,973 --> 00:26:48,185
-<i>And he's good for relieving
-My tension</i>
+00:33:20,240 --> 00:33:23,084
+- Hi, Victor. How was school?
+- Good. Got to go.
 
 358
-00:26:48,435 --> 00:26:51,897
-<i>I'm just a sweet transvestite</i>
+00:33:29,600 --> 00:33:30,840
+Sparky?
 
 359
-00:26:53,857 --> 00:26:56,526
-<i>From Transsexual...</i>
+00:33:33,600 --> 00:33:34,761
+Sparky?
 
 360
-00:26:56,777 --> 00:27:00,030
-<i>Transylvania</i>
+00:33:34,880 --> 00:33:35,927
+<font color="#D900D9">(BARKING)</font>
 
 361
-00:27:01,073 --> 00:27:01,907
-Hit it! Hit it!
+00:33:36,600 --> 00:33:37,601
+There you are.
 
 362
-00:27:02,115 --> 00:27:06,954
-- <i>I'm just a sweet transvestite</i>
-- <i>Sweet transvestite</i>
+00:33:39,400 --> 00:33:42,563
+Good boy. Sorry you had
+to stay here alone all day.
 
 363
-00:27:07,204 --> 00:27:10,248
-<i>From Transsexual...</i>
+00:33:43,440 --> 00:33:44,601
+<font color="#D900D9">(PANTING)</font>
 
 364
-00:27:10,457 --> 00:27:12,584
-<i>Transylvania</i>
+00:33:48,200 --> 00:33:50,123
+What's the matter, boy? Are you okay?
 
 365
-00:27:17,339 --> 00:27:19,883
-<i>So come up to the lab</i>
+00:33:50,200 --> 00:33:51,247
+<font color="#D900D9">(GROANS)</font>
 
 366
-00:27:20,759 --> 00:27:23,720
-<i>And see what's on the slab</i>
+00:33:52,560 --> 00:33:54,050
+Hmm. You're a little low.
 
 367
-00:27:24,930 --> 00:27:25,973
-<i>I see you shiver</i>
+00:33:55,040 --> 00:33:56,041
+Are you hungry, boy?
 
 368
-00:27:26,181 --> 00:27:28,350
-<i>With antici...</i>
+00:33:56,120 --> 00:33:57,121
+<font color="#D900D9">(WHIMPERS)</font>
 
 369
-00:27:30,268 --> 00:27:31,311
-<i>pation</i>
+00:33:57,680 --> 00:33:59,364
+All right, here. Let's top you up.
 
 370
-00:27:32,604 --> 00:27:34,523
-<i>But maybe the rain</i>
+00:34:06,640 --> 00:34:07,641
+<font color="#D900D9">(BARKS)</font>
 
 371
-00:27:35,816 --> 00:27:37,567
-<i>Is really to blame</i>
+00:34:13,320 --> 00:34:15,891
+<font color="#808080">MRS. FRANKENSTEIN:</font> Victor?
+Could you come down here, please?
 
 372
-00:27:38,360 --> 00:27:41,071
-<i>So I'll remove the cause</i>
+00:34:17,960 --> 00:34:19,086
+Victor!
 
 373
-00:27:45,367 --> 00:27:46,910
-<i>But not the symptom</i>
+00:34:19,800 --> 00:34:21,165
+Your friend is here.
 
 374
-00:28:00,465 --> 00:28:01,508
-Thank you.
+00:34:23,560 --> 00:34:24,561
+Edgar?
 
 375
-00:28:05,429 --> 00:28:06,763
-Thank you very much.
+00:34:24,640 --> 00:34:25,641
+Hey.
 
 376
-00:28:09,683 --> 00:28:10,726
-Brad!
+00:34:25,880 --> 00:34:28,531
+Edgar, what are you doing here?
 
 377
-00:28:10,976 --> 00:28:15,314
-We'll play along for now and pull out
-the aces when the time is right.
+00:34:28,600 --> 00:34:30,807
+- I know.
+- What?
 
 378
-00:28:16,523 --> 00:28:20,402
-Slowly, slowly.
-It's too nice a job to rush.
+00:34:31,480 --> 00:34:32,606
+I know.
 
 379
-00:28:20,819 --> 00:28:25,741
-Hi. My name's Brad Majors and
-this is my fiancée, Janet Weiss.
+00:34:36,480 --> 00:34:38,369
+- Know what?
+- You know.
 
 380
-00:28:29,578 --> 00:28:30,662
-You are...?
+00:34:38,840 --> 00:34:39,841
+No.
 
 381
-00:28:30,912 --> 00:28:34,291
-You are very lucky to be invited
-up to Frank's laboratory.
+00:34:40,000 --> 00:34:42,526
+I think I know what you know I know.
 
 382
-00:28:34,541 --> 00:28:38,170
-Some people would give their
-right arm for the privilege.
+00:34:43,120 --> 00:34:46,966
+Look, I don't know what you think
+I know, but I don't know it.
 
 383
-00:28:38,420 --> 00:28:40,547
-People like you, maybe?
+00:34:51,960 --> 00:34:54,088
+Your dog is alive!
 
 384
-00:28:40,797 --> 00:28:42,841
-I've seen it.
+00:34:54,160 --> 00:34:57,767
+<font color="#D900D9">(GASPS)</font> That's impossible.
+- I know.
 
 385
-00:28:47,095 --> 00:28:50,766
-Come along. The master doesn't
-like to be kept waiting.
+00:34:58,000 --> 00:35:01,607
+I know it is so impossible, but you did it.
 
 386
-00:28:51,058 --> 00:28:53,268
-Shift it!
+00:35:01,680 --> 00:35:03,444
+You did it!
 
 387
-00:29:08,325 --> 00:29:11,828
-Is he...? Frank, I mean,
-is he your husband?
+00:35:04,600 --> 00:35:07,843
+So, show me how, or I'll tell everyone.
 
 388
-00:29:12,454 --> 00:29:16,416
-The master is not yet married.
-Nor do I think he ever will be.
+00:35:08,520 --> 00:35:11,364
+- Oh, Mrs. Frankenstein!
+- Shh.
 
 389
-00:29:16,667 --> 00:29:19,252
-- We are simply his servants.
-- Oh.
+00:35:15,480 --> 00:35:17,448
+May I have a cookie, please?
 
 390
-00:30:03,922 --> 00:30:05,215
-Magenta.
+00:35:18,160 --> 00:35:20,003
+Oh. Yes, of course.
 
 391
-00:30:06,425 --> 00:30:07,926
-Columbia.
+00:35:21,360 --> 00:35:22,725
+<font color="#D900D9">(WHISPERS)</font> All right, come on.
 
 392
-00:30:08,593 --> 00:30:10,846
-Go and assist Riff Raff.
+00:35:25,600 --> 00:35:26,601
+Oh!
 
 393
-00:30:12,597 --> 00:30:14,391
-I will entertain...
+00:35:27,040 --> 00:35:30,044
+I think the wind and the lightning
+are part of the same thing,
 
 394
-00:30:19,479 --> 00:30:22,649
-Brad Majors and this is
-my fiancée, Janet Vice.
+00:35:30,120 --> 00:35:31,724
+some kind of strange force.
 
 395
-00:30:22,899 --> 00:30:25,027
-- Weiss.
-- Weiss?
+00:35:31,800 --> 00:35:35,122
+But the wind isn't strong enough
+to bring an animal back from the dead.
 
 396
-00:30:27,696 --> 00:30:29,615
-<i>Enchanté.</i>
+00:35:35,200 --> 00:35:37,202
+For that, you need lightning.
 
 397
-00:30:29,906 --> 00:30:32,534
-Well, how nice.
+00:35:37,840 --> 00:35:39,604
+So when can I do it?
 
 398
-00:30:32,826 --> 00:30:35,704
-And what charming underclothes
-you both have.
+00:35:39,800 --> 00:35:43,202
+You can't. This isn't an experiment.
+It's my dog.
 
 399
-00:30:35,954 --> 00:30:39,458
-But here, put these on.
+00:35:44,440 --> 00:35:46,727
+Show-and-tell, Victor.
 
 400
-00:30:39,708 --> 00:30:43,211
-They'll make you feel less vulnerable.
+00:35:47,560 --> 00:35:50,643
+You show me, and I won't tell.
 
 401
-00:30:44,504 --> 00:30:46,965
-It's not often we receive visitors here.
+00:35:57,680 --> 00:35:59,170
+<font color="#808080">CLERK:</font> Can I help you, young man?
 
 402
-00:30:47,215 --> 00:30:49,968
-Let alone offer them hospitality.
+00:35:59,240 --> 00:36:01,242
+I'd like to buy a fish.
 
 403
-00:30:50,218 --> 00:30:54,848
-Hospitality! All we wanted to do
-was use your telephone. Goddamn it!
+00:36:01,320 --> 00:36:02,970
+Certainly. Which one?
 
 404
-00:30:55,098 --> 00:30:57,392
-A reasonable request you have ignored!
+00:36:03,040 --> 00:36:04,371
+This one.
 
 405
-00:30:57,643 --> 00:31:00,896
-- Don't be ungrateful.
-- Ungrateful?!
+00:36:06,240 --> 00:36:07,605
+<font color="#D900D9">(THUNDER CRASHING)</font>
 
 406
-00:31:01,396 --> 00:31:04,066
-How forceful you are, Brad.
+00:36:15,800 --> 00:36:16,881
+<font color="#D900D9">(BARKS)</font>
 
 407
-00:31:04,316 --> 00:31:08,695
-Such a perfect specimen of manhood.
-So dominant.
+00:36:22,520 --> 00:36:23,931
+What do we do now?
 
 408
-00:31:12,366 --> 00:31:15,702
-You must be awfully proud of him, Janet.
+00:36:25,600 --> 00:36:26,647
+<font color="#D900D9">(GASPS)</font>
 
 409
-00:31:16,203 --> 00:31:18,622
-Well, yes, I am.
+00:36:30,080 --> 00:36:31,161
+<font color="#D900D9">(WHIMPERS)</font>
 
 410
-00:31:19,623 --> 00:31:22,793
-- Do you have any tattoos, Brad?
-- Certainly not.
+00:36:41,600 --> 00:36:44,763
+What happened to it? What did you do?
 
 411
-00:31:23,001 --> 00:31:26,129
-Oh, well. How about you?
+00:36:44,840 --> 00:36:47,286
+I don't know. It should have worked.
 
 412
-00:31:26,421 --> 00:31:28,632
-Everything is in readiness, master.
+00:36:47,680 --> 00:36:48,681
+<font color="#D900D9">(GASPS)</font>
 
 413
-00:31:28,882 --> 00:31:31,969
-We merely await your word.
+00:36:59,720 --> 00:37:03,247
+It's invisible. It's an invisible goldfish.
 
 414
-00:31:40,268 --> 00:31:44,606
-Tonight, my unconventional
-conventionists...
+00:37:03,440 --> 00:37:06,523
+- Why is it invisible?
+- I have no idea.
 
 415
-00:31:45,524 --> 00:31:48,026
-you are to witness a new breakthrough...
+00:37:07,760 --> 00:37:08,807
+<font color="#D900D9">(GROWLS)</font>
 
 416
-00:31:48,235 --> 00:31:51,405
-in biochemical research.
+00:37:10,640 --> 00:37:13,291
+You can't tell anyone.
+You understand that, right?
 
 417
-00:31:51,655 --> 00:31:55,826
-And paradise is to be mine!
+00:37:13,360 --> 00:37:14,964
+Not until we figure out how it works.
 
 418
-00:32:00,539 --> 00:32:02,833
-It was strange the way it happened.
+00:37:15,400 --> 00:37:17,129
+Okay, Okay.
 
 419
-00:32:03,750 --> 00:32:05,127
-Suddenly...
+00:37:17,440 --> 00:37:20,011
+- Promise?
+- Promise.
 
 420
-00:32:05,961 --> 00:32:07,421
-you get a break.
+00:37:26,440 --> 00:37:29,603
+How are we supposed
+to see an invisible goldfish?
 
 421
-00:32:08,839 --> 00:32:12,217
-All the pieces seem to fit into place.
+00:37:29,680 --> 00:37:32,843
+Put your finger in. You can feel it.
 
 422
-00:32:12,592 --> 00:32:16,388
-What a sucker you've been. What a fool.
+00:37:33,840 --> 00:37:35,604
+Ah! It bit me!
 
 423
-00:32:16,680 --> 00:32:19,349
-The answer was there all the time.
+00:37:36,520 --> 00:37:37,851
+Let me see it.
 
 424
-00:32:19,599 --> 00:32:24,104
-It took a small accident
-to make it happen.
+00:37:46,760 --> 00:37:47,841
+<font color="#D900D9">(BOTH GASP)</font>
 
 425
-00:32:25,022 --> 00:32:27,691
-- An accident!
-- An accident!
+00:37:55,480 --> 00:37:58,689
+It's my science project,
+and it's top secret!
 
 426
-00:32:27,941 --> 00:32:30,485
-That's how I discovered the secret.
+00:37:59,120 --> 00:38:00,246
+Mmm.
 
 427
-00:32:31,111 --> 00:32:34,072
-That elusive ingredient.
+00:38:02,960 --> 00:38:06,248
+Yeah? Well,
+our science fair project is even cooler.
 
 428
-00:32:34,323 --> 00:32:36,783
-That spark...
+00:38:08,120 --> 00:38:10,771
+- What is it?
+- Double top secret.
 
 429
-00:32:37,034 --> 00:32:40,078
-that is the breath of life.
+00:38:14,000 --> 00:38:15,411
+Sea-Monkeys?
 
 430
-00:32:42,748 --> 00:32:44,041
-Yes.
+00:38:16,160 --> 00:38:17,650
+<font color="#808080">BOB:</font> We got to come up
+with something better.
 
 431
-00:32:45,751 --> 00:32:49,046
-I have that knowledge.
+00:38:17,760 --> 00:38:19,569
+- Bigger.
+- I know.
 
 432
-00:32:50,088 --> 00:32:52,424
-I hold the secret...
+00:38:19,880 --> 00:38:21,644
+The science fair is in two days.
 
 433
-00:32:52,674 --> 00:32:55,719
-to life itself!
+00:38:21,720 --> 00:38:22,881
+I know.
 
 434
-00:33:11,193 --> 00:33:12,361
-You see...
+00:38:23,000 --> 00:38:25,526
+- You're the smart one!
+- I know.
 
 435
-00:33:12,903 --> 00:33:15,197
-you are fortunate.
+00:38:36,160 --> 00:38:37,366
+Hmm.
 
 436
-00:33:15,447 --> 00:33:18,492
-For tonight is the night...
+00:38:39,400 --> 00:38:40,561
+<font color="#D900D9">(SPARKY BARKING)</font>
 
 437
-00:33:18,742 --> 00:33:23,872
-that my beautiful creature
-is destined to be born.
+00:38:41,240 --> 00:38:43,607
+Okay, okay. Sit still. Shh.
 
 438
-00:34:02,035 --> 00:34:06,206
-Throw open the switches
-on the sonic oscillator.
+00:38:43,680 --> 00:38:47,321
+Sparky, no! Shh. No! Shh!
 
 439
-00:34:11,295 --> 00:34:14,548
-And step up the reactor power input...
+00:38:48,560 --> 00:38:52,201
+Sorry, boy, but
+we can't risk anyone seeing you again.
 
 440
-00:34:14,756 --> 00:34:17,509
-three more points!
+00:38:54,040 --> 00:38:55,246
+<font color="#D900D9">(WHIMPERING)</font>
 
 441
-00:34:40,073 --> 00:34:41,283
-Oh, Brad!
+00:38:57,560 --> 00:38:58,686
+<font color="#D900D9">(BARKING)</font>
 
 442
-00:34:41,533 --> 00:34:43,327
-It's all right, Janet.
+00:38:58,760 --> 00:38:59,761
+Shh!
 
 443
-00:36:30,726 --> 00:36:32,936
-Oh, Rocky!
+00:39:01,000 --> 00:39:02,081
+<font color="#D900D9">(WHIMPERS)</font>
 
 444
-00:36:38,275 --> 00:36:43,238
-<i>The sword of Damocles
-Is hanging over my head</i>
+00:39:07,600 --> 00:39:08,840
+<font color="#D900D9">(BELL RINGING)</font>
 
 445
-00:36:44,364 --> 00:36:48,035
-<i>I've got the feeling someone's
-Gonna be cutting the thread</i>
+00:39:14,400 --> 00:39:15,447
+<font color="#D900D9">(GASPS)</font>
 
 446
-00:36:52,039 --> 00:36:53,707
-<i>Oh, woe is me</i>
+00:39:16,480 --> 00:39:19,370
+Toshiaki says you
+have an invisible fish.
 
 447
-00:36:53,957 --> 00:36:56,877
-<i>My life is a misery</i>
+00:39:20,720 --> 00:39:23,326
+- No, he didn't.
+- So, you don't?
 
 448
-00:36:57,127 --> 00:36:59,338
-<i>Oh, can't you see</i>
+00:39:23,480 --> 00:39:25,687
+I didn't say that. Who said I did?
 
 449
-00:36:59,588 --> 00:37:02,549
-<i>That I'm at the start
-Of a pretty big downer</i>
+00:39:26,040 --> 00:39:29,965
+Toshiaki says it's your
+science fair project.
 
 450
-00:37:05,636 --> 00:37:09,056
-<i>I woke up this morning with a start
-When I fell out of bed</i>
+00:39:30,560 --> 00:39:31,686
+<font color="#D900D9">(LAUGHS NERVOUSLY)</font>
 
 451
-00:37:09,306 --> 00:37:11,433
-<i>That ain't no crime</i>
+00:39:32,240 --> 00:39:34,208
+If it was, I couldn't tell you.
 
 452
-00:37:11,683 --> 00:37:15,187
-<i>And left from my dreaming
-Was a feeling of unnameable dread</i>
+00:39:35,000 --> 00:39:36,445
+So it isn't,
 
 453
-00:37:15,437 --> 00:37:17,689
-<i>That ain't no crime</i>
+00:39:36,960 --> 00:39:38,405
+or it is?
 
 454
-00:37:17,940 --> 00:37:20,567
-<i>My high is low</i>
+00:39:39,200 --> 00:39:40,804
+No. Yes.
 
 455
-00:37:21,193 --> 00:37:23,695
-<i>I'm dressed up with no place to go</i>
+00:39:42,160 --> 00:39:43,525
+<font color="#D900D9">(STAMMERS)</font> I'm confused.
 
 456
-00:37:23,946 --> 00:37:26,615
-<i>And all I know</i>
+00:39:43,600 --> 00:39:46,524
+Do you have an invisible fish?
 
 457
-00:37:26,865 --> 00:37:30,994
-<i>Is I'm at the start
-Of a pretty big downer</i>
+00:39:48,320 --> 00:39:49,401
+Okay.
 
 458
-00:37:33,705 --> 00:37:36,166
-- <i>That ain't no crime.</i>
-- <i>Oh, no, no, no.</i>
+00:39:49,480 --> 00:39:51,642
+But you have to keep it a secret.
 
 459
-00:37:36,416 --> 00:37:39,169
-- <i>That ain't no crime.</i>
-- <i>Oh, no, no, no.</i>
+00:39:52,160 --> 00:39:55,164
+Swish your finger around.
+You can feel it.
 
 460
-00:37:39,378 --> 00:37:42,047
-Oh, my baby!
+00:40:01,960 --> 00:40:05,487
+It's just water. There's nothing there.
 
 461
-00:37:44,967 --> 00:37:48,303
-<i>The sword of Damocles
-Is hanging over my head</i>
+00:40:06,680 --> 00:40:08,523
+No, it's invisible.
 
 462
-00:37:48,553 --> 00:37:50,806
-<i>That ain't no crime</i>
+00:40:09,960 --> 00:40:11,041
+Huh?
 
 463
-00:37:51,014 --> 00:37:54,393
-<i>I've got the feeling someone's
-Gonna be cutting the thread</i>
+00:40:12,800 --> 00:40:17,010
+I don't know what kind
+of game you and Victor are playing,
 
 464
-00:37:54,643 --> 00:37:57,187
-<i>That ain't no crime</i>
+00:40:17,560 --> 00:40:20,803
+but that trophy will be mine.
 
 465
-00:37:57,437 --> 00:38:00,232
-<i>Oh, woe is me</i>
+00:40:21,320 --> 00:40:22,446
+<font color="#D900D9">(GASPS)</font>
 
 466
-00:38:00,482 --> 00:38:02,818
-<i>My life is a mystery</i>
+00:40:23,200 --> 00:40:24,201
+Victor.
 
 467
-00:38:03,068 --> 00:38:05,821
-<i>And can't you see</i>
+00:40:24,320 --> 00:40:25,401
+<font color="#D900D9">(PANTING)</font>
 
 468
-00:38:06,071 --> 00:38:09,408
-<i>That I'm at the start
-Of a pretty big downer</i>
+00:40:25,720 --> 00:40:27,404
+Something's wrong with my fish!
 
 469
-00:38:12,577 --> 00:38:15,414
-- <i>That ain't no crime.</i>
-- <i>Oh, no, no, no.</i>
+00:40:27,480 --> 00:40:29,562
+- What is it?
+- It's not there any more.
 
 470
-00:38:16,581 --> 00:38:18,458
-<i>That ain't no crime</i>
+00:40:29,720 --> 00:40:32,530
+Maybe it just hopped out.
+Did you have the lid on it?
 
 471
-00:38:37,352 --> 00:38:38,395
-Well, really!
+00:40:33,120 --> 00:40:35,361
+Yes, ever since
 
 472
-00:38:39,479 --> 00:38:42,316
-That's no way to behave
-on your first day out.
+00:40:36,600 --> 00:40:38,568
+I left your house.
 
 473
-00:38:46,153 --> 00:38:50,657
-But since you're such
-an exceptional beauty...
+00:40:38,800 --> 00:40:40,564
+I mean, it was there when I went to bed.
 
 474
-00:38:51,033 --> 00:38:53,368
-I'm prepared to forgive you.
+00:40:41,440 --> 00:40:44,364
+I'm thinking maybe they don't last.
 
 475
-00:38:58,832 --> 00:39:00,792
-Oh, I just love success!
+00:40:44,760 --> 00:40:48,128
+They're only there for a little bit
+and then they're gone.
 
 476
-00:39:01,043 --> 00:39:03,420
-- He is a credit to your genius.
-- Yes.
+00:40:48,200 --> 00:40:49,281
+<font color="#D900D9">(GASPS)</font>
 
 477
-00:39:03,670 --> 00:39:05,672
-- A triumph of your will.
-- Yes.
+00:40:56,720 --> 00:40:57,767
+<font color="#D900D9">(GASPS)</font>
 
 478
-00:39:05,922 --> 00:39:07,299
-He's okay.
+00:40:59,840 --> 00:41:01,126
+No! Sparky!
 
 479
-00:39:11,595 --> 00:39:12,971
-Okay?
+00:41:01,200 --> 00:41:02,201
+<font color="#D900D9">(SPARKY BARKS)</font>
+<font color="#D900D9">(GASPS)</font>
 
 480
-00:39:15,766 --> 00:39:16,892
-Okay?!
+00:41:06,200 --> 00:41:07,361
+- Sparky!
+<font color="#D900D9">(YIPS)</font>
 
 481
-00:39:18,685 --> 00:39:21,313
-I think we can do better than that.
+00:41:07,720 --> 00:41:08,881
+<font color="#D900D9">(SIGHS)</font>
 
 482
-00:39:25,651 --> 00:39:28,028
-Now, Brad and Janet...
+00:41:09,680 --> 00:41:11,569
+Don't worry. I can fix that, too.
 
 483
-00:39:28,278 --> 00:39:30,280
-what do you think of him?
+00:41:15,440 --> 00:41:16,646
+Good night, boy.
 
 484
-00:39:30,948 --> 00:39:32,366
-Well...
+00:41:31,960 --> 00:41:33,086
+Mmm.
 
 485
-00:39:32,783 --> 00:39:36,328
-I don't like men with too many muscles.
+00:41:34,560 --> 00:41:35,686
+<font color="#D900D9">(GROANS)</font>
 
 486
-00:39:37,663 --> 00:39:40,290
-I didn't make him for you!
+00:41:40,880 --> 00:41:42,609
+Are you sure this is going to work?
 
 487
-00:39:41,416 --> 00:39:44,962
-He carries the Charles Atlas
-seal of approval.
+00:41:43,360 --> 00:41:45,931
+No. That's why it's called
+an "experiment."
 
 488
-00:39:56,139 --> 00:40:01,353
-<i>A weakling weighing 98 pounds</i>
+00:41:46,000 --> 00:41:48,765
+We have to <font color="#D900D9">(GRUNTS)</font> collect data.
 
 489
-00:40:01,853 --> 00:40:04,564
-<i>Will get sand in his face</i>
+00:41:48,840 --> 00:41:50,569
+Do we have to collect it on me?
 
 490
-00:40:04,773 --> 00:40:07,359
-<i>When kicked to the ground</i>
+00:41:54,240 --> 00:41:55,401
+- Ready?
+- No.
 
 491
-00:40:08,944 --> 00:40:11,905
-<i>And soon in the gym</i>
+00:41:55,480 --> 00:41:57,687
+Ten, nine, eight...
 
 492
-00:40:12,155 --> 00:40:14,908
-<i>With a determined chin</i>
+00:41:57,760 --> 00:41:59,000
+We could use a test
+dummy or something.
 
 493
-00:40:15,534 --> 00:40:17,661
-<i>The sweat from his pores</i>
+00:41:59,120 --> 00:42:01,248
+...seven, six, five...
 
 494
-00:40:20,205 --> 00:40:23,875
-<i>As he works for his cause</i>
+00:42:01,320 --> 00:42:02,367
+Computer simulation.
 
 495
-00:40:24,751 --> 00:40:26,962
-<i>Will make him glisten</i>
+00:42:02,440 --> 00:42:04,841
+...four, three, two...
 
 496
-00:40:28,297 --> 00:40:30,340
-<i>And gleam</i>
+00:42:04,920 --> 00:42:07,241
+- I have to pee!
+- ...one.
 
 497
-00:40:30,841 --> 00:40:33,302
-<i>And with massage</i>
+00:42:09,000 --> 00:42:11,367
+Whoa! Whoa, whoa!
 
 498
-00:40:33,552 --> 00:40:38,682
-<i>And just a little bit of steam</i>
+00:42:11,720 --> 00:42:14,371
+Whoa, whoa! Whoa! Whoa!
 
 499
-00:40:42,936 --> 00:40:45,355
-<i>He'll be pink</i>
+00:42:14,440 --> 00:42:16,841
+Whoa, whoa, whoa, whoa.
 
 500
-00:40:45,856 --> 00:40:48,609
-<i>And quite clean</i>
+00:42:25,000 --> 00:42:27,924
+Whoa, whoa,
+whoa, whoa. Oh!
 
 501
-00:40:48,859 --> 00:40:53,155
-<i>He'll be a strong man</i>
+00:42:30,800 --> 00:42:33,121
+Whoa! Whoa, whoa, whoa, whoa! Ah!
 
 502
-00:40:54,114 --> 00:40:58,702
-<i>Oh, honey
-But the wrong man</i>
+00:42:33,840 --> 00:42:35,729
+It's working! It's working!
 
 503
-00:41:00,370 --> 00:41:04,041
-<i>He'll eat nutritious high protein</i>
+00:42:36,120 --> 00:42:37,451
+<font color="#D900D9">(LAUGHING)</font>
 
 504
-00:41:04,291 --> 00:41:06,752
-<i>And swallow raw eggs</i>
+00:42:37,760 --> 00:42:38,807
+<font color="#D900D9">(SCREAMS)</font>
 
 505
-00:41:07,002 --> 00:41:08,754
-<i>Try to build up his shoulders</i>
+00:42:40,440 --> 00:42:42,124
+<font color="#D900D9">(GROANING IN PAIN)</font>
 
 506
-00:41:09,004 --> 00:41:12,090
-<i>His chest, arms and legs</i>
+00:42:45,840 --> 00:42:46,966
+<font color="#D900D9">(GASPS)</font>
 
 507
-00:41:12,341 --> 00:41:17,095
-<i>Such an effort
-If he only knew of my plan</i>
+00:42:48,320 --> 00:42:50,049
+<font color="#D900D9">(SCREAMS)</font>
 
 508
-00:41:17,346 --> 00:41:20,724
-<i>In just seven days</i>
+00:42:50,600 --> 00:42:52,841
+<font color="#D900D9">(SIREN WAILING)</font>
 
 509
-00:41:20,974 --> 00:41:25,604
-<i>I can make you a man</i>
+00:42:56,160 --> 00:42:58,481
+What were you boys doing on the roof?
 
 510
-00:41:28,357 --> 00:41:31,026
-<i>He'll do press-ups and chin-ups</i>
+00:42:58,760 --> 00:43:00,000
+- Science.
+- Science.
 
 511
-00:41:31,234 --> 00:41:33,403
-<i>Do the snatch, clean and jerk</i>
+00:43:03,040 --> 00:43:05,088
+<font color="#808080">MR. BURGEMEISTER:</font>
+As mayor of New Holland,
 
 512
-00:41:34,446 --> 00:41:37,074
-<i>He thinks dynamic tension</i>
+00:43:05,920 --> 00:43:09,049
+you have entrusted me with your safety.
 
 513
-00:41:37,282 --> 00:41:39,576
-<i>Must be hard work</i>
+00:43:09,640 --> 00:43:14,965
+So I can't sit idly
+while a teacher endangers our children.
 
 514
-00:41:39,826 --> 00:41:41,703
-<i>Such strenuous living</i>
+00:43:15,520 --> 00:43:17,522
+The man is a menace!
 
 515
-00:41:41,954 --> 00:41:44,206
-<i>I just don't understand</i>
+00:43:18,480 --> 00:43:20,528
+<font color="#808080">MAN:</font> She's right! He's crazy!
 
 516
-00:41:44,456 --> 00:41:48,961
-<i>When in just seven days
-Oh, baby</i>
+00:43:20,600 --> 00:43:23,331
+Have you looked through
+this science book they're using?
 
 517
-00:41:49,169 --> 00:41:54,049
-<i>I can make you a man</i>
+00:43:23,560 --> 00:43:27,167
+Apparently Pluto isn't good
+enough to be a planet any more.
 
 518
-00:42:01,765 --> 00:42:03,100
-Eddie!
+00:43:27,560 --> 00:43:29,608
+<font color="#D900D9">(HARRUMPHS)</font> When I was a kid,
+Pluto was a great planet.
 
 519
-00:42:23,996 --> 00:42:26,832
-<i>Whatever happened to Saturday night</i>
+00:43:29,680 --> 00:43:31,682
+This guy comes along
+and rewrites the rules!
 
 520
-00:42:27,082 --> 00:42:32,379
-<i>When you dressed sharp, felt all right
-Don't seem the same since cosmic light</i>
+00:43:31,760 --> 00:43:34,730
+In fairness, he didn't write the textbook.
 
 521
-00:42:32,629 --> 00:42:36,174
-<i>Came into my life
-I thought I was divine</i>
+00:43:34,840 --> 00:43:37,889
+Mr. Mayor, Edward Frankenstein.
 
 522
-00:42:36,425 --> 00:42:41,513
-<i>I'd go for a ride with chicks who'd go
-And listen to the music on the radio</i>
+00:43:38,440 --> 00:43:40,044
+- Your neighbor, of course.
+<font color="#D900D9">(GRUMBLES)</font>
 
 523
-00:42:41,722 --> 00:42:44,308
-<i>A saxophone was blowing
-On a rock 'n' roll show</i>
+00:43:40,200 --> 00:43:42,806
+I just would like to say
+that our son Victor
 
 524
-00:42:44,558 --> 00:42:49,187
-<i>We climbed in the back seat
-We really had a good time</i>
+00:43:42,880 --> 00:43:45,963
+is just crazy about the new teacher.
 
 525
-00:42:49,438 --> 00:42:52,065
-<i>Hot patootie, bless my soul</i>
+00:43:46,560 --> 00:43:47,686
+Thinks he's great.
 
 526
-00:42:52,608 --> 00:42:54,860
-<i>I really love that rock 'n' roll</i>
+00:43:50,160 --> 00:43:51,764
+My Cynthia has been asking
 
 527
-00:42:55,527 --> 00:42:58,238
-<i>Hot patootie, bless my soul</i>
+00:43:51,840 --> 00:43:55,401
+all sorts of strange questions
+about things I've never even heard of.
 
 528
-00:42:58,488 --> 00:43:01,283
-<i>I really love that rock 'n' roll</i>
+00:43:56,560 --> 00:43:59,689
+Shouldn't we at least give the man
+a chance to explain himself?
 
 529
-00:43:20,052 --> 00:43:21,637
-Lovely party!
+00:44:00,560 --> 00:44:01,527
+Yes.
 
 530
-00:43:27,726 --> 00:43:30,354
-<i>My head used to swim
-From the perfume I smelled</i>
+00:44:01,600 --> 00:44:05,605
+Please come up, Mr. Menace.
 
 531
-00:43:30,604 --> 00:43:33,440
-<i>My hands kind of fumbled
-With her white plastic belt</i>
+00:44:25,240 --> 00:44:26,287
+<font color="#D900D9">(CLEARS THROAT)</font>
 
 532
-00:43:33,649 --> 00:43:36,443
-<i>I'd taste her baby pink lipstick
-And that's when I'd melt</i>
+00:44:26,360 --> 00:44:29,011
+Ladies, gentlemen.
 
 533
-00:43:36,693 --> 00:43:39,613
-<i>She'd whisper in my ear
-Tonight she really was mine</i>
+00:44:30,000 --> 00:44:33,891
+I think the confusion here
+is that you are all very ignorant.
 
 534
-00:43:39,863 --> 00:43:44,826
-<i>Get in front and put some hair oil on
-Buddy Holly was singing his last song</i>
+00:44:34,120 --> 00:44:35,201
+<font color="#D900D9">(ALL GASP)</font>
 
 535
-00:43:45,077 --> 00:43:48,080
-<i>With your arms around your girl
-You tried to sing along</i>
+00:44:35,640 --> 00:44:37,244
+Is that right word, "ignorant"?
 
 536
-00:43:48,330 --> 00:43:52,793
-<i>It felt pretty good
-Really had a good time</i>
+00:44:37,800 --> 00:44:41,009
+I mean "stupid," "primitive,"
+"unenlightened."
 
 537
-00:43:53,251 --> 00:43:56,171
-<i>Hot patootie, bless my soul</i>
+00:44:41,080 --> 00:44:42,525
+<font color="#D900D9">(CROWD CHATTERING)</font>
 
 538
-00:43:56,421 --> 00:43:58,215
-<i>I really love that rock 'n' roll</i>
+00:44:42,600 --> 00:44:46,764
+You do not understand science,
+so you are afraid of it.
 
 539
-00:43:59,132 --> 00:44:01,593
-<i>Hot patootie, bless my soul</i>
+00:44:46,840 --> 00:44:49,923
+Like a dog is afraid
+of thunder or balloons.
 
 540
-00:44:01,843 --> 00:44:04,554
-<i>I really love that rock 'n' roll</i>
+00:44:50,040 --> 00:44:55,285
+To you, science is magic and witchcraft
+because you have such small minds.
 
 541
-00:45:46,448 --> 00:45:48,575
-One from the vaults.
+00:44:55,360 --> 00:44:56,441
+<font color="#D900D9">(CROWD GASPING)</font>
 
 542
-00:45:59,294 --> 00:46:01,088
-Oh, baby!
+00:44:56,680 --> 00:44:57,841
+<font color="#D900D9">(CROWD CHATTERING)</font>
 
 543
-00:46:08,804 --> 00:46:10,681
-Don't be upset.
+00:44:58,080 --> 00:45:00,447
+I cannot make your heads bigger,
 
 544
-00:46:12,808 --> 00:46:15,269
-It was a mercy killing.
+00:45:00,520 --> 00:45:04,684
+but your children's heads,
+I can take them and crack them open.
 
 545
-00:46:15,727 --> 00:46:19,231
-He had a certain naive charm...
+00:45:04,760 --> 00:45:05,841
+<font color="#D900D9">(ALL GASP)</font>
 
 546
-00:46:19,439 --> 00:46:21,650
-but no muscle.
+00:45:05,920 --> 00:45:10,289
+This is what I try to do,
+to get at their brains!
 
 547
-00:46:24,319 --> 00:46:26,989
-<i>But a deltoid</i>
+00:45:12,880 --> 00:45:14,006
+Oh, my.
 
 548
-00:46:27,239 --> 00:46:30,325
-<i>And a bicep</i>
+00:45:14,120 --> 00:45:15,167
+<font color="#D900D9">(EXHALES)</font>
 
 549
-00:46:30,575 --> 00:46:35,622
-<i>A hot groin
-And a tricep</i>
+00:45:15,680 --> 00:45:16,841
+Thank you.
 
 550
-00:46:35,872 --> 00:46:38,250
-<i>Makes me...</i>
+00:45:20,320 --> 00:45:21,765
+Oh, jeez.
 
 551
-00:46:39,334 --> 00:46:40,502
-<i>shake</i>
+00:45:24,640 --> 00:45:26,369
+Be quick, boy.
+They'll be home any minute.
 
 552
-00:46:40,752 --> 00:46:44,464
-<i>Makes me want to take Charles Atlas</i>
+00:45:27,480 --> 00:45:30,211
+<font color="#808080">GIRL:</font><i> Praise be New Holland</i>
 
 553
-00:46:44,673 --> 00:46:47,551
-<i>By the hand</i>
+00:45:31,200 --> 00:45:34,807
+<i>Praise be New Holland</i>
 
 554
-00:46:47,801 --> 00:46:50,929
-<i>In just seven days
-Oh, baby</i>
+00:45:35,080 --> 00:45:39,051
+<i>Streets so wide and sidewalk</i>
 
 555
-00:46:51,179 --> 00:46:56,226
-<i>I can make you a man</i>
+00:45:39,960 --> 00:45:42,531
+<font color="#D900D9">(SIGHS)</font> The sidewalks. Okay.
 
 556
-00:46:59,271 --> 00:47:03,317
-<i>I don't want no dissension</i>
+00:45:45,280 --> 00:45:47,760
+<i>Praise be New Holland</i>
 
 557
-00:47:04,860 --> 00:47:09,531
-<i>Just dynamic tension</i>
+00:45:47,840 --> 00:45:49,080
+No! Shh. No!
 
 558
-00:47:11,033 --> 00:47:15,329
-<i>I'm a muscle fan</i>
+00:45:49,160 --> 00:45:50,286
+<font color="#D900D9">(SPARKY BARKS)</font>
 
 559
-00:47:15,579 --> 00:47:18,874
-<i>In just seven days</i>
+00:45:51,560 --> 00:45:53,164
+No, no, no! Shh!
 
 560
-00:47:19,249 --> 00:47:24,171
-<i>I can make you a man</i>
+00:45:54,760 --> 00:45:56,091
+Victor?
 
 561
-00:47:25,088 --> 00:47:29,301
-<i>Dig it if you can</i>
+00:45:56,480 --> 00:45:57,527
+<font color="#D900D9">(GASPS)</font>
 
 562
-00:47:29,843 --> 00:47:33,055
-<i>In just seven days</i>
+00:46:00,120 --> 00:46:01,167
+Victor?
 
 563
-00:47:33,263 --> 00:47:37,142
-<i>I can make you a man</i>
+00:46:01,240 --> 00:46:03,925
+Hi, Elsa. What are you doing?
 
 564
-00:47:50,530 --> 00:47:54,952
-Rocky, Rocky, rah, rah, rah!
-Rocky, Rocky, rah, rah, rah!
+00:46:04,240 --> 00:46:06,208
+Practicing my song for Dutch Day.
 
 565
-00:48:09,841 --> 00:48:13,762
-There are those who say
-that life is an illusion...
+00:46:06,680 --> 00:46:07,681
+It's nice.
 
 566
-00:48:14,012 --> 00:48:17,683
-and that reality is simply
-a figment of the imagination.
+00:46:07,760 --> 00:46:10,047
+- Did you get a new dog?
+- No.
 
 567
-00:48:18,392 --> 00:48:22,062
-If this is so, then Brad and Janet
-are quite safe.
+00:46:10,160 --> 00:46:13,050
+- I heard a bark.
+- Yeah, that was me.
 
 568
-00:48:23,063 --> 00:48:27,109
-However, the sudden departure
-of their host...
+00:46:13,600 --> 00:46:15,170
+You are barking?
 
 569
-00:48:27,359 --> 00:48:30,237
-and his creation...
+00:46:15,640 --> 00:46:16,801
+<font color="#D900D9">(WHIMPERS)</font>
 
 570
-00:48:30,487 --> 00:48:33,657
-into the seclusion
-of his somber bridal suite...
+00:46:17,760 --> 00:46:19,205
+<font color="#D900D9">(IMITATES WHIMPERING)</font>
 
 571
-00:48:33,907 --> 00:48:38,787
-had left them feeling
-both apprehensive and uneasy.
+00:46:21,200 --> 00:46:23,601
+Hmm. You must really miss Sparky.
 
 572
-00:48:39,037 --> 00:48:42,708
-A feeling which grew
-as the other guests departed...
+00:46:29,040 --> 00:46:31,202
+Uh, I got to go. Bye.
 
 573
-00:48:42,958 --> 00:48:47,504
-and they were shown
-to their separate rooms.
+00:46:32,680 --> 00:46:33,727
+Bye.
 
 574
-00:49:25,417 --> 00:49:28,003
-Who is it? Who's there?
+00:46:36,120 --> 00:46:37,201
+<font color="#D900D9">(WHIMPERING)</font>
 
 575
-00:49:31,506 --> 00:49:33,425
-It's only me, Janet.
+00:46:38,120 --> 00:46:41,124
+I feel so sad for him, Persephone.
 
 576
-00:49:33,925 --> 00:49:36,345
-Brad, darling, come in.
+00:46:41,200 --> 00:46:43,123
+He really misses his dog.
 
 577
-00:49:38,513 --> 00:49:40,515
-Oh, Brad!
+00:46:43,200 --> 00:46:44,201
+<font color="#D900D9">(WHINES)</font>
 
 578
-00:49:41,850 --> 00:49:43,644
-Yes, my darling! But what if...?
+00:46:51,800 --> 00:46:53,564
+Where's Mr. Rzykruski?
 
 579
-00:49:43,936 --> 00:49:45,938
-Everything's going to be all right.
+00:46:53,640 --> 00:46:56,689
+All I know is I'll be teaching the class
+for the rest of the semester.
 
 580
-00:49:46,188 --> 00:49:49,483
-Oh, I hope so, my darling.
+00:46:57,000 --> 00:46:59,002
+Do you know anything about science?
 
 581
-00:49:52,110 --> 00:49:56,573
-- It's you!
-- I'm afraid so. But isn't it nice?
+00:46:59,320 --> 00:47:00,731
+I know more than you do.
 
 582
-00:49:56,865 --> 00:50:01,286
-You beast, you monster!
-What have you done with Brad?
+00:47:01,000 --> 00:47:02,490
+Mr. Rzykruski knew a lot.
 
 583
-00:50:01,536 --> 00:50:04,498
-Well, nothing.
-Why, do you think I should?
+00:47:03,720 --> 00:47:06,690
+Well, sometimes knowing
+too much is the problem.
 
 584
-00:50:04,790 --> 00:50:08,168
-You tricked me! I wouldn't have.
-I've never, never...
+00:47:07,600 --> 00:47:09,125
+What about the science fair?
 
 585
-00:50:08,460 --> 00:50:10,671
-Yes. Yes, I know.
+00:47:09,360 --> 00:47:12,921
+Oh, it's still on, but it will be judged
+by someone who's not insane!
 
 586
-00:50:10,963 --> 00:50:13,256
-But it isn't all bad, is it?
+00:47:13,000 --> 00:47:14,001
+Me!
 
 587
-00:50:14,132 --> 00:50:17,636
-I think you'll really find it
-quite pleasurable.
+00:47:14,080 --> 00:47:16,367
+Now get cracking,
+and may the best person win!
 
 588
-00:50:18,387 --> 00:50:20,806
-- So soft, so sensual.
-- Stop! I mean, help!
+00:47:20,840 --> 00:47:23,241
+I can't believe they let
+the gym teacher be the judge.
 
 589
-00:50:21,056 --> 00:50:22,849
-Brad. Oh, Brad!
+00:47:24,080 --> 00:47:26,082
+She's not even interested in science.
 
 590
-00:50:23,976 --> 00:50:28,188
-Brad's probably asleep by now.
-Do you want him to see you like this?
+00:47:26,480 --> 00:47:29,450
+Back home, everyone is scientist.
 
 591
-00:50:28,480 --> 00:50:32,025
-Like this, like how? It's your fault!
-You're to blame!
+00:47:29,640 --> 00:47:32,928
+Even my plumber wins Nobel Prize.
 
 592
-00:50:32,234 --> 00:50:34,528
-I was saving myself.
+00:47:33,000 --> 00:47:35,970
+Your country does not
+make enough scientist.
 
 593
-00:50:34,987 --> 00:50:39,116
-Well, I'm sure you're not spent yet.
+00:47:36,080 --> 00:47:37,889
+Always needs more.
 
 594
-00:50:39,825 --> 00:50:41,618
-Promise you won't tell Brad?
+00:47:38,000 --> 00:47:40,401
+You should be a scientist, Victor.
 
 595
-00:50:41,827 --> 00:50:44,955
-Cross my heart and hope to die.
+00:47:40,600 --> 00:47:42,170
+Nobody likes scientists.
 
 596
-00:52:35,691 --> 00:52:38,652
-Oh, Brad, darling, it's no good here!
+00:47:42,520 --> 00:47:46,570
+They like what science gives them,
+but not the questions, no.
 
 597
-00:52:38,944 --> 00:52:40,487
-It'll destroy us.
+00:47:46,920 --> 00:47:49,764
+Not the questions that science asks.
 
 598
-00:52:40,779 --> 00:52:44,032
-Don't worry. We'll be away from here
-in the morning.
+00:47:53,120 --> 00:47:54,360
+Actually, I have a question.
 
 599
-00:52:44,283 --> 00:52:47,369
-Oh, Brad, you're so strong
-and protective.
+00:47:54,680 --> 00:47:55,806
+<font color="#D900D9">(CHUCKLES)</font>
 
 600
-00:52:51,540 --> 00:52:53,000
-You!
+00:47:55,960 --> 00:47:58,361
+That is why you are a scientist.
 
 601
-00:52:53,208 --> 00:52:55,961
-I'm afraid so, Brad. But isn't it nice?
+00:47:58,760 --> 00:48:03,288
+I was doing my experiment, my project,
+and the first time it worked great,
 
 602
-00:52:56,211 --> 00:52:59,298
-Why you...
-What have you done with Janet?
+00:48:03,640 --> 00:48:05,244
+but the next time it didn't.
 
 603
-00:52:59,548 --> 00:53:02,009
-Nothing. Why, do you think I should?
+00:48:05,360 --> 00:48:07,931
+I mean, it sort of worked,
+but then it didn't.
 
 604
-00:53:02,301 --> 00:53:07,180
-You tricked me. I wouldn't have.
-I've never, never, never!
+00:48:08,080 --> 00:48:09,491
+And I don't know why.
 
 605
-00:53:07,472 --> 00:53:10,142
-Yes, I know.
-But it isn't all bad, is it?
+00:48:09,840 --> 00:48:13,287
+Then maybe you never really
+understood it the first time.
 
 606
-00:53:10,392 --> 00:53:14,479
-Not even half bad.
-I think you'll really quite enjoy it.
+00:48:13,800 --> 00:48:19,125
+People think science is here,
+but it is also here.
 
 607
-00:53:15,397 --> 00:53:18,358
-- So soft. So sensual.
-- No, stop.
+00:48:20,320 --> 00:48:23,130
+The first time, did you
+love your experiment?
 
 608
-00:53:18,650 --> 00:53:20,110
-Oh, Janet.
+00:48:23,480 --> 00:48:24,641
+Yes.
 
 609
-00:53:20,902 --> 00:53:22,195
-Janet!
+00:48:25,640 --> 00:48:26,766
+<font color="#808080">MR. RZYKRUSKI:</font> Ah.
 
 610
-00:53:22,821 --> 00:53:26,825
-Janet's probably asleep by now.
-Do you want her to see you like this?
+00:48:29,640 --> 00:48:31,404
+<i>And the second time?</i>
 
 611
-00:53:27,075 --> 00:53:31,163
-Like this, like how? It's your fault!
-You're to blame.
+00:48:36,640 --> 00:48:39,211
+No. I just wanted it over.
 
 612
-00:53:31,413 --> 00:53:33,498
-I thought it was the real thing!
+00:48:39,760 --> 00:48:42,161
+Then you changed the variables.
 
 613
-00:53:33,749 --> 00:53:35,542
-Oh, come on, Brad, admit it.
+00:48:42,680 --> 00:48:44,523
+I was doing it for the wrong reason.
 
 614
-00:53:35,834 --> 00:53:37,628
-You liked it, didn't you?
+00:48:44,600 --> 00:48:47,763
+Science is not good or bad, Victor.
 
 615
-00:53:37,919 --> 00:53:41,214
-There's no crime in giving yourself
-over to pleasure.
+00:48:48,640 --> 00:48:51,120
+But it can be used both ways.
 
 616
-00:53:41,506 --> 00:53:45,344
-Oh, Brad, you have wasted
-so much time already.
+00:48:51,680 --> 00:48:55,685
+That is why you must always be careful.
 
 617
-00:53:45,594 --> 00:53:49,097
-Janet needn't know. I won't tell her.
+00:49:03,720 --> 00:49:04,960
+<font color="#D900D9">(SIGHS)</font>
 
 618
-00:53:49,848 --> 00:53:51,808
-You promise you won't tell?
+00:49:06,480 --> 00:49:08,767
+I can't believe I broke
+my arm for nothing.
 
 619
-00:53:53,018 --> 00:53:55,354
-On my mother's grave.
+00:49:09,160 --> 00:49:12,801
+None of us are going to win!
+E has an invisible fish!
 
 620
-00:53:56,521 --> 00:54:00,275
-<i>Master, Rocky has broken his chains
-and vanished.</i>
+00:49:13,280 --> 00:49:16,921
+No, he doesn't.
+You fell for a parlor trick.
 
 621
-00:54:00,525 --> 00:54:04,446
-<i>The new playmate is loose
-and somewhere in the castle grounds.</i>
+00:49:18,480 --> 00:49:21,165
+You're saying he faked it?
 
 622
-00:54:04,696 --> 00:54:08,075
-<i>Magenta has just released the dogs.</i>
+00:49:21,240 --> 00:49:22,366
+<font color="#D900D9">(WOOD CLATTERING)</font>
 
 623
-00:54:10,452 --> 00:54:12,454
-Coming!
+00:49:23,320 --> 00:49:24,367
+<font color="#D900D9">(GASPS)</font>
 
 624
-00:54:16,625 --> 00:54:20,045
-What's happening here? Where's Brad?
+00:49:24,840 --> 00:49:28,049
+That fish you showed us, was it real?
 
 625
-00:54:20,712 --> 00:54:22,881
-Where's anybody?
+00:49:28,600 --> 00:49:31,809
+It was, and it was dead, too.
 
 626
-00:54:31,556 --> 00:54:33,642
-Oh, Brad!
+00:49:33,000 --> 00:49:36,209
+You brought an animal
+back from the dead?
 
 627
-00:54:34,226 --> 00:54:39,356
-Brad, my darling, how could I
-have done this to you?
+00:49:36,840 --> 00:49:38,410
+No, Victor did.
 
 628
-00:54:50,492 --> 00:54:53,662
-Oh, If only we hadn't made this journey.
+00:49:38,520 --> 00:49:42,081
+With lightning, and boom, and sss.
 
 629
-00:54:54,579 --> 00:54:57,249
-If only the car hadn't broken down.
+00:49:42,840 --> 00:49:44,251
+Impossible.
 
 630
-00:54:58,417 --> 00:55:03,422
-If only we were amongst friends
-or sane persons.
+00:49:44,840 --> 00:49:48,765
+I swear! I mean,
+he already brought back his dog.
 
 631
-00:55:04,673 --> 00:55:06,883
-Oh, Brad.
+00:49:48,920 --> 00:49:49,921
+<font color="#D900D9">(GASPS)</font>
 
 632
-00:55:09,344 --> 00:55:11,096
-What have they done with him?
+00:49:50,840 --> 00:49:52,365
+He brought back Sparky?
 
 633
-00:55:17,102 --> 00:55:20,647
-Brad, how could you?
+00:49:55,960 --> 00:49:57,121
+Mmm.
 
 634
-00:55:45,380 --> 00:55:47,341
-But you're hurt.
+00:49:57,640 --> 00:50:02,362
+Victor will win the science fair
+unless we can do better.
 
 635
-00:55:48,634 --> 00:55:51,094
-Did they do this to you?
+00:50:03,080 --> 00:50:04,161
+Bigger.
 
 636
-00:55:54,056 --> 00:55:55,974
-Here. I'll dress your wounds.
+00:50:06,040 --> 00:50:07,769
+You say you know Victor's secret?
 
 637
-00:55:57,809 --> 00:56:00,062
-Baby, there. Oh.
+00:50:07,840 --> 00:50:10,081
+Now is your chance to prove it.
 
 638
-00:56:11,239 --> 00:56:15,494
-<i>"Emotion: agitation or disturbance
-of mind...</i>
+00:50:14,960 --> 00:50:16,291
+Now, where's my muffin tin?
 
 639
-00:56:15,744 --> 00:56:19,873
-vehement or excited mental state."
+00:50:24,040 --> 00:50:25,371
+Victor.
 
 640
-00:56:21,667 --> 00:56:25,712
-It is also a powerful
-and irrational master.
+00:50:49,960 --> 00:50:51,610
+Sparky?
 
 641
-00:56:25,921 --> 00:56:30,759
-And from what Magenta and Columbia
-eagerly viewed on their TV monitor...
+00:50:58,640 --> 00:50:59,641
+<font color="#D900D9">(BARKS)</font>
 
 642
-00:56:31,009 --> 00:56:34,680
-<i>there seemed little doubt
-that Janet was indeed...</i>
+00:50:59,720 --> 00:51:00,801
+<font color="#D900D9">(YELPS)</font>
 
 643
-00:56:34,930 --> 00:56:36,390
-<i>its slave.</i>
+00:51:02,760 --> 00:51:03,921
+<font color="#D900D9">(MRS. FRANKENSTEIN SCREAMING)</font>
 
 644
-00:56:37,099 --> 00:56:40,102
-Tell us about it, Janet.
+00:51:07,480 --> 00:51:09,482
+Sparky! But you're...
 
 645
-00:56:42,938 --> 00:56:46,775
-<i>I was feeling done in</i>
+00:51:10,280 --> 00:51:11,725
+Sparky's alive!
 
 646
-00:56:47,442 --> 00:56:49,278
-<i>Couldn't win</i>
+00:51:11,800 --> 00:51:13,006
+Sparky?
 
 647
-00:56:50,612 --> 00:56:54,074
-<i>I'd only ever kissed before</i>
+00:51:13,120 --> 00:51:14,201
+<font color="#D900D9">(WHINING)</font>
 
 648
-00:56:56,201 --> 00:56:57,661
-You mean she...?
+00:51:14,280 --> 00:51:15,361
+Hey, come on!
 
 649
-00:56:57,953 --> 00:57:01,581
-<i>I thought there's no use getting</i>
+00:51:17,960 --> 00:51:19,166
+<font color="#D900D9">(WHIMPERING)</font>
 
 650
-00:57:01,790 --> 00:57:04,960
-<i>Into heavy petting</i>
+00:51:22,080 --> 00:51:24,162
+Mom? Dad? What's going on?
 
 651
-00:57:05,210 --> 00:57:09,506
-<i>It only leads to trouble</i>
+00:51:24,880 --> 00:51:27,326
+Sparky! No! Sparky!
 
 652
-00:57:09,715 --> 00:57:11,883
-<i>And seat wetting</i>
+00:51:28,960 --> 00:51:30,246
+Sparky. no!
 
 653
-00:57:12,384 --> 00:57:15,345
-<i>Now all I want to know</i>
+00:51:30,320 --> 00:51:31,845
+Sparky, come back!
 
 654
-00:57:16,138 --> 00:57:18,473
-<i>Is how to go</i>
+00:51:31,960 --> 00:51:33,007
+Sparky!
 
 655
-00:57:18,724 --> 00:57:21,727
-<i>I've tasted blood and I want more</i>
+00:51:33,080 --> 00:51:34,570
+Hey, hey! Just a minute!
 
 656
-00:57:21,977 --> 00:57:23,770
-More, more, more.
+00:51:35,160 --> 00:51:37,322
+No! I have to go find Sparky!
 
 657
-00:57:24,396 --> 00:57:27,065
-<i>I'll put up no resistance</i>
+00:51:37,640 --> 00:51:39,802
+Victor, what have you done?
 
 658
-00:57:27,316 --> 00:57:29,568
-<i>I want to stay the distance</i>
+00:51:40,640 --> 00:51:43,405
+You said yourself, if you could
+bring back Sparky, you would!
 
 659
-00:57:30,402 --> 00:57:32,487
-<i>I've got an itch to scratch</i>
+00:51:44,120 --> 00:51:46,771
+Yes, but that was different
+because we couldn't!
 
 660
-00:57:33,488 --> 00:57:35,782
-<i>I need assistance</i>
+00:51:46,840 --> 00:51:48,922
+It's easy to promise the impossible.
 
 661
-00:57:36,074 --> 00:57:38,535
-<i>Touch-a, touch-a, touch-a, touch me</i>
+00:51:49,040 --> 00:51:51,850
+What you did was a very serious thing.
 
 662
-00:57:38,827 --> 00:57:41,413
-<i>I wanna be dirty</i>
+00:51:52,240 --> 00:51:54,163
+Crossing the boundary
+between life and death.
 
 663
-00:57:41,663 --> 00:57:44,166
-<i>Thrill me, chill me, fulfill me</i>
+00:51:54,400 --> 00:51:55,925
+Reanimating a corpse!
 
 664
-00:57:44,416 --> 00:57:46,835
-<i>Creature of the night</i>
+00:51:56,000 --> 00:51:58,810
+It's very... Upsetting.
 
 665
-00:57:52,090 --> 00:57:54,760
-<i>Then if anything grows</i>
+00:51:59,880 --> 00:52:01,689
+I just wanted my dog back.
 
 666
-00:57:55,093 --> 00:57:57,679
-<i>While you pose</i>
+00:52:05,040 --> 00:52:06,041
+Oh, sweetheart.
 
 667
-00:57:57,930 --> 00:58:00,891
-<i>I'll oil you up and rub you down</i>
+00:52:07,200 --> 00:52:08,964
+We'll help you look for Sparky
 
 668
-00:58:01,183 --> 00:58:03,477
-Down, down, down.
+00:52:09,040 --> 00:52:12,567
+but when we get back,
+I think we need to have a little talk.
 
 669
-00:58:03,769 --> 00:58:08,732
-<i>And that's just one small fraction
-Of the main attraction</i>
+00:52:12,760 --> 00:52:13,886
+Understood?
 
 670
-00:58:09,858 --> 00:58:12,069
-<i>You need a friendly hand</i>
+00:52:14,840 --> 00:52:15,887
+Yes.
 
 671
-00:58:12,361 --> 00:58:14,613
-<i>Oh, and I need action</i>
+00:52:16,360 --> 00:52:18,727
+Now, let's go find your dog.
 
 672
-00:58:14,863 --> 00:58:17,532
-<i>Touch-a, touch-a, touch-a, touch me</i>
+00:52:19,320 --> 00:52:20,560
+<font color="#D900D9">(PEOPLE CHATTERING)</font>
 
 673
-00:58:17,783 --> 00:58:20,327
-<i>I wanna be dirty</i>
+00:52:31,120 --> 00:52:32,246
+<font color="#D900D9">(BELL RINGING)</font>
 
 674
-00:58:20,619 --> 00:58:23,121
-<i>Thrill me, chill me, fulfill me</i>
+00:52:32,360 --> 00:52:33,407
+<font color="#D900D9">(WHIMPERING)</font>
 
 675
-00:58:23,372 --> 00:58:25,958
-<i>Creature of the night</i>
+00:52:40,560 --> 00:52:41,641
+<font color="#D900D9">(BELL DINGS)</font>
 
 676
-00:58:26,208 --> 00:58:28,377
-<i>Touch-a, touch-a, touch-a, touch me</i>
+00:52:41,920 --> 00:52:43,081
+<font color="#D900D9">(WHINING)</font>
 
 677
-00:58:28,627 --> 00:58:31,254
-<i>I wanna be dirty</i>
+00:52:47,120 --> 00:52:48,167
+Sparky!
 
 678
-00:58:31,463 --> 00:58:33,882
-<i>Thrill me, chill me, fulfill me</i>
+00:52:48,240 --> 00:52:49,765
+Sparky, are you in there?
 
 679
-00:58:34,132 --> 00:58:35,801
-<i>Creature of the night</i>
+00:52:55,040 --> 00:52:57,611
+Mom, Dad! I'm going
+to check the school and the park.
 
 680
-00:58:36,969 --> 00:58:39,513
-<i>Touch-a, touch-a, touch-a, touch me</i>
+00:52:57,720 --> 00:53:00,007
+You guys do the town square, okay?
 
 681
-00:58:39,805 --> 00:58:42,516
-<i>I wanna be dirty</i>
+00:53:00,080 --> 00:53:01,320
+Got it.
 
 682
-00:58:42,808 --> 00:58:44,893
-<i>Thrill me, chill me, fulfill me</i>
+00:53:01,840 --> 00:53:03,001
+Sparky!
 
 683
-00:58:45,143 --> 00:58:47,521
-<i>Creature of the night</i>
+00:53:03,080 --> 00:53:04,081
+<font color="#808080">MR. FRANKENSTEIN:</font> Sparky!
 
 684
-00:58:47,813 --> 00:58:49,398
-Creature of the night.
+00:53:34,560 --> 00:53:35,641
+<font color="#D900D9">(MEOWS)</font>
 
 685
-00:58:50,399 --> 00:58:52,526
-Creature of the night?
+00:53:38,640 --> 00:53:39,766
+<font color="#D900D9">(GASPS)</font>
 
 686
-00:58:53,151 --> 00:58:55,028
-Creature of the night.
+00:53:41,840 --> 00:53:42,921
+Cool.
 
 687
-00:58:55,821 --> 00:58:57,197
-Creature of the night.
+00:53:46,240 --> 00:53:48,004
+Interesting.
 
 688
-00:58:58,573 --> 00:59:00,450
-Creature of the night.
+00:53:48,560 --> 00:53:50,927
+It has something
+to do with the lightning.
 
 689
-00:59:01,159 --> 00:59:02,786
-<i>Creature of the night</i>
+00:53:51,040 --> 00:53:53,122
+I don't really understand it.
 
 690
-00:59:03,662 --> 00:59:05,205
-Creature of the night.
+00:53:54,160 --> 00:53:57,164
+Oh, but I do!
 
 691
-00:59:06,581 --> 00:59:09,209
-<i>Creature of the night</i>
+00:54:05,480 --> 00:54:10,486
+Tonight, we shall bring the dead to life!
 
 692
-00:59:15,257 --> 00:59:17,551
-Mercy!
+00:54:17,040 --> 00:54:19,168
+Sparky! Where are you?
 
 693
-00:59:20,262 --> 00:59:21,972
-How did it happen?
+00:54:20,680 --> 00:54:22,045
+Sparky!
 
 694
-00:59:22,264 --> 00:59:25,892
-I understood you were to be watching.
+00:54:25,920 --> 00:54:27,001
+<font color="#D900D9">(WHIMPERS)</font>
 
 695
-00:59:26,184 --> 00:59:29,271
-I was only away for a minute, master.
+00:54:39,360 --> 00:54:40,600
+<font color="#D900D9">(WHINING)</font>
 
 696
-00:59:29,521 --> 00:59:34,443
-Well, see if you can find him
-on the monitor.
+00:54:47,040 --> 00:54:48,246
+<font color="#D900D9">(THUNDER CRASHING)</font>
 
 697
-00:59:41,450 --> 00:59:42,826
-Master.
+00:54:50,840 --> 00:54:52,001
+<font color="#D900D9">(BATS SCREECHING)</font>
 
 698
-00:59:43,118 --> 00:59:46,330
-Master, we have a visitor.
+00:55:25,280 --> 00:55:27,567
+Sparky! Sparky!
 
 699
-00:59:51,627 --> 00:59:52,794
-Hey, Scotty!
+00:55:30,040 --> 00:55:31,405
+<font color="#D900D9">(CROWD APPLAUDING)</font>
 
 700
-00:59:55,047 --> 00:59:56,131
-Dr. Everett Scott.
+00:55:33,000 --> 00:55:35,446
+<i>Thank you. Thank you so much.</i>
 
 701
-00:59:56,381 --> 00:59:59,718
-You know this earthling... this person?
+00:55:36,440 --> 00:55:39,171
+<i>And now it's my pleasure</i>
 
 702
-00:59:59,968 --> 01:00:04,097
-I most certainly do. He happens
-to be an old friend of mine.
+00:55:39,240 --> 00:55:42,528
+<i>to introduce this year's Little Dutch Girl,</i>
 
 703
-01:00:04,389 --> 01:00:06,141
-I see.
+00:55:42,920 --> 00:55:46,288
+<i>my niece, Elsa Van Helsing.</i>
 
 704
-01:00:06,892 --> 01:00:10,103
-So this wasn't simply a chance meeting.
+00:55:55,120 --> 00:55:56,770
+I don't think this is safe.
 
 705
-01:00:10,562 --> 01:00:12,940
-You came here with a purpose.
+00:55:57,600 --> 00:56:00,365
+Nonsense! We have
+the fire chief over here.
 
 706
-01:00:13,482 --> 01:00:17,152
-I told you, my car broke down.
-I was telling the truth.
+00:56:00,960 --> 00:56:02,325
+<font color="#D900D9">(MUMBLING)</font>
 
 707
-01:00:17,402 --> 01:00:19,905
-I know what you told me, Brad.
+00:56:03,200 --> 00:56:06,807
+You know, a lot of girls
+would kill to be in your place.
 
 708
-01:00:20,155 --> 01:00:24,910
-But this Dr. Everett Scott,
-his name is not unknown to me.
+00:56:07,960 --> 00:56:09,450
+I'd welcome death.
 
 709
-01:00:25,577 --> 01:00:27,704
-He was a science teacher at Denton High.
+00:56:11,280 --> 00:56:12,805
+<font color="#D900D9">(ORGAN PLAYING)</font>
 
 710
-01:00:27,996 --> 01:00:30,165
-And now he works for your government.
+00:56:13,120 --> 00:56:16,841
+<i>Praise be New Holland</i>
 
 711
-01:00:31,083 --> 01:00:33,877
-He's attached
-to the Bureau of Investigation...
+00:56:17,200 --> 00:56:20,966
+<i>Streets so wide and sidewalks clean</i>
 
 712
-01:00:34,086 --> 01:00:37,673
-of that which you call UFOs!
-Isn't that right, Brad?
+00:56:21,040 --> 00:56:24,965
+<i>Modest homes at modest prices</i>
 
 713
-01:00:37,923 --> 01:00:40,342
-He might be. I don't know.
+00:56:25,240 --> 00:56:28,642
+<i>Everyone's hope and dream</i>
 
 714
-01:00:40,592 --> 01:00:43,679
-The intruder is entering
-the building, master.
+00:56:33,280 --> 00:56:34,645
+<font color="#D900D9">(GATE CLANGING)</font>
 
 715
-01:00:46,515 --> 01:00:50,394
-He'll probably be in the Zen Room.
+00:56:40,080 --> 00:56:41,161
+<font color="#D900D9">(WHINES)</font>
 
 716
-01:00:57,442 --> 01:01:01,196
-Shall we inquire of him in person?
+00:56:47,920 --> 00:56:49,490
+I'm going to win.
 
 717
-01:01:35,897 --> 01:01:36,773
-Great Scott!
+00:56:49,760 --> 00:56:52,809
+No, I shall win the science fair.
 
 718
-01:01:48,994 --> 01:01:50,245
-Frank N. Furter.
+00:56:53,440 --> 00:56:54,521
+Hmm.
 
 719
-01:01:51,413 --> 01:01:52,748
-We meet at last.
+00:56:55,120 --> 00:56:58,602
+<i>In our houses tight and safe</i>
 
 720
-01:01:54,666 --> 01:01:56,293
-Dr. Scott!
+00:56:58,680 --> 00:57:02,366
+<i>We have nothing to fear</i>
 
 721
-01:01:56,752 --> 01:01:58,879
-Brad! What are you doing here?
+00:57:09,840 --> 00:57:10,966
+Ah.
 
 722
-01:02:00,172 --> 01:02:02,507
-Don't play games, Dr. Scott.
+00:57:11,080 --> 00:57:13,481
+The tomb of Colossus.
 
 723
-01:02:03,342 --> 01:02:06,428
-You know perfectly well
-what Brad Majors is doing here.
+00:57:13,920 --> 00:57:16,366
+Soon you shall be awakened
 
 724
-01:02:06,762 --> 01:02:08,805
-It was part of your plan, was it not?
+00:57:16,600 --> 00:57:20,207
+and we shall be reunited once again!
 
 725
-01:02:09,097 --> 01:02:12,893
-That he and his female
-should check the layout for you?
+00:57:32,400 --> 00:57:34,209
+Ah, Shelley.
 
 726
-01:02:13,518 --> 01:02:18,023
-Well, unfortunately for you all,
-the plans are to be changed.
+00:57:48,080 --> 00:57:49,491
+<font color="#D900D9">(LAUGHING EVILLY)</font>
 
 727
-01:02:19,524 --> 01:02:22,527
-I hope you're adaptable, Dr. Scott.
+00:57:53,720 --> 00:57:55,051
+<font color="#D900D9">(THUNDER CRASHES)</font>
 
 728
-01:02:22,778 --> 01:02:25,030
-I know Brad is.
+00:58:51,960 --> 00:58:53,121
+<font color="#D900D9">(MEOWS)</font>
 
 729
-01:02:25,280 --> 01:02:29,368
-I assure you, Brad's presence
-comes as a complete surprise to me.
+00:59:00,520 --> 00:59:01,646
+<font color="#D900D9">(MEOWS)</font>
 
 730
-01:02:29,618 --> 01:02:31,495
-I came here to find Eddie.
+00:59:31,680 --> 00:59:32,966
+<font color="#D900D9">(MEOWS)</font>
 
 731
-01:02:32,537 --> 01:02:34,706
-- Eddie? I've seen him. He's...
-- Eddie?
+00:59:35,000 --> 00:59:38,322
+<i>Praise be New Holland</i>
 
 732
-01:02:34,957 --> 01:02:36,792
-What do you know of Eddie?
+00:59:38,400 --> 00:59:43,770
+<i>May your windmills spin forevermore</i>
 
 733
-01:02:37,876 --> 01:02:40,545
-I know a great deal
-about a lot of things.
+00:59:43,840 --> 00:59:45,046
+<font color="#D900D9">(CROWD APPLAUDING)</font>
 
 734
-01:02:40,796 --> 01:02:43,840
-You see, Eddie happens to be my nephew.
+00:59:45,120 --> 00:59:46,804
+Isn't she adorable?
 
 735
-01:02:49,137 --> 01:02:50,681
-Dr. Scott.
+00:59:46,880 --> 00:59:48,689
+<font color="#D900D9">(CHORTLING)</font> Mm.
 
 736
-01:02:54,893 --> 01:02:56,520
-- Janet!
-- Dr. Scott!
+00:59:49,320 --> 00:59:50,685
+<font color="#D900D9">(THUNDER CRASHING)</font>
 
 737
-01:02:56,812 --> 01:02:58,063
-- Janet!
-- Brad!
+00:59:50,960 --> 00:59:52,121
+<font color="#D900D9">(ALL GASP)</font>
 
 738
-01:02:58,313 --> 01:02:59,398
-Rocky!
+00:59:58,000 --> 00:59:59,161
+<font color="#D900D9">(YOWLING)</font>
 
 739
-01:02:59,648 --> 01:03:01,316
-- Janet!
-- Dr. Scott!
+01:00:03,920 --> 01:00:04,967
+<font color="#D900D9">(EXCLAIMING IN SURPRISE)</font>
 
 740
-01:03:01,566 --> 01:03:03,026
-- Janet!
-- Brad!
+01:00:35,440 --> 01:00:36,805
+<font color="#D900D9">(MR. WHISKERS MEOWS)</font>
 
 741
-01:03:03,318 --> 01:03:04,403
-Rocky!
+01:00:39,320 --> 01:00:40,481
+Mr. Whiskers?
 
 742
-01:03:08,657 --> 01:03:12,369
-Listen! I made you...
+01:00:41,280 --> 01:00:42,441
+<font color="#D900D9">(GURGLES)</font>
 
 743
-01:03:12,661 --> 01:03:16,331
-and I can break you just as easily.
+01:01:20,600 --> 01:01:21,761
+<font color="#D900D9">(YOWLING)</font>
 
 744
-01:03:19,167 --> 01:03:22,296
-Master, dinner is prepared!
+01:01:22,680 --> 01:01:23,761
+<font color="#D900D9">(HISSING)</font>
 
 745
-01:03:25,173 --> 01:03:26,508
-Excellent.
+01:01:23,920 --> 01:01:25,410
+Mr. Whiskers?
 
 746
-01:03:27,676 --> 01:03:32,389
-Under the circumstances,
-formal dress is to be optional.
+01:01:30,440 --> 01:01:32,283
+<font color="#D900D9">(YELLING FEARFULLY)</font>
 
 747
-01:03:35,183 --> 01:03:39,688
-Food has always played a vital role
-in life's rituals:
+01:01:35,960 --> 01:01:36,961
+Hello!
 
 748
-01:03:39,938 --> 01:03:44,526
-The breaking of bread,
-the last meal of the condemned man...
+01:01:37,760 --> 01:01:38,921
+Is someone there?
 
 749
-01:03:44,776 --> 01:03:48,155
-and now this meal.
+01:02:10,000 --> 01:02:11,240
+<font color="#D900D9">(GROWLING)</font>
 
 750
-01:03:48,697 --> 01:03:51,617
-<i>However informal it might appear...</i>
+01:02:11,400 --> 01:02:12,811
+<font color="#D900D9">(SCREAMING)</font>
 
 751
-01:03:51,867 --> 01:03:56,204
-<i>you can be sure there was to be
-very little bonhomie.</i>
+01:02:14,400 --> 01:02:16,164
+Rise, Colossus.
 
 752
-01:05:12,864 --> 01:05:13,865
-A toast.
+01:02:16,680 --> 01:02:19,160
+Rise from your tomb!
 
 753
-01:05:15,784 --> 01:05:17,953
-To absent friends.
+01:02:20,160 --> 01:02:22,527
+<font color="#D900D9">(FOOTSTEPS THUDDING)</font>
 
 754
-01:05:18,453 --> 01:05:20,455
-To absent friends.
+01:02:31,480 --> 01:02:32,845
+<font color="#D900D9">(EXCLAIMS IN DISBELIEF)</font>
 
 755
-01:05:24,042 --> 01:05:26,712
-And Rocky.
+01:02:42,600 --> 01:02:44,523
+<font color="#D900D9">(SQUEAKING AGGRESSIVELY)</font>
 
 756
-01:05:35,804 --> 01:05:37,514
-<i>Happy birthday to you</i>
+01:02:56,960 --> 01:02:58,007
+Huh!
 
 757
-01:05:37,806 --> 01:05:39,683
-<i>Happy birthday to you</i>
+01:02:59,120 --> 01:03:00,201
+Shelley?
 
 758
-01:05:39,975 --> 01:05:41,935
-<i>Happy birthday, dear Rocky</i>
+01:03:00,880 --> 01:03:02,211
+<font color="#D900D9">(SPEAKS JAPANESE)</font>
 
 759
-01:05:42,227 --> 01:05:44,104
-- <i>Happy birthday...</i>
-- Shall we?
+01:03:03,520 --> 01:03:04,521
+Shelley?
 
 760
-01:06:02,831 --> 01:06:05,709
-We came here to discuss Eddie.
+01:03:08,920 --> 01:03:10,251
+<font color="#D900D9">(GASPING FEARFULLY)</font>
 
 761
-01:06:06,001 --> 01:06:07,336
-Eddie!
+01:03:14,560 --> 01:03:16,403
+<font color="#D900D9">(ROARING)</font>
 
 762
-01:06:11,673 --> 01:06:13,342
-It's a rather tender subject.
+01:03:18,800 --> 01:03:20,609
+<font color="#D900D9">(CARNIVAL MUSIC PLAYING)</font>
 
 763
-01:06:14,092 --> 01:06:16,136
-Another slice, anyone?
+01:03:22,000 --> 01:03:23,411
+<font color="#D900D9">(ROARS GLEEFULLY)</font>
 
 764
-01:06:22,267 --> 01:06:24,061
-Excuse me.
+01:03:37,040 --> 01:03:38,087
+<font color="#D900D9">(BREATHING HEAVILY)</font>
 
 765
-01:06:35,948 --> 01:06:39,618
-I knew he was in with a bad crowd,
-but it was worse than I imagined.
+01:03:41,560 --> 01:03:42,925
+<font color="#D900D9">(EXCLAIMS FEARFULLY)</font>
 
 766
-01:06:39,868 --> 01:06:41,495
-Aliens!
+01:03:44,400 --> 01:03:45,640
+<font color="#D900D9">(SCREAMS)</font>
 
 767
-01:06:41,787 --> 01:06:42,704
-Dr. Scott!
+01:03:48,040 --> 01:03:49,246
+Sparky!
 
 768
-01:06:43,455 --> 01:06:45,123
-Go on, Dr. Scott.
+01:03:51,840 --> 01:03:53,080
+Sparky!
 
 769
-01:06:46,375 --> 01:06:49,670
-Or should I say Dr. Von Scott?
+01:04:07,080 --> 01:04:08,081
+Sparky?
 
 770
-01:06:50,545 --> 01:06:53,048
-Just what exactly are you implying?
+01:04:29,440 --> 01:04:30,601
+<font color="#D900D9">(WHIMPERS)</font>
 
 771
-01:06:53,298 --> 01:06:54,508
-It's all right!
+01:04:31,440 --> 01:04:32,601
+Sparky?
 
 772
-01:06:54,716 --> 01:06:56,468
-That's all right, Brad.
+01:04:35,960 --> 01:04:37,086
+Sparky!
 
 773
-01:06:59,972 --> 01:07:02,391
-<i>From the day he was born</i>
+01:04:37,160 --> 01:04:38,286
+<font color="#D900D9">(WHIMPERS)</font>
 
 774
-01:07:05,227 --> 01:07:08,063
-<i>He was trouble</i>
+01:04:40,480 --> 01:04:43,165
+Sparky, it's okay, boy. It's just me.
 
 775
-01:07:10,065 --> 01:07:12,859
-<i>He was the thorn</i>
+01:04:47,760 --> 01:04:49,205
+I thought that you were gone.
 
 776
-01:07:14,403 --> 01:07:17,864
-<i>In his mother's side</i>
+01:04:51,040 --> 01:04:52,530
+I never want to lose you.
 
 777
-01:07:19,825 --> 01:07:23,078
-<i>She tried in vain</i>
+01:04:54,800 --> 01:04:58,486
+Promise you'll never go
+running off, okay?
 
 778
-01:07:26,081 --> 01:07:30,377
-<i>But he never caused her
-Nothing but shame</i>
+01:05:01,880 --> 01:05:03,086
+Come on, boy.
 
 779
-01:07:31,336 --> 01:07:34,673
-<i>He left home...</i>
+01:05:12,720 --> 01:05:13,926
+<font color="#D900D9">(GASPS)</font>
 
 780
-01:07:34,923 --> 01:07:38,135
-<i>the day she died</i>
+01:05:20,800 --> 01:05:22,165
+Was someone else here?
 
 781
-01:07:38,427 --> 01:07:40,596
-<i>From the day she was gone</i>
+01:05:28,000 --> 01:05:29,240
+<font color="#D900D9">(PANTING)</font>
 
 782
-01:07:41,680 --> 01:07:43,724
-<i>All he wanted</i>
+01:05:47,920 --> 01:05:51,447
+- Victor! I need your help.
+- Did you see those things?
 
 783
-01:07:44,600 --> 01:07:46,852
-<i>Was rock 'n' roll porn</i>
+01:05:51,520 --> 01:05:53,045
+- They were like...
+- Sea-Monkeys!
 
 784
-01:07:47,519 --> 01:07:49,980
-Und <i>a motorbike</i>
+01:05:53,120 --> 01:05:54,804
+You know how on
+the package, they're like,
 
 785
-01:07:50,606 --> 01:07:53,108
-<i>Shooting up junk</i>
+01:05:54,880 --> 01:05:57,121
+in a happy kingdom
+and everyone's smiling?
 
 786
-01:07:54,192 --> 01:07:57,321
-<i>He was a low-down, cheap little punk</i>
+01:05:57,200 --> 01:05:59,646
+- Yeah?
+- They're not like that at all.
 
 787
-01:07:57,613 --> 01:08:02,701
-<i>Taking everyone for a ride</i>
+01:05:59,720 --> 01:06:02,690
+- Victor! I need your help.
+- I asked him first!
 
 788
-01:08:03,619 --> 01:08:06,288
-<i>When Eddie said
-He didn't like his teddy</i>
+01:06:02,760 --> 01:06:03,807
+My problem bigger!
 
 789
-01:08:06,538 --> 01:08:08,999
-<i>You knew he was a no-good kid</i>
+01:06:03,880 --> 01:06:05,769
+<font color="#D900D9">(FOOTSTEPS THUNDERING)</font>
 
 790
-01:08:09,291 --> 01:08:12,085
-<i>But when he threatened your life
-With a switchblade knife</i>
+01:06:08,400 --> 01:06:09,526
+<font color="#D900D9">(ROARING)</font>
 
 791
-01:08:12,377 --> 01:08:13,754
-- <i>What a guy</i>
-- <i>Makes you cry</i>
+01:06:11,920 --> 01:06:13,888
+Yeah, he's right.
 
 792
-01:08:13,962 --> 01:08:15,422
-Und <i>I did</i>
+01:06:14,760 --> 01:06:15,886
+<font color="#D900D9">(BARKING)</font>
 
 793
-01:08:15,964 --> 01:08:18,800
-<i>Everybody shoved him</i>
+01:06:23,480 --> 01:06:24,845
+Okay, let's go!
 
 794
-01:08:19,051 --> 01:08:22,095
-<i>I very nearly loved him</i>
+01:06:27,520 --> 01:06:29,090
+<font color="#D900D9">(CHUCKLING EVILLY)</font>
 
 795
-01:08:22,387 --> 01:08:25,057
-<i>I said, hey, listen to me</i>
+01:06:31,040 --> 01:06:33,122
+<i>And now for our next act,</i>
 
 796
-01:08:25,307 --> 01:08:28,185
-<i>Stay sane inside insanity</i>
+01:06:33,400 --> 01:06:36,449
+<i>we have something really big.</i>
 
 797
-01:08:28,477 --> 01:08:33,565
-<i>But he locked the door
-And threw away the key</i>
+01:06:37,040 --> 01:06:38,166
+<font color="#D900D9">(GASPS)</font>
 
 798
-01:08:33,815 --> 01:08:35,692
-<i>But he must've been drawn</i>
+01:06:38,240 --> 01:06:40,083
+<font color="#D900D9">(FOOTSTEPS THUNDERING)</font>
 
 799
-01:08:37,402 --> 01:08:39,029
-<i>Into something</i>
+01:06:40,160 --> 01:06:41,161
+<font color="#D900D9">(GASPS)</font>
 
 800
-01:08:40,322 --> 01:08:42,449
-<i>Making him warn me</i>
+01:06:41,240 --> 01:06:42,480
+<font color="#D900D9">(ALL SCREAMING)</font>
 
 801
-01:08:42,741 --> 01:08:44,368
-<i>In a note which reads:</i>
+01:06:46,480 --> 01:06:47,527
+<font color="#D900D9">(GASPS)</font>
 
 802
-01:08:44,576 --> 01:08:46,078
-<i>What's it say? What's it say?</i>
+01:06:48,600 --> 01:06:50,090
+<font color="#D900D9">(ROARS)</font>
 
 803
-01:08:46,328 --> 01:08:47,704
-<i>"I'm out of my head</i>
+01:06:50,520 --> 01:06:52,010
+<font color="#D900D9">(CRIES OUT)</font>
+<font color="#D900D9">(GASPS)</font>
 
 804
-01:08:49,581 --> 01:08:52,334
-<i>Oh, hurry, or I may be dead</i>
+01:06:55,800 --> 01:06:56,881
+<font color="#D900D9">(ROARS)</font>
 
 805
-01:08:52,918 --> 01:08:58,048
-<i>They mustn't carry out
-Their evil deeds"</i>
+01:06:57,920 --> 01:06:59,081
+<font color="#D900D9">(SIREN DYING)</font>
 
 806
-01:08:59,341 --> 01:09:02,135
-<i>When Eddie said
-He didn't like his teddy</i>
+01:07:00,360 --> 01:07:01,566
+<font color="#D900D9">(GASPING)</font>
 
 807
-01:09:02,344 --> 01:09:04,137
-<i>You knew he was a no-good kid</i>
+01:07:04,640 --> 01:07:05,721
+<font color="#D900D9">(GASPING)</font>
 
 808
-01:09:04,846 --> 01:09:07,516
-<i>When he threatened your life
-With a switchblade knife</i>
+01:07:09,920 --> 01:07:10,967
+<font color="#D900D9">(YELLS)</font>
 
 809
-01:09:07,849 --> 01:09:09,434
-- <i>What a guy</i>
-- <i>Makes you cry</i>
+01:07:11,120 --> 01:07:13,122
+<font color="#D900D9">(YELLS)</font> No! Get away!
 
 810
-01:09:09,685 --> 01:09:11,103
-Und <i>I did</i>
+01:07:13,800 --> 01:07:15,131
+<font color="#D900D9">(EXCLAIMS IN SURPRISE)</font>
 
 811
-01:09:11,353 --> 01:09:13,814
-<i>When Eddie said
-He didn't like his teddy</i>
+01:07:15,920 --> 01:07:17,160
+<font color="#D900D9">(PANTING)</font>
 
 812
-01:09:14,022 --> 01:09:16,441
-<i>You knew he was a no-good kid</i>
+01:07:24,280 --> 01:07:25,645
+<font color="#D900D9">(GLUGGING)</font>
 
 813
-01:09:16,692 --> 01:09:19,945
-<i>But when he threatened your life
-With a switchblade knife</i>
+01:07:27,880 --> 01:07:28,961
+<font color="#D900D9">(EXCLAIMS IN SURPRISE)</font>
 
 814
-01:09:21,280 --> 01:09:25,617
-- <i>What a guy</i>
-- <i>Woe, woe, woe</i>
+01:07:29,560 --> 01:07:30,641
+<font color="#D900D9">(LAUGHING)</font>
 
 815
-01:09:25,867 --> 01:09:30,497
-- <i>Makes you cry</i>
-- <i>Hey, hey, hey</i>
+01:07:32,120 --> 01:07:33,360
+<font color="#D900D9">(SCREAMING)</font>
 
 816
-01:09:30,789 --> 01:09:34,209
-Und <i>I did</i>
+01:07:34,120 --> 01:07:35,804
+<font color="#D900D9">(CRYING OUT IN FEAR)</font>
 
 817
-01:09:34,459 --> 01:09:38,255
-<i>Hey</i>
+01:07:41,200 --> 01:07:42,531
+<font color="#D900D9">(PEOPLE SCREAMING)</font>
 
 818
-01:09:39,881 --> 01:09:40,924
-Oh.
+01:07:43,360 --> 01:07:44,600
+<font color="#D900D9">(YELLING)</font>
 
 819
-01:09:52,477 --> 01:09:53,895
-Oh, Rocky!
+01:07:45,360 --> 01:07:46,600
+<font color="#D900D9">(SCREAMING)</font>
 
 820
-01:09:56,064 --> 01:09:58,233
-How could you?!
+01:07:47,520 --> 01:07:49,090
+<font color="#D900D9">(SCREAMS)</font>
 
 821
-01:10:06,241 --> 01:10:08,035
-This way! This way!
+01:07:50,840 --> 01:07:53,002
+<font color="#D900D9">(CRYING OUT)</font> on, no!
 
 822
-01:10:10,996 --> 01:10:12,289
-Shut up!
+01:07:54,960 --> 01:07:56,450
+This way! In here!
 
 823
-01:10:13,832 --> 01:10:17,002
-<i>I'll tell you once
-I won't tell you twice</i>
+01:07:58,200 --> 01:07:59,326
+<font color="#D900D9">(GRUNTS)</font>
 
 824
-01:10:17,252 --> 01:10:20,797
-<i>You'd better wise up
-Janet Weiss</i>
+01:08:01,160 --> 01:08:02,321
+<font color="#D900D9">(MRS. FRANKENSTEIN SCREAMS)</font>
 
 825
-01:10:21,089 --> 01:10:24,426
-<i>Your apple pie
-Don't taste too nice</i>
+01:08:02,480 --> 01:08:03,686
+<font color="#D900D9">(GASPS)</font>
 
 826
-01:10:24,676 --> 01:10:28,013
-<i>You'd better wise up
-Janet Weiss</i>
+01:08:06,840 --> 01:08:08,171
+<font color="#D900D9">(FOOTSTEPS THUNDERING)</font>
 
 827
-01:10:34,853 --> 01:10:38,315
-<i>I've laid the seed
-It should be all you need</i>
+01:08:16,840 --> 01:08:17,921
+<font color="#D900D9">(GASPS)</font>
 
 828
-01:10:38,607 --> 01:10:40,484
-<i>You're as sensual as a pencil</i>
+01:08:32,080 --> 01:08:33,650
+Go, Colossus.
 
 829
-01:10:40,776 --> 01:10:42,361
-<i>Wound up like an E or first string</i>
+01:08:41,200 --> 01:08:43,043
+Kill! Kill!
 
 830
-01:10:42,611 --> 01:10:45,155
-<i>When we made it
-Did ya hear a bell ring?</i>
+01:08:43,800 --> 01:08:44,926
+Kill!
 
 831
-01:10:45,864 --> 01:10:48,951
-<i>You got a block
-Well, take my advice</i>
+01:08:45,800 --> 01:08:47,131
+<font color="#D900D9">(HIGH-PITCHED GROWLING)</font>
 
 832
-01:10:49,201 --> 01:10:53,288
-<i>You'd better wise up
-Janet Weiss</i>
+01:08:47,560 --> 01:08:48,686
+<font color="#D900D9">(LOW GROWLING)</font>
 
 833
-01:10:53,705 --> 01:10:57,209
-<i>The transducer
-Will seduce ya</i>
+01:08:50,880 --> 01:08:52,245
+<font color="#D900D9">(GROWLING)</font>
 
 834
-01:10:59,211 --> 01:11:02,089
-My feet! I can't move my feet!
+01:08:55,000 --> 01:08:56,206
+<font color="#D900D9">(ROARING)</font>
 
 835
-01:11:02,381 --> 01:11:05,425
-My wheels!
-My God, I can't move my wheels.
+01:08:58,640 --> 01:08:59,766
+<font color="#D900D9">(SQUISHING)</font>
 
 836
-01:11:06,969 --> 01:11:09,137
-It's as if we were glued to the spot.
+01:08:59,840 --> 01:09:01,171
+Colossus?
 
 837
-01:11:09,638 --> 01:11:11,223
-You are.
+01:09:01,320 --> 01:09:02,367
+<font color="#D900D9">(GASPS)</font>
 
 838
-01:11:11,682 --> 01:11:15,018
-So quake with fear, you tiny fools.
+01:09:02,440 --> 01:09:03,566
+<font color="#D900D9">(ROARING)</font>
 
 839
-01:11:16,561 --> 01:11:17,854
-We're trapped.
+01:09:07,720 --> 01:09:09,290
+<font color="#D900D9">(MUFFLED)</font> Mm! Mm-mm!
 
 840
-01:11:18,522 --> 01:11:22,484
-<i>It's something you'll get used to
-A mental mind fuck can be nice</i>
+01:09:11,720 --> 01:09:13,290
+Get away from me!
 
 841
-01:11:22,693 --> 01:11:23,527
-No!
+01:09:15,240 --> 01:09:16,890
+Get away from me!
 
 842
-01:11:23,777 --> 01:11:26,989
-You won't find Earth people
-the easy mark you imagine.
+01:09:16,960 --> 01:09:18,246
+<font color="#D900D9">(GROWLS)</font>
 
 843
-01:11:27,239 --> 01:11:29,199
-This sonic transducer...
+01:09:18,680 --> 01:09:19,806
+<font color="#D900D9">(SCREAMS)</font>
 
 844
-01:11:29,449 --> 01:11:33,870
-it is some kind of audio-vibratory,
-physiomolecular transport device?
+01:09:21,840 --> 01:09:22,921
+<font color="#D900D9">(SCREAMING)</font>
 
 845
-01:11:34,162 --> 01:11:35,664
-- You mean...?
-- Yes, Brad.
+01:09:31,760 --> 01:09:32,807
+<font color="#D900D9">(BOTH GASP)</font>
 
 846
-01:11:35,914 --> 01:11:39,376
-It's something we ourselves
-have been working on for a while.
+01:09:32,880 --> 01:09:35,645
+Your Sea-Monkeys.
+Are they freshwater or saltwater?
 
 847
-01:11:39,668 --> 01:11:43,463
-But it seems our friend here has found
-a means of perfecting it.
+01:09:35,720 --> 01:09:37,051
+Freshwater.
 
 848
-01:11:43,755 --> 01:11:47,009
-A device capable
-of breaking down solid matter...
+01:09:37,280 --> 01:09:39,442
+Freshwater animals can't tolerate salt.
 
 849
-01:11:47,259 --> 01:11:50,637
-and then projecting it
-through space, and who knows...
+01:09:48,440 --> 01:09:49,930
+Hey! Over here!
 
 850
-01:11:50,887 --> 01:11:54,433
-perhaps even time itself!
+01:09:53,640 --> 01:09:54,766
+<font color="#D900D9">(CHATTERING)</font>
 
 851
-01:11:54,683 --> 01:11:57,102
-He's gonna send us to another planet?
+01:10:13,800 --> 01:10:14,847
+Cool.
 
 852
-01:11:57,352 --> 01:12:00,480
-Planet schmanet, Janet.
+01:10:16,440 --> 01:10:17,521
+<font color="#D900D9">(EDGAR SCREAMS)</font>
 
 853
-01:12:01,106 --> 01:12:04,109
-<i>You'd better wise up
-Janet Weiss</i>
+01:10:17,960 --> 01:10:19,166
+<font color="#D900D9">(BARKING)</font>
 
 854
-01:12:04,401 --> 01:12:08,363
-<i>You'd better wise up
-Build your thighs up</i>
+01:10:20,640 --> 01:10:21,801
+<font color="#808080">ELSA:</font> Help!
 
 855
-01:12:08,572 --> 01:12:10,073
-<i>You'd better wise up</i>
+01:10:22,960 --> 01:10:24,121
+Get back!
 
 856
-01:12:10,365 --> 01:12:12,451
-And then she cried out:
+01:10:24,920 --> 01:10:26,445
+Stay away from us!
 
 857
-01:12:12,743 --> 01:12:14,453
-Stop!
+01:10:36,920 --> 01:10:37,921
+<font color="#D900D9">(WHIMPERING)</font>
 
 858
-01:12:18,624 --> 01:12:23,754
-<i>Don't get hot and flustered</i>
+01:10:38,400 --> 01:10:39,401
+<font color="#D900D9">(GROWLING)</font>
 
 859
-01:12:24,546 --> 01:12:28,800
-<i>Use a bit of mustard</i>
+01:10:46,160 --> 01:10:47,400
+Sparky!
 
 860
-01:12:29,051 --> 01:12:31,720
-<i>You're a hot dog</i>
+01:10:49,040 --> 01:10:50,041
+<font color="#D900D9">(ROARING)</font>
 
 861
-01:12:32,012 --> 01:12:34,681
-<i>But you'd better not...</i>
+01:11:00,520 --> 01:11:02,363
+<font color="#D900D9">(CRYING OUT IN FEAR)</font>
 
 862
-01:12:35,307 --> 01:12:37,976
-<i>try to hurt her</i>
+01:11:03,800 --> 01:11:04,847
+No, no, no, no!
 
 863
-01:12:38,477 --> 01:12:39,603
-<i>Frank Furter</i>
+01:11:05,040 --> 01:11:08,522
+Whoa, stop!
+You put me down! I gave you life!
 
 864
-01:12:40,729 --> 01:12:43,398
-<i>You're a hot dog</i>
+01:11:10,600 --> 01:11:14,446
+Victor! Victor, I need help. Please!
 
 865
-01:12:43,649 --> 01:12:46,443
-<i>But you'd better not...</i>
+01:11:23,120 --> 01:11:24,451
+<font color="#D900D9">(ELECTRICITY SIZZLING)</font>
 
 866
-01:12:46,735 --> 01:12:49,655
-<i>try to hurt her</i>
+01:11:29,360 --> 01:11:30,486
+<font color="#D900D9">(SCREAMING)</font>
 
 867
-01:12:50,072 --> 01:12:51,490
-<i>Frank Furter</i>
+01:11:35,360 --> 01:11:36,600
+<font color="#D900D9">(ROARING)</font>
 
 868
-01:12:52,658 --> 01:12:54,826
-<i>You're a hot dog</i>
+01:11:45,520 --> 01:11:46,681
+Shelley?
 
 869
-01:12:57,245 --> 01:13:01,166
-My God! I can't stand any more of this.
+01:11:48,880 --> 01:11:50,450
+<font color="#808080"><font color="#D900D9">(PERSEPHONE BARKS)</font>
+ ELSA:</font> - Persephone!
 
 870
-01:13:01,416 --> 01:13:06,338
-First, you spurn me for Eddie, then you
-toss him like an old coat for Rocky.
+01:11:51,240 --> 01:11:53,242
+Persephone, are you okay?
 
 871
-01:13:06,964 --> 01:13:10,300
-You chew people up
-and then you spit them out again.
+01:11:53,400 --> 01:11:54,447
+<font color="#D900D9">(BOTH BARK)</font>
 
 872
-01:13:11,134 --> 01:13:12,427
-I loved you.
+01:11:54,760 --> 01:11:57,286
+- Here, Mr. Whiskers.
+<font color="#D900D9">(YOWLS)</font>
 
 873
-01:13:13,095 --> 01:13:14,888
-Do you hear me? I loved you.
+01:11:57,360 --> 01:12:00,489
+Here, kitty, kitty, Mr. Whiskers.
 
 874
-01:13:15,097 --> 01:13:18,642
-And what did it get me?
-I'll tell you, a big nothing.
+01:12:01,000 --> 01:12:02,081
+<font color="#D900D9">(GASPS)</font>
 
 875
-01:13:18,934 --> 01:13:23,063
-You're like a sponge. You drain
-others of their love and emotion.
+01:12:03,040 --> 01:12:04,724
+- No!
+<font color="#D900D9">(SCREECHING)</font>
 
 876
-01:13:23,355 --> 01:13:24,898
-Well, I've had enough!
+01:12:05,280 --> 01:12:06,486
+Persephone!
 
 877
-01:13:25,148 --> 01:13:29,236
-Choose between me and Rocky, so named
-because of the rocks in his head.
+01:12:07,400 --> 01:12:08,765
+Bring her back!
 
 878
-01:13:40,038 --> 01:13:42,833
-It's not easy, having a good time.
+01:12:10,280 --> 01:12:12,123
+Mr. Whiskers.
 
 879
-01:13:51,133 --> 01:13:54,303
-Even smiling makes my face ache.
+01:12:13,200 --> 01:12:14,804
+I'm coming, Elsa!
 
 880
-01:13:57,723 --> 01:14:00,559
-And my children turn on me.
+01:12:21,320 --> 01:12:22,321
+<font color="#D900D9">(GROANS)</font>
 
 881
-01:14:01,059 --> 01:14:04,313
-Rocky's behaving just the way
-that Eddie did.
+01:12:22,480 --> 01:12:23,891
+What happened?
 
 882
-01:14:07,065 --> 01:14:08,317
-Maybe I made a mistake...
+01:12:26,400 --> 01:12:27,811
+Sparky! There you are.
 
 883
-01:14:08,567 --> 01:14:11,403
-splitting his brain
-between the two of them.
+01:12:28,080 --> 01:12:29,241
+Are you all right?
 
 884
-01:14:11,653 --> 01:14:13,947
-I grow weary of this world!
+01:12:29,360 --> 01:12:30,486
+<font color="#D900D9">(BARKING)</font>
 
 885
-01:14:14,197 --> 01:14:17,451
-When shall we return to Transylvania?!
+01:12:31,360 --> 01:12:32,486
+What you got there, boy?
 
 886
-01:14:18,577 --> 01:14:20,162
-Magenta...
+01:12:32,560 --> 01:12:33,881
+<font color="#808080">MR. BURGEMEISTER:</font> Let me through!
 
 887
-01:14:20,829 --> 01:14:24,458
-I am indeed grateful to both you
-and your brother, Riff Raff.
+01:12:34,280 --> 01:12:37,887
+I knew it. It's the boy's dead dog!
 
 888
-01:14:24,750 --> 01:14:27,252
-You have both served me well.
+01:12:38,080 --> 01:12:39,491
+<font color="#D900D9">(CROWD CHATTERING)</font>
 
 889
-01:14:27,502 --> 01:14:31,548
-Loyalty such as yours
-shall not go unrewarded.
+01:12:39,840 --> 01:12:43,731
+<font color="#D900D9">(GASPS)</font> That's Elsa's wig.
+Where's my niece?
 
 890
-01:14:31,840 --> 01:14:36,428
-You'll discover that when the mood
-takes me, I can be quite generous.
+01:12:44,160 --> 01:12:46,208
+He's killed the little girl!
 
 891
-01:14:36,637 --> 01:14:39,765
-I ask for nothing, master.
+01:12:46,440 --> 01:12:47,601
+<font color="#D900D9">(BARKING)</font>
 
 892
-01:14:40,265 --> 01:14:44,353
-And you shall receive it in abundance!
+01:12:49,160 --> 01:12:51,367
+After him! Kill the monster!
 
 893
-01:14:46,438 --> 01:14:49,775
-Come. We are ready for the floorshow.
+01:13:14,960 --> 01:13:15,961
+<font color="#808080">ELSA:</font> Help!
 
 894
-01:15:17,970 --> 01:15:23,016
-<i>And so, by some extraordinary
-coincidence...</i>
+01:13:17,640 --> 01:13:18,721
+<font color="#D900D9">(GASPS)</font>
 
 895
-01:15:23,225 --> 01:15:26,144
-fate, it seemed, had decided
-that Brad and Janet...
+01:13:22,600 --> 01:13:23,681
+Help!
 
 896
-01:15:26,395 --> 01:15:30,274
-should keep that appointment
-with their friend Dr. Everett Scott.
+01:13:26,720 --> 01:13:28,085
+Stay away from us!
 
 897
-01:15:30,565 --> 01:15:32,442
-But it was to be in a situation...
+01:13:28,840 --> 01:13:30,001
+<font color="#D900D9">(PANTING)</font>
 
 898
-01:15:32,734 --> 01:15:35,862
-which none of them could have
-possibly foreseen.
+01:13:35,840 --> 01:13:37,080
+<font color="#D900D9">(BARKING)</font>
 
 899
-01:15:36,071 --> 01:15:40,534
-And just a few hours
-after announcing their engagement...
+01:13:39,920 --> 01:13:41,046
+Get him!
 
 900
-01:15:40,784 --> 01:15:44,413
-Brad and Janet had both tasted...
+01:13:42,680 --> 01:13:43,920
+<font color="#D900D9">(WHINING)</font>
 
 901
-01:15:45,330 --> 01:15:47,332
-forbidden fruit.
+01:13:44,160 --> 01:13:45,685
+Where's my niece?
 
 902
-01:15:48,834 --> 01:15:50,502
-This in itself was proof...
+01:13:47,480 --> 01:13:49,244
+Look out! It's on fire!
 
 903
-01:15:50,752 --> 01:15:54,131
-that their host
-was a man of little morals...
+01:13:50,400 --> 01:13:51,526
+<font color="#D900D9">(GASPS)</font>
 
 904
-01:15:54,423 --> 01:15:57,342
-and some persuasion.
+01:13:53,240 --> 01:13:54,685
+There's Elsa!
 
 905
-01:15:58,093 --> 01:16:02,764
-What further indignities
-were they to be subjected to?
+01:13:57,560 --> 01:13:58,561
+Help!
 
 906
-01:16:03,098 --> 01:16:07,978
-And what of the floorshow
-that had been spoken of?
+01:14:03,160 --> 01:14:04,321
+Ow!
 
 907
-01:16:08,604 --> 01:16:11,356
-In an empty house...
+01:14:05,200 --> 01:14:06,406
+<font color="#D900D9">(SCREAMING)</font>
 
 908
-01:16:11,607 --> 01:16:14,568
-in the middle of the night?
+01:14:08,160 --> 01:14:09,366
+<font color="#808080">MR. BURGEMEISTER:</font> Elsa!
 
 909
-01:16:14,860 --> 01:16:17,571
-What diabolical plan...
+01:14:11,080 --> 01:14:12,445
+Sparky!
 
 910
-01:16:17,821 --> 01:16:21,950
-had seized Frank's crazed imagination?
+01:14:12,680 --> 01:14:13,886
+<font color="#D900D9">(BARKING)</font>
 
 911
-01:16:23,869 --> 01:16:25,912
-What indeed?
+01:14:17,240 --> 01:14:18,287
+<font color="#808080">ELSA:</font> Victor!
 
 912
-01:16:26,580 --> 01:16:30,125
-From what had gone before,
-it was clear...
+01:14:18,520 --> 01:14:20,807
+- Help!
+- Hang on! Don't let go!
 
 913
-01:16:30,375 --> 01:16:33,879
-that this was to be no picnic.
+01:14:20,880 --> 01:14:22,291
+I can't reach!
 
 914
-01:17:02,407 --> 01:17:06,203
-<i>It was great when it all began</i>
+01:14:22,360 --> 01:14:24,283
+<font color="#D900D9">(YOWLING)</font>
+<font color="#D900D9">(GRUNTING)</font>
 
 915
-01:17:06,495 --> 01:17:11,166
-<i>I was a regular Frankie fan</i>
+01:14:33,080 --> 01:14:34,241
+Hang on!
 
 916
-01:17:11,416 --> 01:17:14,836
-<i>But it was over when he had the plan</i>
+01:14:34,440 --> 01:14:36,044
+I can't hold on much longer.
 
 917
-01:17:15,128 --> 01:17:19,299
-<i>To start working on a muscleman</i>
+01:14:41,720 --> 01:14:43,210
+<font color="#D900D9">(SCREAMING)</font>
 
 918
-01:17:19,508 --> 01:17:23,262
-<i>Now the only thing that gives me hope</i>
+01:14:46,720 --> 01:14:48,131
+<font color="#D900D9">(BOTH GRUNTING)</font>
 
 919
-01:17:23,470 --> 01:17:28,058
-<i>Is my love of a certain dope</i>
+01:14:48,400 --> 01:14:49,890
+<font color="#D900D9">(BARKING)</font>
 
 920
-01:17:28,350 --> 01:17:30,894
-<i>Rose tints my world</i>
+01:14:51,040 --> 01:14:52,087
+<font color="#D900D9">(YOWLING)</font>
 
 921
-01:17:31,186 --> 01:17:34,982
-<i>Keeps me safe
-From my trouble and pain</i>
+01:14:55,440 --> 01:14:56,930
+<font color="#D900D9">(WHIMPERING)</font>
 
 922
-01:17:36,483 --> 01:17:40,404
-<i>I'm just seven hours old</i>
+01:14:58,000 --> 01:14:59,081
+Sparky!
 
 923
-01:17:40,654 --> 01:17:43,657
-<i>Truly beautiful to behold</i>
+01:15:00,600 --> 01:15:01,681
+<font color="#D900D9">(GRUNTS)</font>
 
 924
-01:17:45,200 --> 01:17:48,495
-<i>And somebody should be told</i>
+01:15:01,760 --> 01:15:02,841
+<font color="#D900D9">(GASPS)</font>
 
 925
-01:17:48,787 --> 01:17:52,708
-<i>My libido hasn't been controlled</i>
+01:15:02,920 --> 01:15:03,967
+<font color="#D900D9">(GRUNTS)</font>
 
 926
-01:17:53,292 --> 01:17:57,045
-<i>Now the only thing I've come to trust</i>
+01:15:04,760 --> 01:15:05,921
+<font color="#D900D9">(GRUNTING)</font>
 
 927
-01:17:57,462 --> 01:18:01,633
-<i>Is an orgasmic rush of lust</i>
+01:15:08,640 --> 01:15:09,846
+Victor!
 
 928
-01:18:01,967 --> 01:18:03,510
-<i>Rose tints my world</i>
+01:15:09,920 --> 01:15:11,524
+Stay back. It's too dangerous.
 
 929
-01:18:03,802 --> 01:18:08,098
-<i>And keeps me safe
-From my trouble and pain</i>
+01:15:11,600 --> 01:15:12,761
+That's my son in there!
 
 930
-01:18:10,559 --> 01:18:14,396
-<i>It's beyond me</i>
+01:15:37,440 --> 01:15:39,204
+<font color="#D900D9">(CRYING)</font> Oh! oh!
 
 931
-01:18:14,646 --> 01:18:18,775
-<i>Help me, Mommy</i>
+01:15:39,440 --> 01:15:40,805
+<font color="#D900D9">(SOBBING)</font>
 
 932
-01:18:19,067 --> 01:18:22,738
-<i>I'll be good, you'll see</i>
+01:15:46,160 --> 01:15:47,491
+<font color="#808080">BOTH:</font> Victor!
 
 933
-01:18:22,988 --> 01:18:26,450
-<i>Take this dream away</i>
+01:15:48,600 --> 01:15:50,921
+- Victor!
+- Honey, are you all right?
 
 934
-01:18:27,242 --> 01:18:29,703
-<i>What's this</i>
+01:15:55,640 --> 01:15:56,880
+<font color="#D900D9">(BARKING)</font>
 
 935
-01:18:29,995 --> 01:18:31,872
-<i>Let's see</i>
+01:16:03,400 --> 01:16:04,606
+Sparky!
 
 936
-01:18:32,164 --> 01:18:35,626
-<i>I feel sexy</i>
+01:16:07,840 --> 01:16:09,001
+<font color="#D900D9">(YOWLS)</font>
 
 937
-01:18:37,085 --> 01:18:39,796
-<i>What's come over me</i>
+01:16:09,480 --> 01:16:10,720
+<font color="#D900D9">(BARKING)</font>
 
 938
-01:18:40,255 --> 01:18:43,008
-<i>Here it comes again</i>
+01:16:12,560 --> 01:16:13,721
+<font color="#D900D9">(YOWLING)</font>
 
 939
-01:18:46,303 --> 01:18:50,057
-<i>I feel released</i>
+01:16:15,160 --> 01:16:16,241
+<font color="#D900D9">(WHIMPERS)</font>
 
 940
-01:18:50,349 --> 01:18:53,560
-<i>Bad times deceased</i>
+01:16:16,840 --> 01:16:17,841
+<font color="#D900D9">(HISSES)</font>
 
 941
-01:18:53,769 --> 01:18:57,022
-<i>My confidence has increased</i>
+01:16:21,200 --> 01:16:22,486
+<font color="#D900D9">(HISSES)</font>
 
 942
-01:18:58,357 --> 01:19:01,485
-<i>Reality is here</i>
+01:16:22,840 --> 01:16:24,001
+<font color="#D900D9">(WHIMPERS)</font>
 
 943
-01:19:01,693 --> 01:19:05,906
-<i>The game has been disbanded</i>
+01:16:26,080 --> 01:16:27,241
+<font color="#D900D9">(SCREECHES)</font>
 
 944
-01:19:06,156 --> 01:19:09,618
-<i>My mind has been expanded</i>
+01:16:32,960 --> 01:16:34,166
+<font color="#D900D9">(WHIMPERS)</font>
 
 945
-01:19:09,826 --> 01:19:13,038
-<i>It's a gas that Frankie's landed</i>
-
-946
-01:19:14,206 --> 01:19:18,794
-<i>His lust is so sincere</i>
-
-947
-01:19:54,579 --> 01:19:56,456
-<i>Whatever happened...</i>
-
-948
-01:19:56,748 --> 01:19:59,251
-<i>to Fay Wray</i>
-
-949
-01:19:59,751 --> 01:20:01,587
-<i>That delicate...</i>
-
-950
-01:20:01,837 --> 01:20:06,383
-<i>satin-draped frame</i>
-
-951
-01:20:07,593 --> 01:20:11,763
-<i>As it clung to her thigh</i>
-
-952
-01:20:12,097 --> 01:20:17,185
-<i>How I started to cry</i>
-
-953
-01:20:18,645 --> 01:20:21,607
-<i>'Cause I wanted to be dressed</i>
-
-954
-01:20:21,857 --> 01:20:26,153
-<i>Just the same</i>
-
-955
-01:20:27,446 --> 01:20:29,615
-<i>Give yourself over</i>
-
-956
-01:20:29,865 --> 01:20:33,910
-<i>To absolute pleasure</i>
-
-957
-01:20:34,202 --> 01:20:37,247
-<i>Swim the warm waters</i>
-
-958
-01:20:37,539 --> 01:20:41,209
-<i>Of sins of the flesh</i>
-
-959
-01:20:41,460 --> 01:20:44,296
-<i>Erotic nightmares</i>
-
-960
-01:20:44,546 --> 01:20:48,300
-<i>Beyond any measure</i>
-
-961
-01:20:48,550 --> 01:20:51,845
-<i>And sensual daydreams</i>
-
-962
-01:20:52,137 --> 01:20:56,642
-<i>To treasure forever</i>
-
-963
-01:20:56,892 --> 01:21:02,022
-<i>Can't you just see it</i>
-
-964
-01:21:15,452 --> 01:21:18,497
-<i>Don't dream it</i>
-
-965
-01:21:19,831 --> 01:21:22,668
-<i>Be it</i>
-
-966
-01:21:22,918 --> 01:21:26,630
-<i>Don't dream it</i>
-
-967
-01:21:27,589 --> 01:21:30,384
-<i>Be it</i>
-
-968
-01:21:30,634 --> 01:21:33,720
-<i>Don't dream it</i>
-
-969
-01:21:35,097 --> 01:21:36,932
-<i>Be it</i>
-
-970
-01:21:45,607 --> 01:21:50,070
-<i>Don't dream it</i>
-
-971
-01:21:50,362 --> 01:21:52,864
-<i>Be it</i>
-
-972
-01:22:23,979 --> 01:22:26,273
-We've got to get...
-
-973
-01:22:26,565 --> 01:22:28,358
-out of this trap...
-
-974
-01:22:29,651 --> 01:22:33,363
-before this decadence...
-
-975
-01:22:34,072 --> 01:22:36,450
-saps our wills.
-
-976
-01:22:37,743 --> 01:22:40,037
-I've got to be strong...
-
-977
-01:22:40,454 --> 01:22:42,956
-<i>und</i> try to hang on.
-
-978
-01:22:44,625 --> 01:22:46,543
-Or else my mind...
-
-979
-01:22:47,836 --> 01:22:50,255
-may well snap.
-
-980
-01:22:51,089 --> 01:22:55,260
-<i>Und</i> my life will be lived...
-
-981
-01:22:56,929 --> 01:23:01,767
-<i>for the thrill</i>
-
-982
-01:23:05,979 --> 01:23:09,566
-<i>It's beyond me</i>
-
-983
-01:23:09,858 --> 01:23:12,986
-<i>Help me, Mommy</i>
-
-984
-01:23:13,362 --> 01:23:15,280
-<i>God bless...</i>
-
-985
-01:23:15,530 --> 01:23:19,701
-<i>Lily St. Cyr</i>
-
-986
-01:23:22,037 --> 01:23:24,122
-<i>My, my, my, my</i>
-
-987
-01:23:24,373 --> 01:23:26,667
-<i>My, my, my, my</i>
-
-988
-01:23:26,959 --> 01:23:28,877
-<i>I'm a wild and untamed thing</i>
-
-989
-01:23:29,127 --> 01:23:31,171
-<i>I'm a bee with a deadly sting</i>
-
-990
-01:23:31,463 --> 01:23:33,674
-<i>Get a hit and your mind goes "ping"</i>
-
-991
-01:23:33,966 --> 01:23:36,134
-<i>Your heart'll thump
-And your blood will sing</i>
-
-992
-01:23:36,385 --> 01:23:38,637
-<i>Let the party and the sounds rock on</i>
-
-993
-01:23:38,845 --> 01:23:41,431
-<i>We're gonna shake it
-Till the life has gone</i>
-
-994
-01:23:41,723 --> 01:23:46,103
-<i>Rose tints my world
-Keep me safe from my trouble and pain</i>
-
-995
-01:23:48,730 --> 01:23:50,774
-<i>We're a wild and an untamed thing</i>
-
-996
-01:23:51,066 --> 01:23:53,026
-<i>We're a bee with a deadly sting</i>
-
-997
-01:23:53,318 --> 01:23:55,654
-<i>Get a hit and your mind goes "ping"</i>
-
-998
-01:23:55,904 --> 01:23:57,864
-<i>Your heart'll thump
-And your blood will sing</i>
-
-999
-01:23:58,115 --> 01:24:00,367
-<i>So let the party
-And the sounds rock on</i>
-
-1000
-01:24:00,659 --> 01:24:03,328
-<i>We're gonna shake it
-Till the life has gone</i>
-
-1001
-01:24:03,578 --> 01:24:08,458
-<i>Rose tints my world
-Keep me safe from my trouble and pain</i>
-
-1002
-01:24:18,969 --> 01:24:20,846
-<i>We're a wild and an untamed thing</i>
-
-1003
-01:24:21,096 --> 01:24:23,640
-<i>We're a bee with a deadly sting</i>
-
-1004
-01:24:23,932 --> 01:24:25,976
-<i>Get a hit and your mind goes "ping"</i>
-
-1005
-01:24:26,268 --> 01:24:27,811
-<i>Your heart'll thump
-And your blood will sing</i>
-
-1006
-01:24:28,353 --> 01:24:30,480
-<i>So let the party
-And the sounds rock on</i>
-
-1007
-01:24:30,772 --> 01:24:33,150
-<i>We're gonna shake it
-Till the life has gone</i>
-
-1008
-01:24:33,442 --> 01:24:38,280
-<i>Rose tints my world
-Keep me safe from my trouble and pain</i>
-
-1009
-01:24:42,117 --> 01:24:44,870
-<i>Frank N. Furter</i>
-
-1010
-01:24:45,120 --> 01:24:47,956
-<i>It's all over</i>
-
-1011
-01:24:48,373 --> 01:24:51,460
-<i>Your mission is a failure</i>
-
-1012
-01:24:51,710 --> 01:24:55,172
-<i>Your lifestyle's too extreme</i>
-
-1013
-01:24:55,464 --> 01:24:58,717
-<i>I'm your new commander</i>
-
-1014
-01:24:58,967 --> 01:25:01,386
-<i>You now are my prisoner</i>
-
-1015
-01:25:01,678 --> 01:25:04,973
-<i>We return to Transylvania</i>
-
-1016
-01:25:05,724 --> 01:25:10,812
-<i>Prepare the transit beam</i>
-
-1017
-01:25:12,814 --> 01:25:14,107
-Wait!
-
-1018
-01:25:17,569 --> 01:25:19,321
-I can explain.
-
-1019
-01:25:48,934 --> 01:25:53,063
-<i>On the day I went away</i>
-
-1020
-01:25:53,355 --> 01:25:57,234
-<i>Goodbye</i>
-
-1021
-01:25:57,526 --> 01:26:00,404
-<i>Was all I had to say</i>
-
-1022
-01:26:01,029 --> 01:26:03,949
-<i>Now I</i>
-
-1023
-01:26:05,200 --> 01:26:08,578
-<i>I want to come again and stay</i>
-
-1024
-01:26:08,870 --> 01:26:11,623
-<i>Oh, my, my</i>
-
-1025
-01:26:11,873 --> 01:26:17,004
-<i>Smile and that will mean I may</i>
-
-1026
-01:26:22,718 --> 01:26:24,011
-<i>'Cause I've seen</i>
-
-1027
-01:26:27,472 --> 01:26:32,561
-<i>Blue skies through the tears</i>
-
-1028
-01:26:33,729 --> 01:26:34,730
-<i>In my eyes</i>
-
-1029
-01:26:38,066 --> 01:26:40,360
-<i>And I realize</i>
-
-1030
-01:26:43,155 --> 01:26:45,991
-<i>I'm going home</i>
-
-1031
-01:26:50,162 --> 01:26:53,707
-<i>I'm going home</i>
-
-1032
-01:27:00,923 --> 01:27:04,551
-<i>Everywhere it's been the same</i>
-
-1033
-01:27:05,344 --> 01:27:09,056
-<i>Feeling</i>
-
-1034
-01:27:09,348 --> 01:27:12,726
-<i>Like I'm outside in the rain</i>
-
-1035
-01:27:13,018 --> 01:27:16,021
-<i>Wheeling</i>
-
-1036
-01:27:16,271 --> 01:27:20,025
-<i>Free to try and find a game</i>
-
-1037
-01:27:20,275 --> 01:27:23,028
-<i>Dealing</i>
-
-1038
-01:27:23,278 --> 01:27:25,864
-<i>Cards for sorrow</i>
-
-1039
-01:27:26,156 --> 01:27:31,244
-<i>Cards for pain</i>
-
-1040
-01:27:33,622 --> 01:27:35,624
-<i>'Cause I've seen</i>
-
-1041
-01:27:38,168 --> 01:27:40,504
-<i>Blue skies</i>
-
-1042
-01:27:40,754 --> 01:27:43,966
-<i>Through the tears</i>
-
-1043
-01:27:44,216 --> 01:27:46,468
-<i>In my eyes</i>
-
-1044
-01:27:48,637 --> 01:27:51,056
-<i>And I realize</i>
-
-1045
-01:27:53,642 --> 01:27:56,019
-<i>That I'm going home</i>
-
-1046
-01:28:00,482 --> 01:28:05,237
-<i>I'm going home</i>
-
-1047
-01:28:08,073 --> 01:28:11,493
-<i>I'm going home</i>
-
-1048
-01:28:16,415 --> 01:28:21,503
-<i>I'm going home</i>
-
-1049
-01:28:45,777 --> 01:28:48,822
-How sentimental.
-
-1050
-01:29:00,375 --> 01:29:02,544
-And also presumptuous of you.
-
-1051
-01:29:04,546 --> 01:29:07,591
-You see, when I said "we"...
-
-1052
-01:29:07,841 --> 01:29:10,427
-were to return to Transylvania...
-
-1053
-01:29:10,719 --> 01:29:13,055
-I referred only to Magenta and myself.
-
-1054
-01:29:14,056 --> 01:29:17,392
-I'm sorry, however, if you found
-my words misleading...
-
-1055
-01:29:17,643 --> 01:29:18,685
-but you see...
-
-1056
-01:29:18,977 --> 01:29:21,772
-you are to remain here.
-
-1057
-01:29:22,230 --> 01:29:24,691
-In spirit anyway.
-
-1058
-01:29:26,318 --> 01:29:28,028
-Good heavens, that's a laser.
-
-1059
-01:29:28,236 --> 01:29:29,613
-Yes, Dr. Scott.
-
-1060
-01:29:30,405 --> 01:29:34,284
-A laser capable of emitting
-a beam of pure anti-matter.
-
-1061
-01:29:35,410 --> 01:29:37,120
-You're going to kill him?
-
-1062
-01:29:37,746 --> 01:29:40,749
-- What's his crime?
-- You saw what became of Eddie.
-
-1063
-01:29:40,999 --> 01:29:43,210
-Society must be protected.
-
-1064
-01:29:43,585 --> 01:29:45,754
-Exactly, Dr. Scott.
-
-1065
-01:29:46,004 --> 01:29:48,882
-Now, Frank N. Furter, your time has come
-
-1066
-01:29:49,591 --> 01:29:53,053
-Say goodbye to all of this...
-
-1067
-01:29:54,429 --> 01:29:58,350
-and hello to oblivion.
-
-1068
-01:30:15,701 --> 01:30:16,827
-No.
-
-1069
-01:30:17,369 --> 01:30:18,370
-No.
-
-1070
-01:30:18,620 --> 01:30:20,163
+01:16:37,200 --> 01:16:37,700
 No!
 
-1071
-01:31:50,295 --> 01:31:51,713
-Good God!
-
-1072
-01:31:52,965 --> 01:31:54,216
-You killed them.
-
-1073
-01:31:54,466 --> 01:31:59,221
-But I thought you liked them.
-They liked you.
-
-1074
-01:31:59,888 --> 01:32:02,349
-They didn't like me!
-
-1075
-01:32:03,308 --> 01:32:05,686
-They never liked me!
-
-1076
-01:32:05,978 --> 01:32:07,771
-You did right.
-
-1077
-01:32:21,994 --> 01:32:25,080
-A decision had to be made.
-
-1078
-01:32:25,581 --> 01:32:27,791
-You're okay by me.
-
-1079
-01:32:28,917 --> 01:32:30,919
-Dr. Scott...
-
-1080
-01:32:31,837 --> 01:32:36,258
-I'm sorry about your nephew.
-
-1081
-01:32:36,508 --> 01:32:37,801
-Eddie?
-
-1082
-01:32:38,343 --> 01:32:41,555
-Yes, well, perhaps it was for the best.
-
-1083
-01:32:43,932 --> 01:32:48,020
-You should leave now, Dr. Scott,
-while it is still possible.
-
-1084
-01:32:48,353 --> 01:32:51,023
-We are about to beam the entire house...
-
-1085
-01:32:51,273 --> 01:32:53,984
-back to the planet of Transsexual...
-
-1086
-01:32:54,276 --> 01:32:57,404
-in the galaxy of Transylvania.
-
-1087
-01:32:58,947 --> 01:33:00,115
-Go.
-
-1088
-01:33:01,366 --> 01:33:02,618
-Now.
-
-1089
-01:33:15,380 --> 01:33:19,301
-Our noble mission is almost completed...
-
-1090
-01:33:20,802 --> 01:33:23,055
-my most beautiful sister.
-
-1091
-01:33:23,889 --> 01:33:28,268
-And soon we shall return
-to the moon-drenched shores...
-
-1092
-01:33:28,560 --> 01:33:30,771
-of our beloved planet.
-
-1093
-01:33:32,481 --> 01:33:36,818
-Sweet Transsexual.
-
-1094
-01:33:37,903 --> 01:33:40,781
-Land of night.
-
-1095
-01:33:41,740 --> 01:33:46,828
-To sing and dance once more
-to your dark refrain.
-
-1096
-01:33:52,084 --> 01:33:53,919
-To take that...
-
-1097
-01:33:55,754 --> 01:33:58,924
-step to the right.
-
-1098
-01:34:00,926 --> 01:34:03,720
-<i>But it's the pelvic thrust</i>
-
-1099
-01:34:04,012 --> 01:34:07,266
-<i>That really drives you insane</i>
-
-1100
-01:34:07,849 --> 01:34:10,811
-And our world...
-
-1101
-01:34:11,103 --> 01:34:16,024
-will do the time warp again!
-
-1102
-01:34:35,952 --> 01:34:39,539
-<i>I've done a lot</i>
-
-1103
-01:34:39,623 --> 01:34:43,793
-<i>God knows I've tried</i>
-
-1104
-01:34:43,877 --> 01:34:47,589
-<i>To find the truth</i>
-
-1105
-01:34:47,672 --> 01:34:52,177
-<i>I've even lied</i>
-
-1106
-01:34:52,260 --> 01:34:55,889
-<i>But al I I know</i>
-
-1107
-01:34:55,972 --> 01:34:59,184
-<i>Is down Inside I'm</i>
-
-1108
-01:34:59,309 --> 01:35:03,897
-<i>Bleeding
-Bleeding</i>
-
-1109
-01:35:08,026 --> 01:35:12,405
-<i>And superheroes</i>
-
-1110
-01:35:12,489 --> 01:35:15,992
-<i>Come to feast</i>
-
-1111
-01:35:16,076 --> 01:35:19,663
-<i>To taste the flesh</i>
-
-1112
-01:35:19,746 --> 01:35:23,667
-<i>Not yet deceased</i>
-
-1113
-01:35:23,750 --> 01:35:27,462
-<i>And all I know</i>
-
-1114
-01:35:27,545 --> 01:35:30,882
-<i>Is still the beast is</i>
-
-1115
-01:35:31,007 --> 01:35:35,387
-<i>Feeding
-Feeding</i>
-
-1116
-01:36:26,188 --> 01:36:28,190
-<i>And crawling</i>
-
-1117
-01:36:29,608 --> 01:36:32,152
-<i>On the planet's face</i>
-
-1118
-01:36:33,028 --> 01:36:35,697
-<i>Some insects</i>
-
-1119
-01:36:36,615 --> 01:36:39,451
-<i>Called the human race</i>
-
-1120
-01:36:41,453 --> 01:36:43,830
-<i>Lost in time</i>
-
-1121
-01:36:46,625 --> 01:36:49,253
-<i>And lost in space</i>
-
-1122
-01:36:49,962 --> 01:36:51,964
-<i>And meaning</i>
-
-1123
-01:36:53,215 --> 01:36:55,759
-<i>Meaning</i>
-
-1124
-01:37:11,984 --> 01:37:15,571
-<i>Science fiction</i>
-
-1125
-01:37:18,156 --> 01:37:21,618
-<i>Double feature</i>
-
-1126
-01:37:24,079 --> 01:37:27,541
-<i>Frank has built...</i>
-
-1127
-01:37:29,918 --> 01:37:33,755
-<i>and lost his creature</i>
-
-1128
-01:37:35,007 --> 01:37:39,636
-<i>Darkness has conquered</i>
-
-1129
-01:37:41,513 --> 01:37:45,517
-<i>Brad and Janet</i>
-
-1130
-01:37:46,602 --> 01:37:51,189
-<i>The servants gone</i>
-
-1131
-01:37:52,691 --> 01:37:56,612
-<i>To a distant planet</i>
-
-1132
-01:38:02,451 --> 01:38:04,995
-<i>At the late-night</i>
-
-1133
-01:38:05,287 --> 01:38:07,956
-<i>Double feature</i>
-
-1134
-01:38:08,207 --> 01:38:10,417
-<i>Picture show</i>
-
-1135
-01:38:10,709 --> 01:38:13,503
-<i>I want to go</i>
-
-1136
-01:38:19,635 --> 01:38:22,304
-<i>To the late-night</i>
-
-1137
-01:38:22,554 --> 01:38:24,765
-<i>Double feature</i>
-
-1138
-01:38:24,973 --> 01:38:30,103
-<i>Picture show</i>
+946
+01:17:15,240 --> 01:17:16,366
+Victor,
+
+947
+01:17:16,600 --> 01:17:18,568
+is there anything we can do for you?
+
+948
+01:17:19,760 --> 01:17:21,967
+You said that I need to let him go.
+
+949
+01:17:22,960 --> 01:17:26,521
+Sometimes adults don't know
+what they're talking about.
+
+950
+01:17:39,240 --> 01:17:40,651
+Start your engines!
+
+951
+01:17:42,760 --> 01:17:44,091
+<font color="#D900D9">(ENGINES REVVING)</font>
+
+952
+01:17:52,600 --> 01:17:54,443
+Give it more juice!
+
+953
+01:18:03,600 --> 01:18:05,284
+Turn off your engines!
+
+954
+01:18:30,440 --> 01:18:33,808
+It's okay, boy.
+You don't have to come back.
+
+955
+01:18:35,120 --> 01:18:36,929
+You'll always be in my heart.
+
+956
+01:19:08,600 --> 01:19:09,840
+<font color="#D900D9">(SIGHS)</font>
+
+957
+01:19:10,040 --> 01:19:11,166
+<font color="#D900D9">(WHINES)</font>
+
+958
+01:19:18,160 --> 01:19:19,321
+<font color="#D900D9">(GASPS)</font>
+
+959
+01:19:23,120 --> 01:19:24,645
+- Sparky!
+<font color="#D900D9">(BARKS)</font>
+
+960
+01:19:28,640 --> 01:19:30,005
+<font color="#D900D9">(CROWD APPLAUDS)</font>
+
+961
+01:19:31,120 --> 01:19:32,281
+<font color="#D900D9">(CHUCKLES)</font>
+
+962
+01:19:33,840 --> 01:19:35,046
+<font color="#D900D9">(CHUCKLES)</font>
+
+963
+01:19:37,800 --> 01:19:39,040
+<font color="#D900D9">(CHUCKLES)</font>
+
+964
+01:19:39,120 --> 01:19:40,360
+<font color="#D900D9">(BARKING)</font>
+
+965
+01:19:41,040 --> 01:19:42,530
+<font color="#D900D9">(BARKING)</font>
+
+966
+01:19:49,280 --> 01:19:51,726
+<font color="#D900D9">(BOTH BARKING)</font>
+
+967
+01:20:10,240 --> 01:20:12,083
+<i>Love</i>
+
+968
+01:20:13,040 --> 01:20:15,281
+<i>Love is strange</i>
+
+969
+01:20:15,720 --> 01:20:17,165
+<i>Oh-oh</i>
+
+970
+01:20:17,600 --> 01:20:19,728
+<i>When there's beauty on the inside</i>
+
+971
+01:20:19,800 --> 01:20:25,489
+<i>The outside there's
+nothing to ch-ch-change</i>
+
+972
+01:20:25,680 --> 01:20:27,330
+<i>Oh, after! know</i>
+
+973
+01:20:27,400 --> 01:20:31,325
+<i>Oh, after it I want this
+song to love</i>
+
+974
+01:20:31,400 --> 01:20:33,721
+<i>With someone watchin' over me</i>
+
+975
+01:20:33,800 --> 01:20:37,566
+<i>Rain or storm
+the only place I wanna be</i>
+
+976
+01:20:37,640 --> 01:20:41,531
+<i>Is close to the heart
+of everything you'd ever need</i>
+
+977
+01:20:41,600 --> 01:20:45,047
+<i>The lightning's not frightening</i>
+
+978
+01:20:45,120 --> 01:20:48,283
+<i>When you are with me</i>
+
+979
+01:20:48,360 --> 01:20:52,843
+<i>Oh, 'cause love is not always</i>
+
+980
+01:20:52,960 --> 01:20:55,964
+<i>What you think it'll be</i>
+
+981
+01:20:57,320 --> 01:20:58,731
+<i>Love</i>
+
+982
+01:20:58,920 --> 01:20:59,921
+<i>Oh-oh</i>
+
+983
+01:21:00,440 --> 01:21:02,727
+<i>Love is strange</i>
+
+984
+01:21:02,800 --> 01:21:04,131
+<i>Oh-oh</i>
+
+985
+01:21:04,800 --> 01:21:07,041
+<i>When there's beauty on the inside</i>
+
+986
+01:21:07,120 --> 01:21:13,002
+<i>The outside there's
+nothing to ch-ch-change</i>
+
+987
+01:21:28,880 --> 01:21:36,731
+<i>Strange love
+Strange love for one another</i>
+
+988
+01:21:36,800 --> 01:21:40,600
+<i>Can't judge a book by its cover</i>
+
+989
+01:21:40,680 --> 01:21:44,526
+<i>Strange love
+Strange love for one another</i>
+
+990
+01:21:44,640 --> 01:21:45,801
+<i>Love</i>
+
+991
+01:21:47,600 --> 01:21:49,921
+<i>Love is strange</i>
+
+992
+01:21:50,200 --> 01:21:51,565
+<i>Oh-oh</i>
+
+993
+01:21:52,120 --> 01:21:54,248
+<i>When there's beauty on the inside</i>
+
+994
+01:21:54,320 --> 01:21:59,963
+<i>The outside there's
+nothing to ch-ch-change</i>
+
+995
+01:22:00,320 --> 01:22:03,767
+<i>The lightning's not frightening</i>
+
+996
+01:22:03,840 --> 01:22:07,049
+<i>When you are with me</i>
+
+997
+01:22:07,160 --> 01:22:11,722
+<i>Oh, 'cause love is not always</i>
+
+998
+01:22:11,800 --> 01:22:15,282
+<i>What you think it'll be</i>
+
+999
+01:22:16,200 --> 01:22:18,931
+<i>Love
+Oh-oh</i>
+
+1000
+01:22:19,160 --> 01:22:21,208
+<i>Love is strange</i>
+
+1001
+01:22:21,680 --> 01:22:23,205
+<i>Oh-oh</i>
+
+1002
+01:22:23,680 --> 01:22:25,842
+<i>When there's beauty on the inside</i>
+
+1003
+01:22:25,960 --> 01:22:31,364
+<i>The outside there's
+nothing to ch-ch-change</i>
+
+1004
+01:22:31,440 --> 01:22:39,440
+<i>Strange love
+Strange love for one another</i>
+
+1005
+01:22:39,880 --> 01:22:43,646
+<i>Can't judge a book by its cover</i>
+
+1006
+01:22:43,720 --> 01:22:48,720
+<i>Strange love
+Strange love for one another</i>
+
+1007
+01:22:55,560 --> 01:22:59,326
+<i>Can't judge a book by its cover</i>
+
+1008
+01:22:59,400 --> 01:23:03,485
+<i>Strange love
+Strange love for one another</i>
