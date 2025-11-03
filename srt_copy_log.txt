@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 11/01/2025 12:00:35.87 
+SRT Copy Log - Mon 11/03/2025  4:09:17.73 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Companion (2025)\Companion (2025).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Companion (2025)\Companion (2025).eng.srt" 
-File name: "Companion (2025).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Magazine Dreams (2025)\Magazine Dreams (2025).srt"" 
+Clean argument 1: "J:\Movies J Drive\Magazine Dreams (2025)\Magazine Dreams (2025).srt" 
+File name: "Magazine Dreams (2025).srt" 
 File extension: ".srt" 
  
 File argument exists 
