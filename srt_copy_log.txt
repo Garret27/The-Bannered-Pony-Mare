@@ -1,12 +1,12 @@
-SRT Copy Log - Mon 11/03/2025  4:09:17.73 
+SRT Copy Log - Sat 11/15/2025 17:06:21.82 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Magazine Dreams (2025)\Magazine Dreams (2025).srt"" 
-Clean argument 1: "J:\Movies J Drive\Magazine Dreams (2025)\Magazine Dreams (2025).srt" 
-File name: "Magazine Dreams (2025).srt" 
+Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\SUBDL.com__hudson.hawk671863\Hudson.Hawk.1991.720p.BluRay.x264-PSYCHD.srt"" 
+Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\SUBDL.com__hudson.hawk671863\Hudson.Hawk.1991.720p.BluRay.x264-PSYCHD.srt" 
+File name: "Hudson.Hawk.1991.720p.BluRay.x264-PSYCHD.srt" 
 File extension: ".srt" 
  
 File argument exists 
