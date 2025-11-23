@@ -1,18 +1,18 @@
-SRT Copy Log - Tue 11/18/2025 17:26:01.20 
+SRT Copy Log - Sun 11/23/2025 14:53:46.20 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Back to the Future Part II (1989)\Back to the Future Part II (1989) 1080p AAC.srt"" 
-Clean argument 1: "J:\Movies J Drive\Back to the Future Part II (1989)\Back to the Future Part II (1989) 1080p AAC.srt" 
-File name: "Back to the Future Part II (1989) 1080p AAC.srt" 
+Raw argument 1: ""J:\Movies J Drive\The Hunger Games (2012)\The Hunger Games (2012) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\The Hunger Games (2012)\The Hunger Games (2012) 1080p AAC.eng.srt" 
+File name: "The Hunger Games (2012) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
