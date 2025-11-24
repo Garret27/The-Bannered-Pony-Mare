@@ -1,4946 +1,2731 @@
-1
-00:01:01,061 --> 00:01:02,313
-<i>I think it's our tradition.</i>
+﻿1
+00:01:20,694 --> 00:01:23,862
+That's it. Gently.
 
 2
-00:01:02,396 --> 00:01:06,067
-It comes out of a particularly
-painful part of our history.
+00:01:31,078 --> 00:01:33,784
+We should head back inside, Tom.
+Get you warm.
 
 3
-00:01:06,150 --> 00:01:07,277
-Yes, yes.
+00:01:33,956 --> 00:01:36,745
+There's a big storm coming.
 
 4
-00:01:07,359 --> 00:01:10,362
-But it's been the way
-we've been able to heal.
+00:01:48,844 --> 00:01:51,418
+He looks kind of creepy, doesn't he?
 
 5
-00:01:10,447 --> 00:01:12,614
-At first, it was a
-reminder of the rebellion.
+00:01:59,353 --> 00:02:02,521
+I'll be right behind you, Tom.
 
 6
-00:01:12,948 --> 00:01:15,534
-- It was a price the districts had to pay.
-- Yes.
+00:02:18,287 --> 00:02:21,204
+E minor.
 
 7
-00:01:15,617 --> 00:01:17,870
-But I think it has
-grown from that.
+00:02:31,465 --> 00:02:34,467
+It's the right chord.
 
 8
-00:01:17,954 --> 00:01:21,373
-I think it's something that
-knits us all together.
+00:02:54,193 --> 00:02:58,322
+Hello.
+- Ms. Whitman, it's Doctor Jansson.
 
 9
-00:01:23,585 --> 00:01:25,462
-This is your third
-year as Gamemaker.
+00:03:01,742 --> 00:03:03,865
+I have some bad news.
 
 10
-00:01:27,463 --> 00:01:30,591
-What defines your
-personal signature?
+00:03:07,622 --> 00:03:12,249
+What's wrong with you, princess?
+Why won't you spin?
 
 11
-00:01:32,259 --> 00:01:34,804
-No! No!
+00:03:14,211 --> 00:03:17,627
+We had to bring your father in again.
 
 12
-00:01:36,805 --> 00:01:41,227
-It's okay. It's okay.
-You were just dreaming.
+00:03:18,840 --> 00:03:22,708
+As we predicted,
+his episodes are becoming frequent.
 
 13
-00:01:43,313 --> 00:01:44,646
-It was me.
+00:03:25,971 --> 00:03:28,463
+This one looks quite serious.
 
 14
-00:01:45,814 --> 00:01:48,859
-I know. I know. But it's not.
+00:03:28,723 --> 00:03:31,595
+Yeah... I understand.
 
 15
-00:01:49,819 --> 00:01:52,155
-It's your first year, Prim.
-Your name's only been in there once.
+00:03:42,819 --> 00:03:47,317
+Mr. Whitman
+Tom.
 
 16
-00:01:52,237 --> 00:01:54,323
-They're not gonna pick you.
+00:03:47,490 --> 00:03:50,824
+You have to come a distance, but if
+we could discuss this in person...
 
 17
-00:01:54,823 --> 00:01:56,575
-Try to go to sleep.
+00:03:50,993 --> 00:03:54,528
+I'll be there as soon as I can.
+Bye.
 
 18
-00:01:56,658 --> 00:01:57,868
-I can't.
+00:04:02,169 --> 00:04:04,459
+Can you hear me, Mr. Whitman?
 
 19
-00:01:58,495 --> 00:02:01,371
-Just try. Just try.
+00:04:05,423 --> 00:04:07,711
+''Matthew knew it was hopeless.
 
 20
-00:02:04,667 --> 00:02:07,045
-Mmm-hmm.
+00:04:07,882 --> 00:04:09,841
+Nothing mattered anymore.
 
 21
-00:02:12,258 --> 00:02:16,179
-<i>Deep in the meadow.</i>
+00:04:10,010 --> 00:04:13,629
+Mr. White's body was melting
+even as Matthew watched.
 
 22
-00:02:17,013 --> 00:02:20,599
-<i>Under the willow</i>
+00:04:13,847 --> 00:04:18,473
+The snowman could no longer speak
+The happy face Matthew had loved -
 
 23
-00:02:21,893 --> 00:02:25,771
-<i>A bed of grass.</i>
+00:04:18,642 --> 00:04:21,347
+now was nothing but slush.
 
 24
-00:02:25,854 --> 00:02:29,859
-<i>A soft green pillow.</i>
+00:04:21,519 --> 00:04:23,596
+Matthew stared up into the sky, -
 
 25
-00:02:30,985 --> 00:02:33,780
-You remember that song? Okay.
+00:04:23,771 --> 00:04:27,521
+watching the winter's last snowflake
+floating down.
 
 26
-00:02:34,364 --> 00:02:36,156
-You finish it. I've got to go.
+00:04:27,734 --> 00:04:30,901
+Some said its touch held
+the power of magic, -
 
 27
-00:02:36,240 --> 00:02:37,283
-Where?
+00:04:31,112 --> 00:04:34,612
+but Matthew had lost his faith
+in stories.
 
 28
-00:02:38,033 --> 00:02:39,326
-I've just got to go.
+00:04:34,822 --> 00:04:39,118
+But when the snowflake finally touched
+Mr. White's outstretched arm, -
 
 29
-00:02:39,828 --> 00:02:42,454
-<i>But I'll be back. I love you</i>
+00:04:39,286 --> 00:04:42,487
+a coating of fresh frost
+spread outward from it, -
 
 30
-00:02:51,046 --> 00:02:52,841
-I'll still cook you.
+00:04:42,663 --> 00:04:45,950
+and the puddle of water
+under the snowman crackled -
 
 31
-00:05:03,012 --> 00:05:05,014
-What are you gonna do
-with that when you kill it?
+00:04:46,124 --> 00:04:48,248
+as it turned to ice.
 
 32
-00:05:07,684 --> 00:05:10,519
-Damn you, Gale! It's not funny!
+00:04:48,419 --> 00:04:53,295
+Matthew's heart filled with joy
+as he watched Mr. White come alive
 
 33
-00:05:10,603 --> 00:05:13,648
-What are you gonna do with
-a 100-pound deer, Catnip?
+00:04:53,465 --> 00:04:57,000
+The story of winter's last snowflake
+had come true.
 
 34
-00:05:13,730 --> 00:05:16,274
-It's Reaping Day. The place is
-crawling with Peacekeepers.
+00:04:57,343 --> 00:05:01,922
+The magical winter would never end''
 
 35
-00:05:16,358 --> 00:05:19,487
-I was gonna sell it
-to some Peacekeepers.
+00:05:03,307 --> 00:05:05,680
+Time to go to bed, children.
 
 36
-00:05:19,569 --> 00:05:20,779
-Of course you were.
+00:05:05,892 --> 00:05:08,728
+You're that new boy, Tom.
 
 37
-00:05:20,862 --> 00:05:22,115
-Like you don't sell
-to Peacekeepers.
+00:05:10,480 --> 00:05:13,517
+You made that snowman in the backyard.
 
 38
-00:05:22,197 --> 00:05:23,533
-No. Not today.
+00:05:15,067 --> 00:05:17,606
+I'm Ann.
 
 39
-00:05:23,615 --> 00:05:26,619
-It was the first deerl've seen in a year.
-Now I have nothing.
+00:05:18,111 --> 00:05:19,820
+What's that?
 
 40
-00:05:26,702 --> 00:05:27,829
-Okay.
+00:05:19,988 --> 00:05:21,732
+She's beautiful.
 
 41
-00:06:18,588 --> 00:06:21,173
-What if they did? Just one year.
-What if everyone just stopped watching?
+00:05:22,698 --> 00:05:24,491
+Can't you talk?
 
 42
-00:06:21,257 --> 00:06:23,384
-- They won't, Gale.
-- What if they did? What if we did?
+00:05:24,659 --> 00:05:26,735
+I can talk.
 
 43
-00:06:23,468 --> 00:06:25,011
-Won't happen.
+00:05:26,994 --> 00:05:29,912
+Are those your parents?
 
 44
-00:06:25,093 --> 00:06:27,180
-You root for your favorites.
-You cry when they get killed.
+00:05:31,414 --> 00:05:35,080
+That's my mom.
+She got sick and
 
 45
-00:06:27,262 --> 00:06:28,514
-- It's sick.
-- Gale.
+00:05:35,418 --> 00:05:37,875
+She's dead now.
 
 46
-00:06:28,598 --> 00:06:30,975
-If no one watches, then
-they don't have a game.
+00:05:39,421 --> 00:05:42,672
+My dad's a pilot.
+- Is he dead too?
 
 47
-00:06:31,059 --> 00:06:32,518
-It's as simple as that.
+00:05:42,883 --> 00:05:45,837
+He's not dead!
+My dad's Theodore Whitman.
 
 48
-00:06:32,601 --> 00:06:34,187
-- What?
-- Nothing.
+00:05:46,010 --> 00:05:47,719
+And he's a hero.
 
 49
-00:06:35,396 --> 00:06:38,316
-- Fine. Laugh at me.
-- I'm not laughing at you.
+00:05:47,887 --> 00:05:51,174
+He saved all his passengers
+from a tornado.
 
 50
-00:06:44,197 --> 00:06:46,199
-We could do it, you know?
+00:05:51,390 --> 00:05:53,883
+But he crash-landed.
 
 51
-00:06:48,283 --> 00:06:50,411
-Take off, live in the woods.
-It's what we do anyway.
+00:05:54,977 --> 00:05:58,809
+And when he gets rescued
+he'll come and get me.
 
 52
-00:06:50,495 --> 00:06:51,536
-They'd catch us.
+00:05:59,356 --> 00:06:02,855
+Nobody here has any parents.
+- Lights out!
 
 53
-00:06:51,620 --> 00:06:53,247
-Well, maybe not.
+00:06:04,276 --> 00:06:07,065
+Good night, Tom.
 
 54
-00:06:53,790 --> 00:06:57,375
-Cut out our tongues, or worse.
-We wouldn't make it five Miles.
+00:06:15,453 --> 00:06:18,704
+Sleep tight, princess.
 
 55
-00:06:57,459 --> 00:07:00,295
-No, I'd get five Miles.
-I'd go that way.
+00:07:48,827 --> 00:07:50,950
+You'll melt for this.
 
 56
-00:07:01,213 --> 00:07:03,048
-I have Prim, and
-you have your brothers.
+00:07:58,543 --> 00:08:00,502
+Well, well, well...
 
 57
-00:07:03,132 --> 00:07:04,132
-They can come, too.
+00:08:00,671 --> 00:08:03,079
+Look who's here.
 
 58
-00:07:04,216 --> 00:07:05,718
-Prim in the woods?
+00:08:03,298 --> 00:08:05,836
+It's good to see an old friend.
 
 59
-00:07:07,762 --> 00:07:09,262
-Or maybe not.
+00:08:08,844 --> 00:08:11,964
+I was just standing there
+in the backyard, -
 
 60
-00:07:10,514 --> 00:07:12,475
-I'm never having kids.
+00:08:12,139 --> 00:08:16,802
+minding my own business,
+and I felt this sting on my arm.
 
 61
-00:07:13,643 --> 00:07:15,728
-I might, if I didn't live here.
+00:08:16,977 --> 00:08:19,016
+What?
 
 62
-00:07:15,812 --> 00:07:17,980
-- But you do live here.
-- I know, but if I didn't.
+00:08:19,186 --> 00:08:21,892
+I think it was that little thing.
 
 63
-00:07:21,483 --> 00:07:22,901
-Oh, I forgot.
+00:08:22,107 --> 00:08:26,318
+Tom, let's you and me take a trip.
+See where it goes next.
 
 64
-00:07:23,569 --> 00:07:24,569
-Here.
+00:08:26,484 --> 00:08:30,400
+Who knows? Maybe we'll bump
+into someone you used to know.
 
 65
-00:07:24,653 --> 00:07:27,240
-Oh, my God! Is this real?
+00:08:30,572 --> 00:08:33,989
+Encounter things
+you've only dreamed of.
 
 66
-00:07:27,322 --> 00:07:29,408
-Yeah. Better be.
-Cost me a squirrel.
+00:08:35,618 --> 00:08:37,825
+I... I'm dreaming.
 
 67
-00:07:31,326 --> 00:07:32,745
-Happy Hunger Games.
+00:08:38,955 --> 00:08:41,445
+That's why everything is so weird.
 
 68
-00:07:32,829 --> 00:07:35,790
-"And may the odds be
-ever in your favor."
+00:08:41,624 --> 00:08:44,993
+So come on. It'll be fun.
 
 69
-00:07:40,168 --> 00:07:42,754
-How many times is
-your name in today?
+00:08:45,168 --> 00:08:47,921
+You'll be safe with me.
 
 70
-00:07:42,838 --> 00:07:44,173
-Forty-two.
+00:08:53,175 --> 00:08:58,051
+Listen, buddy, if you're too scared
+to come along, I understand.
 
 71
-00:07:45,173 --> 00:07:48,009
-Guess the odds aren't
-exactly in my favor.
+00:08:58,221 --> 00:09:01,057
+Maybe you're not a chip
+off the old block.
 
 72
-00:08:15,161 --> 00:08:16,747
-- Thank you, girl.
-- Mmm-hmm.
+00:09:01,224 --> 00:09:04,510
+Don't worry about it,
+you can just go back to bed.
 
 73
-00:08:24,963 --> 00:08:26,132
-What's this?
+00:09:04,727 --> 00:09:09,057
+Or you can come with me
+and have an adventure.
 
 74
-00:08:26,632 --> 00:08:28,718
-That's a Mockingjay.
+00:09:13,401 --> 00:09:15,893
+It feels so real!
 
 75
-00:08:31,012 --> 00:08:32,263
-How much?
+00:09:16,070 --> 00:09:18,194
+Ice and genuine oak.
 
 76
-00:08:34,307 --> 00:08:37,309
-- You keep it. It's yours.
-- Thank you.
+00:09:22,242 --> 00:09:25,279
+Hang on, buddy.
+Let's go!
 
 77
-00:08:50,072 --> 00:08:51,115
-Mom.
+00:09:32,334 --> 00:09:35,371
+Now there's a sight for sore eyes
 
 78
-00:08:53,075 --> 00:08:54,451
-Aw, look at you!
+00:10:05,239 --> 00:10:07,445
+What's that?
+- It's nothing, buddy.
 
 79
-00:08:55,411 --> 00:08:56,995
-You look beautiful.
+00:10:07,615 --> 00:10:10,368
+Just a rotten pile of wood and steel.
 
 80
-00:08:57,538 --> 00:08:59,706
-But you better tuck in
-that tail, little duck.
+00:10:10,535 --> 00:10:13,452
+Why don't we go take a look at it?
 
 81
-00:08:59,789 --> 00:09:01,417
-I laid something
-out for you, too.
+00:10:15,997 --> 00:10:19,118
+Look, it's your father.
 
 82
-00:09:04,253 --> 00:09:05,421
-Okay.
+00:10:27,425 --> 00:10:30,176
+Aren't you excited to see him?
 
 83
-00:09:30,153 --> 00:09:31,905
-Now you look beautiful, too.
+00:10:30,343 --> 00:10:32,338
+It's just a dream.
 
 84
-00:09:31,989 --> 00:09:33,698
-Wish I looked like you.
+00:10:33,138 --> 00:10:36,757
+This is as real as it gets for you,
+buddy.
 
 85
-00:09:34,115 --> 00:09:37,953
-Oh, no. I wish I looked
-like you, little duck.
+00:10:48,067 --> 00:10:50,524
+Ms. Whitman?
 
 86
-00:09:43,918 --> 00:09:46,544
-Hey. You want to see
-what I got you today?
+00:10:50,695 --> 00:10:53,566
+Your father has
+multi-infarct dementia.
 
 87
-00:09:49,590 --> 00:09:52,551
-It's a Mockingjay pin.
-To protect you.
+00:10:53,740 --> 00:10:56,694
+It's a condition caused by
+multiple strokes.
 
 88
-00:09:54,052 --> 00:09:58,014
-And as long as you have it,
-nothing bad will happen to you.
+00:10:56,867 --> 00:11:00,818
+We've spoken about this
+several times over the phone.
 
 89
-00:09:58,264 --> 00:10:00,267
-Okay? I promise.
+00:11:00,996 --> 00:11:04,163
+Yes, we have.
+But given his current condition...
 
 90
-00:10:56,407 --> 00:10:57,991
-Shh. Shh.
+00:11:04,332 --> 00:11:07,084
+- You want to pull the plug.
 
 91
-00:10:58,075 --> 00:10:59,951
-Prim, it's okay. It's okay. Shh.
+00:11:08,502 --> 00:11:12,203
+Well, it's not quite like that
+He's not on life support
 
 92
-00:11:00,035 --> 00:11:01,787
-Okay. It's time to sign in now.
-Okay?
+00:11:12,798 --> 00:11:15,716
+Though his heart did stop twice
 
 93
-00:11:01,870 --> 00:11:03,998
-They're gonna prick your finger
-just to take a little bit of blood.
+00:11:15,884 --> 00:11:20,178
+We've brought him back, but to
+keep doing it... -Where do I sign?
 
 94
-00:11:04,081 --> 00:11:05,206
-- You didn't say...
-- I know.
+00:11:28,770 --> 00:11:31,808
+You're making the right decision.
 
 95
-00:11:05,291 --> 00:11:06,875
-It doesn't hurt much.
-Just a little.
+00:11:31,981 --> 00:11:34,272
+It's best to let him go.
 
 96
-00:11:07,500 --> 00:11:10,879
-Okay? Go sit down there with the little
-kids. I'll find you after. Okay?
+00:11:35,776 --> 00:11:39,821
+He's been living in a fantasy world
+for the last couple of years.
 
 97
-00:11:11,129 --> 00:11:12,214
-Next.
+00:11:39,988 --> 00:11:44,117
+He's regressed to childhood.
+I just think it would be cruel to...
 
 98
-00:11:12,548 --> 00:11:13,548
-Next.
+00:11:47,621 --> 00:11:53,161
+I can reach you at your father's
+if we need to, uh, speak.
 
 99
-00:11:25,894 --> 00:11:27,897
-Go ahead. Next.
+00:11:55,126 --> 00:11:59,255
+I don't expect you'd be flying back
+in this weather.
 
 100
-00:11:29,065 --> 00:11:30,066
-Next.
+00:11:59,422 --> 00:12:01,831
+No.
 
 101
-00:11:41,159 --> 00:11:42,161
-Next.
+00:12:02,175 --> 00:12:06,042
+Well, I'll leave you two alone.
 
 102
-00:11:44,788 --> 00:11:46,164
-Next.
+00:12:38,747 --> 00:12:41,323
+Nothing has changed, has it?
 
 103
-00:12:14,275 --> 00:12:15,277
-It's okay.
+00:12:44,795 --> 00:12:47,997
+I'm not even a memory, am I?
 
 104
-00:12:21,826 --> 00:12:24,745
-<i>Welcome! Welcome, welcome.</i>
+00:12:48,340 --> 00:12:52,006
+I'm just a blur.
+Like always.
 
 105
-00:12:25,870 --> 00:12:27,498
-<i>Happy Hunger Games.</i>
+00:12:54,054 --> 00:12:58,515
+You know,
+I waited so long for you to reach out.
 
 106
-00:12:27,789 --> 00:12:31,918
-<i>And may the odds be
-ever in your favor.</i>
+00:12:58,683 --> 00:13:02,847
+This was a mistake.
+I've done enough for you.
 
 107
-00:12:33,962 --> 00:12:37,799
-<i>Now, before we begin, we
-have a very special film.</i>
+00:13:28,458 --> 00:13:31,211
+Oh no!
+We need to turn back!
 
 108
-00:12:37,883 --> 00:12:41,553
-<i>Brought to you all the
-way from The Capitol.</i>
+00:13:32,129 --> 00:13:35,296
+It's too late! I can't!
 
 109
-00:12:44,932 --> 00:12:47,393
-War. Terrible war.
+00:13:41,386 --> 00:13:43,712
+No! Help!
 
 110
-00:12:48,977 --> 00:12:49,979
-War.
+00:13:43,972 --> 00:13:45,848
+No! Help!
+- Hang on!
 
 111
-00:12:50,770 --> 00:12:55,734
-<i>Terrible war. Widows,
-orphans, a motherless child.</i>
+00:14:23,882 --> 00:14:27,501
+What?
+What is this?
 
 112
-00:12:56,317 --> 00:12:59,446
-<i>This was the uprising
-that rocked our land.</i>
+00:14:27,885 --> 00:14:30,887
+It's just you being you.
 
 113
-00:12:59,779 --> 00:13:03,491
-<i>Thirteen districts rebelled against
-the country that fed them,</i>
+00:14:31,097 --> 00:14:34,467
+Hi, Tom.
+It's been a while.
 
 114
-00:13:03,576 --> 00:13:05,410
-<i>loved them, protected them.</i>
+00:14:34,642 --> 00:14:37,976
+Do I know you?
+- Of course
 
 115
-00:13:06,162 --> 00:13:09,373
-<i>Brother turned on brother
-until nothing remained.</i>
+00:14:38,145 --> 00:14:41,764
+We've known each other since
+we were kids. -You're crazy
 
 116
-00:13:10,331 --> 00:13:14,336
-<i>And then came the peace,
-hard fought, sorely won.</i>
+00:14:41,940 --> 00:14:45,107
+I was.
+For a while.
 
 117
-00:13:14,419 --> 00:13:18,716
-<i>A people rose up from the
-ashes, and a new era was born.</i>
+00:14:45,276 --> 00:14:48,776
+Come here.
+Let me me patch you up.
 
 118
-00:13:20,009 --> 00:13:23,678
-<i>But freedom has a cost.
-And the traitors were defeated.</i>
+00:14:50,823 --> 00:14:53,777
+You're wondering where you are...
 
 119
-00:13:23,761 --> 00:13:28,350
-<i>We swore as a nation we would
-never know this treason again.</i>
+00:14:53,950 --> 00:14:57,700
+I'm in a dream.
+With a crazy woman.
 
 120
-00:13:28,433 --> 00:13:33,647
-<i>And so it was decreed that each
-year the various districts of Panem</i>
+00:14:58,454 --> 00:15:01,789
+If I am,
+it doesn't reflect well on you.
 
 121
-00:13:33,730 --> 00:13:37,359
-<i>would offer up, in tribute,
-one young man and woman</i>
+00:15:01,957 --> 00:15:04,626
+In all sorts of ways.
 
 122
-00:13:37,442 --> 00:13:42,615
-<i>to fight to the death in a pageant
-of honor, courage, and sacrifice.</i>
+00:15:04,793 --> 00:15:08,542
+Actually,
+I used to be your voice of reason.
 
 123
-00:13:42,697 --> 00:13:46,994
-<i>The lone Victor, bathed in riches,
-would serve as a reminder</i>
+00:15:08,797 --> 00:15:11,419
+God knows you needed one.
 
 124
-00:13:47,076 --> 00:13:50,121
-<i>of our generosity and
-our forgiveness.</i>
+00:15:11,591 --> 00:15:14,213
+You were very good
+at a lot of things.
 
 125
-00:13:50,206 --> 00:13:52,875
-<i>This is how we
-remember our past.</i>
+00:15:14,386 --> 00:15:18,004
+But dealing with real world
+wasn't one of them.
 
 126
-00:13:53,375 --> 00:13:57,004
-<i>This is how we safeguard our future.</i>
+00:15:19,974 --> 00:15:22,809
+None of this makes any sense.
 
 127
-00:13:57,086 --> 00:13:58,672
-<i>I just love that!</i>
+00:15:23,184 --> 00:15:25,641
+It should.
 
 128
-00:14:01,299 --> 00:14:05,136
-<i>Now, the time has
-come for us to select</i>
+00:15:26,479 --> 00:15:29,730
+I'm just saying the things
+you expect me to.
 
 129
-00:14:05,221 --> 00:14:09,099
-<i>one courageous young
-man and woman</i>
+00:15:29,898 --> 00:15:33,019
+Buddy!
+Hey! Where are you?
 
 130
-00:14:10,225 --> 00:14:17,066
-<i>for the honor of representing District
-12 in the 74th Annual Hunger Games.</i>
+00:15:33,193 --> 00:15:35,898
+Hey! I'm here!
+- Quiet.
 
 131
-00:14:18,399 --> 00:14:21,903
-<i>As usual, ladies first.</i>
+00:15:36,070 --> 00:15:38,990
+He'll find you.
 
 132
-00:14:47,471 --> 00:14:49,597
-<i>Primrose Everdeen.</i>
+00:15:43,161 --> 00:15:46,743
+Oh! Leave it.
+It'lljust remind you of him.
 
 133
-00:14:56,855 --> 00:14:58,606
-<i>Where are you, dear?</i>
+00:15:46,913 --> 00:15:49,536
+You're nuts.
+Leave me alone!
 
 134
-00:14:58,982 --> 00:15:00,525
-<i>Come on up.</i>
+00:15:49,708 --> 00:15:54,003
+Selfish and rude.
+Yep, that's the Tom I know.
 
 135
-00:15:01,693 --> 00:15:03,320
-<i>Well, come on up.</i>
+00:15:56,255 --> 00:15:59,756
+The Snowman isn't the best tour guide,
+you know.
 
 136
-00:15:25,509 --> 00:15:27,469
-Prim! Prim!
+00:15:59,925 --> 00:16:01,884
+He's not what he seems.
 
 137
-00:15:28,470 --> 00:15:29,471
-No. No!
+00:16:02,052 --> 00:16:05,800
+Don't let him steal the rest of you.
 
 138
-00:15:29,554 --> 00:15:31,724
-I volunteer! I volunteer!
+00:16:06,348 --> 00:16:08,721
+I can 't see you, buddy!
 
 139
-00:15:33,225 --> 00:15:34,475
-I volunteer as Tribute!
+00:16:08,892 --> 00:16:13,055
+I'm....
+- Give me a yell, loud as you can!
 
 140
-00:15:36,769 --> 00:15:40,732
-<i>I believe we have a volunteer, Mr.
-Mayor.</i>
+00:16:14,145 --> 00:16:17,267
+Wretched brat, you're hiding!
 
 141
-00:15:40,816 --> 00:15:42,775
-Prim, you need to get out of here.
-You need to get out of here.
+00:16:17,440 --> 00:16:20,893
+Not so nice now, oh, is he?
 
 142
-00:15:42,860 --> 00:15:44,193
-- No! No!
-- Go find Mom!
+00:17:01,396 --> 00:17:03,519
+Hey, you!
 
 143
-00:15:44,278 --> 00:15:45,903
-- Prim, go find Mom right now. I'm so sorry.
-- No!
+00:17:03,689 --> 00:17:06,263
+Be careful out here.
+Those tracks are unstable.
 
 144
-00:15:45,988 --> 00:15:49,450
-- Go find Mom. Prim, leave! Go find Mom.
-- No! No! No!
+00:17:06,442 --> 00:17:09,728
+A lot of them could collapse
+on us at any time.
 
 145
-00:15:49,533 --> 00:15:53,120
-- No! No! No!
-- Come on.
+00:17:09,903 --> 00:17:12,359
+Why is this thing here?
+- Beats me.
 
 146
-00:15:53,202 --> 00:15:56,414
-<i>A dramatic turn of events
-here in District 12.</i>
+00:17:12,530 --> 00:17:16,825
+Somebody thought it was a great idea
+to build it on this godforsaken place.
 
 147
-00:15:57,707 --> 00:15:59,293
-<i>Yes, well.</i>
+00:17:16,993 --> 00:17:18,701
+Hey! Wait!
 
 148
-00:15:59,375 --> 00:16:03,254
-<i>District 12's very first volunteer.
-Bring her up.</i>
+00:17:18,869 --> 00:17:23,033
+Do you know where that music's
+coming from? I've heard it before.
 
 149
-00:16:07,426 --> 00:16:08,844
-Come on, dear.
+00:17:23,206 --> 00:17:25,664
+Kid, we've all heard it.
 
 150
-00:16:18,687 --> 00:16:20,105
-<i>What's your name?</i>
+00:17:25,835 --> 00:17:28,919
+All day, every day.
+Same damn melody.
 
 151
-00:16:20,188 --> 00:16:21,856
-<i>Katniss Everdeen.</i>
+00:17:29,254 --> 00:17:31,710
+Makes me sick.
 
 152
-00:16:22,607 --> 00:16:25,860
-<i>Well, I bet my hat that
-was your sister, wasn't it?</i>
+00:17:34,551 --> 00:17:37,505
+Aaah! Come on!
 
 153
-00:16:27,028 --> 00:16:28,364
-<i>Yes.</i>
+00:17:37,678 --> 00:17:41,129
+Dammit!
+Why do I even bother?
 
 154
-00:16:29,197 --> 00:16:34,827
-<i>Let's have a big hand for our very
-first volunteer, Katniss Everdeen.</i>
+00:17:41,557 --> 00:17:44,391
+This thing can't be fixed!
 
 155
-00:16:47,799 --> 00:16:50,885
-<i>And now for the boys.</i>
+00:17:47,437 --> 00:17:50,806
+What do you want to do, Gem?
 
 156
-00:17:01,020 --> 00:17:02,230
-<i>Peeta Mellark.</i>
+00:17:50,982 --> 00:17:53,353
+Gem!
 
 157
-00:17:26,296 --> 00:17:27,506
-<i>Here we are.</i>
+00:17:54,985 --> 00:17:58,021
+Just leave it.
+It's lifeless.
 
 158
-00:17:28,089 --> 00:17:31,426
-<i>Our Tributes from District 12.</i>
+00:17:58,195 --> 00:18:01,778
+Yes. Thank you
+Let it rot.
 
 159
-00:17:32,510 --> 00:17:34,387
-<i>Well, go on, you
-two, shake hands.</i>
+00:18:08,954 --> 00:18:11,031
+You be careful.
 
 160
-00:17:47,608 --> 00:17:49,569
-<i>Happy Hunger Games.</i>
+00:18:35,436 --> 00:18:37,644
+Song of myself...
 
 161
-00:17:49,653 --> 00:17:53,865
-<i>And may the odds be
-ever in your favor.</i>
+00:18:46,530 --> 00:18:50,030
+Worthless brat! I let him
+out of my sight for a minute!
 
 162
-00:18:06,961 --> 00:18:08,881
-You have three minutes.
+00:18:50,200 --> 00:18:53,237
+And all this bullshit shows up!
 
 163
-00:18:12,593 --> 00:18:13,801
-It's okay.
+00:18:53,411 --> 00:18:57,030
+The little runt's more trouble
+than he's worth.
 
 164
-00:18:13,885 --> 00:18:18,265
-Prim. Prim. It's okay. Prim,
-I don't have much time.
+00:18:57,206 --> 00:19:01,074
+Ah, dammit!
+Oh, woopsy! I missed a spot.
 
 165
-00:18:18,347 --> 00:18:22,894
-Prim. Listen. You're gonna be okay.
-Don't take any extra food from them.
+00:19:01,251 --> 00:19:04,039
+What are you doing?
 
 166
-00:18:22,978 --> 00:18:25,189
-It isn't worth putting your
-name in more times. Okay?
+00:19:05,213 --> 00:19:08,547
+Nothing.
+I was just looking for you.
 
 167
-00:18:25,271 --> 00:18:29,233
-Listen, Prim. Gale will bring you game.
-You can sell cheese from your goat.
+00:19:09,675 --> 00:19:12,712
+And now, I found you.
 
 168
-00:18:30,277 --> 00:18:31,903
-Just try to win. Maybe you can.
+00:19:13,095 --> 00:19:16,298
+Come here!
+Let me take a look at you!
 
 169
-00:18:32,653 --> 00:18:33,989
-Of course.
+00:19:16,556 --> 00:19:19,179
+What?
+What, this?
 
 170
-00:18:34,655 --> 00:18:36,991
-And maybe I can.
-I am smart, you know?
+00:19:19,392 --> 00:19:23,141
+Just took a bit of a beating
+in the storm, is all.
 
 171
-00:18:37,075 --> 00:18:39,827
-- And you can hunt.
-- Exactly.
+00:19:23,562 --> 00:19:26,268
+Don't worry about me.
 
 172
-00:18:46,292 --> 00:18:47,836
-To protect you.
+00:19:26,690 --> 00:19:30,190
+Hey! What do you say
+we have some fun, huh?
 
 173
-00:18:53,299 --> 00:18:54,675
-Thank you.
+00:19:30,443 --> 00:19:34,441
+No! What's wrong with you?
+First, we fall, now this!
 
 174
-00:19:07,940 --> 00:19:09,900
-You can't tune out again.
+00:19:34,613 --> 00:19:38,066
+This dream's stupid.
+I'm leaving. -Hey! Hold up, pal.
 
 175
-00:19:10,526 --> 00:19:13,862
-- I won't.
-- No, you can't. Not like when Dad died.
+00:19:38,243 --> 00:19:41,943
+Relax.
+I got something for just the two of us.
 
 176
-00:19:13,945 --> 00:19:15,614
-I won't be there anymore.
-You're all she has.
+00:19:42,328 --> 00:19:45,496
+Two tickets to the circus.
+It'll be great, buddy.
 
 177
-00:19:15,696 --> 00:19:18,741
-No matter what you feel, you have to
-be there for her. Do you understand?
+00:19:45,665 --> 00:19:49,579
+It's right around the corner.
+Let me show you. -No.
 
 178
-00:19:20,410 --> 00:19:21,787
-Don't cry.
+00:19:49,751 --> 00:19:52,375
+Leave me alone!
+You're making this too weird.
 
 179
-00:19:24,748 --> 00:19:27,459
-Don't cry. Don't. Don't.
+00:19:52,547 --> 00:19:55,299
+Don't you walk away from me!
 
 180
-00:19:29,961 --> 00:19:31,672
-- It's time.
-- Prim, it's okay.
+00:20:02,555 --> 00:20:04,264
+Get out of there!
 
 181
-00:19:31,755 --> 00:19:35,634
-- Prim, it's okay. It's okay, Prim.
-- No! No! No!
+00:20:04,432 --> 00:20:07,053
+Come see what they've got!
+- Go away!
 
 182
-00:19:35,717 --> 00:19:37,677
-I promise, Prim.
+00:20:07,225 --> 00:20:10,726
+It's okay, I'm not mad.
 
 183
-00:19:54,569 --> 00:19:56,613
-- I'm fine.
-- Yeah, I know.
+00:20:59,688 --> 00:21:02,014
+Come and share -
 
 184
-00:19:56,738 --> 00:19:57,905
-I am.
+00:21:02,816 --> 00:21:06,186
+this painting with me.
 
 185
-00:19:58,865 --> 00:20:02,827
-Listen to me. You're stronger
-than they are. You are.
+00:21:07,278 --> 00:21:08,654
+No.
 
 186
-00:20:02,911 --> 00:20:04,162
-- Get to a bow.
-- They may not have...
+00:21:08,821 --> 00:21:12,405
+No! What happened?
+What have you done?
 
 187
-00:20:04,246 --> 00:20:06,498
-They will if you show
-them how good you are.
+00:21:12,575 --> 00:21:18,032
+Unveiling of me,
+the magician that never failed.
 
 188
-00:20:06,582 --> 00:20:08,709
-They just want a good show.
-That's all they want.
+00:21:22,209 --> 00:21:28,661
+This deep sigh
+coiled around my chest
 
 189
-00:20:08,791 --> 00:20:10,626
-If they don't have a bow,
-then you make one, okay?
+00:21:29,423 --> 00:21:33,088
+Hi, Tom.
+I'm glad you got away.
 
 190
-00:20:10,711 --> 00:20:12,211
-You know how to hunt.
+00:21:34,302 --> 00:21:39,345
+What did you do with my Arabesque?
+- You used to call it your princess.
 
 191
-00:20:12,296 --> 00:20:13,547
-Animals.
+00:21:39,765 --> 00:21:44,227
+Tell me.
+Could she really spin like you said?
 
 192
-00:20:15,298 --> 00:20:16,340
-It's no different, Katniss.
+00:21:44,812 --> 00:21:47,932
+Or is that just another stupid lie?
 
 193
-00:20:18,594 --> 00:20:21,512
-There's 24 of us, Gale.
-Only one comes out.
+00:21:48,356 --> 00:21:52,733
+Sorry.
+Another story.
 
 194
-00:20:21,596 --> 00:20:23,765
-Yeah. And it's gonna be you.
+00:21:55,530 --> 00:21:58,282
+A silver platter!
 
 195
-00:20:24,307 --> 00:20:25,392
-Okay.
+00:21:58,449 --> 00:22:02,197
+Did you really think fixing it
+would fix things with her?
 
 196
-00:20:25,474 --> 00:20:27,644
-Take care of them, Gale.
-Whatever you do, don't let them starve.
+00:22:02,368 --> 00:22:06,662
+No. You didn't really want
+to fix things, did you?
 
 197
-00:20:27,728 --> 00:20:29,770
-- Let's go.
-- I'll see you soon, okay?
+00:22:06,831 --> 00:22:09,584
+I don't want that!
+It's broken.
 
 198
-00:20:33,107 --> 00:20:34,692
-You two are in for a treat.
+00:22:09,750 --> 00:22:12,456
+What are you doing?
+It's mine!
 
 199
-00:20:34,776 --> 00:20:38,447
-Crystal chandeliers, platinum
-doorknobs, and it flies.
+00:22:12,628 --> 00:22:15,747
+I'll have what she's having.
 
 200
-00:20:38,529 --> 00:20:40,699
-We'll be at The Capitol
-in less than two days.
+00:22:18,966 --> 00:22:24,174
+Ice-cream castles,
+lips-to-ear rhymes
 
 201
-00:20:40,781 --> 00:20:43,242
-Now, before you do
-anything else...
+00:22:24,597 --> 00:22:31,180
+A slumber deeper than time
 
 202
-00:21:39,465 --> 00:21:42,259
-<i>200 Miles per hour, and
-you can barely feel a thing.</i>
+00:22:33,187 --> 00:22:35,940
+Who are you?
 
 203
-00:21:42,344 --> 00:21:45,096
-I think it's one of the wonderful
-things about this opportunity,
+00:22:36,107 --> 00:22:39,725
+Slow, love
 
 204
-00:21:45,180 --> 00:21:48,724
-that even though you're here and even
-though it's just for a little while,
+00:22:40,027 --> 00:22:44,606
+Slow
 
 205
-00:21:48,808 --> 00:21:51,353
-you get to enjoy all of this.
+00:22:45,490 --> 00:22:50,199
+Only the weak -
 
 206
-00:21:55,022 --> 00:21:59,443
-I'm going to find Haymitch.
-He's probably in the bar car.
+00:22:52,246 --> 00:22:56,623
+are not lonely
 
 207
-00:22:11,707 --> 00:22:13,375
-Have you ever met him?
+00:23:59,805 --> 00:24:02,177
+Slow
 
 208
-00:22:16,169 --> 00:22:17,421
-Haymitch?
+00:24:04,058 --> 00:24:07,310
+Slow, slow
 
 209
-00:22:21,883 --> 00:22:25,886
-You know, Katniss, he is our mentor.
-He did win this thing once.
+00:24:28,789 --> 00:24:33,498
+Slow, love
 
 210
-00:22:32,685 --> 00:22:35,146
-Look, you know, if you don't
-want to talk, I understand,
+00:24:34,711 --> 00:24:37,498
+Slow
 
 211
-00:22:35,230 --> 00:22:38,442
-but I just don't think there's anything
-wrong with getting a little bit of help.
+00:24:40,257 --> 00:24:44,836
+Slow, slow
 
 212
-00:23:03,299 --> 00:23:04,925
-Congratulations.
+00:25:01,401 --> 00:25:04,687
+You used to play so beautifully, Tom.
 
 213
-00:23:23,862 --> 00:23:25,489
-Where's the ice?
+00:25:05,279 --> 00:25:09,491
+You had a song for every
+little thing in your life.
 
 214
-00:23:27,365 --> 00:23:28,450
-I don't know.
+00:25:09,783 --> 00:25:12,026
+It's a shame it had to end.
 
 215
-00:23:34,623 --> 00:23:35,957
-May I?
+00:25:12,328 --> 00:25:14,735
+I understand.
 
 216
-00:23:40,878 --> 00:23:44,548
-Okay, so... So when do we start?
+00:25:14,912 --> 00:25:18,283
+Would you quit calling me Tom?
+You don't even know me!
 
 217
-00:23:45,049 --> 00:23:47,134
-Whoa. So eager.
+00:25:18,458 --> 00:25:21,375
+It's you who no longer
+knows people, Tom.
 
 218
-00:23:48,052 --> 00:23:50,638
-Most of you aren't
-in such a hurry.
+00:25:21,543 --> 00:25:25,328
+And it's your own fault.
+For feeding him.
 
 219
-00:23:50,971 --> 00:23:53,224
-Yeah. I wanna know what the plan is.
-You're our mentor.
+00:25:33,638 --> 00:25:36,722
+Don't let him take all of you!
 
 220
-00:23:53,307 --> 00:23:54,643
-- You're supposed to go...
-- Mentor?
+00:25:47,190 --> 00:25:49,434
+Wait!
 
 221
-00:23:55,810 --> 00:23:57,019
-Yeah, our mentor.
+00:25:58,909 --> 00:26:03,203
+These doors of yours aren't going
+to keep your secrets safe from me.
 
 222
-00:23:57,103 --> 00:23:59,772
-You're supposed to tell us how to
-get sponsors and give us advice.
+00:26:12,212 --> 00:26:15,713
+Dad.
+I had a bad dream.
 
 223
-00:24:00,481 --> 00:24:02,942
-Oh. Okay. Um...
+00:26:19,970 --> 00:26:23,636
+What are you doing?
+- Nothing.
 
 224
-00:24:03,359 --> 00:24:07,154
-Embrace the probability
-of your imminent death.
+00:26:24,057 --> 00:26:27,224
+I'm doing nothing at all.
 
 225
-00:24:08,490 --> 00:24:14,371
-And know, in your heart, that there's
-nothing I can do to save you.
+00:26:28,394 --> 00:26:31,265
+It's bedtime.
+Go back to sleep.
 
 226
-00:24:15,579 --> 00:24:17,374
-So why are you here then?
+00:26:31,438 --> 00:26:34,855
+But Dad...
+- Is this about your mother again?
 
 227
-00:24:18,415 --> 00:24:19,625
-The refreshments.
+00:26:47,035 --> 00:26:50,203
+The circus...
 
 228
-00:24:19,835 --> 00:24:21,169
-Okay, I think that's
-enough of that.
+00:26:50,371 --> 00:26:53,658
+It's not until tomorrow.
 
 229
-00:24:25,798 --> 00:24:29,594
-You made me spill my drink.
-These are brand new pants.
+00:26:53,833 --> 00:26:56,834
+Just go to bed.
 
 230
-00:24:30,846 --> 00:24:34,682
-You know, I think I'll go
-finish this in my room.
+00:27:03,008 --> 00:27:04,965
+Dad...
 
 231
-00:24:50,865 --> 00:24:52,576
-He's gonna come around.
+00:27:06,552 --> 00:27:09,091
+What?
 
 232
-00:24:52,659 --> 00:24:53,785
-It's no use.
+00:27:09,638 --> 00:27:12,213
+Are you scared?
 
 233
-00:24:53,868 --> 00:24:55,787
-I'm gonna go talk to him.
+00:27:12,391 --> 00:27:16,437
+How can you be scared of it
+if you've never even seen it?
 
 234
-00:25:02,794 --> 00:25:05,838
-<i>We have two very fit 16-year-olds.</i>
+00:27:16,604 --> 00:27:19,308
+Huh?
 
 235
-00:25:05,922 --> 00:25:09,259
-<i>Of course, of course. They always
-provide pretty good opponents.</i>
+00:27:21,398 --> 00:27:24,934
+Look.
+It's just a bunch of clowns.
 
 236
-00:25:09,342 --> 00:25:10,676
-<i>Yes, yes, they do.</i>
+00:27:27,738 --> 00:27:32,614
+And trapeze artists
+...wearing tights...
 
 237
-00:25:10,759 --> 00:25:12,636
-<i>- Do you remember this year?
-- Of course.</i>
+00:27:34,577 --> 00:27:36,653
+That's all.
 
 238
-00:25:12,721 --> 00:25:16,307
-<i>One of my favorite years.
-And one of my favorite Arenas.</i>
+00:27:36,995 --> 00:27:40,081
+Alright Buddy.
 
 239
-00:25:16,391 --> 00:25:19,310
-<i>The use of the rubble
-in the ruined city...</i>
+00:27:42,000 --> 00:27:44,919
+Back to bed now.
 
 240
-00:25:19,560 --> 00:25:20,644
-<i>Very exciting.</i>
+00:27:47,463 --> 00:27:51,082
+Thomas...
+- Yes, sir.
 
 241
-00:25:20,729 --> 00:25:22,314
-<i>And this moment here,</i>
+00:27:57,639 --> 00:28:00,723
+Nothing.
 
 242
-00:25:22,396 --> 00:25:24,982
-<i>this moment is a moment
-that you never forget.</i>
+00:28:00,891 --> 00:28:04,937
+Bed.Now.
 
 243
-00:25:25,066 --> 00:25:26,401
-Yes.
-
-244
-00:25:26,483 --> 00:25:29,570
-<i>The moment when a
-Tribute becomes a Victor.</i>
-
-245
-00:26:04,772 --> 00:26:07,651
-- You'd freeze to death first.
-- No, because I'd light a fire.
-
-246
-00:26:07,733 --> 00:26:09,361
-That's a good way to get killed.
-
-247
-00:26:09,443 --> 00:26:11,028
-What's a good way to get killed?
-
-248
-00:26:12,279 --> 00:26:15,032
-Oh, joy. Why don't you join us?
-
-249
-00:26:15,741 --> 00:26:18,536
-I was just giving
-some life-saving advice.
-
-250
-00:26:20,372 --> 00:26:21,498
-Like what?
-
-251
-00:26:21,580 --> 00:26:23,875
-I was just asking about
-how to find shelter.
-
-252
-00:26:24,416 --> 00:26:28,046
-Which would come in handy if,
-in fact, you were still alive.
-
-253
-00:26:30,423 --> 00:26:31,799
-How do you find shelter?
-
-254
-00:26:32,299 --> 00:26:33,801
-Pass the jam.
-
-255
-00:26:34,094 --> 00:26:35,679
-How do you find shelter?
-
-256
-00:26:36,011 --> 00:26:38,556
-Give me a chance to
-wake up, sweetheart.
-
-257
-00:26:39,974 --> 00:26:43,894
-This mentoring is
-very taxing stuff.
-
-258
-00:26:49,776 --> 00:26:51,403
-Can you pass the marmalade?
-
-259
-00:26:52,988 --> 00:26:54,739
-That is mahogany!
-
-260
-00:26:55,531 --> 00:26:58,993
-Look at you.
-Just killed a placemat.
-
-261
-00:27:00,452 --> 00:27:02,747
-You really want to know
-how to stay alive?
-
-262
-00:27:04,124 --> 00:27:06,000
-You get people to like you.
-
-263
-00:27:07,751 --> 00:27:08,752
-Oh.
-
-264
-00:27:09,045 --> 00:27:11,172
-Not what you were expecting?
-
-265
-00:27:12,007 --> 00:27:17,470
-Well, when you're in the middle of The
-Games and you're starving or freezing,
-
-266
-00:27:17,554 --> 00:27:20,973
-some water, a knife,
-or even some matches
-
-267
-00:27:21,057 --> 00:27:23,559
-can mean the difference
-between life and death.
-
-268
-00:27:24,019 --> 00:27:27,063
-And those things only
-come from sponsors.
-
-269
-00:27:27,646 --> 00:27:31,734
-And to get sponsors, you have
-to make people like you.
-
-270
-00:27:33,193 --> 00:27:38,240
-And right now, sweetheart, you're
-not off to a real good start.
-
-271
-00:27:39,200 --> 00:27:40,576
-There it is.
-
-272
-00:27:45,874 --> 00:27:47,208
-It's huge!
-
-273
-00:27:48,209 --> 00:27:49,836
-That's incredible.
-
-274
-00:28:14,568 --> 00:28:16,028
-Peeta, I love you.
-
-275
-00:28:24,578 --> 00:28:26,830
-Come on. Come on.
-
-276
-00:28:31,752 --> 00:28:35,298
-You better keep this knife.
-He knows what he's doing.
-
-277
-00:28:46,267 --> 00:28:47,852
-<i>So now that you've seen them,</i>
-
-278
-00:28:47,935 --> 00:28:50,730
-<i>what do you think about this
-year's crop of recruits?</i>
-
-279
-00:28:50,814 --> 00:28:54,025
-Are there any surprises that
-we can expect this year?
-
-280
-00:28:54,108 --> 00:28:55,652
-It's really hard to tell
-just from a Reaping,
-
-281
-00:28:55,734 --> 00:28:59,194
-- but I think this is
-a very interesting mix. -Yes.
-
-282
-00:28:59,239 --> 00:29:01,449
-And whenever you have a volunteer
-from an outlying district,
-
-283
-00:29:01,532 --> 00:29:03,867
-<i>that's something
-you can't ignore.</i>
-
-284
-00:29:31,311 --> 00:29:32,480
-What's that?
-
-285
-00:29:33,690 --> 00:29:34,982
-What's that?
-
-286
-00:29:35,316 --> 00:29:37,234
-We're just saying we might
-need to hose you down again
-
-287
-00:29:37,317 --> 00:29:39,444
-before we take you to Cinna.
-
-288
-00:29:46,035 --> 00:29:50,205
-That was one of the bravest things
-I've ever seen. With your sister?
-
-289
-00:29:50,748 --> 00:29:52,500
-- My name's Cinna.
-- Katniss.
-
-290
-00:29:52,959 --> 00:29:55,044
-I'm sorry that this
-happened to you,
-
-291
-00:29:55,127 --> 00:29:57,087
-and I'm here to help you
-in any way that I can.
-
-292
-00:29:59,590 --> 00:30:01,634
-Most people just
-congratulate me.
-
-293
-00:30:01,843 --> 00:30:04,011
-Well, I don't see
-the point in that.
-
-294
-00:30:05,387 --> 00:30:08,057
-So tonight, they have
-the Tribute Parade.
-
-295
-00:30:08,892 --> 00:30:12,103
-I'm gonna take you out and
-show you off to the world.
-
-296
-00:30:12,185 --> 00:30:13,938
-So you're here to
-make me look pretty?
-
-297
-00:30:14,021 --> 00:30:15,355
-I'm here to help you
-make an impression.
-
-298
-00:30:16,816 --> 00:30:19,277
-Now, usually they dress people in
-the clothes from their district.
-
-299
-00:30:19,359 --> 00:30:21,738
-- Yeah, we're always coalminers.
-- Yeah, but I don't wanna do that.
-
-300
-00:30:23,030 --> 00:30:25,240
-I wanna do something that
-they're gonna remember.
-
-301
-00:30:25,325 --> 00:30:27,868
-Did they explain about
-trying to get sponsors?
-
-302
-00:30:28,243 --> 00:30:30,663
-Yeah, but I'm not very
-good at making friends.
-
-303
-00:30:30,913 --> 00:30:32,332
-We'll see.
-
-304
-00:30:33,958 --> 00:30:36,126
-I just think somebody that brave
-
-305
-00:30:37,420 --> 00:30:41,382
-shouldn't be dressed up in some
-stupid costume, now should they?
-
-306
-00:30:43,843 --> 00:30:45,219
-I hope not.
-
-307
-00:30:52,393 --> 00:30:54,479
-Okay, this is safe. I promise.
-
-308
-00:30:54,561 --> 00:30:57,815
-It's not real fire. These suits are
-built so you won't feel a thing.
-
-309
-00:30:57,898 --> 00:30:59,150
-Looks pretty real to me.
-
-310
-00:30:59,232 --> 00:31:00,817
-Well, that's the idea.
-
-311
-00:31:00,902 --> 00:31:01,903
-You ready?
-
-312
-00:31:02,069 --> 00:31:04,446
-- Don't be afraid.
-- I'm not afraid.
-
-313
-00:31:24,842 --> 00:31:30,263
-Over 100,000 people craning to get
-a glimpse of this year's Tributes.
-
-314
-00:31:30,347 --> 00:31:33,351
-<i>And the sponsors get to see the
-Tributes for the first time.</i>
-
-315
-00:31:33,433 --> 00:31:36,354
-The importance of this
-moment cannot be overstated.
-
-316
-00:31:41,317 --> 00:31:42,652
-Very nice.
-
-317
-00:31:43,111 --> 00:31:47,949
-First chariot on my
-count, in 15, 14, 13...
-
-318
-00:31:50,535 --> 00:31:53,954
-There they are. There they are.
-This year's Tributes.
-
-319
-00:31:54,538 --> 00:31:56,039
-<i>It's the most exciting part.</i>
-
-320
-00:31:56,124 --> 00:31:58,041
-<i>It just gives you goose bumps.</i>
-
-321
-00:31:58,125 --> 00:32:00,252
-<i>And don't you love how the stylists,</i>
-
-322
-00:32:00,336 --> 00:32:04,632
-they so clearly are able to reflect
-the character of each district?
-
-323
-00:32:05,090 --> 00:32:07,719
-<i>- Right. Right. There's District 4.
-- Yes.</i>
-
-324
-00:32:08,635 --> 00:32:09,721
-<i>- Fishing.
-- I get it.</i>
-
-325
-00:32:09,804 --> 00:32:11,972
-<i>- I like it.
-- That's very good.</i>
-
-326
-00:32:12,472 --> 00:32:17,103
-And behind them, we have two
-power plant workers. Right?
-
-327
-00:32:17,185 --> 00:32:18,563
-And then...
-
-328
-00:32:19,480 --> 00:32:21,898
-What is that in the background?
-
-329
-00:32:48,634 --> 00:32:49,844
-Come on. They'll love it.
-
-330
-00:32:56,933 --> 00:32:57,934
-Yeah!
-
-331
-00:32:58,019 --> 00:32:59,479
-<i>Now see that?
-I love that.</i>
-
-332
-00:32:59,561 --> 00:33:02,272
-<i>Two young people holding
-their hands up, saying,</i>
-
-333
-00:33:02,355 --> 00:33:06,152
-<i>"I'm proud I come from District 12.
-We will not be overlooked."</i>
-
-334
-00:33:06,234 --> 00:33:07,403
-- Nope.
-- I love that!
-
-335
-00:33:07,487 --> 00:33:10,198
-<i>People are sure gonna be paying
-attention to them right now.</i>
-
-336
-00:33:12,450 --> 00:33:14,326
-And we're ready.
-
-337
-00:33:14,535 --> 00:33:15,912
-<i>President Snow, you're live.</i>
-
-338
-00:33:46,233 --> 00:33:47,652
-Welcome.
-
-339
-00:33:51,404 --> 00:33:52,824
-<i>Welcome.</i>
-
-340
-00:33:54,075 --> 00:33:57,286
-<i>Tributes, we welcome you.</i>
-
-341
-00:33:59,079 --> 00:34:04,335
-<i>We salute your courage
-and your sacrifice.</i>
-
-342
-00:34:08,588 --> 00:34:10,090
-<i>And we wish you.</i>
-
-343
-00:34:12,175 --> 00:34:14,094
-<i>Happy Hunger Games.</i>
-
-344
-00:34:14,469 --> 00:34:18,431
-<i>And may the odds be
-ever in your favor.</i>
-
-345
-00:34:30,945 --> 00:34:33,030
-That was amazing.
-
-346
-00:34:33,114 --> 00:34:35,615
-We are all anybody's
-going to be talking about.
-
-347
-00:34:35,992 --> 00:34:37,367
-So brave.
-
-348
-00:34:37,451 --> 00:34:39,579
-Are you sure you should
-be near an open flame?
-
-349
-00:34:39,661 --> 00:34:42,998
-Fake flame? Are you sure you...
-
-350
-00:34:52,132 --> 00:34:54,552
-Let's go upstairs.
-
-351
-00:34:58,306 --> 00:35:00,432
-So, each of the
-districts get their own floor.
-
-352
-00:35:00,516 --> 00:35:03,978
-And because you're from 12,
-you get the penthouse.
-
-353
-00:35:11,193 --> 00:35:12,485
-Come on.
-
-354
-00:35:16,407 --> 00:35:18,617
-So this is the living room.
-
-355
-00:35:19,409 --> 00:35:21,494
-I know, I know.
-
-356
-00:35:22,288 --> 00:35:24,998
-Now, your rooms are
-right over here.
-
-357
-00:35:25,081 --> 00:35:28,835
-Why don't you go clean yourselves
-up a little before dinner?
-
-358
-00:36:46,246 --> 00:36:50,208
-In two weeks, 23
-of you will be dead.
-
-359
-00:36:50,293 --> 00:36:52,253
-One of you will be alive.
-
-360
-00:36:52,335 --> 00:36:56,715
-Who that is depends on how well you pay
-attention over the next four days,
-
-361
-00:36:56,798 --> 00:36:59,385
-particularly to what
-I'm about to say.
-
-362
-00:36:59,467 --> 00:37:02,554
-First, no fighting with
-the other Tributes.
-
-363
-00:37:02,637 --> 00:37:04,514
-You'll have plenty of time
-for that in the Arena.
-
-364
-00:37:05,099 --> 00:37:09,478
-There are four compulsory exercises.
-The rest will be individual training.
-
-365
-00:37:09,561 --> 00:37:12,565
-My advice is don't ignore
-the survival skills.
-
-366
-00:37:12,648 --> 00:37:14,233
-Everybody wants to grab a sword,
-
-367
-00:37:14,317 --> 00:37:17,027
-but most of you will die
-from natural causes.
-
-368
-00:37:17,320 --> 00:37:20,989
-10% from infection,
-20% from dehydration.
-
-369
-00:37:21,114 --> 00:37:23,951
-Exposure can kill as
-easily as a knife.
-
-370
-00:37:56,025 --> 00:37:58,485
-- Jason, where's my knife, huh?
-- I didn't touch your knife.
-
-371
-00:37:58,568 --> 00:38:01,155
-- I put my knife right there!
-- Don't touch me. I didn't touch your knife!
-
-372
-00:38:01,237 --> 00:38:02,782
-- Yes, you took my knife!
-- I didn't touch your knife!
-
-373
-00:38:02,864 --> 00:38:04,449
-- You took my knife, you liar!
-- I didn't touch your knife.
-
-374
-00:38:04,532 --> 00:38:05,534
-- You liar!
-- I didn't touch your knife!
-
-375
-00:38:05,617 --> 00:38:07,744
-You little punk!
-He took my knife!
-
-376
-00:38:07,827 --> 00:38:09,579
-- Get off me!
-- I'm just sitting here.
-
-377
-00:38:09,663 --> 00:38:12,248
-I'll finish you right now, kid!
-
-378
-00:38:12,333 --> 00:38:14,043
-Actually, better yet,
-I'll wait for the Arena.
-
-379
-00:38:14,126 --> 00:38:15,628
-You're the first one I
-get, so watch your back.
-
-380
-00:38:19,422 --> 00:38:22,300
-- Everybody, back in line!
-- You know who you're messing with, kid!
-
-381
-00:38:22,385 --> 00:38:24,762
-He's a Career.
-You know what that is?
-
-382
-00:38:24,844 --> 00:38:26,847
-- From District 1.
-- And 2.
-
-383
-00:38:27,264 --> 00:38:30,768
-They train in a special academy until
-they're 18. Then they volunteer.
-
-384
-00:38:30,851 --> 00:38:34,063
-By that point, they're
-pretty lethal.
-
-385
-00:38:34,146 --> 00:38:36,231
-But they don't receive
-any special treatment.
-
-386
-00:38:36,315 --> 00:38:38,818
-In fact, they stay in the exact
-same apartment as you do.
-
-387
-00:38:38,900 --> 00:38:41,903
-And I don't think they let them
-have dessert. And you can.
-
-388
-00:38:43,114 --> 00:38:44,697
-So how good are they?
-
-389
-00:38:45,865 --> 00:38:49,286
-Obviously they're pretty good.
-They win it almost every year, but...
-
-390
-00:38:49,369 --> 00:38:50,621
-Almost.
-
-391
-00:38:50,871 --> 00:38:52,873
-They can be arrogant.
-
-392
-00:38:53,456 --> 00:38:56,960
-And arrogance can
-be a big problem.
-
-393
-00:38:59,295 --> 00:39:01,297
-I hear you can shoot.
-
-394
-00:39:04,050 --> 00:39:05,302
-I'm all right.
-
-395
-00:39:05,385 --> 00:39:07,929
-No, she's better than all right.
-My father buys her squirrels.
-
-396
-00:39:09,389 --> 00:39:12,059
-He says she hits them right
-in the eye every time.
-
-397
-00:39:13,853 --> 00:39:15,646
-- Peeta's strong.
-- What?
-
-398
-00:39:15,728 --> 00:39:18,148
-He can throw a 100-pound sack of flour
-right over his head. I've seen it.
-
-399
-00:39:18,231 --> 00:39:20,608
-Okay, well, I'm not gonna kill
-anybody with a sack of flour.
-
-400
-00:39:20,693 --> 00:39:22,318
-No, but you might have a
-better chance of winning
-
-401
-00:39:22,402 --> 00:39:23,653
-if somebody comes after
-you with a knife.
-
-402
-00:39:23,737 --> 00:39:26,782
-I have no chance of winning!
-None! All right?
-
-403
-00:39:32,538 --> 00:39:35,081
-It's true. Everybody knows it.
-
-404
-00:39:38,251 --> 00:39:40,420
-You know what my mother said?
-
-405
-00:39:40,670 --> 00:39:43,840
-She said District 12 might
-finally have a winner.
-
-406
-00:39:44,425 --> 00:39:46,010
-But she wasn't talking about me.
-
-407
-00:39:47,427 --> 00:39:49,472
-She was talking about you.
-
-408
-00:39:54,934 --> 00:39:56,686
-I'm not very hungry.
-
-409
-00:40:34,682 --> 00:40:35,851
-I'm done, too.
-
-410
-00:41:19,061 --> 00:41:20,521
-Throw that metal
-thing over there.
-
-411
-00:41:20,853 --> 00:41:21,981
-What?
-
-412
-00:41:24,692 --> 00:41:27,193
-No. Haymitch said we're not
-supposed to show our skills.
-
-413
-00:41:27,277 --> 00:41:28,278
-I don't care what Haymitch said.
-
-414
-00:41:28,362 --> 00:41:30,405
-Those guys are looking at
-you like you're a meal.
-
-415
-00:41:30,489 --> 00:41:31,574
-Throw it.
-
-416
-00:42:16,619 --> 00:42:17,661
-Hi.
-
-417
-00:42:18,621 --> 00:42:19,621
-Hey.
-
-418
-00:42:19,996 --> 00:42:21,456
-How did you do that?
-
-419
-00:42:21,914 --> 00:42:25,251
-I used to decorate the
-cakes down at the bakery.
-
-420
-00:42:26,170 --> 00:42:27,588
-- Oh.
-- I'll show you.
-
-421
-00:42:30,215 --> 00:42:31,257
-See?
-
-422
-00:42:32,425 --> 00:42:33,927
-- Wow.
-- Yeah.
-
-423
-00:42:35,971 --> 00:42:37,931
-Hey, I think you have a shadow.
-
-424
-00:43:03,791 --> 00:43:07,960
-Tomorrow, they'll bring you in
-one by one and evaluate you.
-
-425
-00:43:08,586 --> 00:43:11,923
-This is important, because higher
-ratings will mean sponsors.
-
-426
-00:43:12,173 --> 00:43:14,717
-This is the time to
-show them everything.
-
-427
-00:43:14,802 --> 00:43:17,637
-There'll be a bow.
-Make sure you use it.
-
-428
-00:43:17,721 --> 00:43:19,472
-Peeta, you make sure
-to show your strength.
-
-429
-00:43:20,181 --> 00:43:24,018
-They'll start with District 1,
-so the two of you will go last.
-
-430
-00:43:25,061 --> 00:43:28,565
-I don't know how else to put this.
-Make sure they remember you.
-
-431
-00:43:40,077 --> 00:43:42,286
-<i>Katniss Everdeen.</i>
-
-432
-00:43:53,965 --> 00:43:55,425
-Hey, Katniss?
-
-433
-00:43:56,009 --> 00:43:57,802
-Shoot straight.
-
-434
-00:44:58,155 --> 00:44:59,782
-Katniss Everdeen.
-
-435
-00:45:01,157 --> 00:45:02,909
-District 12.
-
-436
-00:46:29,746 --> 00:46:30,914
-Hey, hey, hey.
-
-437
-00:46:30,998 --> 00:46:34,501
-Hey, who ordered this pig?
-Who ordered this pig? Hey!
-
-438
-00:46:34,585 --> 00:46:35,878
-Did you get some pig yet?
-
-439
-00:46:53,853 --> 00:46:56,523
-Thank you for your
-consideration.
-
-440
-00:47:02,403 --> 00:47:04,447
-- Are you crazy?
-- I just got mad.
-
-441
-00:47:04,530 --> 00:47:05,657
-Mad?
-
-442
-00:47:06,365 --> 00:47:11,454
-You realize that your actions reflect
-badly on all of us. Not just you.
-
-443
-00:47:11,538 --> 00:47:13,081
-They just want a good show.
-It's fine.
-
-444
-00:47:13,164 --> 00:47:16,751
-How about it's just bad manners, Cinna!
-How about that?
-
-445
-00:47:16,835 --> 00:47:21,255
-Well, finally! I hope you noticed
-we have a serious situation.
-
-446
-00:47:25,092 --> 00:47:27,137
-Nice shooting, sweetheart.
-
-447
-00:47:28,554 --> 00:47:32,643
-What did they do when
-you shot the apple?
-
-448
-00:47:33,559 --> 00:47:35,061
-Well, they looked
-pretty startled.
-
-449
-00:47:35,228 --> 00:47:36,313
-Oh, yeah.
-
-450
-00:47:38,898 --> 00:47:40,983
-Now, what did you say?
-"Thanks for..."
-
-451
-00:47:41,068 --> 00:47:42,652
-- Thanks for your consideration.
-- "...your consideration."
-
-452
-00:47:42,735 --> 00:47:45,072
-Genius! Genius.
-
-453
-00:47:45,155 --> 00:47:49,826
-I don't think we're gonna find this funny
-if the Gamemakers decide to take it out...
-
-454
-00:47:49,909 --> 00:47:51,369
-On who? On her?
-
-455
-00:47:52,244 --> 00:47:53,664
-On him?
-
-456
-00:47:53,746 --> 00:47:56,750
-I think they already have.
-Loosen your corset, have a drink.
-
-457
-00:47:57,793 --> 00:48:00,420
-I would have given
-anything to see it.
-
-458
-00:48:01,170 --> 00:48:04,173
-<i>As you know, the Tributes were
-rated on a scale of 1 to 12</i>
-
-459
-00:48:04,257 --> 00:48:07,094
-<i>after three days of
-careful evaluation.</i>
-
-460
-00:48:07,302 --> 00:48:10,889
-<i>The Gamekeepers would like to
-acknowledge that it was an exceptional...</i>
-
-461
-00:48:11,431 --> 00:48:16,311
-<i>From District 1, Marvel,
-with a score of nine.</i>
-
-462
-00:48:16,394 --> 00:48:19,940
-<i>From District 2, Cato,
-with a score of 10.</i>
-
-463
-00:48:20,023 --> 00:48:22,233
-<i>Clove, with a score of 10.</i>
-
-464
-00:48:22,317 --> 00:48:25,528
-<i>From District 3...
-From District 4, with a score of...</i>
-
-465
-00:48:25,612 --> 00:48:26,989
-<i>From District 7...</i>
-
-466
-00:48:27,072 --> 00:48:28,739
-<i>From District 8...</i>
-
-467
-00:48:29,449 --> 00:48:32,119
-<i>And Rue with a score of seven.</i>
-
-468
-00:48:32,202 --> 00:48:33,911
-<i>Now our final district.</i>
-
-469
-00:48:33,996 --> 00:48:38,666
-<i>From District 12. Peeta Mellark.</i>
-
-470
-00:48:42,628 --> 00:48:45,172
-<i>A score of eight.</i>
-
-471
-00:48:46,465 --> 00:48:47,759
-- Excellent.
-- Peeta!
-
-472
-00:48:47,842 --> 00:48:48,885
-Bravo.
-
-473
-00:48:48,969 --> 00:48:51,179
-Good job.
-
-474
-00:48:53,931 --> 00:48:54,974
-<i>And finally,</i>
-
-475
-00:48:57,476 --> 00:48:58,853
-<i>from District 12,</i>
-
-476
-00:49:01,106 --> 00:49:03,233
-<i>Katniss Everdeen.</i>
-
-477
-00:49:06,820 --> 00:49:08,487
-<i>With a score of...</i>
-
-478
-00:49:11,532 --> 00:49:12,617
-<i>Eleven.</i>
-
-479
-00:49:14,244 --> 00:49:16,496
-- Katniss!
-- Outstanding!
-
-480
-00:49:16,871 --> 00:49:18,039
-- Yes!
-- Eleven?
-
-481
-00:49:18,623 --> 00:49:20,208
-Congratulations.
-
-482
-00:49:20,458 --> 00:49:21,626
-I thought they hated me.
-
-483
-00:49:21,710 --> 00:49:23,045
-They must have liked your guts.
-
-484
-00:49:23,128 --> 00:49:27,257
-To Katniss Everdeen,
-The Girl on Fire!
-
-485
-00:49:27,882 --> 00:49:30,177
-Goodness. We are.
-
-486
-00:49:30,302 --> 00:49:31,510
-An 11?
-
-487
-00:49:31,969 --> 00:49:32,971
-She earned it.
-
-488
-00:49:33,054 --> 00:49:35,097
-She shot an arrow at your head.
-
-489
-00:49:35,181 --> 00:49:36,474
-Well, at an apple.
-
-490
-00:49:36,557 --> 00:49:37,809
-Near your head.
-
-491
-00:49:38,476 --> 00:49:39,853
-Sit down.
-
-492
-00:49:45,150 --> 00:49:48,195
-Seneca, why do you think
-we have a winner?
-
-493
-00:49:50,697 --> 00:49:52,032
-What do you mean?
-
-494
-00:49:52,949 --> 00:49:56,702
-I mean, why do we have a winner?
-
-495
-00:49:59,289 --> 00:50:01,208
-I mean, if we just wanted to
-intimidate the districts,
-
-496
-00:50:01,291 --> 00:50:05,878
-why not round up 24 of them at
-random and execute them all at once?
-
-497
-00:50:05,961 --> 00:50:07,713
-Be a lot faster.
-
-498
-00:50:10,050 --> 00:50:11,134
-Hope.
-
-499
-00:50:12,052 --> 00:50:13,177
-Hope?
-
-500
-00:50:13,260 --> 00:50:14,346
-Hope.
-
-501
-00:50:15,054 --> 00:50:18,307
-It is the only thing
-stronger than fear.
-
-502
-00:50:19,809 --> 00:50:23,605
-A little hope is effective.
-A lot of hope is dangerous.
-
-503
-00:50:23,688 --> 00:50:26,983
-A spark is fine, as
-long as it's contained.
-
-504
-00:50:29,443 --> 00:50:30,445
-So...
-
-505
-00:50:31,737 --> 00:50:34,657
-So contain it.
-
-506
-00:50:37,077 --> 00:50:38,244
-Right.
-
-507
-00:50:38,744 --> 00:50:41,581
-<i>So she's staring at all my jewels
-She cannot take her eyes off of them.</i>
-
-508
-00:50:41,664 --> 00:50:42,916
-<i>Well, look at all
-that you're wearing.</i>
-
-509
-00:50:42,998 --> 00:50:44,000
-<i>Frankly, it was rude.</i>
-
-510
-00:50:44,083 --> 00:50:45,168
-Oh!
-
-511
-00:50:45,251 --> 00:50:46,795
-Haymitch, you should join us.
-
-512
-00:50:46,878 --> 00:50:49,338
-We're having some of your
-favorite for dinner.
-
-513
-00:50:49,422 --> 00:50:50,590
-Oh, lovely.
-
-514
-00:50:54,677 --> 00:50:56,554
-- Where's Peeta?
-- He's in his room.
-
-515
-00:50:56,637 --> 00:51:00,516
-Now, listen, tomorrow's
-the last day.
-
-516
-00:51:00,599 --> 00:51:03,228
-And they let us work with our own
-Tributes right before The Games,
-
-517
-00:51:03,311 --> 00:51:06,106
-so you and I will be
-going down at 9:00.
-
-518
-00:51:07,690 --> 00:51:09,108
-What about him?
-
-519
-00:51:09,775 --> 00:51:13,280
-He says he wants to be trained
-on his own from now on.
-
-520
-00:51:14,530 --> 00:51:15,614
-What?
-
-521
-00:51:16,199 --> 00:51:21,161
-This kind of thing does happen at this
-point. There's only one winner, right?
-
-522
-00:51:27,626 --> 00:51:29,713
-We should have some
-chocolate-covered strawberries.
-
-523
-00:51:29,795 --> 00:51:31,630
-- Oh, my, yes.
-- Please.
-
-524
-00:51:34,675 --> 00:51:38,179
-<i>Ladies and gentlemen
-your master of ceremonies,</i>
-
-525
-00:51:38,262 --> 00:51:40,974
-<i>Caesar Flickerman!</i>
-
-526
-00:51:43,684 --> 00:51:47,521
-<i>Thank you! Thank you!</i>
-
-527
-00:51:49,065 --> 00:51:54,905
-<i>Welcome, welcome, welcome to
-the 74th Annual Hunger Games!</i>
-
-528
-00:51:56,155 --> 00:52:00,284
-<i>Now, in about five minutes,
-they're all going to be out here.</i>
-
-529
-00:52:00,367 --> 00:52:02,954
-<i>All of the Tributes that
-you've heard about.</i>
-
-530
-00:52:03,038 --> 00:52:04,414
-<i>Are you excited?</i>
-
-531
-00:52:05,331 --> 00:52:06,875
-<i>Let me hear it!</i>
-
-532
-00:52:10,210 --> 00:52:11,463
-Amazing.
-
-533
-00:52:13,172 --> 00:52:14,673
-I don't feel amazing.
-
-534
-00:52:14,757 --> 00:52:16,675
-Don't you know how
-beautiful you look?
-
-535
-00:52:16,760 --> 00:52:18,594
-No. And I don't know how
-to make people like me.
-
-536
-00:52:18,677 --> 00:52:21,264
-- How do you make people like you?
-- Well, you made me like you.
-
-537
-00:52:21,347 --> 00:52:22,641
-That's different.
-I wasn't trying.
-
-538
-00:52:22,724 --> 00:52:26,728
-Exactly. Just be yourself,
-I'll be there the whole time.
-
-539
-00:52:27,186 --> 00:52:30,356
-And just pretend that
-you're talking to me. Okay?
-
-540
-00:52:30,690 --> 00:52:31,690
-Okay.
-
-541
-00:52:31,858 --> 00:52:33,777
-<i>Let's see if she
-does indeed shine.</i>
-
-542
-00:52:33,860 --> 00:52:37,280
-<i>Let's have a warm round
-of applause for Glimmer!</i>
-
-543
-00:52:41,909 --> 00:52:43,494
-<i>Glimmer, are you prepared?</i>
-
-544
-00:52:43,702 --> 00:52:45,829
-<i>Yes, Caesar, I am very prepared.</i>
-
-545
-00:52:45,914 --> 00:52:48,666
-<i>I like it. That's assurance.
-That's self-assurance.</i>
-
-546
-00:52:48,750 --> 00:52:49,960
-<i>- Don't you think?
-- And, as you can see...</i>
-
-547
-00:52:50,043 --> 00:52:51,835
-<i>I'm wearing one of
-our own creations.</i>
-
-548
-00:52:52,753 --> 00:52:54,713
-<i>A big round of applause!</i>
-
-549
-00:52:57,342 --> 00:52:58,342
-Marvel!
-
-550
-00:52:58,425 --> 00:52:59,427
-Whoo!
-
-551
-00:53:01,721 --> 00:53:03,181
-<i>Welcome, Clove.</i>
-
-552
-00:53:03,264 --> 00:53:05,141
-- It's an honor representing my district.
-- You're a fighter.
-
-553
-00:53:05,224 --> 00:53:07,643
-I'm prepared. I'm vicious.
-I'm ready to go.
-
-554
-00:53:08,853 --> 00:53:10,063
-Cato!
-
-555
-00:53:10,146 --> 00:53:13,650
-I find that if I can apply
-myself to the situation present,
-
-556
-00:53:13,733 --> 00:53:15,025
-I will be able to figure it out.
-
-557
-00:53:15,110 --> 00:53:18,570
-<i>Thank you. Lovely to see you.
-Thank you so much.</i>
-
-558
-00:53:21,532 --> 00:53:23,492
-<i>Good. So you can climb trees.</i>
-
-559
-00:53:23,576 --> 00:53:25,954
-You're pretty quick.
-And are you a hunter?
-
-560
-00:53:26,161 --> 00:53:27,621
-<i>A gatherer?</i>
-
-561
-00:53:34,920 --> 00:53:37,507
-<i>From District 12, District 12...</i>
-
-562
-00:53:37,590 --> 00:53:40,760
-<i>You know her as
-The Girl on Fire!</i>
-
-563
-00:53:43,596 --> 00:53:46,682
-<i>Well, we know her as the
-lovely Katniss Everdeen!</i>
-
-564
-00:54:01,947 --> 00:54:04,951
-<i>Welcome! Welcome.</i>
-
-565
-00:54:07,536 --> 00:54:08,788
-<i>Welcome.</i>
-
-566
-00:54:09,581 --> 00:54:13,126
-<i>Well, that was quite an entrance
-you made the other day.</i>
-
-567
-00:54:16,253 --> 00:54:17,297
-What?
-
-568
-00:54:18,965 --> 00:54:21,092
-I think someone's
-a little nervous.
-
-569
-00:54:22,927 --> 00:54:25,764
-I said that was quite an
-entrance that you made
-
-570
-00:54:25,847 --> 00:54:27,599
-at the Tribute Parade
-the other day.
-
-571
-00:54:27,681 --> 00:54:29,851
-Do you want to tell us about it?
-
-572
-00:54:30,726 --> 00:54:34,230
-Well, I was just hoping
-that I wouldn't burn to death.
-
-573
-00:54:42,739 --> 00:54:44,239
-When you came out of that chariot,
-
-574
-00:54:44,324 --> 00:54:47,827
-I have to say, my heart stopped.
-
-575
-00:54:48,286 --> 00:54:50,829
-Did any of you
-experience this as well?
-
-576
-00:54:50,914 --> 00:54:52,331
-My heart stopped.
-
-577
-00:54:55,293 --> 00:54:56,710
-So did mine.
-
-578
-00:54:59,338 --> 00:55:01,800
-Now, tell me about the flames.
-Are they real?
-
-579
-00:55:01,882 --> 00:55:03,009
-Yes.
-
-580
-00:55:07,639 --> 00:55:11,476
-In fact, I'm wearing them today.
-Would you like to see?
-
-581
-00:55:12,684 --> 00:55:15,313
-Wait, wait, wait. Is it safe?
-
-582
-00:55:15,396 --> 00:55:16,688
-Yes.
-
-583
-00:55:17,023 --> 00:55:18,358
-What do you think, folks?
-
-584
-00:55:18,483 --> 00:55:19,858
-Yeah!
-
-585
-00:55:20,275 --> 00:55:21,318
-I think that's a yes.
-
-586
-00:55:48,012 --> 00:55:50,556
-Steady. Steady.
-
-587
-00:55:51,599 --> 00:55:53,059
-Lovely. Thank you.
-
-588
-00:55:55,478 --> 00:55:58,690
-That was really something.
-Katniss, that was something.
-
-589
-00:55:58,773 --> 00:56:01,150
-That was something.
-Thank you for that.
-
-590
-00:56:03,402 --> 00:56:05,780
-I have one more
-question for you.
-
-591
-00:56:07,322 --> 00:56:08,782
-It's about your sister.
-
-592
-00:56:11,494 --> 00:56:17,583
-We were all very moved, I think, when
-you volunteered for her at the Reaping.
-
-593
-00:56:19,751 --> 00:56:22,297
-Did she come and say
-goodbye to you?
-
-594
-00:56:22,380 --> 00:56:23,422
-Yes.
-
-595
-00:56:23,840 --> 00:56:25,550
-- She did.
-- She did.
-
-596
-00:56:28,385 --> 00:56:31,431
-And what did you say
-to her in the end?
-
-597
-00:56:34,434 --> 00:56:36,936
-I told her that I would try to win.
-
-598
-00:56:38,396 --> 00:56:40,773
-That I would try to win for her.
-
-599
-00:56:41,608 --> 00:56:43,275
-Of course you did.
-
-600
-00:56:45,110 --> 00:56:46,737
-And try you will.
-
-601
-00:56:48,030 --> 00:56:50,532
-Ladies and gentlemen,
-from District 12,
-
-602
-00:56:50,617 --> 00:56:54,119
-Katniss Everdeen,
-The Girl on Fire!
-
-603
-00:57:00,418 --> 00:57:02,545
-You did it, darling.
-That was incredible.
-
-604
-00:57:02,628 --> 00:57:04,047
-Thank you.
-
-605
-00:57:04,130 --> 00:57:06,590
-Nice job, sweetheart.
-
-606
-00:57:07,342 --> 00:57:08,635
-Thank you.
-
-607
-00:57:08,717 --> 00:57:10,302
-Nice dress, too.
-
-608
-00:57:11,471 --> 00:57:15,016
-<i>- Not yours.
-- Please welcome Peeta Mellark!</i>
-
-609
-00:57:21,438 --> 00:57:23,190
-<i>Peeta, welcome.</i>
-
-610
-00:57:23,608 --> 00:57:27,402
-<i>How are you finding The Capitol?
-And don't say, "With a map".</i>
-
-611
-00:57:27,487 --> 00:57:30,114
-<i>It's different.
-It's very different than back home.</i>
-
-612
-00:57:30,197 --> 00:57:33,076
-<i>Different. In what way?
-Give us an example.</i>
-
-613
-00:57:33,159 --> 00:57:35,494
-<i>Okay. Well, the showers
-here are weird.</i>
-
-614
-00:57:35,786 --> 00:57:36,996
-- The showers?
-- Yes.
-
-615
-00:57:37,079 --> 00:57:38,664
-We have different showers.
-
-616
-00:57:38,789 --> 00:57:42,751
-I have a question for you, Caesar.
-Do I smell like roses to you?
-
-617
-00:57:44,461 --> 00:57:46,672
-- Take a whiff?
-- All right.
-
-618
-00:57:48,507 --> 00:57:50,217
-- You see?
-- Yes. Do I smell like it?
-
-619
-00:57:57,057 --> 00:57:59,559
-- You definitely smell better than I do.
-- Well, I've lived here longer.
-
-620
-00:57:59,643 --> 00:58:00,811
-That makes sense.
-
-621
-00:58:05,190 --> 00:58:07,943
-Very funny. So, Peeta, tell me,
-
-622
-00:58:09,027 --> 00:58:11,614
-is there a special
-girl back home?
-
-623
-00:58:11,697 --> 00:58:13,324
-No. No. Not really.
-
-624
-00:58:13,574 --> 00:58:17,619
-No? I don't believe it for a second.
-Look at that face.
-
-625
-00:58:17,704 --> 00:58:21,666
-Handsome man like you.
-Peeta, tell me.
-
-626
-00:58:24,043 --> 00:58:25,545
-Well, there...
-
-627
-00:58:26,045 --> 00:58:29,382
-There is this one girl that
-I've had a crush on forever.
-
-628
-00:58:30,507 --> 00:58:34,594
-But I don't think she actually
-recognized me until the Reaping.
-
-629
-00:58:37,056 --> 00:58:39,224
-Well, I'll tell you what, Peeta.
-
-630
-00:58:40,726 --> 00:58:44,188
-You go out there and
-you win this thing,
-
-631
-00:58:44,646 --> 00:58:47,900
-and when you get home, she'll
-have to go out with you.
-
-632
-00:58:48,483 --> 00:58:49,610
-Right, folks?
-
-633
-00:58:52,864 --> 00:58:56,492
-Thanks, but I don't think
-winning's gonna help me at all.
-
-634
-00:58:56,576 --> 00:58:57,952
-And why not?
-
-635
-00:59:01,539 --> 00:59:03,750
-Because she came here with me.
-
-636
-00:59:08,003 --> 00:59:09,588
-<i>Well, that's bad luck.</i>
-
-637
-00:59:10,088 --> 00:59:11,548
-<i>Yeah, it is.</i>
-
-638
-00:59:13,592 --> 00:59:16,596
-<i>- And I wish you all the best of luck.
-- Thank you.</i>
-
-639
-00:59:17,512 --> 00:59:19,056
-<i>Peeta Mellark.</i>
-
-640
-00:59:20,016 --> 00:59:21,726
-<i>District 12!</i>
-
-641
-00:59:25,103 --> 00:59:26,773
-What the hell was that?
-
-642
-00:59:26,856 --> 00:59:28,858
-You don't talk to me, and then
-you say you have a crush on me?
-
-643
-00:59:28,940 --> 00:59:31,027
-You say you want to train alone?
-Is that how you want to play?
-
-644
-00:59:31,110 --> 00:59:32,737
-Stop it! Stop it!
-
-645
-00:59:32,820 --> 00:59:33,987
-- Let's start right now!
-- Hey!
-
-646
-00:59:35,947 --> 00:59:38,117
-- He did you a favor.
-- He made me look weak.
-
-647
-00:59:38,201 --> 00:59:42,038
-He made you look desirable, which
-in your case, can't hurt, sweetheart.
-
-648
-00:59:42,121 --> 00:59:43,164
-He's right, Katniss.
-
-649
-00:59:43,246 --> 00:59:44,456
-Of course I'm right.
-
-650
-00:59:44,706 --> 00:59:47,960
-Now, I can sell the star-crossed
-lovers from District 12...
-
-651
-00:59:48,043 --> 00:59:49,545
-We are not star-crossed lovers.
-
-652
-00:59:49,628 --> 00:59:51,380
-It's a television show!
-
-653
-00:59:51,588 --> 00:59:55,217
-And being in love with that boy
-might just get you sponsors,
-
-654
-00:59:55,300 --> 00:59:57,637
-which could save your damn life.
-
-655
-00:59:58,637 --> 01:00:01,349
-Okay. Why don't
-you get out of here?
-
-656
-01:00:02,307 --> 01:00:05,311
-Maybe I can deliver you
-both in one piece tomorrow.
-
-657
-01:00:05,394 --> 01:00:06,813
-Manners!
-
-658
-01:00:37,885 --> 01:00:39,177
-You, too?
-
-659
-01:00:41,304 --> 01:00:42,347
-Hey.
-
-660
-01:00:42,764 --> 01:00:43,932
-Can't sleep?
-
-661
-01:00:44,016 --> 01:00:45,726
-No. Of course not.
-
-662
-01:00:48,311 --> 01:00:50,398
-I'm sorry I went after you.
-
-663
-01:00:53,025 --> 01:00:55,360
-You know, I meant that as a compliment.
-
-664
-01:00:55,862 --> 01:00:57,070
-I know.
-
-665
-01:01:08,373 --> 01:01:09,958
-Listen to them.
-
-666
-01:01:11,835 --> 01:01:13,003
-Yeah.
-
-667
-01:01:17,340 --> 01:01:19,885
-I just don't want them to change me.
-
-668
-01:01:22,804 --> 01:01:24,514
-How would they change you?
-
-669
-01:01:27,851 --> 01:01:31,188
-I don't know.
-They'd turn me into something I'm not.
-
-670
-01:01:33,023 --> 01:01:36,443
-I just don't want to be another
-piece in their game, you know?
-
-671
-01:01:38,528 --> 01:01:39,989
-You mean you won't kill anyone?
-
-672
-01:01:42,324 --> 01:01:43,326
-No.
-
-673
-01:01:44,076 --> 01:01:46,829
-- I mean, I'm sure I would,
-just like anybody else
-
-674
-01:01:46,913 --> 01:01:47,996
-when the time came,
-
-675
-01:01:49,498 --> 01:01:53,418
-but I just keep wishing that I
-could think of a way to show them
-
-676
-01:01:53,503 --> 01:01:55,253
-that they don't own me.
-
-677
-01:01:58,590 --> 01:02:02,969
-If I'm gonna die, I
-want to still be me.
-
-678
-01:02:08,726 --> 01:02:10,518
-Does that make any sense?
-
-679
-01:02:10,603 --> 01:02:11,728
-Yeah.
-
-680
-01:02:13,981 --> 01:02:16,192
-I just can't afford
-to think like that.
-
-681
-01:02:20,780 --> 01:02:22,405
-I have my sister.
-
-682
-01:02:24,449 --> 01:02:25,952
-Yeah, I know.
-
-683
-01:02:40,675 --> 01:02:42,927
-I guess I'll see you tomorrow.
-
-684
-01:02:45,762 --> 01:02:47,389
-See you tomorrow.
-
-685
-01:03:12,498 --> 01:03:17,503
-They'll put all kinds of stuff right in front,
-right in the mouth of the Cornucopia.
-
-686
-01:03:17,585 --> 01:03:20,338
-There'll even be a bow there.
-Don't go for it.
-
-687
-01:03:20,422 --> 01:03:21,673
-Why not?
-
-688
-01:03:21,757 --> 01:03:23,967
-It's a bloodbath.
-They're trying to pull you in.
-
-689
-01:03:24,050 --> 01:03:25,469
-That's not your game.
-
-690
-01:03:25,552 --> 01:03:29,514
-You turn, run, find high
-ground, look for water.
-
-691
-01:03:29,597 --> 01:03:31,809
-Water's your new best friend.
-
-692
-01:03:32,351 --> 01:03:36,605
-Don't step off that pedestal early
-or they'll blow you sky high.
-
-693
-01:03:36,688 --> 01:03:37,940
-I won't.
-
-694
-01:03:49,994 --> 01:03:53,079
-Katniss, you can do this.
-
-695
-01:04:01,213 --> 01:04:02,422
-Thanks.
-
-696
-01:04:07,302 --> 01:04:08,929
-Give me your arm.
-
-697
-01:04:13,184 --> 01:04:14,434
-Give me your arm.
-
-698
-01:04:20,900 --> 01:04:22,735
-- Give me your arm.
-- What is that?
-
-699
-01:04:25,570 --> 01:04:26,989
-Your tracker.
-
-700
-01:04:28,532 --> 01:04:29,532
-We're up.
-
-701
-01:04:29,867 --> 01:04:31,117
-We're up!
-
-702
-01:04:33,244 --> 01:04:37,500
-All right. Less than a
-minute, people. Final checks.
-
-703
-01:04:37,583 --> 01:04:39,918
-There are 15 out. They are flying.
-
-704
-01:05:17,498 --> 01:05:18,791
-Here.
-
-705
-01:05:37,851 --> 01:05:38,853
-Shh.
-
-706
-01:05:39,103 --> 01:05:40,438
-Thank you.
-
-707
-01:05:49,028 --> 01:05:50,530
-Thirty seconds.
-
-708
-01:05:57,996 --> 01:06:02,001
-I'm not allowed to bet,
-but if I could, I'd bet on you.
-
-709
-01:06:13,679 --> 01:06:15,306
-<i>Twenty seconds.</i>
-
-710
-01:06:27,693 --> 01:06:29,445
-<i>Ten seconds.</i>
-
-711
-01:06:55,304 --> 01:06:57,597
-Okay, they're in the tubes.
-
-712
-01:07:37,887 --> 01:07:41,934
-50, 49, 48, 47,
-
-713
-01:07:42,016 --> 01:07:46,355
-46, 45, 44, 43,
-
-714
-01:07:46,438 --> 01:07:49,858
-42, 41, 40,
-
-715
-01:07:49,942 --> 01:07:53,862
-<i>39, 38, 37, 36,</i>
-
-716
-01:07:53,945 --> 01:07:58,157
-<i>35, 34, 33, 32,</i>
-
-717
-01:07:58,617 --> 01:08:02,579
-<i>31, 30, 29, 28,</i>
-
-718
-01:08:02,788 --> 01:08:06,041
-<i>27, 26, 25,</i>
-
-719
-01:08:06,125 --> 01:08:09,168
-<i>24, 23, 22...</i>
-
-720
-01:11:18,984 --> 01:11:23,529
-And, of course, there's the
-familiar "boom" of the Cannon,
-
-721
-01:11:23,613 --> 01:11:26,617
-which marks the end of
-another fallen Tribute.
-
-722
-01:11:27,826 --> 01:11:28,827
-eight...
-
-723
-01:11:29,536 --> 01:11:30,537
-nine...
-
-724
-01:11:31,997 --> 01:11:32,997
-10...
-
-725
-01:11:34,207 --> 01:11:35,208
-11...
-
-726
-01:11:37,043 --> 01:11:38,045
-12.
-
-727
-01:13:20,605 --> 01:13:21,606
-Twenty-five? Got it.
-
-728
-01:13:26,360 --> 01:13:27,362
-He's moving now.
-
-729
-01:14:59,121 --> 01:15:03,207
-Well, that makes 13 gone
-in the first eight hours.
-
-730
-01:15:03,375 --> 01:15:06,670
-And Claudius, I think I
-see an alliance forming.
-
-731
-01:15:12,216 --> 01:15:13,844
-Wait! Did you see the look on her face?
-
-732
-01:15:13,926 --> 01:15:15,804
-- How stupid can you get?
-- A fire?
-
-733
-01:15:15,886 --> 01:15:19,349
-"Oh, no! Please don't kill me! Oh, no!"
-
-734
-01:15:19,432 --> 01:15:21,768
-That's actually a good impression.
-
-735
-01:15:22,144 --> 01:15:23,270
-Hey, lover boy!
-
-736
-01:15:24,770 --> 01:15:27,189
-- You sure she went this way?
-- Yeah, I'm sure.
-
-737
-01:15:28,233 --> 01:15:29,484
-You better be.
-
-738
-01:15:29,568 --> 01:15:32,529
-Yeah, that was her
-snare we found back there.
-
-739
-01:15:38,243 --> 01:15:40,494
-Are you sure we
-shouldn't just kill him now?
-
-740
-01:15:40,578 --> 01:15:42,413
-Nah. He's our best
-chance of finding her.
-
-741
-01:15:42,872 --> 01:15:44,498
-Let's go.
-
-742
-01:16:04,978 --> 01:16:06,145
-Sir?
-
-743
-01:16:08,230 --> 01:16:10,442
-She is almost at the edge.
-
-744
-01:16:10,524 --> 01:16:13,110
-<i>Two kilometers away from
-the nearest Tribute.</i>
-
-745
-01:16:13,194 --> 01:16:14,529
-<i>Let's turn her around.</i>
-
-746
-01:17:15,215 --> 01:17:18,260
-Cueing another. On my count.
-One, two...
-
-747
-01:17:30,229 --> 01:17:32,274
-She's heading towards
-the left flank.
-
-748
-01:17:32,356 --> 01:17:34,693
-Okay. Can you give me
-a tree right there?
-
-749
-01:17:34,775 --> 01:17:37,404
-Sure. Cueing tree.
-
-750
-01:18:29,079 --> 01:18:30,789
-She's almost there.
-
-751
-01:18:44,304 --> 01:18:46,640
-Lucia, get a Cannon ready.
-
-752
-01:18:58,693 --> 01:19:00,194
-There she is! There she is!
-
-753
-01:19:02,948 --> 01:19:05,449
-- She's mine!
-- Not if I get her first!
-
-754
-01:19:09,996 --> 01:19:12,122
-- Where you gonna go?
-- Mine!
-
-755
-01:19:12,207 --> 01:19:14,751
-Fish out of the pond!
-And someone found her.
-
-756
-01:19:21,131 --> 01:19:23,134
-- There she is!
-- Yeah!
-
-757
-01:19:28,139 --> 01:19:29,599
-Here we go!
-
-758
-01:19:35,438 --> 01:19:37,815
-- Where you going, huh?
-- Get her, Cato!
-
-759
-01:19:38,024 --> 01:19:39,484
-Where do you think you're going?
-
-760
-01:19:42,529 --> 01:19:44,405
-Where you going, baby?
-
-761
-01:19:45,698 --> 01:19:46,908
-Three o'clock.
-
-762
-01:19:49,452 --> 01:19:51,537
-- Where you going, Girl on Fire?
-- We got her!
-
-763
-01:19:51,621 --> 01:19:53,163
-Miss Everdeen, I'm
-gonna get you!
-
-764
-01:19:53,247 --> 01:19:54,582
-That's not gonna help
-you up there, Katniss.
-
-765
-01:19:54,666 --> 01:19:56,376
-Where are you going?
-
-766
-01:19:56,667 --> 01:19:59,212
-- Go get her, man!
-- You are so done.
-
-767
-01:19:59,296 --> 01:20:01,297
-Just get her, Cato!
-
-768
-01:20:01,381 --> 01:20:03,300
-- He's gonna get you, Katniss.
-- Look at her scurry.
-
-769
-01:20:03,382 --> 01:20:04,384
-Right up there.
-
-770
-01:20:05,260 --> 01:20:06,970
-- Kill her!
-- Just go, keep going!
-
-771
-01:20:08,095 --> 01:20:09,847
-- Go, Cato.
-- Come on, Cato.
-
-772
-01:20:09,930 --> 01:20:10,931
-- She's right there.
-- Go, Cato! Come on, Cato!
-
-773
-01:20:11,015 --> 01:20:12,057
-You got this.
-
-774
-01:20:12,141 --> 01:20:13,100
-Go! He's got this.
-
-775
-01:20:13,184 --> 01:20:15,686
-- Kill her, Cato! Just get her, Cato!
-- Go! Go!
-
-776
-01:20:15,770 --> 01:20:17,314
-- Take her down!
-- Go! Go!
-
-777
-01:20:17,939 --> 01:20:19,274
-- You got this, Cato!
-- Come on, kill her!
-
-778
-01:20:19,356 --> 01:20:20,774
-I'm coming for you!
-
-779
-01:20:20,859 --> 01:20:22,319
-Come on, Cato!
-
-780
-01:20:26,488 --> 01:20:28,158
-I'll do it myself.
-
-781
-01:20:35,289 --> 01:20:36,791
-Give me that before...
-
-782
-01:20:36,875 --> 01:20:38,917
-Come on. Come on, come on!
-
-783
-01:20:41,671 --> 01:20:44,048
-Maybe you should
-throw the sword!
-
-784
-01:20:44,506 --> 01:20:46,426
-Let's just wait her out.
-
-785
-01:20:48,970 --> 01:20:52,599
-She's gotta come down at some point.
-It's that or starve to death.
-
-786
-01:20:52,681 --> 01:20:53,891
-We'll just kill her then.
-
-787
-01:20:58,063 --> 01:20:59,229
-Okay.
-
-788
-01:21:00,230 --> 01:21:01,733
-Somebody make a fire.
-
-789
-01:21:12,911 --> 01:21:16,247
-- Let's make camp over here!
-- Hurry up with the fire.
-
-790
-01:22:14,430 --> 01:22:15,640
-Boys.
-
-791
-01:23:53,529 --> 01:23:54,905
-Thank you.
-
-792
-01:24:37,239 --> 01:24:38,240
-Psst.
-
-793
-01:24:40,158 --> 01:24:41,159
-Psst.
-
-794
-01:25:05,143 --> 01:25:08,645
-Claudius, I think those
-are tracker jackers Am I wrong?
-
-795
-01:25:08,729 --> 01:25:09,730
-Oh.
-
-796
-01:25:11,231 --> 01:25:14,027
-- Those things are very lethal.
-- Very.
-
-797
-01:25:14,109 --> 01:25:15,194
-For those of you who don't know,
-
-798
-01:25:15,278 --> 01:25:20,533
-tracker jackers are genetically engineered
-wasps whose venom causes searing pain,
-
-799
-01:25:20,992 --> 01:25:26,163
-<i>powerful hallucinations, and
-in extreme cases, death.</i>
-
-800
-01:28:25,051 --> 01:28:26,135
-Run.
-
-801
-01:28:27,136 --> 01:28:28,261
-Run!
-
-802
-01:28:29,514 --> 01:28:30,680
-Run!
-
-803
-01:28:31,724 --> 01:28:33,100
-Katniss, go!
-
-804
-01:28:33,935 --> 01:28:36,686
-Get out of here! Go!
-What are you doing? Go!
-
-805
-01:28:48,407 --> 01:28:52,994
-Not only is it lethal, but
-the venom of a tracker jacker sting
-
-806
-01:28:54,037 --> 01:28:55,914
-can produce powerful
-hallucinations.
-
-807
-01:29:56,434 --> 01:30:00,729
-Mom, don't just sit there and look at me!
-Please say something!
-
-808
-01:30:01,314 --> 01:30:03,064
-Katniss, go!
-
-809
-01:30:04,524 --> 01:30:07,278
-Get out of here! Go!
-What are you doing? Go!
-
-810
-01:31:08,171 --> 01:31:09,256
-Rue?
-
-811
-01:31:12,969 --> 01:31:15,387
-It's okay. I'm not
-gonna hurt you.
-
-812
-01:31:33,029 --> 01:31:34,532
-You want mine, too?
-
-813
-01:31:35,573 --> 01:31:37,201
-No, that's okay.
-
-814
-01:31:38,284 --> 01:31:39,369
-Here.
-
-815
-01:31:40,328 --> 01:31:41,497
-Thanks.
-
-816
-01:31:46,543 --> 01:31:48,170
-How long was I asleep?
-
-817
-01:31:48,962 --> 01:31:52,173
-Couple of days. I changed
-your leaves twice.
-
-818
-01:31:54,385 --> 01:31:55,720
-Thank you.
-
-819
-01:31:57,430 --> 01:31:59,765
-So what happened
-while I was out?
-
-820
-01:32:00,390 --> 01:32:03,101
-The girl from 1 and
-the boy from 10.
-
-821
-01:32:07,148 --> 01:32:09,399
-And the boy from my district?
-
-822
-01:32:10,317 --> 01:32:13,529
-Yeah, he's okay. I think
-he's down by the river.
-
-823
-01:32:16,907 --> 01:32:18,617
-Is all of that true?
-
-824
-01:32:18,701 --> 01:32:19,784
-What?
-
-825
-01:32:20,536 --> 01:32:21,871
-You and him?
-
-826
-01:32:23,456 --> 01:32:25,457
-So where are Cato
-and the others?
-
-827
-01:32:25,541 --> 01:32:28,586
-They got all their
-supplies down by the lake.
-
-828
-01:32:28,668 --> 01:32:30,837
-<i>It's piled up in this
-great big pyramid.</i>
-
-829
-01:32:31,421 --> 01:32:33,256
-That sounds tempting.
-
-830
-01:32:49,105 --> 01:32:51,149
-Now, this green stuff
-is gonna smoke like crazy,
-
-831
-01:32:51,233 --> 01:32:53,944
-so as soon as you light it,
-move on to the next fire.
-
-832
-01:32:54,028 --> 01:32:56,529
-Light this one last, and I'll
-meet you back over there.
-
-833
-01:32:56,613 --> 01:32:57,823
-Right.
-
-834
-01:33:01,118 --> 01:33:04,204
-And then I'll destroy their
-stuff while they're chasing us.
-
-835
-01:33:04,287 --> 01:33:06,539
-We need a signal in case
-one of us gets held up.
-
-836
-01:33:06,623 --> 01:33:07,792
-Okay. Like what?
-
-837
-01:33:10,086 --> 01:33:11,753
-Here. Watch this.
-
-838
-01:33:17,467 --> 01:33:20,386
-Mockingjays. That's great.
-
-839
-01:33:20,470 --> 01:33:23,390
-Back home, we use them
-to signal all the time.
-
-840
-01:33:28,311 --> 01:33:29,521
-You try.
-
-841
-01:33:38,988 --> 01:33:40,698
-Okay, so if we hear that,
-
-842
-01:33:40,783 --> 01:33:44,286
-it means we're okay and
-we'll be back real soon.
-
-843
-01:33:44,369 --> 01:33:45,621
-We're gonna be okay.
-
-844
-01:33:51,543 --> 01:33:54,505
-Hey, I'll see you for supper.
-
-845
-01:33:56,006 --> 01:33:57,966
-- Okay.
-- Okay.
-
-846
-01:34:26,328 --> 01:34:29,707
-Guys. Guys, look! Over here.
-Come on, come on. Look!
-
-847
-01:34:33,877 --> 01:34:34,920
-Let's go.
-
-848
-01:34:35,337 --> 01:34:38,090
-You stay guard and don't
-move until we can get back.
-
-849
-01:35:06,827 --> 01:35:09,954
-I want to see if she's
-gonna figure out this booby trap.
-
-850
-01:35:10,247 --> 01:35:12,541
-Yes. It seems
-they've reburied their mines
-
-851
-01:35:12,625 --> 01:35:15,211
-<i>around that big pile of goodies.</i>
-
-852
-01:35:27,430 --> 01:35:30,350
-<i>She's certainly figured it out,
-hasn't she?</i>
-
-853
-01:37:38,186 --> 01:37:40,314
-I don't know what happened.
-
-854
-01:37:40,396 --> 01:37:43,024
-- What the hell happened?
-- I don't know!
-
-855
-01:37:43,567 --> 01:37:44,568
-Our stuff!
-
-856
-01:38:41,457 --> 01:38:42,667
-Katniss!
-
-857
-01:38:44,377 --> 01:38:45,962
-Katniss!
-
-858
-01:38:47,547 --> 01:38:49,298
-Katniss, help!
-
-859
-01:38:50,509 --> 01:38:51,926
-Katniss!
-
-860
-01:38:56,556 --> 01:38:58,934
-Katniss! Help!
-
-861
-01:39:00,060 --> 01:39:01,353
-Katniss!
-
-862
-01:39:02,479 --> 01:39:03,689
-Katniss!
-
-863
-01:39:04,064 --> 01:39:05,649
-It's okay. It's okay.
-
-864
-01:39:14,867 --> 01:39:18,244
-You're okay. You're okay.
-You're fine. See?
-
-865
-01:39:47,356 --> 01:39:49,484
-It's okay. You're okay.
-
-866
-01:39:49,859 --> 01:39:52,445
-You're okay. You're okay.
-
-867
-01:40:00,037 --> 01:40:02,038
-Did you blow up the food?
-
-868
-01:40:04,666 --> 01:40:06,210
-Every bit of it.
-
-869
-01:40:09,546 --> 01:40:10,713
-Good.
-
-870
-01:40:12,757 --> 01:40:14,635
-You have to win.
-
-871
-01:40:23,894 --> 01:40:25,561
-Can you sing?
-
-872
-01:40:29,440 --> 01:40:30,567
-Okay.
-
-873
-01:40:37,990 --> 01:40:41,912
-<i>Deep in the meadow.</i>
-
-874
-01:40:42,412 --> 01:40:46,082
-<i>Under the willows.</i>
-
-875
-01:40:46,832 --> 01:40:49,670
-<i>A bed of grass.</i>
-
-876
-01:40:50,253 --> 01:40:54,298
-<i>A soft green pillow.</i>
-
-877
-01:40:55,259 --> 01:40:58,052
-<i>Lay down your head</i>
-
-878
-01:40:58,761 --> 01:41:02,056
-<i>and close your eyes.</i>
-
-879
-01:41:02,932 --> 01:41:07,938
-<i>And when they open, the sun...</i>
-
-880
-01:41:56,778 --> 01:41:57,779
-I'm sorry.
-
-881
-01:41:59,989 --> 01:42:01,490
-I'm sorry.
-
-882
-01:44:57,667 --> 01:45:00,212
-<i>Don't kill her.
-You'll just create a martyr.</i>
-
-883
-01:45:00,295 --> 01:45:01,587
-Well, it seems we've already got one.
-
-884
-01:45:01,671 --> 01:45:04,966
-I hear these rumors out of District 11.
-This could get away from you.
-
-885
-01:45:05,050 --> 01:45:06,217
-What do you want?
-
-886
-01:45:07,092 --> 01:45:08,720
-You have a lot of anger out there.
-
-887
-01:45:08,804 --> 01:45:11,847
-I know you know how to handle a mob.
-You've done it before.
-
-888
-01:45:11,931 --> 01:45:16,770
-If you can't scare them, give
-them something to root for.
-
-889
-01:45:17,813 --> 01:45:18,814
-Such as?
-
-890
-01:45:21,774 --> 01:45:23,443
-Young love.
-
-891
-01:45:24,819 --> 01:45:26,947
-So you like an underdog?
-
-892
-01:45:27,029 --> 01:45:28,323
-Everyone likes an underdog.
-
-893
-01:45:28,405 --> 01:45:29,658
-I don't.
-
-894
-01:45:31,368 --> 01:45:34,453
-Have you been out there?
-10? 11? 12?
-
-895
-01:45:36,081 --> 01:45:37,916
-Not personally. No.
-
-896
-01:45:37,998 --> 01:45:39,417
-Well, I have.
-
-897
-01:45:40,585 --> 01:45:42,546
-There are lots of underdogs.
-
-898
-01:45:42,628 --> 01:45:44,296
-Lots of coal, too.
-
-899
-01:45:44,631 --> 01:45:47,967
-Grow crops, minerals,
-things we need.
-
-900
-01:45:49,802 --> 01:45:52,055
-There are lots of underdogs.
-
-901
-01:45:53,055 --> 01:45:55,015
-And I think if you
-could see them,
-
-902
-01:45:56,393 --> 01:45:58,895
-you would not root
-for them either.
-
-903
-01:46:01,355 --> 01:46:02,731
-I like you.
-
-904
-01:46:06,069 --> 01:46:07,654
-Be careful.
-
-905
-01:46:18,331 --> 01:46:20,583
-<i>Attention, Tributes. Attention.</i>
-
-906
-01:46:20,667 --> 01:46:25,505
-<i>The regulations requiring a single
-Victor have been suspended.</i>
-
-907
-01:46:25,588 --> 01:46:27,923
-<i>From now on, two Victors
-may be crowned,</i>
-
-908
-01:46:28,007 --> 01:46:31,677
-<i>if both originate from
-the same district.</i>
-
-909
-01:46:31,761 --> 01:46:34,221
-<i>This will be the
-only announcement.</i>
-
-910
-01:46:35,599 --> 01:46:36,891
-Peeta.
-
-911
-01:47:37,827 --> 01:47:40,329
-Oh, my God!
-Peeta! Peeta!
-
-912
-01:47:43,416 --> 01:47:44,417
-Hi.
-
-913
-01:47:48,212 --> 01:47:49,672
-It's okay.
-
-914
-01:48:04,688 --> 01:48:06,105
-What was it?
-
-915
-01:48:06,398 --> 01:48:07,690
-A sword.
-
-916
-01:48:09,317 --> 01:48:10,859
-It's bad, huh?
-
-917
-01:48:11,987 --> 01:48:13,697
-It's gonna be fine.
-
-918
-01:48:22,956 --> 01:48:23,957
-Ah!
-
-919
-01:48:26,376 --> 01:48:27,836
-Katniss.
-
-920
-01:48:31,506 --> 01:48:32,966
-- Katniss.
-- No!
-
-921
-01:48:34,300 --> 01:48:38,095
-I'm not gonna leave you.
-I'm not gonna do that.
-
-922
-01:48:45,686 --> 01:48:47,104
-Why not?
-
-923
-01:49:07,332 --> 01:49:09,918
-Nobody's gonna find you in here.
-
-924
-01:49:10,002 --> 01:49:11,962
-They already found me.
-
-925
-01:49:16,091 --> 01:49:17,969
-We'll just get you some medicine.
-
-926
-01:49:18,052 --> 01:49:19,887
-Katniss, I don't get many parachutes.
-
-927
-01:49:20,846 --> 01:49:22,097
-We'll figure something out.
-
-928
-01:49:23,182 --> 01:49:24,516
-Like what?
-
-929
-01:49:25,560 --> 01:49:26,935
-Something.
-
-930
-01:50:28,288 --> 01:50:30,833
-- Medicine?
-- No. Soup.
-
-931
-01:50:31,667 --> 01:50:32,668
-I'll do it.
-
-932
-01:50:43,345 --> 01:50:44,847
-That's nice.
-
-933
-01:50:46,850 --> 01:50:48,685
-You fed me once.
-
-934
-01:50:51,770 --> 01:50:53,689
-I think about that all the time.
-
-935
-01:50:55,483 --> 01:50:57,402
-How I tossed you that bread.
-
-936
-01:50:57,484 --> 01:50:59,154
-- Peeta...
-- I should have gone to you.
-
-937
-01:50:59,237 --> 01:51:01,447
-I should have just gone
-out in the rain and...
-
-938
-01:51:04,576 --> 01:51:06,034
-You feel hot.
-
-939
-01:51:08,662 --> 01:51:10,707
-I remember the first time I saw you.
-
-940
-01:51:11,957 --> 01:51:13,877
-Your hair was in two
-braids instead of one.
-
-941
-01:51:15,420 --> 01:51:18,463
-And I remember when you
-sang in the music assembly.
-
-942
-01:51:18,547 --> 01:51:20,925
-<i>The teacher said, "Who
-knows The Valley Song?”."</i>
-
-943
-01:51:21,009 --> 01:51:23,136
-And your hand shot straight up.
-
-944
-01:51:23,219 --> 01:51:24,304
-Stop.
-
-945
-01:51:24,554 --> 01:51:28,390
-After that, I watched you
-going home every day.
-
-946
-01:51:31,394 --> 01:51:32,729
-Every day-
-
-947
-01:51:40,569 --> 01:51:42,404
-Well, say something.
-
-948
-01:51:45,490 --> 01:51:47,911
-I'm not good at saying something.
-
-949
-01:51:49,828 --> 01:51:51,206
-Then come here.
-
-950
-01:51:52,873 --> 01:51:54,082
-Please.
-
-951
-01:52:06,304 --> 01:52:08,180
-- Even if I don't make it...
-- Shh.
-
-952
-01:52:09,097 --> 01:52:10,182
-Stop it.
-
-953
-01:52:16,439 --> 01:52:18,524
-<i>Attention, Tributes. Attention.</i>
-
-954
-01:52:19,274 --> 01:52:22,194
-<i>Commencing at sunrise, there
-will be a feast tomorrow</i>
-
-955
-01:52:22,278 --> 01:52:23,863
-<i>at the Cornucopia.</i>
-
-956
-01:52:23,947 --> 01:52:27,033
-<i>This will be no
-ordinary occasion.</i>
-
-957
-01:52:27,115 --> 01:52:30,869
-<i>Each of you needs
-something desperately.</i>
-
-958
-01:52:30,953 --> 01:52:34,916
-<i>And we plan to be
-generous hosts.</i>
-
-959
-01:52:34,998 --> 01:52:36,542
-Your medicine.
-
-960
-01:52:36,626 --> 01:52:37,627
-You're not going alone.
-
-961
-01:52:37,793 --> 01:52:39,878
-Yeah? You need it,
-and you can't walk.
-
-962
-01:52:39,962 --> 01:52:42,715
-Katniss, you're not gonna risk
-your life for me. I'm not gonna let you.
-
-963
-01:52:42,798 --> 01:52:45,801
-You would do it for me.
-Wouldn't you?
-
-964
-01:52:47,761 --> 01:52:49,471
-Why are you doing this?
-
-965
-01:53:07,990 --> 01:53:10,243
-Now there's no way
-I'm letting you go.
-
-966
-01:53:10,326 --> 01:53:11,327
-Peeta...
-
-967
-01:53:11,411 --> 01:53:12,619
-Please.
-
-968
-01:53:13,537 --> 01:53:14,622
-Stay.
-
-969
-01:53:19,752 --> 01:53:20,877
-Okay.
-
-970
-01:53:22,337 --> 01:53:23,672
-I'll stay.
-
-971
-01:54:52,761 --> 01:54:54,096
-Oh, God!
-
-972
-01:55:25,461 --> 01:55:27,130
-Where's lover boy?
-
-973
-01:55:29,798 --> 01:55:33,636
-Oh, I see. You were
-gonna help him, right?
-
-974
-01:55:34,302 --> 01:55:38,890
-Well, that's sweet. You know, it's too bad
-that you couldn't help your little friend.
-
-975
-01:55:39,475 --> 01:55:41,810
-That little girl?
-What was her name again?
-
-976
-01:55:42,686 --> 01:55:43,770
-Rue?
-
-977
-01:55:46,399 --> 01:55:48,443
-Yeah, well, we killed her.
-
-978
-01:55:49,152 --> 01:55:52,195
-And now we're gonna kill you.
-
-979
-01:55:58,161 --> 01:55:59,453
-You kill her?
-
-980
-01:55:59,537 --> 01:56:00,746
-- No!
-- I heard you!
-
-981
-01:56:00,829 --> 01:56:02,747
-- Cato! Cato!
-- You said her name!
-
-982
-01:56:02,832 --> 01:56:04,082
-You said her name!
-
-983
-01:56:14,844 --> 01:56:16,011
-Just this time, 12.
-
-984
-01:56:17,180 --> 01:56:18,221
-For Rue.
-
-985
-01:56:34,529 --> 01:56:37,867
-Peeta, I got it.
-I got the medicine.
-
-986
-01:56:38,158 --> 01:56:39,618
-- What happened to you?
-- I'm fine.
-
-987
-01:56:39,702 --> 01:56:41,119
-No, you're not. What happened?
-
-988
-01:56:41,328 --> 01:56:43,622
-The girl from 2, she threw a knife.
-I'm okay.
-
-989
-01:56:43,706 --> 01:56:45,457
-You shouldn't have gone.
-You said you weren't gonna go.
-
-990
-01:56:45,541 --> 01:56:47,042
-You got worse.
-
-991
-01:56:51,213 --> 01:56:52,215
-I'm sorry.
-
-992
-01:56:53,757 --> 01:56:55,301
-You need some of that, too.
-
-993
-01:56:55,635 --> 01:56:56,886
-I'm okay.
-
-994
-01:56:59,889 --> 01:57:01,556
-That feels better.
-
-995
-01:57:03,184 --> 01:57:05,310
-Okay. Now you.
-
-996
-01:57:05,603 --> 01:57:08,230
-- I'm okay.
-- No, come on, you need it, too.
-
-997
-01:57:08,314 --> 01:57:09,689
-Come on.
-
-998
-01:57:09,774 --> 01:57:11,067
-All right.
-
-999
-01:58:10,585 --> 01:58:11,586
-Hi.
-
-1000
-01:58:13,087 --> 01:58:15,715
-Oh. You're so much better.
-
-1001
-01:58:18,509 --> 01:58:19,844
-Oh, my God, Peeta.
-
-1002
-01:58:20,970 --> 01:58:22,762
-I hardly feel anything.
-
-1003
-01:58:23,972 --> 01:58:25,682
-We could go home.
-
-1004
-01:58:26,600 --> 01:58:29,103
-We could. We're the
-only team left.
-
-1005
-01:58:29,729 --> 01:58:31,354
-We could go home.
-
-1006
-01:58:36,152 --> 01:58:37,819
-We know Thresh took off.
-
-1007
-01:58:37,903 --> 01:58:39,697
-Cato's gonna be by
-the Cornucopia.
-
-1008
-01:58:39,779 --> 01:58:41,823
-He's not gonna go someplace
-he doesn't know.
-
-1009
-01:58:41,907 --> 01:58:44,327
-Foxface, she could be anywhere.
-
-1010
-01:58:47,037 --> 01:58:50,248
-We should probably hunt around here.
-We don't have any food left.
-
-1011
-01:58:50,332 --> 01:58:51,958
-Okay, I'll take the bow.
-
-1012
-01:58:54,002 --> 01:58:56,505
-I'm just kidding.
-I'll go pick some stuff.
-
-1013
-01:59:14,731 --> 01:59:15,899
-Peeta?
-
-1014
-01:59:20,445 --> 01:59:21,572
-Peeta?
-
-1015
-01:59:24,658 --> 01:59:25,826
-Peeta!
-
-1016
-01:59:27,036 --> 01:59:28,078
-Peeta!
-
-1017
-01:59:28,162 --> 01:59:29,287
-Are you okay?
-
-1018
-01:59:29,372 --> 01:59:31,164
-- I heard the Cannon. I thought...
-- No.
-
-1019
-01:59:31,247 --> 01:59:34,460
-That's Nightlock, Peeta!
-You'd be dead in a minute!
-
-1020
-01:59:34,542 --> 01:59:35,670
-I didn't know.
-
-1021
-01:59:35,752 --> 01:59:38,088
-You scared me to death.
-Damn you.
-
-1022
-01:59:38,922 --> 01:59:40,256
-I'm sorry.
-
-1023
-01:59:41,676 --> 01:59:43,051
-I'm sorry.
-
-1024
-01:59:51,143 --> 01:59:53,311
-I never even knew
-she was following me.
-
-1025
-01:59:53,395 --> 01:59:54,896
-She's clever.
-
-1026
-01:59:55,146 --> 01:59:56,524
-Too clever.
-
-1027
-01:59:57,858 --> 02:00:01,028
-- What are you doing?
-- Maybe Cato likes berries, too.
-
-1028
-02:00:07,118 --> 02:00:08,618
-What time is it?
-
-1029
-02:00:08,703 --> 02:00:10,121
-A little after noon.
-
-1030
-02:00:10,203 --> 02:00:11,287
-Why is it getting so dark?
-
-1031
-02:00:11,413 --> 02:00:13,039
-Must be in a hurry to end it.
-
-1032
-02:00:16,460 --> 02:00:19,003
-- You ready, Lucia?
-- Right here, sir.
-
-1033
-02:00:20,381 --> 02:00:22,091
-Well, that's great.
-
-1034
-02:00:22,591 --> 02:00:23,967
-- Now can you put that in the middle?
-- Sure.
-
-1035
-02:00:33,144 --> 02:00:36,689
-That's it.
-That's excellent.
-
-1036
-02:00:48,408 --> 02:00:50,077
-Did you hear that?
-
-1037
-02:01:22,400 --> 02:01:23,652
-What was that?
-
-1038
-02:01:24,779 --> 02:01:26,447
-It's the finale.
-
-1039
-02:01:41,837 --> 02:01:42,837
-Let's go.
-
-1040
-02:02:51,907 --> 02:02:52,908
-Go.
-
-1041
-02:03:10,134 --> 02:03:11,135
-Katniss!
-
-1042
-02:03:36,659 --> 02:03:37,912
-Here!
-
-1043
-02:04:50,734 --> 02:04:53,194
-Go on. Shoot.
-
-1044
-02:04:55,655 --> 02:04:57,865
-Then we both go
-down and you'd win.
-
-1045
-02:05:01,203 --> 02:05:05,623
-Go on. I'm dead anyway.
-
-1046
-02:05:10,628 --> 02:05:12,381
-I always was, right?
-
-1047
-02:05:14,800 --> 02:05:16,844
-I didn't know that till now.
-
-1048
-02:05:20,180 --> 02:05:22,515
-How is that? Is that
-what they want? Huh?
-
-1049
-02:05:24,643 --> 02:05:26,645
-- No.
-- No, no.
-
-1050
-02:05:28,354 --> 02:05:29,731
-I could still do this.
-
-1051
-02:05:31,233 --> 02:05:33,109
-I could still do this.
-
-1052
-02:05:34,069 --> 02:05:35,945
-One more kill.
-
-1053
-02:05:38,198 --> 02:05:40,743
-It's the only thing
-I know how to do.
-
-1054
-02:05:41,076 --> 02:05:43,287
-Bring pride to my district.
-
-1055
-02:05:46,957 --> 02:05:48,751
-Not that it matters.
-
-1056
-02:06:05,266 --> 02:06:06,435
-Please!
-
-1057
-02:06:08,186 --> 02:06:09,188
+00:28:23,328 --> 00:28:25,286
 No!
 
-1058
-02:06:15,944 --> 02:06:16,944
-Please!
+244
+00:28:25,622 --> 00:28:27,200
+No!
 
-1059
-02:07:04,493 --> 02:07:06,994
-<i>Attention. Attention, Tributes.</i>
+245
+00:28:27,540 --> 00:28:32,369
+... the snow storm is still escalating,
+and the temperature is falling fast.
 
-1060
-02:07:07,162 --> 02:07:10,582
-<i>There has been a
-slight rule change.</i>
+246
+00:28:32,545 --> 00:28:36,543
+Our friends in the weather department
+are forecasting record-breaking cold, -
 
-1061
-02:07:10,707 --> 02:07:12,583
-<i>The previous revision,</i>
+247
+00:28:36,715 --> 00:28:40,630
+so it's a good idea to stay indoors,
+especially for the elderly.
 
-1062
-02:07:12,667 --> 02:07:15,921
-<i>allowing for two Victors
-from the same district,</i>
+248
+00:28:40,802 --> 00:28:44,468
+The authorities are warning of
+possible blackouts, so take extra care.
 
-1063
-02:07:16,003 --> 02:07:18,047
-<i>has been revoked.</i>
+249
+00:28:44,639 --> 00:28:47,557
+Maybe get yourself
+some batteries and candles -
 
-1064
-02:07:19,216 --> 02:07:23,345
-<i>Only one Victor may be crowned.
-Good luck.</i>
+250
+00:28:47,725 --> 00:28:50,477
+and keep an eye on for your elders.
 
-1065
-02:07:24,512 --> 02:07:27,515
-<i>And may the odds be
-ever in your favor.</i>
+251
+00:28:53,813 --> 00:28:56,981
+Hello.
 
-1066
-02:07:42,280 --> 02:07:43,532
-Go ahead.
+252
+00:29:01,778 --> 00:29:05,148
+Well, well, look at you!
 
-1067
-02:07:47,618 --> 02:07:49,496
-One of us should go home.
+253
+00:29:06,283 --> 00:29:09,782
+You're beautiful!
+- Ann...
 
-1068
-02:07:50,329 --> 02:07:53,708
-One of us has to die.
-They have to have their Victor.
+254
+00:29:09,952 --> 00:29:13,369
+Of course.
+How did you get in here?
 
-1069
-02:07:54,292 --> 02:07:55,377
+255
+00:29:13,707 --> 00:29:17,157
+It's a magic trick.
+I can't reveal the secret, -
+
+256
+00:29:17,334 --> 00:29:20,786
+but it involved a brick.
+
+257
+00:29:20,962 --> 00:29:23,454
+Well, it's nice to see you.
+
+258
+00:29:23,631 --> 00:29:27,843
+What happened to
+"you destroyed my life, you old bitch"?
+
+259
+00:29:28,011 --> 00:29:31,924
+Nobody destroyed my life.
+You people just did what you wanted.
+
+260
+00:29:32,096 --> 00:29:36,178
+Everyone for themselves, right?
+- That's unfair.
+
+261
+00:29:37,393 --> 00:29:41,143
+It wasn't like that.
+- Really? What was it like?
+
+262
+00:29:41,314 --> 00:29:44,481
+Because the band, and the tours,
+and the money -
+
+263
+00:29:44,650 --> 00:29:46,478
+and all that stupid crap...
+
+264
+00:29:46,652 --> 00:29:49,191
+That seemed more important
+to my dad -
+
+265
+00:29:49,363 --> 00:29:52,280
+than anything that had to do
+with me or my mom.
+
+266
+00:29:52,448 --> 00:29:55,367
+And even when he was home,
+he was never here.
+
+267
+00:29:55,535 --> 00:29:58,572
+He was always lost
+inside his own mind.
+
+268
+00:30:00,580 --> 00:30:02,954
+Anyway I don't care.
+
+269
+00:30:03,125 --> 00:30:06,494
+You may have unresolved issues
+with Tom. I don't.
+
+270
+00:30:06,669 --> 00:30:10,002
+Oooh, yeah.
+I can see that.
+
+271
+00:30:10,755 --> 00:30:14,801
+Well, it's not like I've ever
+been a part of his life, so...
+
+272
+00:30:14,968 --> 00:30:18,918
+You were always the most
+important part of his life.
+
+273
+00:30:22,558 --> 00:30:26,010
+There. That's better.
+
+274
+00:30:29,606 --> 00:30:33,651
+I don't know why he had to
+put the bad ones up too.
+
+275
+00:30:34,652 --> 00:30:38,104
+He just could never let go.
+
+276
+00:30:44,661 --> 00:30:46,737
+How cute!
+
+277
+00:30:47,413 --> 00:30:50,865
+You used to be a happy kid.
+
+278
+00:30:51,041 --> 00:30:54,577
+I used to be.
+All thanks to him.
+
+279
+00:30:56,671 --> 00:31:01,049
+All he ever wanted was...
+was to forget everything.
+
+280
+00:31:01,551 --> 00:31:04,921
+And move on with you.
+
+281
+00:31:05,095 --> 00:31:08,298
+Of course, it didn't work out.
+
+282
+00:31:10,350 --> 00:31:13,885
+You know, Ann,
+it was a long time ago...
+
+283
+00:31:14,729 --> 00:31:17,137
+You really should just let it go.
+
+284
+00:31:17,314 --> 00:31:21,444
+When you get old enough,
+you don't fear death anymore.
+
+285
+00:31:21,609 --> 00:31:25,061
+You wait for it.
+And after a while, you hope for it -
+
+286
+00:31:25,238 --> 00:31:28,440
+even if you don't admit it.
+Do you know why?
+
+287
+00:31:28,617 --> 00:31:33,859
+Because losing your mind before
+you go is worse than dying.
+
+288
+00:31:35,121 --> 00:31:40,164
+You hope you'll check out before
+your brain turns to some mush.
+
+289
+00:31:41,878 --> 00:31:44,833
+Yeah, well,
+you still seem pretty sharp.
+
+290
+00:31:45,005 --> 00:31:48,126
+I'm talking about your father.
+
+291
+00:31:49,468 --> 00:31:53,003
+He's in a dark place right now.
+
+292
+00:31:53,930 --> 00:31:58,343
+Doesn't it bother you
+not knowing how he remembers you?
+
+293
+00:31:58,518 --> 00:32:01,009
 No.
+I think it bothers you more.
 
-1070
-02:07:56,587 --> 02:07:58,005
-They don't.
+294
+00:32:01,187 --> 00:32:04,722
+If he remembers me at all,
+it's as something that was broken -
 
-1071
-02:07:59,840 --> 02:08:01,048
-Why should they?
+295
+00:32:04,898 --> 00:32:07,223
+and then put back together.
 
-1072
-02:08:02,176 --> 02:08:03,886
+296
+00:32:07,400 --> 00:32:10,318
+And he was never
+really good at fixing things.
+
+297
+00:32:10,486 --> 00:32:13,441
+He did the best he could.
+
+298
+00:32:14,698 --> 00:32:16,775
+I'm tired.
+
+299
+00:32:22,914 --> 00:32:26,330
+You oughta be
+more careful, buddy.
+
+300
+00:32:26,500 --> 00:32:30,285
+Or else you're going to turn this
+into a nightmare -No!
+
+301
+00:32:30,462 --> 00:32:33,796
+You're hurting me!
+- You know I would never do that!
+
+302
+00:32:33,965 --> 00:32:37,417
+I want what's best for you.
+
+303
+00:33:15,751 --> 00:33:19,003
+Oh, now this is the real deal.
+
+304
+00:33:19,547 --> 00:33:22,549
+Hey buddy!
+What are you doing over there?
+
+305
+00:33:22,717 --> 00:33:25,124
+Come here. They're starting.
+
+306
+00:33:31,265 --> 00:33:35,097
+Sorry! Now I get it.
+You're part of the act.
+
+307
+00:33:35,268 --> 00:33:38,104
+Oh, I gotta see this.
+
+308
+00:33:46,987 --> 00:33:50,571
+Once upon a time -
+
+309
+00:33:50,741 --> 00:33:52,818
+in a daymare
+
+310
+00:33:52,992 --> 00:33:56,114
+Dying to meet you, little child
+
+311
+00:33:56,371 --> 00:33:58,363
+Enter, enter this sideshow
+
+312
+00:33:58,581 --> 00:34:04,287
+Time for bed the cradle still rocks
+
+313
+00:34:04,461 --> 00:34:07,663
+13 chimes on a dead man's clock
+
+314
+00:34:07,839 --> 00:34:10,248
+Tick-tock, tick-tock, tick-tock
+
+315
+00:34:14,428 --> 00:34:16,505
+Daddy!
+
+316
+00:34:21,560 --> 00:34:27,266
+The bride will lure you,
+cook you, eat you
+
+317
+00:34:27,440 --> 00:34:33,146
+Your dear innocence boiled to
+feed the evil in need of fear
+
+318
+00:34:33,403 --> 00:34:38,741
+Burning farms and squealing pigs
+
+319
+00:34:39,075 --> 00:34:43,369
+A pool of snakes to swim with,
+oh sweet poison
+
+320
+00:34:43,537 --> 00:34:46,408
+Bite me, bite me
+
+321
+00:35:08,184 --> 00:35:11,270
+Ladies and gentlemen!
+
+322
+00:35:11,895 --> 00:35:15,265
+Be heartlessly welcome -
+
+323
+00:35:15,774 --> 00:35:20,401
+to Cirque De Morgue!
+
+324
+00:35:21,362 --> 00:35:26,273
+And what a show we have
+for you tonight!
+
+325
+00:35:29,494 --> 00:35:31,867
+Madam.
+
+326
+00:35:33,372 --> 00:35:36,291
+Mr Thomas Whitman!
+
+327
+00:35:39,420 --> 00:35:42,837
+A composer and a poet!
+
+328
+00:35:47,719 --> 00:35:50,590
+A bad, bad father.
+
+329
+00:35:50,847 --> 00:35:53,848
+With a bad, bad memory!
+
+330
+00:36:08,695 --> 00:36:10,903
+No, please, stop!
+
+331
+00:36:13,116 --> 00:36:15,359
+No!
+
+332
+00:36:16,284 --> 00:36:18,362
+No!
+
+333
+00:36:31,090 --> 00:36:34,625
+Restless souls
+will put on their dancing shoes
+
+334
+00:36:34,802 --> 00:36:38,337
+Mindless ghouls
+with lot of limbs to lose.
+
+335
+00:36:38,597 --> 00:36:43,840
+Illusionists, contortionist,
+Tightrope-walkers tightening the noose
+
+336
+00:36:45,352 --> 00:36:48,188
+Oh, look!
+This one's about your wife.
+
+337
+00:36:50,190 --> 00:36:53,441
+Just about nothing left of her, I see.
+
+338
+00:36:58,864 --> 00:37:02,115
+Hardly.
+Worth the effort.
+
+339
+00:37:23,511 --> 00:37:28,054
+Memories. It's not like
+you have any real use for them.
+
+340
+00:37:34,730 --> 00:37:40,020
+We all lose parts of ourselves
+bit by bit -
+
+341
+00:37:40,192 --> 00:37:42,862
+by bit
+
+342
+00:38:02,921 --> 00:38:05,128
+What?
+
+343
+00:38:05,839 --> 00:38:09,423
+What the hell?
+That's not how it turns out!
+
+344
+00:38:26,400 --> 00:38:29,520
+Stop! That's all wrong!
+Don't change it!
+
+345
+00:38:35,533 --> 00:38:37,989
+You're wrecking it!
+
+346
+00:38:51,130 --> 00:38:55,044
+Thomas.
+- Yes, sir. -Nothing.
+
+347
+00:43:22,451 --> 00:43:25,157
+Goddammit!
+
+348
+00:43:41,593 --> 00:43:45,674
+How many digits
+do these things usually have?
+
+349
+00:43:45,972 --> 00:43:48,131
+I don't know.
+
+350
+00:43:48,308 --> 00:43:51,808
+Just don't try to break it.
+It won't work.
+
+351
+00:43:52,228 --> 00:43:56,307
+We need to get this stupid thing open.
+
+352
+00:43:57,191 --> 00:43:59,516
+Why, Ann?
+
+353
+00:43:59,693 --> 00:44:03,738
+Cause when Tom locks
+something away, it's important.
+
+354
+00:44:04,280 --> 00:44:08,029
+Well, he didn't have any money.
+You guys pissed all of it away.
+
+355
+00:44:08,200 --> 00:44:11,237
+A little bitter, are we?
+
+356
+00:44:11,411 --> 00:44:15,872
+About having to pay for his care,
+actually, yes, I am.
+
+357
+00:44:17,458 --> 00:44:19,701
+You did a good thing.
+
+358
+00:44:19,877 --> 00:44:24,504
+You let him stay here, at home,
+with his memories.
+
+359
+00:44:24,673 --> 00:44:27,840
+Not so bad for somebody
+who doesn't care about her father.
+
+360
+00:44:28,009 --> 00:44:30,501
+What were my options?
+
+361
+00:44:30,720 --> 00:44:34,932
+It was either that or have every
+goddamn family friend drown me in guilt.
+
+362
+00:44:35,098 --> 00:44:37,306
+Nonsense.
+
+363
+00:44:37,476 --> 00:44:41,391
+This family has been out of friends
+for at least a decade, sweetheart.
+
+364
+00:44:41,563 --> 00:44:46,391
+I wonder why. What with Tom being
+so famous for caring about people...
+
+365
+00:44:48,110 --> 00:44:50,684
+I keep telling you.
+
+366
+00:44:50,863 --> 00:44:53,818
+He cared.
+
+367
+00:45:08,544 --> 00:45:12,045
+Another magic trick!
+
+368
+00:45:12,215 --> 00:45:15,915
+He picks something that he knew
+he would never forget.
+
+369
+00:45:16,092 --> 00:45:18,501
+What a cliche!
+
+370
+00:45:21,932 --> 00:45:24,305
+What's in there?
+
+371
+00:45:39,531 --> 00:45:43,363
+"but all I am
+is smoke and mirrors"
+
+372
+00:45:49,915 --> 00:45:52,702
+It's about him.
+
+373
+00:45:52,875 --> 00:45:55,035
+There's a shock!
+
+374
+00:46:15,520 --> 00:46:18,522
+"Miracles come in small packages"
+
+375
+00:46:18,690 --> 00:46:23,850
+"It takes so little to turn a child into
+the most fortunate being in the world"
+
+376
+00:47:32,672 --> 00:47:34,664
+No! Stop!
+
+377
+00:47:40,135 --> 00:47:42,094
+Leave me alone!
+I hate you!
+
+378
+00:47:42,263 --> 00:47:44,671
+Wait!
+Who are you?
+
+379
+00:48:17,336 --> 00:48:19,412
+Wait!
+
+380
+00:49:04,084 --> 00:49:07,953
+So. Satisfied now, are we?
+
+381
+00:49:08,131 --> 00:49:12,210
+Yes. Because this...
+this is what I grew up with.
+
+382
+00:49:12,718 --> 00:49:15,885
+Scattered pages,
+songs, words of wisdom.
+
+383
+00:49:16,054 --> 00:49:19,221
+Fairy tales all around me.
+
+384
+00:49:19,389 --> 00:49:23,056
+You see that thing?
+His precious arabesque?
+
+385
+00:49:23,227 --> 00:49:27,224
+His princess. He said the dancer
+inside would spin -
+
+386
+00:49:27,396 --> 00:49:30,766
+if I managed to play the chords right
+when I was learning the piano.
+
+387
+00:49:30,942 --> 00:49:32,734
+Look, Gem...
 - No!
-- Trust me.
 
-1073
-02:08:04,886 --> 02:08:06,137
-Trust me.
+388
+00:49:32,902 --> 00:49:36,353
+His idea of raising me was to feed
+me these endless pipe dreams -
 
-1074
-02:08:25,032 --> 02:08:26,449
-Together?
+389
+00:49:36,530 --> 00:49:38,440
+and weird monologues.
 
-1075
-02:08:27,993 --> 02:08:29,243
-Together.
+390
+00:49:38,616 --> 00:49:40,692
+Because everything
+was a performance to him.
 
-1076
-02:08:30,494 --> 02:08:31,579
-Okay.
+391
+00:49:40,866 --> 00:49:43,988
+And he did the same thing
+to my mom. Strung her along.
 
-1077
-02:08:32,663 --> 02:08:33,832
-One...
+392
+00:49:44,161 --> 00:49:47,994
+Kept making and breaking promises.
+And she always believed him!
 
-1078
-02:08:36,083 --> 02:08:37,336
-Two...
+393
+00:49:48,164 --> 00:49:51,084
+Always!
+And he always disappointed her!
 
-1079
-02:08:43,425 --> 02:08:44,635
-Three.
+394
+00:49:51,252 --> 00:49:53,921
+Because you, you came first!
 
-1080
-02:08:46,302 --> 02:08:47,554
-<i>Stop!</i>
+395
+00:49:54,087 --> 00:49:58,251
+And then, she ended up dead
+because of you.
 
-1081
-02:08:48,346 --> 02:08:49,597
-<i>Stop!</i>
+396
+00:50:01,135 --> 00:50:04,006
+I hope it was worth it.
 
-1082
-02:08:53,060 --> 02:08:56,604
-<i>Ladies and gentlemen, may
-I present the winners</i>
+397
+00:50:06,472 --> 00:50:09,095
+Ouch! Shit!
 
-1083
-02:08:57,480 --> 02:09:00,274
-<i>of the 74th Annual Hunger Games.</i>
+398
+00:50:11,311 --> 00:50:14,348
+Bonjour, mon general!
 
-1084
-02:09:27,386 --> 02:09:29,304
-<i>They're not happy with you.</i>
+399
+00:50:14,855 --> 00:50:20,479
+This. This is how small I was
+in his magical, musical world.
 
-1085
-02:09:29,971 --> 02:09:32,015
-Why? Because I didn't die?
+400
+00:50:21,027 --> 00:50:25,191
+D'you know he'd written songs
+for everyone around him?
 
-1086
-02:09:32,474 --> 02:09:34,268
-Because you showed them up.
+401
+00:50:25,740 --> 00:50:28,066
+Maybe even for this little bastard here.
 
-1087
-02:09:35,143 --> 02:09:37,938
-Well, I'm sorry it
-didn't go the way they planned.
+402
+00:50:28,242 --> 00:50:32,787
+But never...
+never for my mom or me.
 
-1088
-02:09:38,020 --> 02:09:40,231
-- I'm not very happy with them either.
-- Katniss!
+403
+00:51:04,316 --> 00:51:08,813
+Un, deux, trois, quatre!
 
-1089
-02:09:40,856 --> 02:09:43,985
-This is serious.
-Not just for you.
+404
+00:51:10,362 --> 00:51:14,408
+Bonjour, mon general!
+You were fortunate to find your way.
 
-1090
-02:09:44,403 --> 02:09:46,529
-They don't take these
-things lightly.
+405
+00:51:15,034 --> 00:51:18,319
+What's happening?
+Where am I?
 
-1091
-02:10:38,414 --> 02:10:40,751
-When they ask, you say
-you couldn't help yourself.
+406
+00:51:18,494 --> 00:51:21,117
+Why the battlefield, Sir.
 
-1092
-02:10:40,833 --> 02:10:43,211
-You were so in
-love with this boy
+407
+00:51:21,289 --> 00:51:24,659
+You've fought in this room
+for many years. Ha!
 
-1093
-02:10:43,295 --> 02:10:47,381
-that the thought of not being
-with him was unthinkable.
+408
+00:51:24,833 --> 00:51:28,832
+I'm ashamed that I wounded you
+so grievously. And for nothing.
 
-1094
-02:10:47,548 --> 02:10:51,761
-You'd rather die than not be with him.
-You understand?
+409
+00:51:29,004 --> 00:51:32,872
+I don't know what you mean.
+- Please, Sir, don't spare my feelings.
 
-1095
-02:10:52,261 --> 02:10:56,725
-How did you feel when
-you found him by that river?
+410
+00:51:33,049 --> 00:51:37,878
+It was a mighty blow I struck.
+I can only beg for your forgiveness.
 
-1096
-02:11:01,395 --> 02:11:03,648
-I felt like the happiest
-person in the world.
+411
+00:51:38,888 --> 00:51:43,217
+I stepped on you.
+- Tut-tut! I ambushed you.
 
-1097
-02:11:07,778 --> 02:11:10,322
-I couldn't imagine
-life without him.
+412
+00:51:43,392 --> 00:51:46,263
+But, Sir, my motives were pure.
 
-1098
-02:11:10,613 --> 02:11:11,655
-Oh.
+413
+00:51:46,435 --> 00:51:51,478
+It was a brave attempt to stop you
+from going with the accursed snowman.
 
-1099
-02:11:16,994 --> 02:11:18,622
-And what about you, Peeta?
+414
+00:51:51,649 --> 00:51:54,057
+That evil pig!
 
-1100
-02:11:19,747 --> 02:11:21,457
-She saved my life.
+415
+00:51:55,611 --> 00:51:58,860
+It's the memories, Sir.
 
-1101
-02:11:21,541 --> 02:11:22,583
-We saved each other.
+416
+00:51:59,030 --> 00:52:03,823
+He takes them!
+Takes you further in the darkness.
 
-1102
-02:11:24,336 --> 02:11:28,840
-Ladies and gentlemen, the
-star-crossed lovers from District 12,
+417
+00:52:06,370 --> 00:52:10,238
+But why?
+- You got old!
 
-1103
-02:11:28,923 --> 02:11:34,554
-this year's Victors of the
-74th Annual Hunger Games!
+418
+00:52:10,540 --> 00:52:15,333
+Still, you've got the best of him...
+at least for now.
 
-1104
-02:11:51,195 --> 02:11:52,697
+419
+00:52:15,670 --> 00:52:18,458
+The best memories hurt him.
+
+420
+00:52:18,632 --> 00:52:22,001
+You've chased the very best one.
+
+421
+00:52:23,218 --> 00:52:27,466
+That girl...
+- Yes! Your daughter!
+
+422
+00:52:28,806 --> 00:52:33,351
+What a girl! What a memory!
+Ah, c'est magnifique!
+
+423
+00:52:33,520 --> 00:52:37,813
+You remember best through the things
+you both shared as children.
+
+424
+00:52:37,981 --> 00:52:42,394
+Like myself or
+the pretty mademoiselle -
+
+425
+00:52:42,568 --> 00:52:44,977
+within the glass bubble.
+
+426
+00:52:45,154 --> 00:52:48,986
+Hm, yes You loved us well
+and so did your daughter.
+
+427
+00:52:49,991 --> 00:52:52,947
+I don't remember her
+- Ah, well...
+
+428
+00:52:53,120 --> 00:52:56,987
+There's nothing to be done then
+C'est la vie!
+
+429
+00:52:57,164 --> 00:52:59,739
+This is as far as we go.
+
+430
+00:53:01,294 --> 00:53:03,867
+No. -Sir
+
+431
+00:53:08,090 --> 00:53:10,167
+I need your help.
+
+432
+00:53:10,384 --> 00:53:14,217
+I need to remember her.
+
+433
+00:53:15,014 --> 00:53:17,553
+I need to find her!
+
+434
+00:53:18,641 --> 00:53:21,643
+Comrades!
+
+435
+00:53:27,025 --> 00:53:30,773
+En avant! Marche!
+
+436
+00:53:40,995 --> 00:53:44,245
+You still have memories
+that were precious to you.
+
+437
+00:53:44,414 --> 00:53:48,283
+You hid them. We know where
+It's not too far.
+
+438
+00:53:48,460 --> 00:53:51,497
+I don't think I have many left.
+- Oh, no.
+
+439
+00:53:51,671 --> 00:53:54,245
+I don't even know
+who am I anymore.
+
+440
+00:53:54,422 --> 00:53:56,417
+We all take wounds, Sir.
+
+441
+00:53:56,592 --> 00:53:59,214
+I'm sorry about that.
+- Don't be, Sir.
+
+442
+00:53:59,386 --> 00:54:02,222
+I'm a mere soldier.
+Just a casualty of war.
+
+443
+00:54:02,472 --> 00:54:06,422
+You could have disposed of us
+Instead, you handed us on, -
+
+444
+00:54:06,601 --> 00:54:09,851
+and you told your daughter
+how important we were.
+
+445
+00:54:10,020 --> 00:54:13,141
+Hourra! Hourra!
+
+446
+00:54:34,291 --> 00:54:37,661
+We have to hurry, Sir.
+
+447
+00:54:38,837 --> 00:54:41,460
+The night your mother
+had the accident...
+
+448
+00:54:41,632 --> 00:54:45,465
+If Tom had gotten home earlier,
+things might have been different.
+
+449
+00:54:45,636 --> 00:54:48,803
+He was with you, Ann!
+- It's not what you think.
+
+450
+00:54:50,139 --> 00:54:54,089
+Back then,
+my life was out of control.
+
+451
+00:54:54,268 --> 00:54:57,435
+Things were crazy,
+with the band, with everything.
+
+452
+00:54:57,603 --> 00:55:00,391
+It got too much for me.
+
+453
+00:55:00,898 --> 00:55:04,481
+I took some pills. But I didn't
+take enough, because I woke up.
+
+454
+00:55:04,651 --> 00:55:09,694
+And then, when I did, Tom was there.
+I didn't plan it that way.
+
+455
+00:55:10,282 --> 00:55:14,067
+I don't want to hear this.
+- He stayed with me.
+
+456
+00:55:14,910 --> 00:55:18,660
+But he would not look at me,
+not after what I had done.
+
+457
+00:55:18,831 --> 00:55:22,995
+I bet that little stunt really screwed
+with your precious band.
+
+458
+00:55:23,168 --> 00:55:26,585
+No, no.
+Yeah, it was the end of the band.
+
+459
+00:55:26,880 --> 00:55:31,626
+True, but no, you see,
+what I'd done was.
+
+460
+00:55:32,134 --> 00:55:36,596
+Ah, I don't know,
+too personal for him.
+
+461
+00:55:39,682 --> 00:55:43,017
+You don't know.
+- Know what?
+
+462
+00:55:43,186 --> 00:55:45,678
+Oh, Gem, honey.
+
+463
+00:55:45,855 --> 00:55:50,517
+You don't know that
+Tom's father killed himself?
+
+464
+00:55:50,691 --> 00:55:54,821
+Yeah Theodore Whitman shot
+himself in the head.
+
+465
+00:55:55,029 --> 00:55:58,778
+And Tom watched it happen.
+
+466
+00:56:00,117 --> 00:56:04,281
+What I did was hard on him.
+
+467
+00:56:04,871 --> 00:56:09,284
+And that night,
+your mother had the accident.
+
+468
+00:56:11,085 --> 00:56:14,205
+That's what broke up the band.
+
+469
+00:56:14,421 --> 00:56:19,380
+He didn't care but he knew
+he was going to lose you as well.
+
+470
+00:56:22,053 --> 00:56:24,177
+Why are you telling me this?
+
+471
+00:56:24,347 --> 00:56:27,846
+Because I don't think
+you know your father at all.
+
+472
+00:56:28,016 --> 00:56:32,063
+He worshipped Theodore
+in spite of his dark moods.
+
+473
+00:56:33,104 --> 00:56:37,020
+From what Tom told me,
+he could be really mean.
+
+474
+00:56:37,608 --> 00:56:42,816
+So, when Tom felt himself
+going down the same path, -
+
+475
+00:56:43,781 --> 00:56:46,402
+he pushed you away.
+
+476
+00:56:48,868 --> 00:56:52,818
+I know.
+He pushed very hard.
+
+477
+00:57:32,282 --> 00:57:35,865
+We have arrived, Sir.
+
+478
+00:57:54,343 --> 00:57:57,130
+I remember...
+
+479
+00:58:04,435 --> 00:58:08,682
+Yes, I locked them away!
+They're here!
+
+480
+00:58:09,647 --> 00:58:14,642
+May I say, Sir, it has been
+a pleasure to serve you and yours.
+
+481
+00:58:45,179 --> 00:58:47,800
+"Miracles come in small packages.
+
+482
+00:58:47,972 --> 00:58:52,885
+It takes so little to turn a child into
+the most fortunate being in the world"
+
+483
+00:58:53,310 --> 00:58:57,524
+"It wasn't much of a circus.
+It was cheap, shabby and rundown.
+
+484
+00:58:58,315 --> 00:59:01,566
+And she was enchanted
+by everything she saw, -
+
+485
+00:59:01,734 --> 00:59:03,977
+laughing and squeezing my hand.
+
+486
+00:59:04,153 --> 00:59:08,366
+The first time I felt like a father,
+watching her smile"
+
+487
+00:59:11,994 --> 00:59:14,830
+Why couldn't he just told me this?
+
+488
+00:59:14,997 --> 00:59:19,126
+He did tell you, in his way,
+the only way he knew.
+
+489
+00:59:19,458 --> 00:59:24,916
+Oh man, I was always hoping
+there might be something -
+
+490
+00:59:25,089 --> 00:59:28,423
+that would make it all worthwhile.
+
+491
+00:59:28,592 --> 00:59:32,128
+Not this nonsense.
+- Oh my God!
+
+492
+00:59:32,721 --> 00:59:36,766
+These aren't just scattered
+thoughts or feelings. Look!
+
+493
+00:59:41,645 --> 00:59:45,513
+Mon dieu! A l'attaque!
+
+494
+01:00:02,038 --> 01:00:05,491
+Some of this is complete,
+but the rest...
+
+495
+01:00:06,458 --> 01:00:09,875
+His words stop or just trail off.
+
+496
+01:00:11,130 --> 01:00:14,250
+Gaps, spaces...
+
+497
+01:00:27,977 --> 01:00:32,806
+"She's a true reflection of her mother,
+my broken missing love.
+
+498
+01:00:33,733 --> 01:00:37,566
+So small but as wise
+and as beautiful as she was.
+
+499
+01:00:40,197 --> 01:00:43,816
+I am proud with love.
+
+500
+01:00:43,991 --> 01:00:46,697
+Now I push her away"
+
+501
+01:00:46,869 --> 01:00:50,405
+"She must not share my darkness.
+
+502
+01:00:50,580 --> 01:00:54,709
+I hope she'll understand one day"
+
+503
+01:00:55,835 --> 01:01:00,296
+So this is where you stashed
+all the good stuff, huh?
+
+504
+01:01:01,882 --> 01:01:06,462
+What? This? I just took
+a bit of a beating, is all.
+
+505
+01:01:06,970 --> 01:01:09,639
+You should see your little friends.
+
+506
+01:01:09,806 --> 01:01:12,379
+I know what you've been up to.
 Congratulations.
 
-1105
-02:11:52,780 --> 02:11:54,115
-Thank you.
+507
+01:01:12,559 --> 01:01:14,219
+What did we learn, huh?
 
-1106
-02:11:59,954 --> 02:12:01,372
-What a lovely pin.
+508
+01:01:14,394 --> 01:01:17,146
+Your daddy had his fill of you,
+took his own life.
 
-1107
-02:12:01,456 --> 02:12:03,833
-Thank you.
-It's from my district.
+509
+01:01:17,312 --> 01:01:19,139
+The songbird tried the same trick.
 
-1108
-02:12:04,583 --> 02:12:06,877
-They must be very proud of you.
+510
+01:01:19,313 --> 01:01:21,308
+Then there's your little girl...
+She hates you.
 
-1109
-02:12:19,682 --> 02:12:22,101
-So what happens when we get back?
+511
+01:01:21,482 --> 01:01:23,275
+Nothing left if you ask me...
 
-1110
-02:12:23,478 --> 02:12:27,399
-I don't know.
-I guess we try to forget.
+512
+01:01:23,443 --> 01:01:25,769
+It seems like
+you don't have much left either.
 
-1111
-02:12:32,279 --> 02:12:34,155
-I don't want to forget.
+513
+01:01:25,945 --> 01:01:27,737
+I've got one thing:
+
+514
+01:01:28,281 --> 01:01:30,073
+Magic.
+
+515
+01:01:30,241 --> 01:01:34,453
+Light brings darkness.
+What sweet irony.
+
+516
+01:01:36,495 --> 01:01:39,830
+It's your world, your rules.
+
+517
+01:01:40,625 --> 01:01:44,409
+Now I wonder who dreamed that up.
+
+518
+01:01:48,048 --> 01:01:50,255
+And here it comes.
+
+519
+01:01:50,425 --> 01:01:54,091
+It's like watching
+your greatest fear come alive.
+
+520
+01:02:29,501 --> 01:02:35,255
+A crow flew to me,
+kept its distance
+
+521
+01:02:35,590 --> 01:02:40,003
+Such a proud creation
+
+522
+01:02:40,595 --> 01:02:45,257
+I saw its soul,
+envied its pride
+
+523
+01:02:45,431 --> 01:02:49,679
+But needed nothing it had.
+
+524
+01:02:49,852 --> 01:02:55,476
+An owl came to me, old and wise
+
+525
+01:02:55,982 --> 01:02:59,317
+Pierced right through my youth
+
+526
+01:03:00,694 --> 01:03:05,570
+I learned its ways,
+envied its sense
+
+527
+01:03:05,740 --> 01:03:10,118
+But needed nothing it had.
+
+528
+01:03:10,286 --> 01:03:15,578
+A dove came to me,
+had no fear
+
+529
+01:03:15,749 --> 01:03:20,045
+It rested on my arm
+
+530
+01:03:20,838 --> 01:03:25,713
+I touched its calm,
+envied its love
+
+531
+01:03:25,926 --> 01:03:30,968
+But needed nothing it had.
+
+532
+01:03:31,722 --> 01:03:36,597
+A swan of white,
+she came to me
+
+533
+01:03:36,767 --> 01:03:41,810
+The lake mirrored
+her beauty sweet
+
+534
+01:03:41,981 --> 01:03:46,774
+I kissed her neck,
+adored her grace
+
+535
+01:03:46,944 --> 01:03:52,235
+But needed nothing she could give.
+
+536
+01:03:54,742 --> 01:03:57,530
+Ann. Ann!
+
+537
+01:03:58,913 --> 01:04:01,286
+Look!
+
+538
+01:04:09,630 --> 01:04:12,632
+That's your dad for you.
+
+539
+01:04:14,176 --> 01:04:18,008
+Yeah, but just look at it.
+I mean, he did all this by hand.
+
+540
+01:04:18,179 --> 01:04:21,382
+There are spaces,
+things he didn't finish.
+
+541
+01:04:21,933 --> 01:04:25,136
+He started writing things down -
+
+542
+01:04:25,311 --> 01:04:29,227
+when he realized
+that he was losing his mind.
+
+543
+01:04:31,191 --> 01:04:34,311
+So where is the last page?
+
+544
+01:04:42,577 --> 01:04:45,115
+What was it?
+
+545
+01:04:52,585 --> 01:04:56,452
+All these fragments, memories...
+
+546
+01:04:56,923 --> 01:04:58,796
+It's his life.
+
+547
+01:04:58,965 --> 01:05:02,881
+Oh great.
+- Hold on, I'll check if it's a fuse.
+
+548
+01:05:14,437 --> 01:05:18,353
+Yep, it's the power:
+Of course, the phone's dead.
+
+549
+01:05:26,030 --> 01:05:28,737
+I'm going over there.
+
+550
+01:05:32,120 --> 01:05:35,405
+Oh! Goddammit.
+I can't call a cab.
+
+551
+01:05:35,581 --> 01:05:39,115
+Hey, I got a car.
+- Really? Let's go.
+
+552
+01:05:54,806 --> 01:05:57,345
+Sorry, old man.
+
+553
+01:05:57,517 --> 01:06:00,969
+Your daughter's
+not picking up her phone.
+
+554
+01:06:01,145 --> 01:06:03,305
+Must be the storm.
+
+555
+01:06:15,449 --> 01:06:19,365
+No!
+Not yet! I'm not finished!
+
+556
+01:06:55,777 --> 01:06:58,862
+It's nearly over now!
+
+557
+01:07:02,866 --> 01:07:05,902
+What are you gonna do,
+outmaneuver me?
+
+558
+01:07:06,078 --> 01:07:08,237
+You're on a track, you idiot!
+
+559
+01:07:08,412 --> 01:07:12,458
+I know what's down there,
+and you're not going to like it!
+
+560
+01:07:47,197 --> 01:07:49,605
+I won't let you do this!
+
+561
+01:07:55,662 --> 01:07:58,747
+You won't get that lucky again!
+
+562
+01:08:33,696 --> 01:08:36,318
+E minor!
+
+563
+01:08:36,490 --> 01:08:40,025
+I was right
+She did spin!
+
+564
+01:09:55,559 --> 01:09:59,225
+You hurry right in, I'll park the car.
+
+565
+01:10:00,147 --> 01:10:03,516
+Go! I'll be right with you!
+
+566
+01:10:27,212 --> 01:10:31,292
+I've got you now.
+I'm all the future you'll ever have.
+
+567
+01:10:31,466 --> 01:10:33,174
+Buddy!
+
+568
+01:10:33,342 --> 01:10:36,677
+No!
+You won't take my life from me again!
+
+569
+01:10:36,846 --> 01:10:40,512
+But I am gonna make
+what's left of it a living hell
+
+570
+01:10:40,683 --> 01:10:43,055
+But why?
+- Like you don't know.
+
+571
+01:10:43,226 --> 01:10:47,769
+All your music, all your hopes,
+they're just ruins and blank canvas now.
+
+572
+01:10:47,938 --> 01:10:51,308
+I'm all that you can bring to mind
+You tell me why!
+
+573
+01:10:51,483 --> 01:10:55,066
+I can't help it!
+- You always knew I was poison!
+
+574
+01:10:55,236 --> 01:10:58,155
+You could have chosen her
+if you'd cut me down to size.
+
+575
+01:10:58,323 --> 01:11:01,942
+But you built me stronger every year!
+- I had to!
+
+576
+01:11:02,118 --> 01:11:05,203
+I never wanted to lose
+the memory of you!
+
+577
+01:11:05,370 --> 01:11:08,787
+I've wiped you clean of useless
+dreams and memories, -
+
+578
+01:11:08,956 --> 01:11:11,495
+you weak little brat.
+- Dad, please!
+
+579
+01:11:11,667 --> 01:11:15,713
+I'll drag you down with me!
+You always knew I would:!
+
+580
+01:11:15,880 --> 01:11:18,882
+Dad! Stop!
+
+581
+01:11:28,557 --> 01:11:31,643
+I have to let you go.
+
+582
+01:11:52,078 --> 01:11:54,155
+Daddy.
+
+583
+01:11:54,831 --> 01:11:56,789
+Daddy.
+
+584
+01:12:41,163 --> 01:12:44,117
+Thanks for the ride.
+
+585
+01:13:49,640 --> 01:13:53,010
+Sleep tight, Princess.
+
+586
+01:14:29,258 --> 01:14:31,751
+I'm here.
+
+587
+01:14:34,846 --> 01:14:37,339
+I'm so sorry.
+
+588
+01:14:43,938 --> 01:14:46,810
+Daddy.
+
+589
+01:14:55,614 --> 01:14:58,533
+Is this what you want?
+
+590
+01:15:08,710 --> 01:15:11,118
+What?
+
+591
+01:15:28,894 --> 01:15:31,896
+Princess.
+
+592
+01:16:57,888 --> 01:17:01,673
+I'll hope to hear the chords
+played again one day.
+
+593
+01:17:05,061 --> 01:17:09,190
+Without them I'm lost
+in this nothingness.
+
+594
+01:17:11,401 --> 01:17:16,110
+Wandering after far off music
+through a desert of ashes.
+
+595
+01:17:19,741 --> 01:17:24,368
+If a tune had a colour it would be
+a mixture of pink and red
+
+596
+01:17:27,165 --> 01:17:30,581
+Constantly afraid of it fading away
+
+597
+01:17:30,751 --> 01:17:34,880
+Terrified of the silence that may come.
+
+598
+01:17:44,888 --> 01:17:49,930
+My final memories are pulling me
+towards the end of a black alley
+
+599
+01:17:51,394 --> 01:17:54,728
+There 's a door in the darkness...
+
+600
+01:17:58,400 --> 01:18:02,648
+I struggle to find my way
+through the door.
+
+601
+01:18:16,167 --> 01:18:18,919
+I can hear it clearly now.
+
+602
+01:18:19,085 --> 01:18:23,001
+The most beautiful melody
+ever created by man.
+
+603
+01:18:30,553 --> 01:18:33,425
+I enter the room...
+
+604
+01:18:38,310 --> 01:18:42,012
+And there forever remains -
+
+605
+01:18:42,189 --> 01:18:46,602
+that change from G to E minor.

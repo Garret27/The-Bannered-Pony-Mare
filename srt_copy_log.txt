@@ -1,12 +1,12 @@
-SRT Copy Log - Sun 11/23/2025 14:53:46.20 
+SRT Copy Log - Sun 11/23/2025 17:11:08.24 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\The Hunger Games (2012)\The Hunger Games (2012) 1080p AAC.eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\The Hunger Games (2012)\The Hunger Games (2012) 1080p AAC.eng.srt" 
-File name: "The Hunger Games (2012) 1080p AAC.eng.srt" 
+Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___imaginaerum_english_742491\Imaginaerum.2012.720p.BluRay.x264.YIFY.srt"" 
+Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___imaginaerum_english_742491\Imaginaerum.2012.720p.BluRay.x264.YIFY.srt" 
+File name: "Imaginaerum.2012.720p.BluRay.x264.YIFY.srt" 
 File extension: ".srt" 
  
 File argument exists 
