@@ -1,18 +1,18 @@
-SRT Copy Log - Sun 11/23/2025 17:11:08.24 
+SRT Copy Log - Tue 11/25/2025 18:17:25.50 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___imaginaerum_english_742491\Imaginaerum.2012.720p.BluRay.x264.YIFY.srt"" 
-Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___imaginaerum_english_742491\Imaginaerum.2012.720p.BluRay.x264.YIFY.srt" 
-File name: "Imaginaerum.2012.720p.BluRay.x264.YIFY.srt" 
+Raw argument 1: ""J:\Movies J Drive\Back to the Future Part III (1990)\Back to the Future Part III (1990) 1080p AAC.srt"" 
+Clean argument 1: "J:\Movies J Drive\Back to the Future Part III (1990)\Back to the Future Part III (1990) 1080p AAC.srt" 
+File name: "Back to the Future Part III (1990) 1080p AAC.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
