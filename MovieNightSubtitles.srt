@@ -1,2731 +1,8658 @@
-﻿1
-00:01:20,694 --> 00:01:23,862
-That's it. Gently.
+1
+00:00:00,050 --> 00:00:35,666
+<b><font face="Rockwell" color="#FFFF00">Re-Sync & Improved By: FidelPerez</font></b>
+<b><font face="Rockwell" color="#966FD6">Subtitle By: explosiveskull</font></b>
+<b><font face="Rockwell" color="#00FFFF">Sub Upload Date: October 10, 2018</font></b>
 
 2
-00:01:31,078 --> 00:01:33,784
-We should head back inside, Tom.
-Get you warm.
+00:01:05,717 --> 00:01:07,582
+So, it says here
+that you were manager
 
 3
-00:01:33,956 --> 00:01:36,745
-There's a big storm coming.
+00:01:07,584 --> 00:01:10,487
+of the Rusty Scupper
+Restaurant for five years.
 
 4
-00:01:48,844 --> 00:01:51,418
-He looks kind of creepy, doesn't he?
+00:01:10,489 --> 00:01:12,690
+Hmm?
+Then, a bank teller
 
 5
-00:01:59,353 --> 00:02:02,521
-I'll be right behind you, Tom.
+00:01:12,692 --> 00:01:17,597
+at Bank of Oakland
+between 2014 to 2016?
 
 6
-00:02:18,287 --> 00:02:21,204
-E minor.
+00:01:18,730 --> 00:01:20,933
+Oh! And you were
+employee of the month.
 
 7
-00:02:31,465 --> 00:02:34,467
-It's the right chord.
+00:01:22,834 --> 00:01:25,603
+What's that trophy
+in the bag there?
 
 8
-00:02:54,193 --> 00:02:58,322
-Hello.
-- Ms. Whitman, it's Doctor Jansson.
+00:01:25,605 --> 00:01:29,740
+Oh! Oakland High
+Moot Court Champion.
 
 9
-00:03:01,742 --> 00:03:03,865
-I have some bad news.
+00:01:29,742 --> 00:01:31,210
+I'm a salesman
+at heart.
 
 10
-00:03:07,622 --> 00:03:12,249
-What's wrong with you, princess?
-Why won't you spin?
+00:01:32,278 --> 00:01:34,779
+That is intriguing.
 
 11
-00:03:14,211 --> 00:03:17,627
-We had to bring your father in again.
+00:01:34,781 --> 00:01:38,083
+Mainly... because I was
+the branch manager
 
 12
-00:03:18,840 --> 00:03:22,708
-As we predicted,
-his episodes are becoming frequent.
+00:01:38,085 --> 00:01:43,688
+at the Bank of Oakland
+between 2014 and 2016.
 
 13
-00:03:25,971 --> 00:03:28,463
-This one looks quite serious.
+00:01:43,690 --> 00:01:47,324
+And you, Mr. Green, you
+never fucking worked there.
 
 14
-00:03:28,723 --> 00:03:31,595
-Yeah... I understand.
+00:01:47,326 --> 00:01:51,530
+And the number that you gave to
+The Rusty Scupper Restaurant?
 
 15
-00:03:42,819 --> 00:03:47,317
-Mr. Whitman
-Tom.
+00:01:51,532 --> 00:01:53,734
+Is that your friend
+Salvador's number?
 
 16
-00:03:47,490 --> 00:03:50,824
-You have to come a distance, but if
-we could discuss this in person...
+00:01:54,500 --> 00:01:57,938
+The same Salvador
+who applied for this job?
 
 17
-00:03:50,993 --> 00:03:54,528
-I'll be there as soon as I can.
-Bye.
+00:02:02,575 --> 00:02:04,877
+I didn't know
+he applied here, too.
 
 18
-00:04:02,169 --> 00:04:04,459
-Can you hear me, Mr. Whitman?
+00:02:04,879 --> 00:02:07,579
+Might have been helpful
+if his outgoing message
 
 19
-00:04:05,423 --> 00:04:07,711
-''Matthew knew it was hopeless.
+00:02:07,581 --> 00:02:10,849
+didn't say,
+"It's Sal, bitches."
 
 20
-00:04:07,882 --> 00:04:09,841
-Nothing mattered anymore.
+00:02:10,851 --> 00:02:13,652
+This trophy and that
+plaque, did you steal 'em?
 
 21
-00:04:10,010 --> 00:04:13,629
-Mr. White's body was melting
-even as Matthew watched.
+00:02:13,654 --> 00:02:16,389
+No, uh, I...
+made them.
 
 22
-00:04:13,847 --> 00:04:18,473
-The snowman could no longer speak
-The happy face Matthew had loved -
+00:02:16,391 --> 00:02:18,790
+Well, I had them... made.
 
 23
-00:04:18,642 --> 00:04:21,347
-now was nothing but slush.
+00:02:18,792 --> 00:02:22,697
+Listen, I just really,
+really need a job.
 
 24
-00:04:21,519 --> 00:04:23,596
-Matthew stared up into the sky, -
+00:02:23,766 --> 00:02:27,067
+Okay, Cassius Green,
+listen up, okay?
 
 25
-00:04:23,771 --> 00:04:27,521
-watching the winter's last snowflake
-floating down.
+00:02:27,069 --> 00:02:28,970
+This is telemarketing.
 
 26
-00:04:27,734 --> 00:04:30,901
-Some said its touch held
-the power of magic, -
+00:02:30,172 --> 00:02:33,439
+We're not mappin'
+the fuckin' human genome here.
 
 27
-00:04:31,112 --> 00:04:34,612
-but Matthew had lost his faith
-in stories.
+00:02:33,441 --> 00:02:35,875
+I don't care if you have
+experience for this.
 
 28
-00:04:34,822 --> 00:04:39,118
-But when the snowflake finally touched
-Mr. White's outstretched arm, -
+00:02:35,877 --> 00:02:37,544
+I'll hire
+damn near anyone.
 
 29
-00:04:39,286 --> 00:04:42,487
-a coating of fresh frost
-spread outward from it, -
+00:02:37,546 --> 00:02:39,845
+You know what this
+bootleg trophy tells me?
 
 30
-00:04:42,663 --> 00:04:45,950
-and the puddle of water
-under the snowman crackled -
+00:02:39,847 --> 00:02:42,015
+Tells me the only thing
+I need to know.
 
 31
-00:04:46,124 --> 00:04:48,248
-as it turned to ice.
+00:02:42,017 --> 00:02:44,587
+You have initiative
+and you can read.
 
 32
-00:04:48,419 --> 00:04:53,295
-Matthew's heart filled with joy
-as he watched Mr. White come alive
+00:02:45,422 --> 00:02:50,023
+You will call as many contacts
+as you can during your shift,
 
 33
-00:04:53,465 --> 00:04:57,000
-The story of winter's last snowflake
-had come true.
+00:02:50,025 --> 00:02:52,559
+you will read the script
+that we give you,
 
 34
-00:04:57,343 --> 00:05:01,922
-The magical winter would never end''
+00:02:52,561 --> 00:02:54,729
+and you will show up
+tomorrow happy.
 
 35
-00:05:03,307 --> 00:05:05,680
-Time to go to bed, children.
+00:02:54,731 --> 00:02:55,995
+Hmm?
 
 36
-00:05:05,892 --> 00:05:08,728
-You're that new boy, Tom.
+00:02:55,997 --> 00:02:58,933
+Thank you. Uh, thank you
+so much, Mr. Anderson.
 
 37
-00:05:10,480 --> 00:05:13,517
-You made that snowman in the backyard.
+00:02:58,935 --> 00:03:01,939
+Ah, one more thing,
+Cassius... "Stuss."
 
 38
-00:05:15,067 --> 00:05:17,606
-I'm Ann.
+00:03:02,871 --> 00:03:04,571
+"Stuss"?
 
 39
-00:05:18,111 --> 00:05:19,820
-What's that?
+00:03:04,573 --> 00:03:06,173
+S.T.T.S.
 
 40
-00:05:19,988 --> 00:05:21,732
-She's beautiful.
+00:03:06,175 --> 00:03:07,708
+Stick to the Script.
 
 41
-00:05:22,698 --> 00:05:24,491
-Can't you talk?
+00:03:07,710 --> 00:03:11,081
+Stick to the script. Stick to the script.
+You got it.
 
 42
-00:05:24,659 --> 00:05:26,735
-I can talk.
+00:03:12,416 --> 00:03:14,016
+Thank you so much.
 
 43
-00:05:26,994 --> 00:05:29,912
-Are those your parents?
+00:03:26,364 --> 00:03:27,632
+Troit!
 
 44
-00:05:31,414 --> 00:05:35,080
-That's my mom.
-She got sick and
+00:03:29,567 --> 00:03:30,835
+Troit!
 
 45
-00:05:35,418 --> 00:05:37,875
-She's dead now.
+00:03:33,104 --> 00:03:34,206
+Troit!
 
 46
-00:05:39,421 --> 00:05:42,672
-My dad's a pilot.
-- Is he dead too?
+00:03:40,745 --> 00:03:42,814
+You ever think about dying?
 
 47
-00:05:42,883 --> 00:05:45,837
-He's not dead!
-My dad's Theodore Whitman.
+00:03:47,318 --> 00:03:50,822
+Yeah, I'm alive.
+Sometimes.
 
 48
-00:05:46,010 --> 00:05:47,719
-And he's a hero.
+00:03:51,789 --> 00:03:53,622
+No, I don't mean
+like right now,
 
 49
-00:05:47,887 --> 00:05:51,174
-He saved all his passengers
-from a tornado.
+00:03:53,624 --> 00:03:55,824
+in a freak accident
+or something.
 
 50
-00:05:51,390 --> 00:05:53,883
-But he crash-landed.
+00:03:55,826 --> 00:03:59,633
+I mean...
+when we're old, like 90.
 
 51
-00:05:54,977 --> 00:05:58,809
-And when he gets rescued
-he'll come and get me.
+00:04:00,665 --> 00:04:01,966
+I think about it
+all the time.
 
 52
-00:05:59,356 --> 00:06:02,855
-Nobody here has any parents.
-- Lights out!
+00:04:01,968 --> 00:04:04,867
+Like, what will
+I have done that matters?
 
 53
-00:06:04,276 --> 00:06:07,065
-Good night, Tom.
+00:04:04,869 --> 00:04:06,769
+I just want to make sure
+that when I die
 
 54
-00:06:15,453 --> 00:06:18,704
-Sleep tight, princess.
+00:04:06,771 --> 00:04:08,872
+I'll be surrounded
+by people who love me
 
 55
-00:07:48,827 --> 00:07:50,950
-You'll melt for this.
+00:04:08,874 --> 00:04:10,776
+and who I love back.
 
 56
-00:07:58,543 --> 00:08:00,502
-Well, well, well...
+00:04:11,544 --> 00:04:13,112
+But what about when they die?
 
 57
-00:08:00,671 --> 00:08:03,079
-Look who's here.
+00:04:14,146 --> 00:04:15,314
+What do you mean?
 
 58
-00:08:03,298 --> 00:08:05,836
-It's good to see an old friend.
+00:04:16,182 --> 00:04:19,449
+I mean, like at some
+point we're gonna die.
 
 59
-00:08:08,844 --> 00:08:11,964
-I was just standing there
-in the backyard, -
+00:04:19,451 --> 00:04:22,688
+Our kids are gonna die.
+Our kids' kids are gonna die.
 
 60
-00:08:12,139 --> 00:08:16,802
-minding my own business,
-and I felt this sting on my arm.
+00:04:22,690 --> 00:04:26,191
+And at some point, no one
+on Earth will have existed.
 
 61
-00:08:16,977 --> 00:08:19,016
-What?
+00:04:26,193 --> 00:04:27,626
+And at... at some point...
 
 62
-00:08:19,186 --> 00:08:21,892
-I think it was that little thing.
+00:04:27,628 --> 00:04:30,962
+the sun will explode
+and everyone will have died.
 
 63
-00:08:22,107 --> 00:08:26,318
-Tom, let's you and me take a trip.
-See where it goes next.
+00:04:30,964 --> 00:04:33,130
+And no one will know
+what I'm doing,
 
 64
-00:08:26,484 --> 00:08:30,400
-Who knows? Maybe we'll bump
-into someone you used to know.
+00:04:33,132 --> 00:04:34,832
+and what I'm doing right now
+won't even matter.
 
 65
-00:08:30,572 --> 00:08:33,989
-Encounter things
-you've only dreamed of.
+00:04:34,834 --> 00:04:38,068
+Baby, baby it will
+always matter, okay?
 
 66
-00:08:35,618 --> 00:08:37,825
-I... I'm dreaming.
+00:04:38,070 --> 00:04:41,407
+Because it matters now.
+This moment, these moments.
 
 67
-00:08:38,955 --> 00:08:41,445
-That's why everything is so weird.
+00:04:41,409 --> 00:04:44,476
+When I kiss you...
+it's not for posterity's sake.
 
 68
-00:08:41,624 --> 00:08:44,993
-So come on. It'll be fun.
+00:04:44,478 --> 00:04:46,646
+Yeah, but... okay,
+you got your calling.
 
 69
-00:08:45,168 --> 00:08:47,921
-You'll be safe with me.
+00:04:46,648 --> 00:04:48,747
+Your art means
+something, right?
 
 70
-00:08:53,175 --> 00:08:58,051
-Listen, buddy, if you're too scared
-to come along, I understand.
+00:04:48,749 --> 00:04:50,550
+But I'm just
+out here surviving;
 
 71
-00:08:58,221 --> 00:09:01,057
-Maybe you're not a chip
-off the old block.
+00:04:50,552 --> 00:04:52,083
+spinning around
+on the endless circle.
 
 72
-00:09:01,224 --> 00:09:04,510
-Don't worry about it,
-you can just go back to bed.
+00:04:52,085 --> 00:04:54,353
+- Ah, you missed your cue.
+- That's disgusting.
 
 73
-00:09:04,727 --> 00:09:09,057
-Or you can come with me
-and have an adventure.
+00:04:54,355 --> 00:04:58,256
+I said, "When I kiss you,
+it's not for posterity's sake."
 
 74
-00:09:13,401 --> 00:09:15,893
-It feels so real!
+00:04:58,258 --> 00:04:59,895
+- Yeah, but...
+- Mmm!
 
 75
-00:09:16,070 --> 00:09:18,194
-Ice and genuine oak.
+00:05:11,005 --> 00:05:12,371
+Oh, God!
 
 76
-00:09:22,242 --> 00:09:25,279
-Hang on, buddy.
-Let's go!
+00:05:14,610 --> 00:05:17,180
+- Get a room!
+- I got a room, muthafucka!
 
 77
-00:09:32,334 --> 00:09:35,371
-Now there's a sight for sore eyes
+00:05:19,081 --> 00:05:20,880
+I thought you said
+you fixed that!
 
 78
-00:10:05,239 --> 00:10:07,445
-What's that?
-- It's nothing, buddy.
+00:05:20,882 --> 00:05:23,151
+My landlord was supposed
+to fix it.
 
 79
-00:10:07,615 --> 00:10:10,368
-Just a rotten pile of wood and steel.
+00:05:23,885 --> 00:05:25,919
+I gotta move.
 
 80
-00:10:10,535 --> 00:10:13,452
-Why don't we go take a look at it?
+00:05:25,921 --> 00:05:28,120
+- Mmm!
+- I like that.
 
 81
-00:10:15,997 --> 00:10:19,118
-Look, it's your father.
+00:05:32,627 --> 00:05:34,831
+I have to go
+to work anyway.
 
 82
-00:10:27,425 --> 00:10:30,176
-Aren't you excited to see him?
+00:05:38,201 --> 00:05:40,701
+- Don't you start work today?
+- Yeah.
 
 83
-00:10:30,343 --> 00:10:32,338
-It's just a dream.
+00:05:40,703 --> 00:05:44,439
+They said they hire anybody if
+you're looking for a second job.
 
 84
-00:10:33,138 --> 00:10:36,757
-This is as real as it gets for you,
-buddy.
+00:05:44,441 --> 00:05:45,773
+You could try part-time.
 
 85
-00:10:48,067 --> 00:10:50,524
-Ms. Whitman?
+00:05:48,477 --> 00:05:51,246
+<i>Everyone is talking
+about the Worryfree solution!</i>
 
 86
-00:10:50,695 --> 00:10:53,566
-Your father has
-multi-infarct dementia.
+00:05:51,248 --> 00:05:53,547
+<i>Worryfree is
+a revolutionary new business</i>
 
 87
-00:10:53,740 --> 00:10:56,694
-It's a condition caused by
-multiple strokes.
+00:05:53,549 --> 00:05:55,249
+<i>and lifestyle model
+taking the world by storm!</i>
 
 88
-00:10:56,867 --> 00:11:00,818
-We've spoken about this
-several times over the phone.
+00:05:55,251 --> 00:05:56,885
+Baby, how much
+are they paying you?
 
 89
-00:11:00,996 --> 00:11:04,163
-Yes, we have.
-But given his current condition...
+00:05:56,887 --> 00:05:58,353
+<i>When you sign a
+Worryfree contract,</i>
 
 90
-00:11:04,332 --> 00:11:07,084
-- You want to pull the plug.
+00:05:58,355 --> 00:06:01,289
+<i>you're guaranteed employment
+and housing for life!</i>
 
 91
-00:11:08,502 --> 00:11:12,203
-Well, it's not quite like that
-He's not on life support
+00:06:01,291 --> 00:06:03,959
+<i>Stop worrying
+and get Worryfree!</i>
 
 92
-00:11:12,798 --> 00:11:15,716
-Though his heart did stop twice
+00:06:03,961 --> 00:06:06,594
+<i>The Worryfree living quarters
+are state of the art,</i>
 
 93
-00:11:15,884 --> 00:11:20,178
-We've brought him back, but to
-keep doing it... -Where do I sign?
+00:06:06,596 --> 00:06:08,529
+<i>the Worryfree food
+is to die for,</i>
 
 94
-00:11:28,770 --> 00:11:31,808
-You're making the right decision.
+00:06:08,531 --> 00:06:11,800
+<i>and Worryfree careers are
+fulfilling and satisfying!</i>
 
 95
-00:11:31,981 --> 00:11:34,272
-It's best to let him go.
+00:06:11,802 --> 00:06:14,405
+Cash, baby,
+what are they paying you?
 
 96
-00:11:35,776 --> 00:11:39,821
-He's been living in a fantasy world
-for the last couple of years.
+00:06:15,639 --> 00:06:18,372
+Uh, I think
+it's just commission.
 
 97
-00:11:39,988 --> 00:11:44,117
-He's regressed to childhood.
-I just think it would be cruel to...
+00:06:18,374 --> 00:06:19,444
+Hey, baby...
 
 98
-00:11:47,621 --> 00:11:53,161
-I can reach you at your father's
-if we need to, uh, speak.
+00:06:20,211 --> 00:06:22,414
+you ever think
+about this Worryfree shit?
 
 99
-00:11:55,126 --> 00:11:59,255
-I don't expect you'd be flying back
-in this weather.
+00:06:23,349 --> 00:06:25,047
+Are you crazy?
 
 100
-00:11:59,422 --> 00:12:01,831
-No.
+00:06:25,049 --> 00:06:26,919
+What, working
+on commission?
 
 101
-00:12:02,175 --> 00:12:06,042
-Well, I'll leave you two alone.
+00:06:28,887 --> 00:06:30,587
+Nice earrings.
 
 102
-00:12:38,747 --> 00:12:41,323
-Nothing has changed, has it?
+00:06:38,429 --> 00:06:40,463
+Hey, Cash!
 
 103
-00:12:44,795 --> 00:12:47,997
-I'm not even a memory, am I?
+00:06:40,465 --> 00:06:42,232
+I got overdue
+house notes, dude.
 
 104
-00:12:48,340 --> 00:12:52,006
-I'm just a blur.
-Like always.
+00:06:42,234 --> 00:06:43,900
+How much longer I got
+to wait for my money?
 
 105
-00:12:54,054 --> 00:12:58,515
-You know,
-I waited so long for you to reach out.
+00:06:43,902 --> 00:06:45,802
+Look, Serge,
+I just got a new job
 
 106
-00:12:58,683 --> 00:13:02,847
-This was a mistake.
-I've done enough for you.
+00:06:45,804 --> 00:06:47,605
+and I'll have some money
+for you soon.
 
 107
-00:13:28,458 --> 00:13:31,211
-Oh no!
-We need to turn back!
+00:06:47,607 --> 00:06:49,339
+Damn it, you four
+months late now.
 
 108
-00:13:32,129 --> 00:13:35,296
-It's too late! I can't!
+00:06:49,341 --> 00:06:51,742
+It's like "soon" is the only
+fuckin' word I hear from you.
 
 109
-00:13:41,386 --> 00:13:43,712
-No! Help!
+00:06:51,744 --> 00:06:54,414
+Okay, I'm four
+months late, but...
 
 110
-00:13:43,972 --> 00:13:45,848
-No! Help!
-- Hang on!
+00:06:55,348 --> 00:06:57,048
+Check this out. Damn.
 
 111
-00:14:23,882 --> 00:14:27,501
-What?
-What is this?
+00:06:57,050 --> 00:06:58,848
+God made this land
+for all of us,
 
 112
-00:14:27,885 --> 00:14:30,887
-It's just you being you.
+00:06:58,850 --> 00:07:02,653
+and greedy people like you want to
+hog it to yourself and your family
 
 113
-00:14:31,097 --> 00:14:34,467
-Hi, Tom.
-It's been a while.
+00:07:02,655 --> 00:07:05,021
+and charge all the rest of
+us for the right to live.
 
 114
-00:14:34,642 --> 00:14:37,976
-Do I know you?
-- Of course
+00:07:05,023 --> 00:07:06,958
+- Me and my family?
+- Yeah.
 
 115
-00:14:38,145 --> 00:14:41,764
-We've known each other since
-we were kids. -You're crazy
+00:07:06,960 --> 00:07:08,928
+Cassius,
+I'm your fucking uncle.
 
 116
-00:14:41,940 --> 00:14:45,107
-I was.
-For a while.
+00:07:08,930 --> 00:07:10,861
+The bank might
+take my fucking house.
 
 117
-00:14:45,276 --> 00:14:48,776
-Come here.
-Let me me patch you up.
+00:07:10,863 --> 00:07:12,763
+Four fucking months.
 
 118
-00:14:50,823 --> 00:14:53,777
-You're wondering where you are...
+00:07:12,765 --> 00:07:14,733
+I gave you
+that car you're driving.
 
 119
-00:14:53,950 --> 00:14:57,700
-I'm in a dream.
-With a crazy woman.
+00:07:14,735 --> 00:07:16,767
+- That's a damn bucket.
+- Oh yeah?
 
 120
-00:14:58,454 --> 00:15:01,789
-If I am,
-it doesn't reflect well on you.
+00:07:16,769 --> 00:07:19,841
+Give it back then! No?
 
 121
-00:15:01,957 --> 00:15:04,626
-In all sorts of ways.
+00:07:21,041 --> 00:07:22,239
+That's what I thought.
 
 122
-00:15:04,793 --> 00:15:08,542
-Actually,
-I used to be your voice of reason.
+00:07:22,241 --> 00:07:25,313
+I need my money
+in two weeks, asshole.
 
 123
-00:15:08,797 --> 00:15:11,419
-God knows you needed one.
+00:07:45,266 --> 00:07:46,800
+Hey.
 
 124
-00:15:11,591 --> 00:15:14,213
-You were very good
-at a lot of things.
+00:07:46,802 --> 00:07:48,102
+Forty on two.
 
 125
-00:15:14,386 --> 00:15:18,004
-But dealing with real world
-wasn't one of them.
+00:08:09,358 --> 00:08:10,425
+<i>♫ Oh yeah ♫</i>
 
 126
-00:15:19,974 --> 00:15:22,809
-None of this makes any sense.
+00:08:11,427 --> 00:08:13,327
+<i>♫ All right ♫</i>
 
 127
-00:15:23,184 --> 00:15:25,641
-It should.
+00:08:13,329 --> 00:08:14,461
+<i>♫ Hell yeah ♫</i>
 
 128
-00:15:26,479 --> 00:15:29,730
-I'm just saying the things
-you expect me to.
+00:08:14,463 --> 00:08:16,128
+- <i>♫ All right ♫</i>
+- <i>♫ That's right... ♫</i>
 
 129
-00:15:29,898 --> 00:15:33,019
-Buddy!
-Hey! Where are you?
+00:08:16,130 --> 00:08:17,430
+What's up, man!
 
 130
-00:15:33,193 --> 00:15:35,898
-Hey! I'm here!
-- Quiet.
+00:08:17,432 --> 00:08:19,399
+<i>♫ Oh yeah ♫</i>
 
 131
-00:15:36,070 --> 00:15:38,990
-He'll find you.
+00:08:19,401 --> 00:08:20,967
+<i>♫ All right ♫</i>
 
 132
-00:15:43,161 --> 00:15:46,743
-Oh! Leave it.
-It'lljust remind you of him.
+00:08:20,969 --> 00:08:22,239
+<i>♫ Hell yeah ♫</i>
 
 133
-00:15:46,913 --> 00:15:49,536
-You're nuts.
-Leave me alone!
+00:08:23,373 --> 00:08:24,441
+<i>♫ That's right ♫</i>
 
 134
-00:15:49,708 --> 00:15:54,003
-Selfish and rude.
-Yep, that's the Tom I know.
+00:08:25,441 --> 00:08:26,509
+<i>♫ Hey ♫</i>
 
 135
-00:15:56,255 --> 00:15:59,756
-The Snowman isn't the best tour guide,
-you know.
+00:08:27,477 --> 00:08:28,544
+<i>♫ Hey ♫</i>
 
 136
-00:15:59,925 --> 00:16:01,884
-He's not what he seems.
+00:08:29,479 --> 00:08:30,546
+<i>♫ Hey ♫</i>
 
 137
-00:16:02,052 --> 00:16:05,800
-Don't let him steal the rest of you.
+00:08:31,280 --> 00:08:33,348
+<i>♫ Hey ♫</i>
 
 138
-00:16:06,348 --> 00:16:08,721
-I can 't see you, buddy!
+00:08:33,350 --> 00:08:34,418
+<i>♫ Hey ♫</i>
 
 139
-00:16:08,892 --> 00:16:13,055
-I'm....
-- Give me a yell, loud as you can!
+00:08:35,352 --> 00:08:36,419
+<i>♫ Hey ♫</i>
 
 140
-00:16:14,145 --> 00:16:17,267
-Wretched brat, you're hiding!
+00:08:37,353 --> 00:08:38,421
+<i>♫ Hey ♫</i>
 
 141
-00:16:17,440 --> 00:16:20,893
-Not so nice now, oh, is he?
+00:08:39,356 --> 00:08:40,424
+<i>♫ Hey ♫</i>
 
 142
-00:17:01,396 --> 00:17:03,519
-Hey, you!
+00:08:54,271 --> 00:08:57,939
+Millions of dollars
+went into these walls
 
 143
-00:17:03,689 --> 00:17:06,263
-Be careful out here.
-Those tracks are unstable.
+00:08:57,941 --> 00:09:01,143
+just to... make sure
+that thousands of calls
 
 144
-00:17:06,442 --> 00:17:09,728
-A lot of them could collapse
-on us at any time.
+00:09:01,145 --> 00:09:03,879
+can go out and in
+at the same time
 
 145
-00:17:09,903 --> 00:17:12,359
-Why is this thing here?
-- Beats me.
+00:09:03,881 --> 00:09:05,581
+without jamming
+the lines.
 
 146
-00:17:12,530 --> 00:17:16,825
-Somebody thought it was a great idea
-to build it on this godforsaken place.
+00:09:06,617 --> 00:09:08,049
+Log in here.
+Grab a seat.
 
 147
-00:17:16,993 --> 00:17:18,701
-Hey! Wait!
+00:09:13,724 --> 00:09:14,993
+Come on.
 
 148
-00:17:18,869 --> 00:17:23,033
-Do you know where that music's
-coming from? I've heard it before.
+00:09:15,828 --> 00:09:17,330
+You studied the script?
 
 149
-00:17:23,206 --> 00:17:25,664
-Kid, we've all heard it.
+00:09:18,062 --> 00:09:19,996
+- Yeah.
+- Look, clock in,
 
 150
-00:17:25,835 --> 00:17:28,919
-All day, every day.
-Same damn melody.
+00:09:19,998 --> 00:09:22,432
+don't be lazy,
 
 151
-00:17:29,254 --> 00:17:31,710
-Makes me sick.
+00:09:22,434 --> 00:09:23,933
+and I won't have
+to be an asshole.
 
 152
-00:17:34,551 --> 00:17:37,505
-Aaah! Come on!
+00:09:23,935 --> 00:09:27,536
+Make a sale, this light goes on.
 
 153
-00:17:37,678 --> 00:17:41,129
-Dammit!
-Why do I even bother?
+00:09:27,538 --> 00:09:29,172
+You do real good,
 
 154
-00:17:41,557 --> 00:17:44,391
-This thing can't be fixed!
+00:09:29,174 --> 00:09:34,378
+eventually you might even be
+able to be a Power Caller.
 
 155
-00:17:47,437 --> 00:17:50,806
-What do you want to do, Gem?
+00:09:34,380 --> 00:09:38,348
+- A Power Caller?
+- Where the callers are ballers.
 
 156
-00:17:50,982 --> 00:17:53,353
-Gem!
+00:09:38,350 --> 00:09:41,754
+Where they make
+the real money.
 
 157
-00:17:54,985 --> 00:17:58,021
-Just leave it.
-It's lifeless.
+00:09:42,821 --> 00:09:44,725
+They even have
+their own elevator.
 
 158
-00:17:58,195 --> 00:18:01,778
-Yes. Thank you
-Let it rot.
+00:09:45,658 --> 00:09:47,226
+Oh yeah, I saw that.
 
 159
-00:18:08,954 --> 00:18:11,031
-You be careful.
+00:09:48,060 --> 00:09:49,595
+Stick to the script.
 
 160
-00:18:35,436 --> 00:18:37,644
-Song of myself...
+00:10:12,586 --> 00:10:13,721
+What the fuck?
 
 161
-00:18:46,530 --> 00:18:50,030
-Worthless brat! I let him
-out of my sight for a minute!
+00:10:15,822 --> 00:10:19,090
+- Hello.
+- Hey, Mr. Davidson.
 
 162
-00:18:50,200 --> 00:18:53,237
-And all this bullshit shows up!
+00:10:19,092 --> 00:10:21,095
+Cassius Green here.
+Sorry to bo...
 
 163
-00:18:53,411 --> 00:18:57,030
-The little runt's more trouble
-than he's worth.
+00:10:21,996 --> 00:10:23,397
+Another one!
 
 164
-00:18:57,206 --> 00:19:01,074
-Ah, dammit!
-Oh, woopsy! I missed a spot.
+00:10:30,871 --> 00:10:32,205
+Hello?
 
 165
-00:19:01,251 --> 00:19:04,039
-What are you doing?
+00:10:32,207 --> 00:10:34,039
+Uh, this is Cassius Green.
+Sorry to bother you.
 
 166
-00:19:05,213 --> 00:19:08,547
-Nothing.
-I was just looking for you.
+00:10:34,041 --> 00:10:36,209
+I just wanted to mention
+something else about
 
 167
-00:19:09,675 --> 00:19:12,712
-And now, I found you.
+00:10:36,211 --> 00:10:38,143
+an encyc...
+inside an encyclopedia.
 
 168
-00:19:13,095 --> 00:19:16,298
-Come here!
-Let me take a look at you!
+00:10:45,554 --> 00:10:47,120
+Hello?
 
 169
-00:19:16,556 --> 00:19:19,179
-What?
-What, this?
+00:10:47,122 --> 00:10:49,188
+- Hi, Mrs. Costello.
+- Yes.
 
 170
-00:19:19,392 --> 00:19:23,141
-Just took a bit of a beating
-in the storm, is all.
+00:10:49,190 --> 00:10:50,823
+This is Cassius Green.
 
 171
-00:19:23,562 --> 00:19:26,268
-Don't worry about me.
+00:10:50,825 --> 00:10:54,593
+I know that you've enjoyed our,
+uh, series on birdwatching,
 
 172
-00:19:26,690 --> 00:19:30,190
-Hey! What do you say
-we have some fun, huh?
+00:10:54,595 --> 00:10:56,996
+so I wanted to call
+and... and help you out.
 
 173
-00:19:30,443 --> 00:19:34,441
-No! What's wrong with you?
-First, we fall, now this!
+00:10:56,998 --> 00:11:00,569
+I'm sorry, young man,
+we don't have any money.
 
 174
-00:19:34,613 --> 00:19:38,066
-This dream's stupid.
-I'm leaving. -Hey! Hold up, pal.
+00:11:01,804 --> 00:11:03,770
+My husband's
+in the hospital.
 
 175
-00:19:38,243 --> 00:19:41,943
-Relax.
-I got something for just the two of us.
+00:11:03,772 --> 00:11:06,907
+He's 73.
+He's got stage 4 cancer.
 
 176
-00:19:42,328 --> 00:19:45,496
-Two tickets to the circus.
-It'll be great, buddy.
+00:11:15,152 --> 00:11:17,253
+Umm...
 
 177
-00:19:45,665 --> 00:19:49,579
-It's right around the corner.
-Let me show you. -No.
+00:11:18,620 --> 00:11:19,689
+it's...
 
 178
-00:19:49,751 --> 00:19:52,375
-Leave me alone!
-You're making this too weird.
+00:11:21,425 --> 00:11:24,058
+Oh, it's interesting that
+you say that, Mrs. Costello,
 
 179
-00:19:52,547 --> 00:19:55,299
-Don't you walk away from me!
+00:11:24,060 --> 00:11:25,794
+because book number five
+in the Insight series
 
 180
-00:20:02,555 --> 00:20:04,264
-Get out of there!
+00:11:25,796 --> 00:11:29,563
+is all about wellness, how to
+stay healthy... on your own
 
 181
-00:20:04,432 --> 00:20:07,053
-Come see what they've got!
-- Go away!
+00:11:29,565 --> 00:11:31,833
+without even going
+to the doctor, so... so...
 
 182
-00:20:07,225 --> 00:20:10,726
-It's okay, I'm not mad.
+00:11:31,835 --> 00:11:33,035
+Damn it.
 
 183
-00:20:59,688 --> 00:21:02,014
-Come and share -
+00:11:41,412 --> 00:11:44,979
+Really? You gonna stuff all those
+French fries in your mouth?
 
 184
-00:21:02,816 --> 00:21:06,186
-this painting with me.
+00:11:49,552 --> 00:11:53,557
+I feel incompetent and like
+an asshole doing this job.
 
 185
-00:21:07,278 --> 00:21:08,654
-No.
+00:11:55,693 --> 00:11:57,129
+I don't feel
+any different.
 
 186
-00:21:08,821 --> 00:21:12,405
-No! What happened?
-What have you done?
+00:11:58,764 --> 00:11:59,897
+Hey.
 
 187
-00:21:12,575 --> 00:21:18,032
-Unveiling of me,
-the magician that never failed.
+00:11:59,899 --> 00:12:01,797
+That's that the dude
+from that show.
 
 188
-00:21:22,209 --> 00:21:28,661
-This deep sigh
-coiled around my chest
+00:12:01,799 --> 00:12:04,667
+- Hey! Hey!
+- Oh shit!
 
 189
-00:21:29,423 --> 00:21:33,088
-Hi, Tom.
-I'm glad you got away.
+00:12:04,669 --> 00:12:06,936
+That's fucking cool.
+I hate that show.
 
 190
-00:21:34,302 --> 00:21:39,345
-What did you do with my Arabesque?
-- You used to call it your princess.
+00:12:06,938 --> 00:12:09,339
+But I never noticed
+that, uh, room.
 
 191
-00:21:39,765 --> 00:21:44,227
-Tell me.
-Could she really spin like you said?
+00:12:09,341 --> 00:12:10,874
+What... what is that?
 
 192
-00:21:44,812 --> 00:21:47,932
-Or is that just another stupid lie?
+00:12:10,876 --> 00:12:12,442
+The VIP room.
 
 193
-00:21:48,356 --> 00:21:52,733
-Sorry.
-Another story.
+00:12:12,444 --> 00:12:15,545
+What the hell is a place like
+this doing with a VIP room?
 
 194
-00:21:55,530 --> 00:21:58,282
-A silver platter!
+00:12:15,547 --> 00:12:17,147
+I used to be in there
+all the time.
 
 195
-00:21:58,449 --> 00:22:02,197
-Did you really think fixing it
-would fix things with her?
+00:12:17,149 --> 00:12:19,782
+Well, what qualifies
+a person to be VIP?
 
 196
-00:22:02,368 --> 00:22:06,662
-No. You didn't really want
-to fix things, did you?
+00:12:19,784 --> 00:12:22,220
+Well, you need
+the password.
 
 197
-00:22:06,831 --> 00:22:09,584
-I don't want that!
-It's broken.
+00:12:22,222 --> 00:12:25,089
+And this week
+it's "upscale elegance."
 
 198
-00:22:09,750 --> 00:22:12,456
-What are you doing?
-It's mine!
+00:12:25,091 --> 00:12:27,325
+Actually, every week is
+"upscale elegance."
 
 199
-00:22:12,628 --> 00:22:15,747
-I'll have what she's having.
+00:12:27,327 --> 00:12:29,663
+- I'm goin'.
+- Where the fuck you going?
 
 200
-00:22:18,966 --> 00:22:24,174
-Ice-cream castles,
-lips-to-ear rhymes
+00:12:34,668 --> 00:12:35,834
+Yeah!
 
 201
-00:22:24,597 --> 00:22:31,180
-A slumber deeper than time
+00:12:53,787 --> 00:12:55,721
+Fuck!
 
 202
-00:22:33,187 --> 00:22:35,940
-Who are you?
+00:12:55,723 --> 00:12:57,255
+Ah!
 
 203
-00:22:36,107 --> 00:22:39,725
-Slow, love
+00:13:00,895 --> 00:13:02,230
+That's some baller shit.
 
 204
-00:22:40,027 --> 00:22:44,606
-Slow
+00:13:08,169 --> 00:13:11,871
+Hey! Mr., uh, D. Imits,
+Cassius Green here.
 
 205
-00:22:45,490 --> 00:22:50,199
-Only the weak -
+00:13:11,873 --> 00:13:13,839
+Sorry to bother you. I just...
 
 206
-00:22:52,246 --> 00:22:56,623
-are not lonely
+00:13:20,849 --> 00:13:21,984
+Hey, youngblood.
 
 207
-00:23:59,805 --> 00:24:02,177
-Slow
+00:13:24,954 --> 00:13:26,419
+- What up?
+- Lemme give you a tip.
 
 208
-00:24:04,058 --> 00:24:07,310
-Slow, slow
+00:13:26,421 --> 00:13:28,224
+Use your white voice.
 
 209
-00:24:28,789 --> 00:24:33,498
-Slow, love
+00:13:28,956 --> 00:13:30,892
+- My white voice?
+- Yeah.
 
 210
-00:24:34,711 --> 00:24:37,498
-Slow
+00:13:31,627 --> 00:13:33,292
+Man, I ain't got
+no white voice.
 
 211
-00:24:40,257 --> 00:24:44,836
-Slow, slow
+00:13:33,294 --> 00:13:35,462
+Oh, come on, you know
+what I mean, youngblood.
 
 212
-00:25:01,401 --> 00:25:04,687
-You used to play so beautifully, Tom.
+00:13:35,464 --> 00:13:38,766
+You have a white voice in
+there, you can use it.
 
 213
-00:25:05,279 --> 00:25:09,491
-You had a song for every
-little thing in your life.
+00:13:38,768 --> 00:13:41,968
+It's like when you get
+pulled over by the police.
 
 214
-00:25:09,783 --> 00:25:12,026
-It's a shame it had to end.
+00:13:41,970 --> 00:13:44,938
+Oh, no. I just use my regular
+voice when that happens.
 
 215
-00:25:12,328 --> 00:25:14,735
-I understand.
+00:13:44,940 --> 00:13:48,041
+I just say, "Back the fuck up off
+the car and don't nobody get hurt!"
 
 216
-00:25:14,912 --> 00:25:18,283
-Would you quit calling me Tom?
-You don't even know me!
+00:13:48,043 --> 00:13:50,243
+All right, man, I'm just
+trying to give you some game.
 
 217
-00:25:18,458 --> 00:25:21,375
-It's you who no longer
-knows people, Tom.
+00:13:50,245 --> 00:13:52,478
+You wanna make
+some money here?
 
 218
-00:25:21,543 --> 00:25:25,328
-And it's your own fault.
-For feeding him.
+00:13:52,480 --> 00:13:54,750
+Then read the script
+with a white voice.
 
 219
-00:25:33,638 --> 00:25:36,722
-Don't let him take all of you!
+00:13:55,884 --> 00:13:58,553
+Well, people say I talk
+with a white voice anyway,
 
 220
-00:25:47,190 --> 00:25:49,434
-Wait!
+00:13:58,555 --> 00:14:00,120
+so why it ain't
+helping me out?
 
 221
-00:25:58,909 --> 00:26:03,203
-These doors of yours aren't going
-to keep your secrets safe from me.
+00:14:00,122 --> 00:14:02,257
+Well, you don't talk
+white enough.
 
 222
-00:26:12,212 --> 00:26:15,713
-Dad.
-I had a bad dream.
+00:14:02,259 --> 00:14:04,225
+I'm not talkin'
+bout Will Smith white.
 
 223
-00:26:19,970 --> 00:26:23,636
-What are you doing?
-- Nothing.
+00:14:04,227 --> 00:14:05,826
+That ain't white,
+that's just proper.
 
 224
-00:26:24,057 --> 00:26:27,224
-I'm doing nothing at all.
+00:14:05,828 --> 00:14:07,964
+- Mm-hmm.
+- I'm talking about the real deal.
 
 225
-00:26:28,394 --> 00:26:31,265
-It's bedtime.
-Go back to sleep.
+00:14:08,933 --> 00:14:10,398
+Okay, so like...
 
 226
-00:26:31,438 --> 00:26:34,855
-But Dad...
-- Is this about your mother again?
+00:14:10,400 --> 00:14:13,200
+"Hello, Mr. Everet.
+Cassius Green here.
 
 227
-00:26:47,035 --> 00:26:50,203
-The circus...
+00:14:13,202 --> 00:14:15,936
+- Sorry to bother you"...
+- Nah, man. Look, you got it wrong.
 
 228
-00:26:50,371 --> 00:26:53,658
-It's not until tomorrow.
+00:14:15,938 --> 00:14:19,907
+I'm not talking about sounding
+all nasal.
 
 229
-00:26:53,833 --> 00:26:56,834
-Just go to bed.
+00:14:19,909 --> 00:14:22,711
+It's, like, sounding like
+you don't have a care.
 
 230
-00:27:03,008 --> 00:27:04,965
-Dad...
+00:14:22,713 --> 00:14:25,648
+Got your bills paid.
+You're happy about your future.
 
 231
-00:27:06,552 --> 00:27:09,091
-What?
+00:14:25,650 --> 00:14:28,985
+You about ready to jump
+in your Ferrari out there
 
 232
-00:27:09,638 --> 00:27:12,213
-Are you scared?
+00:14:28,987 --> 00:14:30,518
+after you get off this call.
 
 233
-00:27:12,391 --> 00:27:16,437
-How can you be scared of it
-if you've never even seen it?
+00:14:30,520 --> 00:14:33,355
+Put some
+real breath in there.
 
 234
-00:27:16,604 --> 00:27:19,308
-Huh?
+00:14:33,357 --> 00:14:37,493
+Breezy like... "I don't
+really need this money."
 
 235
-00:27:21,398 --> 00:27:24,934
-Look.
-It's just a bunch of clowns.
+00:14:37,495 --> 00:14:39,427
+You've never been fired.
 
 236
-00:27:27,738 --> 00:27:32,614
-And trapeze artists
-...wearing tights...
+00:14:39,429 --> 00:14:41,599
+Only laid off.
 
 237
-00:27:34,577 --> 00:27:36,653
-That's all.
+00:14:42,333 --> 00:14:45,302
+It's not really
+a white voice.
 
 238
-00:27:36,995 --> 00:27:40,081
-Alright Buddy.
+00:14:45,304 --> 00:14:47,603
+It's what they wish
+they sounded like.
 
 239
-00:27:42,000 --> 00:27:44,919
-Back to bed now.
+00:14:47,605 --> 00:14:52,842
+So, it's like what they think
+they're supposed to sound like.
 
 240
-00:27:47,463 --> 00:27:51,082
-Thomas...
-- Yes, sir.
+00:14:52,844 --> 00:14:55,144
+Like this, youngblood.
 
 241
-00:27:57,639 --> 00:28:00,723
-Nothing.
+00:14:55,146 --> 00:14:56,480
+Hey! Mr. Kramer!
 
 242
-00:28:00,891 --> 00:28:04,937
-Bed.Now.
+00:14:56,482 --> 00:14:58,782
+This is Langston
+from Regalview.
 
 243
-00:28:23,328 --> 00:28:25,286
-No!
+00:14:58,784 --> 00:15:01,454
+I didn't catch you
+at the wrong time, did I?
 
 244
-00:28:25,622 --> 00:28:27,200
-No!
+00:15:03,488 --> 00:15:06,457
+If you're ever
+gonna be a Power Caller,
 
 245
-00:28:27,540 --> 00:28:32,369
-... the snow storm is still escalating,
-and the temperature is falling fast.
+00:15:06,459 --> 00:15:10,094
+you gotta know when to
+bag ‘em and when to tag ‘em.
 
 246
-00:28:32,545 --> 00:28:36,543
-Our friends in the weather department
-are forecasting record-breaking cold, -
+00:15:10,096 --> 00:15:14,299
+- Yeah?
+- Hey. Um, what's baggin' and what's taggin'?
 
 247
-00:28:36,715 --> 00:28:40,630
-so it's a good idea to stay indoors,
-especially for the elderly.
+00:15:14,301 --> 00:15:16,934
+Bagging is when
+you drop the call.
 
 248
-00:28:40,802 --> 00:28:44,468
-The authorities are warning of
-possible blackouts, so take extra care.
+00:15:16,936 --> 00:15:18,703
+Like a dead body
+into a bag,
 
 249
-00:28:44,639 --> 00:28:47,557
-Maybe get yourself
-some batteries and candles -
+00:15:18,705 --> 00:15:21,872
+you drop that shit
+'cause it crossed the line.
 
 250
-00:28:47,725 --> 00:28:50,477
-and keep an eye on for your elders.
+00:15:21,874 --> 00:15:25,543
+Tagging is when
+you claim that money.
 
 251
-00:28:53,813 --> 00:28:56,981
-Hello.
+00:15:25,545 --> 00:15:27,312
+It's a sale.
+Cha-ching!
 
 252
-00:29:01,778 --> 00:29:05,148
-Well, well, look at you!
+00:15:27,314 --> 00:15:31,115
+Like when they put the tag on the
+body at the morgue to identify it.
 
 253
-00:29:06,283 --> 00:29:09,782
-You're beautiful!
-- Ann...
+00:15:31,117 --> 00:15:32,517
+That's mine.
 
 254
-00:29:09,952 --> 00:29:13,369
-Of course.
-How did you get in here?
+00:15:32,519 --> 00:15:35,921
+Maybe you already bagged
+that dead body, right?
 
 255
-00:29:13,707 --> 00:29:17,157
-It's a magic trick.
-I can't reveal the secret, -
+00:15:35,923 --> 00:15:39,291
+And you're just about
+to walk away, skip town,
 
 256
-00:29:17,334 --> 00:29:20,786
-but it involved a brick.
+00:15:39,293 --> 00:15:40,925
+lay low for a little while.
 
 257
-00:29:20,962 --> 00:29:23,454
-Well, it's nice to see you.
+00:15:40,927 --> 00:15:44,530
+But instead, you drag
+that heavy fucker
 
 258
-00:29:23,631 --> 00:29:27,843
-What happened to
-"you destroyed my life, you old bitch"?
+00:15:44,532 --> 00:15:48,566
+on out into the alley
+and... then you tag it!
 
 259
-00:29:28,011 --> 00:29:31,924
-Nobody destroyed my life.
-You people just did what you wanted.
+00:15:48,568 --> 00:15:50,334
+Okay. Uh, I... I just...
 
 260
-00:29:32,096 --> 00:29:36,178
-Everyone for themselves, right?
-- That's unfair.
+00:15:50,336 --> 00:15:54,372
+I feel like these metaphors have not
+been cleared for this pep rally.
 
 261
-00:29:37,393 --> 00:29:41,143
-It wasn't like that.
-- Really? What was it like?
+00:15:54,374 --> 00:15:59,112
+- Ah, okay. Diana?
+- Oh! Yes.
 
 262
-00:29:41,314 --> 00:29:44,481
-Because the band, and the tours,
-and the money -
+00:15:59,114 --> 00:16:01,947
+Uh... hi. I'm new,
 
 263
-00:29:44,650 --> 00:29:46,478
-and all that stupid crap...
+00:16:01,949 --> 00:16:04,851
+so forgive me for not knowing
+everyone's name yet.
 
 264
-00:29:46,652 --> 00:29:49,191
-That seemed more important
-to my dad -
+00:16:04,853 --> 00:16:07,522
+My name is Diana...
 
 265
-00:29:49,363 --> 00:29:52,280
-than anything that had to do
-with me or my mom.
+00:16:08,289 --> 00:16:10,525
+Dee-bo-sher-ree.
 
 266
-00:29:52,448 --> 00:29:55,367
-And even when he was home,
-he was never here.
+00:16:11,794 --> 00:16:14,127
+- That looks like "debauchery."
+- Well, it's not.
 
 267
-00:29:55,535 --> 00:29:58,572
-He was always lost
-inside his own mind.
+00:16:14,129 --> 00:16:16,662
+Uh, I am your
+new Team Leader!
 
 268
-00:30:00,580 --> 00:30:02,954
-Anyway I don't care.
+00:16:16,664 --> 00:16:18,197
+And I know you're
+looking at me going,
 
 269
-00:30:03,125 --> 00:30:06,494
-You may have unresolved issues
-with Tom. I don't.
+00:16:18,199 --> 00:16:19,865
+"Is she a manager?
+I'm scared." Okay.
 
 270
-00:30:06,669 --> 00:30:10,002
-Oooh, yeah.
-I can see that.
+00:16:19,867 --> 00:16:22,469
+"She's going to treat me like a
+system of motorized appendages!"
 
 271
-00:30:10,755 --> 00:30:14,801
-Well, it's not like I've ever
-been a part of his life, so...
+00:16:22,471 --> 00:16:24,572
+No, that stops here,
+that stops right now.
 
 272
-00:30:14,968 --> 00:30:18,918
-You were always the most
-important part of his life.
+00:16:24,574 --> 00:16:26,307
+You are not employees to me.
 
 273
-00:30:22,558 --> 00:30:26,010
-There. That's better.
+00:16:26,309 --> 00:16:29,309
+You are Team Members! We're a family now.
+You know what that means?
 
 274
-00:30:29,606 --> 00:30:33,651
-I don't know why he had to
-put the bad ones up too.
+00:16:29,311 --> 00:16:32,280
+It means I lean on you, you lean on me.
+There's a synergy.
 
 275
-00:30:34,652 --> 00:30:38,104
-He just could never let go.
+00:16:33,049 --> 00:16:35,115
+And you can feel that energy.
+I know that you can.
 
 276
-00:30:44,661 --> 00:30:46,737
-How cute!
+00:16:35,117 --> 00:16:37,518
+People are starting to get
+emotional, and I love that.
 
 277
-00:30:47,413 --> 00:30:50,865
-You used to be a happy kid.
+00:16:37,520 --> 00:16:39,456
+Does that mean
+we get paid more?
 
 278
-00:30:51,041 --> 00:30:54,577
-I used to be.
-All thanks to him.
+00:16:41,324 --> 00:16:44,293
+"No." Okay, but what
+is capital? Right?
 
 279
-00:30:56,671 --> 00:31:01,049
-All he ever wanted was...
-was to forget everything.
+00:16:44,295 --> 00:16:46,761
+I would argue that social
+currency now is more important,
 
 280
-00:31:01,551 --> 00:31:04,921
-And move on with you.
+00:16:46,763 --> 00:16:49,130
+and don't take it from me,
+take it from the news.
 
 281
-00:31:05,095 --> 00:31:08,298
-Of course, it didn't work out.
+00:16:49,132 --> 00:16:52,601
+Take it from media, all kinds of
+media: digital, paper, otherwise.
 
 282
-00:31:10,350 --> 00:31:13,885
-You know, Ann,
-it was a long time ago...
+00:16:52,603 --> 00:16:54,334
+Media is changing,
+so is capital.
 
 283
-00:31:14,729 --> 00:31:17,137
-You really should just let it go.
+00:16:54,336 --> 00:16:56,804
+Get with it. I don't want to
+scare you, but it's a new world.
 
 284
-00:31:17,314 --> 00:31:21,444
-When you get old enough,
-you don't fear death anymore.
+00:16:56,806 --> 00:16:59,207
+Okay, Team Members.
+Let's, uh...
 
 285
-00:31:21,609 --> 00:31:25,061
-You wait for it.
-And after a while, you hope for it -
+00:16:59,209 --> 00:17:01,610
+thank you very much, and
+let's all get back to work.
 
 286
-00:31:25,238 --> 00:31:28,440
-even if you don't admit it.
-Do you know why?
+00:17:01,612 --> 00:17:05,347
+Remember! Hit your contacts!
+Up the ante!
 
 287
-00:31:28,617 --> 00:31:33,859
-Because losing your mind before
-you go is worse than dying.
+00:17:05,349 --> 00:17:07,616
+Work the grid! And...
 
 288
-00:31:35,121 --> 00:31:40,164
-You hope you'll check out before
-your brain turns to some mush.
+00:17:07,618 --> 00:17:10,286
+- Stick to the Script.
+- That's right.
 
 289
-00:31:41,878 --> 00:31:44,833
-Yeah, well,
-you still seem pretty sharp.
+00:17:10,288 --> 00:17:13,155
+Any one of you can turn
+Power Caller
 
 290
-00:31:45,005 --> 00:31:48,126
-I'm talking about your father.
+00:17:13,157 --> 00:17:15,561
+and be rollin' in dough!
 
 291
-00:31:49,468 --> 00:31:53,003
-He's in a dark place right now.
+00:17:21,032 --> 00:17:22,801
+Oh, excuse me.
 
 292
-00:31:53,930 --> 00:31:58,343
-Doesn't it bother you
-not knowing how he remembers you?
+00:17:26,169 --> 00:17:28,239
+Ah. Okay.
 
 293
-00:31:58,518 --> 00:32:01,009
-No.
-I think it bothers you more.
+00:17:29,841 --> 00:17:33,846
+Nothing in this office is free,
+man, you gotta put money in there.
 
 294
-00:32:01,187 --> 00:32:04,722
-If he remembers me at all,
-it's as something that was broken -
+00:17:35,113 --> 00:17:36,647
+Oh, re... really?
 
 295
-00:32:04,898 --> 00:32:07,223
-and then put back together.
+00:17:36,649 --> 00:17:38,048
+It's okay, you're not missing out.
+It tastes like shit.
 
 296
-00:32:07,400 --> 00:32:10,318
-And he was never
-really good at fixing things.
+00:17:38,050 --> 00:17:40,119
+Fuck. I thought
+I could get lucky, asshole.
 
 297
-00:32:10,486 --> 00:32:13,441
-He did the best he could.
+00:17:40,954 --> 00:17:44,023
+I was just giving you shit, man.
+I'm... I'm Squeeze.
 
 298
-00:32:14,698 --> 00:32:16,775
-I'm tired.
+00:17:44,756 --> 00:17:46,323
+I've seen you around
+for a couple weeks.
 
 299
-00:32:22,914 --> 00:32:26,330
-You oughta be
-more careful, buddy.
+00:17:46,325 --> 00:17:47,925
+It was a good question
+in there.
 
 300
-00:32:26,500 --> 00:32:30,285
-Or else you're going to turn this
-into a nightmare -No!
+00:17:47,927 --> 00:17:50,996
+Cassius.
+People call me Cash.
 
 301
-00:32:30,462 --> 00:32:33,796
-You're hurting me!
-- You know I would never do that!
+00:17:51,731 --> 00:17:53,633
+It was a really good
+question in there, man.
 
 302
-00:32:33,965 --> 00:32:37,417
-I want what's best for you.
+00:17:54,699 --> 00:17:56,667
+- What, about us getting paid?
+- Yeah.
 
 303
-00:33:15,751 --> 00:33:19,003
-Oh, now this is the real deal.
+00:17:56,669 --> 00:17:58,636
+I mean, I just think
+it's kind of silly
 
 304
-00:33:19,547 --> 00:33:22,549
-Hey buddy!
-What are you doing over there?
+00:17:58,638 --> 00:18:00,405
+that we have
+to be all excited.
 
 305
-00:33:22,717 --> 00:33:25,124
-Come here. They're starting.
+00:18:00,407 --> 00:18:01,973
+- I know, right?
+- It's bullshit.
 
 306
-00:33:31,265 --> 00:33:35,097
-Sorry! Now I get it.
-You're part of the act.
+00:18:01,975 --> 00:18:04,708
+Exactly. I mean, you just cut
+straight to the chase, man.
 
 307
-00:33:35,268 --> 00:33:38,104
-Oh, I gotta see this.
+00:18:04,710 --> 00:18:06,378
+That's awesome.
 
 308
-00:33:46,987 --> 00:33:50,571
-Once upon a time -
+00:18:06,380 --> 00:18:09,247
+A player gotta mob up
+with us for some scrill and bennies.
 
 309
-00:33:50,741 --> 00:33:52,818
-in a daymare
+00:18:09,249 --> 00:18:10,950
+Well, what the fuck
+does that mean?
 
 310
-00:33:52,992 --> 00:33:56,114
-Dying to meet you, little child
+00:18:12,752 --> 00:18:15,820
+Uh, there's
+a bunch of us
 
 311
-00:33:56,371 --> 00:33:58,363
-Enter, enter this sideshow
+00:18:15,822 --> 00:18:19,724
+that are organizing
+to get us paid more.
 
 312
-00:33:58,581 --> 00:34:04,287
-Time for bed the cradle still rocks
+00:18:19,726 --> 00:18:21,226
+Get some benefits.
 
 313
-00:34:04,461 --> 00:34:07,663
-13 chimes on a dead man's clock
+00:18:21,228 --> 00:18:24,565
+We could really use your
+energy to jump things off.
 
 314
-00:34:07,839 --> 00:34:10,248
-Tick-tock, tick-tock, tick-tock
+00:18:25,432 --> 00:18:28,033
+Yeah, look, I gotta
+get back to work, man.
 
 315
-00:34:14,428 --> 00:34:16,505
-Daddy!
+00:18:28,035 --> 00:18:30,770
+Hey, man, look, I'm sorry
+I got you like this,
 
 316
-00:34:21,560 --> 00:34:27,266
-The bride will lure you,
-cook you, eat you
+00:18:30,772 --> 00:18:33,072
+but obviously
+we can't talk here.
 
 317
-00:34:27,440 --> 00:34:33,146
-Your dear innocence boiled to
-feed the evil in need of fear
+00:18:33,074 --> 00:18:36,574
+So, grab a drink later.
+It's on me.
 
 318
-00:34:33,403 --> 00:34:38,741
-Burning farms and squealing pigs
+00:18:52,228 --> 00:18:53,560
+Hey, lady, how much?
 
 319
-00:34:39,075 --> 00:34:43,369
-A pool of snakes to swim with,
-oh sweet poison
+00:18:55,831 --> 00:18:57,229
+- Okay.
+- So, we good?
 
 320
-00:34:43,537 --> 00:34:46,408
-Bite me, bite me
+00:18:57,231 --> 00:18:58,867
+- Yeah.
+- Alright.
 
 321
-00:35:08,184 --> 00:35:11,270
-Ladies and gentlemen!
+00:19:02,336 --> 00:19:04,105
+- Hey.
+- What up?
 
 322
-00:35:11,895 --> 00:35:15,265
-Be heartlessly welcome -
+00:19:05,006 --> 00:19:06,907
+- Who are you?
+- That's Squeeze.
 
 323
-00:35:15,774 --> 00:35:20,401
-to Cirque De Morgue!
+00:19:06,909 --> 00:19:09,243
+- Squeeze.
+- He works with us at Regalview.
 
 324
-00:35:21,362 --> 00:35:26,273
-And what a show we have
-for you tonight!
+00:19:09,245 --> 00:19:10,478
+Squeeze, Detroit.
 
 325
-00:35:29,494 --> 00:35:31,867
-Madam.
+00:19:10,480 --> 00:19:12,813
+- Detroit? That's cool.
+- Yeah.
 
 326
-00:35:33,372 --> 00:35:36,291
-Mr Thomas Whitman!
+00:19:12,815 --> 00:19:15,083
+My parents wanted me to have
+an American name.
 
 327
-00:35:39,420 --> 00:35:42,837
-A composer and a poet!
+00:19:15,085 --> 00:19:16,484
+Nice!
 
 328
-00:35:47,719 --> 00:35:50,590
-A bad, bad father.
+00:19:16,486 --> 00:19:19,586
+And Detroit is a brilliant
+visual and performance artist...
 
 329
-00:35:50,847 --> 00:35:53,848
-With a bad, bad memory!
+00:19:19,588 --> 00:19:21,022
+No, my art is
+not twirling signs.
 
 330
-00:36:08,695 --> 00:36:10,903
-No, please, stop!
+00:19:21,024 --> 00:19:22,890
+...who's about to open
+her first show.
 
 331
-00:36:13,116 --> 00:36:15,359
-No!
+00:19:22,892 --> 00:19:26,727
+Okay, "Mr. Embarrassing Intro Guy."
 
 332
-00:36:16,284 --> 00:36:18,362
-No!
+00:19:26,729 --> 00:19:29,130
+Squeeze, in high school,
+Cash was...
 
 333
-00:36:31,090 --> 00:36:34,625
-Restless souls
-will put on their dancing shoes
+00:19:29,132 --> 00:19:30,698
+Shit!
 
 334
-00:36:34,802 --> 00:36:38,337
-Mindless ghouls
-with lot of limbs to lose.
+00:19:30,700 --> 00:19:32,700
+Stuck... brake.
 
 335
-00:36:38,597 --> 00:36:43,840
-Illusionists, contortionist,
-Tightrope-walkers tightening the noose
+00:19:34,872 --> 00:19:37,738
+Why do you always talk about
+what I did in high school?
 
 336
-00:36:45,352 --> 00:36:48,188
-Oh, look!
-This one's about your wife.
+00:19:37,740 --> 00:19:41,910
+I mean, like, look at our
+high school football team.
 
 337
-00:36:50,190 --> 00:36:53,441
-Just about nothing left of her, I see.
+00:19:41,912 --> 00:19:43,245
+Literally. Look at 'em.
 
 338
-00:36:58,864 --> 00:37:02,115
-Hardly.
-Worth the effort.
+00:19:43,247 --> 00:19:46,215
+All they do is work at the
+home furniture store
 
 339
-00:37:23,511 --> 00:37:28,054
-Memories. It's not like
-you have any real use for them.
+00:19:46,217 --> 00:19:47,950
+and play football all day.
 
 340
-00:37:34,730 --> 00:37:40,020
-We all lose parts of ourselves
-bit by bit -
+00:19:47,952 --> 00:19:50,050
+It's, like, they're stuck
+or something.
 
 341
-00:37:40,192 --> 00:37:42,862
-by bit
+00:19:50,052 --> 00:19:53,390
+Man, what the hell you talkin' bout?
+I mean, they're friends.
 
 342
-00:38:02,921 --> 00:38:05,128
-What?
+00:19:54,558 --> 00:19:58,097
+Baby, can you please not talk
+about the sun exploding tonight?
 
 343
-00:38:05,839 --> 00:38:09,423
-What the hell?
-That's not how it turns out!
+00:19:59,129 --> 00:20:00,198
+Okay.
 
 344
-00:38:26,400 --> 00:38:29,520
-Stop! That's all wrong!
-Don't change it!
+00:20:04,368 --> 00:20:07,202
+Yeah, but you know,
+I... I just... at the end of the day
 
 345
-00:38:35,533 --> 00:38:37,989
-You're wrecking it!
+00:20:07,204 --> 00:20:09,873
+I just don't want to be
+stuck in their position.
 
 346
-00:38:51,130 --> 00:38:55,044
-Thomas.
-- Yes, sir. -Nothing.
+00:20:09,875 --> 00:20:11,574
+Ah, shit.
 
 347
-00:43:22,451 --> 00:43:25,157
-Goddammit!
+00:20:11,576 --> 00:20:13,809
+D, wiper duty, please.
 
 348
-00:43:41,593 --> 00:43:45,674
-How many digits
-do these things usually have?
+00:20:13,811 --> 00:20:16,480
+Come on, man.
+I never get wiper duty.
 
 349
-00:43:45,972 --> 00:43:48,131
-I don't know.
+00:20:16,482 --> 00:20:18,914
+You can wipe my ass, Sal.
 
 350
-00:43:48,308 --> 00:43:51,808
-Just don't try to break it.
-It won't work.
+00:20:18,916 --> 00:20:21,318
+Oh, really? With what?
+My tongue?
 
 351
-00:43:52,228 --> 00:43:56,307
-We need to get this stupid thing open.
+00:20:21,320 --> 00:20:23,988
+Well, shit, it might make your
+breath smell a little bit better.
 
 352
-00:43:57,191 --> 00:43:59,516
-Why, Ann?
+00:20:23,990 --> 00:20:27,223
+- <i>♫ Shitty breath, Sal ♫</i>
+- <i>♫ Sal ♫</i>
 
 353
-00:43:59,693 --> 00:44:03,738
-Cause when Tom locks
-something away, it's important.
+00:20:27,225 --> 00:20:30,664
+- <i>♫ Shitty breath, Sal ♫</i>
+- Oh God.
 
 354
-00:44:04,280 --> 00:44:08,029
-Well, he didn't have any money.
-You guys pissed all of it away.
+00:20:31,963 --> 00:20:33,933
+<i>♫ The shittiest breah
+in Oakland ♫</i>
 
 355
-00:44:08,200 --> 00:44:11,237
-A little bitter, are we?
+00:20:38,671 --> 00:20:40,971
+Keeping turning, Troit.
+Turn.
 
 356
-00:44:11,411 --> 00:44:15,872
-About having to pay for his care,
-actually, yes, I am.
+00:20:40,973 --> 00:20:43,406
+<i>...the fourth day of violent protests</i>
 
 357
-00:44:17,458 --> 00:44:19,701
-You did a good thing.
+00:20:43,408 --> 00:20:44,876
+<i>at Worryfree headquarters.</i>
 
 358
-00:44:19,877 --> 00:44:24,504
-You let him stay here, at home,
-with his memories.
+00:20:44,878 --> 00:20:47,011
+<i>Protesters say
+Worryfree's method</i>
 
 359
-00:44:24,673 --> 00:44:27,840
-Not so bad for somebody
-who doesn't care about her father.
+00:20:47,013 --> 00:20:48,847
+<i>of lifetime
+labor contracts</i>
 
 360
-00:44:28,009 --> 00:44:30,501
-What were my options?
+00:20:48,849 --> 00:20:50,815
+<i>is a new form
+of slavery.</i>
 
 361
-00:44:30,720 --> 00:44:34,932
-It was either that or have every
-goddamn family friend drown me in guilt.
+00:20:50,817 --> 00:20:53,084
+<i>Worryfree CEO Steve Lift</i>
 
 362
-00:44:35,098 --> 00:44:37,306
-Nonsense.
+00:20:53,086 --> 00:20:55,287
+<i>was interviewed
+on Oprah today.</i>
 
 363
-00:44:37,476 --> 00:44:41,391
-This family has been out of friends
-for at least a decade, sweetheart.
+00:20:55,289 --> 00:20:57,556
+<i>No. Conclusively no.</i>
 
 364
-00:44:41,563 --> 00:44:46,391
-I wonder why. What with Tom being
-so famous for caring about people...
+00:20:57,558 --> 00:20:59,524
+<i>Our workers
+do not sign contracts</i>
 
 365
-00:44:48,110 --> 00:44:50,684
-I keep telling you.
+00:20:59,526 --> 00:21:00,858
+<i>under threats
+of physical violence</i>
 
 366
-00:44:50,863 --> 00:44:53,818
-He cared.
+00:21:00,860 --> 00:21:02,661
+<i>so, therefore,
+the comparison to slavery</i>
 
 367
-00:45:08,544 --> 00:45:12,045
-Another magic trick!
+00:21:02,663 --> 00:21:05,497
+<i>is just ludicrous
+and offensive.</i>
 
 368
-00:45:12,215 --> 00:45:15,915
-He picks something that he knew
-he would never forget.
+00:21:05,499 --> 00:21:08,300
+<i>We're transforming
+life itself.</i>
 
 369
-00:45:16,092 --> 00:45:18,501
-What a cliche!
+00:21:08,302 --> 00:21:09,668
+<i>We're saving the economy.</i>
 
 370
-00:45:21,932 --> 00:45:24,305
-What's in there?
+00:21:09,670 --> 00:21:11,472
+<i>I mean, we're...
+we're saving lives.</i>
 
 371
-00:45:39,531 --> 00:45:43,363
-"but all I am
-is smoke and mirrors"
+00:21:12,340 --> 00:21:14,373
+<i>It's all highlighted in my book.
+I lay out the whole thing.</i>
 
 372
-00:45:49,915 --> 00:45:52,702
-It's about him.
+00:21:14,375 --> 00:21:16,509
+<i>Many of the violent protesters</i>
 
 373
-00:45:52,875 --> 00:45:55,035
-There's a shock!
+00:21:16,511 --> 00:21:18,243
+<i>are part
+of the "Left Eye Faction"</i>
 
 374
-00:46:15,520 --> 00:46:18,522
-"Miracles come in small packages"
+00:21:18,245 --> 00:21:21,347
+<i>and are identifiable by the black
+mark under their left eye.</i>
 
 375
-00:46:18,690 --> 00:46:23,850
-"It takes so little to turn a child into
-the most fortunate being in the world"
+00:21:21,349 --> 00:21:23,383
+<i>There's no employment
+for many people.</i>
 
 376
-00:47:32,672 --> 00:47:34,664
-No! Stop!
+00:21:23,385 --> 00:21:26,418
+<i>Even sweat shops have been replaced
+by Worryfree LiveWork Centers.</i>
 
 377
-00:47:40,135 --> 00:47:42,094
-Leave me alone!
-I hate you!
+00:21:26,420 --> 00:21:27,787
+<i>These places are prisons,</i>
 
 378
-00:47:42,263 --> 00:47:44,671
-Wait!
-Who are you?
+00:21:27,789 --> 00:21:29,421
+<i>and we're packed
+in there like sardines,</i>
 
 379
-00:48:17,336 --> 00:48:19,412
-Wait!
+00:21:29,423 --> 00:21:32,225
+<i>fed cheap slop, and worked
+to the bone 14 hours a day.</i>
 
 380
-00:49:04,084 --> 00:49:07,953
-So. Satisfied now, are we?
+00:21:32,227 --> 00:21:35,428
+I Got the Shit Kicked
+Out of Me!
 
 381
-00:49:08,131 --> 00:49:12,210
-Yes. Because this...
-this is what I grew up with.
+00:21:38,900 --> 00:21:41,201
+All I'm saying is if
+you don't cook the spaghetti
 
 382
-00:49:12,718 --> 00:49:15,885
-Scattered pages,
-songs, words of wisdom.
+00:21:41,203 --> 00:21:43,870
+in the sauce with the
+cheese in it first,
 
 383
-00:49:16,054 --> 00:49:19,221
-Fairy tales all around me.
+00:21:43,872 --> 00:21:47,339
+- that's some white shit.
+- That's some bullshit man.
 
 384
-00:49:19,389 --> 00:49:23,056
-You see that thing?
-His precious arabesque?
+00:21:47,341 --> 00:21:49,976
+You don't get to decide what's
+black and what's white.
 
 385
-00:49:23,227 --> 00:49:27,224
-His princess. He said the dancer
-inside would spin -
+00:21:49,978 --> 00:21:52,478
+Well, that-that... but that's
+how black folks do it, man.
 
 386
-00:49:27,396 --> 00:49:30,766
-if I managed to play the chords right
-when I was learning the piano.
+00:21:52,480 --> 00:21:55,349
+- No, nigga, I'm black.
+- We talked about that, man.
 
 387
-00:49:30,942 --> 00:49:32,734
-Look, Gem...
-- No!
+00:21:55,351 --> 00:21:57,251
+You kind of black,
+you Lionel-Richie black.
 
 388
-00:49:32,902 --> 00:49:36,353
-His idea of raising me was to feed
-me these endless pipe dreams -
+00:21:57,253 --> 00:22:00,088
+Look, I... I make my noodles,
 
 389
-00:49:36,530 --> 00:49:38,440
-and weird monologues.
+00:22:00,090 --> 00:22:02,290
+then I put the sauce on,
+then... look it,
 
 390
-00:49:38,616 --> 00:49:40,692
-Because everything
-was a performance to him.
+00:22:02,292 --> 00:22:04,024
+then I put a little,
+uh, Parmesan...
 
 391
-00:49:40,866 --> 00:49:43,988
-And he did the same thing
-to my mom. Strung her along.
+00:22:04,026 --> 00:22:05,559
+it doesn't even
+fucking matter, alright,
 
 392
-00:49:44,161 --> 00:49:47,994
-Kept making and breaking promises.
-And she always believed him!
+00:22:05,561 --> 00:22:06,994
+'cause pasta
+is from Italy.
 
 393
-00:49:48,164 --> 00:49:51,084
-Always!
-And he always disappointed her!
+00:22:06,996 --> 00:22:08,161
+Italians ain't white!
 
 394
-00:49:51,252 --> 00:49:53,921
-Because you, you came first!
+00:22:08,163 --> 00:22:09,731
+- Yes, they are, bro.
+- Yes, they are!
 
 395
-00:49:54,087 --> 00:49:58,251
-And then, she ended up dead
-because of you.
+00:22:09,733 --> 00:22:11,498
+Since the fuck when?
 
 396
-00:50:01,135 --> 00:50:04,006
-I hope it was worth it.
+00:22:11,500 --> 00:22:13,767
+Since the last
+60 years, man.
 
 397
-00:50:06,472 --> 00:50:09,095
-Ouch! Shit!
+00:22:13,769 --> 00:22:15,035
+Spaghetti is Chinese.
 
 398
-00:50:11,311 --> 00:50:14,348
-Bonjour, mon general!
+00:22:15,037 --> 00:22:18,071
+Speaking of white,
+I'm gonna make a toast.
 
 399
-00:50:14,855 --> 00:50:20,479
-This. This is how small I was
-in his magical, musical world.
+00:22:18,073 --> 00:22:19,543
+- Come on.
+- A'ight.
 
 400
-00:50:21,027 --> 00:50:25,191
-D'you know he'd written songs
-for everyone around him?
+00:22:20,577 --> 00:22:21,879
+Okay.
 
 401
-00:50:25,740 --> 00:50:28,066
-Maybe even for this little bastard here.
+00:22:25,282 --> 00:22:28,050
+To my esteemed
+Regalview associates
 
 402
-00:50:28,242 --> 00:50:32,787
-But never...
-never for my mom or me.
+00:22:28,052 --> 00:22:30,753
+whom I revere
+with great fervor...
 
 403
-00:51:04,316 --> 00:51:08,813
-Un, deux, trois, quatre!
-
-404
-00:51:10,362 --> 00:51:14,408
-Bonjour, mon general!
-You were fortunate to find your way.
-
-405
-00:51:15,034 --> 00:51:18,319
-What's happening?
-Where am I?
-
-406
-00:51:18,494 --> 00:51:21,117
-Why the battlefield, Sir.
-
-407
-00:51:21,289 --> 00:51:24,659
-You've fought in this room
-for many years. Ha!
-
-408
-00:51:24,833 --> 00:51:28,832
-I'm ashamed that I wounded you
-so grievously. And for nothing.
-
-409
-00:51:29,004 --> 00:51:32,872
-I don't know what you mean.
-- Please, Sir, don't spare my feelings.
-
-410
-00:51:33,049 --> 00:51:37,878
-It was a mighty blow I struck.
-I can only beg for your forgiveness.
-
-411
-00:51:38,888 --> 00:51:43,217
-I stepped on you.
-- Tut-tut! I ambushed you.
-
-412
-00:51:43,392 --> 00:51:46,263
-But, Sir, my motives were pure.
-
-413
-00:51:46,435 --> 00:51:51,478
-It was a brave attempt to stop you
-from going with the accursed snowman.
-
-414
-00:51:51,649 --> 00:51:54,057
-That evil pig!
-
-415
-00:51:55,611 --> 00:51:58,860
-It's the memories, Sir.
-
-416
-00:51:59,030 --> 00:52:03,823
-He takes them!
-Takes you further in the darkness.
-
-417
-00:52:06,370 --> 00:52:10,238
-But why?
-- You got old!
-
-418
-00:52:10,540 --> 00:52:15,333
-Still, you've got the best of him...
-at least for now.
-
-419
-00:52:15,670 --> 00:52:18,458
-The best memories hurt him.
-
-420
-00:52:18,632 --> 00:52:22,001
-You've chased the very best one.
-
-421
-00:52:23,218 --> 00:52:27,466
-That girl...
-- Yes! Your daughter!
-
-422
-00:52:28,806 --> 00:52:33,351
-What a girl! What a memory!
-Ah, c'est magnifique!
-
-423
-00:52:33,520 --> 00:52:37,813
-You remember best through the things
-you both shared as children.
-
-424
-00:52:37,981 --> 00:52:42,394
-Like myself or
-the pretty mademoiselle -
-
-425
-00:52:42,568 --> 00:52:44,977
-within the glass bubble.
-
-426
-00:52:45,154 --> 00:52:48,986
-Hm, yes You loved us well
-and so did your daughter.
-
-427
-00:52:49,991 --> 00:52:52,947
-I don't remember her
-- Ah, well...
-
-428
-00:52:53,120 --> 00:52:56,987
-There's nothing to be done then
-C'est la vie!
-
-429
-00:52:57,164 --> 00:52:59,739
-This is as far as we go.
-
-430
-00:53:01,294 --> 00:53:03,867
-No. -Sir
-
-431
-00:53:08,090 --> 00:53:10,167
-I need your help.
-
-432
-00:53:10,384 --> 00:53:14,217
-I need to remember her.
-
-433
-00:53:15,014 --> 00:53:17,553
-I need to find her!
-
-434
-00:53:18,641 --> 00:53:21,643
-Comrades!
-
-435
-00:53:27,025 --> 00:53:30,773
-En avant! Marche!
-
-436
-00:53:40,995 --> 00:53:44,245
-You still have memories
-that were precious to you.
-
-437
-00:53:44,414 --> 00:53:48,283
-You hid them. We know where
-It's not too far.
-
-438
-00:53:48,460 --> 00:53:51,497
-I don't think I have many left.
-- Oh, no.
-
-439
-00:53:51,671 --> 00:53:54,245
-I don't even know
-who am I anymore.
-
-440
-00:53:54,422 --> 00:53:56,417
-We all take wounds, Sir.
-
-441
-00:53:56,592 --> 00:53:59,214
-I'm sorry about that.
-- Don't be, Sir.
-
-442
-00:53:59,386 --> 00:54:02,222
-I'm a mere soldier.
-Just a casualty of war.
-
-443
-00:54:02,472 --> 00:54:06,422
-You could have disposed of us
-Instead, you handed us on, -
-
-444
-00:54:06,601 --> 00:54:09,851
-and you told your daughter
-how important we were.
-
-445
-00:54:10,020 --> 00:54:13,141
-Hourra! Hourra!
-
-446
-00:54:34,291 --> 00:54:37,661
-We have to hurry, Sir.
-
-447
-00:54:38,837 --> 00:54:41,460
-The night your mother
-had the accident...
-
-448
-00:54:41,632 --> 00:54:45,465
-If Tom had gotten home earlier,
-things might have been different.
-
-449
-00:54:45,636 --> 00:54:48,803
-He was with you, Ann!
-- It's not what you think.
-
-450
-00:54:50,139 --> 00:54:54,089
-Back then,
-my life was out of control.
-
-451
-00:54:54,268 --> 00:54:57,435
-Things were crazy,
-with the band, with everything.
-
-452
-00:54:57,603 --> 00:55:00,391
-It got too much for me.
-
-453
-00:55:00,898 --> 00:55:04,481
-I took some pills. But I didn't
-take enough, because I woke up.
-
-454
-00:55:04,651 --> 00:55:09,694
-And then, when I did, Tom was there.
-I didn't plan it that way.
-
-455
-00:55:10,282 --> 00:55:14,067
-I don't want to hear this.
-- He stayed with me.
-
-456
-00:55:14,910 --> 00:55:18,660
-But he would not look at me,
-not after what I had done.
-
-457
-00:55:18,831 --> 00:55:22,995
-I bet that little stunt really screwed
-with your precious band.
-
-458
-00:55:23,168 --> 00:55:26,585
-No, no.
-Yeah, it was the end of the band.
-
-459
-00:55:26,880 --> 00:55:31,626
-True, but no, you see,
-what I'd done was.
-
-460
-00:55:32,134 --> 00:55:36,596
-Ah, I don't know,
-too personal for him.
-
-461
-00:55:39,682 --> 00:55:43,017
-You don't know.
-- Know what?
-
-462
-00:55:43,186 --> 00:55:45,678
-Oh, Gem, honey.
-
-463
-00:55:45,855 --> 00:55:50,517
-You don't know that
-Tom's father killed himself?
-
-464
-00:55:50,691 --> 00:55:54,821
-Yeah Theodore Whitman shot
-himself in the head.
-
-465
-00:55:55,029 --> 00:55:58,778
-And Tom watched it happen.
-
-466
-00:56:00,117 --> 00:56:04,281
-What I did was hard on him.
-
-467
-00:56:04,871 --> 00:56:09,284
-And that night,
-your mother had the accident.
-
-468
-00:56:11,085 --> 00:56:14,205
-That's what broke up the band.
-
-469
-00:56:14,421 --> 00:56:19,380
-He didn't care but he knew
-he was going to lose you as well.
-
-470
-00:56:22,053 --> 00:56:24,177
-Why are you telling me this?
-
-471
-00:56:24,347 --> 00:56:27,846
-Because I don't think
-you know your father at all.
-
-472
-00:56:28,016 --> 00:56:32,063
-He worshipped Theodore
-in spite of his dark moods.
-
-473
-00:56:33,104 --> 00:56:37,020
-From what Tom told me,
-he could be really mean.
-
-474
-00:56:37,608 --> 00:56:42,816
-So, when Tom felt himself
-going down the same path, -
-
-475
-00:56:43,781 --> 00:56:46,402
-he pushed you away.
-
-476
-00:56:48,868 --> 00:56:52,818
-I know.
-He pushed very hard.
-
-477
-00:57:32,282 --> 00:57:35,865
-We have arrived, Sir.
-
-478
-00:57:54,343 --> 00:57:57,130
-I remember...
-
-479
-00:58:04,435 --> 00:58:08,682
-Yes, I locked them away!
-They're here!
-
-480
-00:58:09,647 --> 00:58:14,642
-May I say, Sir, it has been
-a pleasure to serve you and yours.
-
-481
-00:58:45,179 --> 00:58:47,800
-"Miracles come in small packages.
-
-482
-00:58:47,972 --> 00:58:52,885
-It takes so little to turn a child into
-the most fortunate being in the world"
-
-483
-00:58:53,310 --> 00:58:57,524
-"It wasn't much of a circus.
-It was cheap, shabby and rundown.
-
-484
-00:58:58,315 --> 00:59:01,566
-And she was enchanted
-by everything she saw, -
-
-485
-00:59:01,734 --> 00:59:03,977
-laughing and squeezing my hand.
-
-486
-00:59:04,153 --> 00:59:08,366
-The first time I felt like a father,
-watching her smile"
-
-487
-00:59:11,994 --> 00:59:14,830
-Why couldn't he just told me this?
-
-488
-00:59:14,997 --> 00:59:19,126
-He did tell you, in his way,
-the only way he knew.
-
-489
-00:59:19,458 --> 00:59:24,916
-Oh man, I was always hoping
-there might be something -
-
-490
-00:59:25,089 --> 00:59:28,423
-that would make it all worthwhile.
-
-491
-00:59:28,592 --> 00:59:32,128
-Not this nonsense.
-- Oh my God!
-
-492
-00:59:32,721 --> 00:59:36,766
-These aren't just scattered
-thoughts or feelings. Look!
-
-493
-00:59:41,645 --> 00:59:45,513
-Mon dieu! A l'attaque!
-
-494
-01:00:02,038 --> 01:00:05,491
-Some of this is complete,
-but the rest...
-
-495
-01:00:06,458 --> 01:00:09,875
-His words stop or just trail off.
-
-496
-01:00:11,130 --> 01:00:14,250
-Gaps, spaces...
-
-497
-01:00:27,977 --> 01:00:32,806
-"She's a true reflection of her mother,
-my broken missing love.
-
-498
-01:00:33,733 --> 01:00:37,566
-So small but as wise
-and as beautiful as she was.
-
-499
-01:00:40,197 --> 01:00:43,816
-I am proud with love.
-
-500
-01:00:43,991 --> 01:00:46,697
-Now I push her away"
-
-501
-01:00:46,869 --> 01:00:50,405
-"She must not share my darkness.
-
-502
-01:00:50,580 --> 01:00:54,709
-I hope she'll understand one day"
-
-503
-01:00:55,835 --> 01:01:00,296
-So this is where you stashed
-all the good stuff, huh?
-
-504
-01:01:01,882 --> 01:01:06,462
-What? This? I just took
-a bit of a beating, is all.
-
-505
-01:01:06,970 --> 01:01:09,639
-You should see your little friends.
-
-506
-01:01:09,806 --> 01:01:12,379
-I know what you've been up to.
-Congratulations.
-
-507
-01:01:12,559 --> 01:01:14,219
-What did we learn, huh?
-
-508
-01:01:14,394 --> 01:01:17,146
-Your daddy had his fill of you,
-took his own life.
-
-509
-01:01:17,312 --> 01:01:19,139
-The songbird tried the same trick.
-
-510
-01:01:19,313 --> 01:01:21,308
-Then there's your little girl...
-She hates you.
-
-511
-01:01:21,482 --> 01:01:23,275
-Nothing left if you ask me...
-
-512
-01:01:23,443 --> 01:01:25,769
-It seems like
-you don't have much left either.
-
-513
-01:01:25,945 --> 01:01:27,737
-I've got one thing:
-
-514
-01:01:28,281 --> 01:01:30,073
-Magic.
-
-515
-01:01:30,241 --> 01:01:34,453
-Light brings darkness.
-What sweet irony.
-
-516
-01:01:36,495 --> 01:01:39,830
-It's your world, your rules.
-
-517
-01:01:40,625 --> 01:01:44,409
-Now I wonder who dreamed that up.
-
-518
-01:01:48,048 --> 01:01:50,255
-And here it comes.
-
-519
-01:01:50,425 --> 01:01:54,091
-It's like watching
-your greatest fear come alive.
-
-520
-01:02:29,501 --> 01:02:35,255
-A crow flew to me,
-kept its distance
-
-521
-01:02:35,590 --> 01:02:40,003
-Such a proud creation
-
-522
-01:02:40,595 --> 01:02:45,257
-I saw its soul,
-envied its pride
-
-523
-01:02:45,431 --> 01:02:49,679
-But needed nothing it had.
-
-524
-01:02:49,852 --> 01:02:55,476
-An owl came to me, old and wise
-
-525
-01:02:55,982 --> 01:02:59,317
-Pierced right through my youth
-
-526
-01:03:00,694 --> 01:03:05,570
-I learned its ways,
-envied its sense
-
-527
-01:03:05,740 --> 01:03:10,118
-But needed nothing it had.
-
-528
-01:03:10,286 --> 01:03:15,578
-A dove came to me,
-had no fear
-
-529
-01:03:15,749 --> 01:03:20,045
-It rested on my arm
-
-530
-01:03:20,838 --> 01:03:25,713
-I touched its calm,
-envied its love
-
-531
-01:03:25,926 --> 01:03:30,968
-But needed nothing it had.
-
-532
-01:03:31,722 --> 01:03:36,597
-A swan of white,
-she came to me
-
-533
-01:03:36,767 --> 01:03:41,810
-The lake mirrored
-her beauty sweet
-
-534
-01:03:41,981 --> 01:03:46,774
-I kissed her neck,
-adored her grace
-
-535
-01:03:46,944 --> 01:03:52,235
-But needed nothing she could give.
-
-536
-01:03:54,742 --> 01:03:57,530
-Ann. Ann!
-
-537
-01:03:58,913 --> 01:04:01,286
-Look!
-
-538
-01:04:09,630 --> 01:04:12,632
-That's your dad for you.
-
-539
-01:04:14,176 --> 01:04:18,008
-Yeah, but just look at it.
-I mean, he did all this by hand.
-
-540
-01:04:18,179 --> 01:04:21,382
-There are spaces,
-things he didn't finish.
-
-541
-01:04:21,933 --> 01:04:25,136
-He started writing things down -
-
-542
-01:04:25,311 --> 01:04:29,227
-when he realized
-that he was losing his mind.
-
-543
-01:04:31,191 --> 01:04:34,311
-So where is the last page?
-
-544
-01:04:42,577 --> 01:04:45,115
-What was it?
-
-545
-01:04:52,585 --> 01:04:56,452
-All these fragments, memories...
-
-546
-01:04:56,923 --> 01:04:58,796
-It's his life.
-
-547
-01:04:58,965 --> 01:05:02,881
-Oh great.
-- Hold on, I'll check if it's a fuse.
-
-548
-01:05:14,437 --> 01:05:18,353
-Yep, it's the power:
-Of course, the phone's dead.
-
-549
-01:05:26,030 --> 01:05:28,737
-I'm going over there.
-
-550
-01:05:32,120 --> 01:05:35,405
-Oh! Goddammit.
-I can't call a cab.
-
-551
-01:05:35,581 --> 01:05:39,115
-Hey, I got a car.
-- Really? Let's go.
-
-552
-01:05:54,806 --> 01:05:57,345
-Sorry, old man.
-
-553
-01:05:57,517 --> 01:06:00,969
-Your daughter's
-not picking up her phone.
-
-554
-01:06:01,145 --> 01:06:03,305
-Must be the storm.
-
-555
-01:06:15,449 --> 01:06:19,365
-No!
-Not yet! I'm not finished!
-
-556
-01:06:55,777 --> 01:06:58,862
-It's nearly over now!
-
-557
-01:07:02,866 --> 01:07:05,902
-What are you gonna do,
-outmaneuver me?
-
-558
-01:07:06,078 --> 01:07:08,237
-You're on a track, you idiot!
-
-559
-01:07:08,412 --> 01:07:12,458
-I know what's down there,
-and you're not going to like it!
-
-560
-01:07:47,197 --> 01:07:49,605
-I won't let you do this!
-
-561
-01:07:55,662 --> 01:07:58,747
-You won't get that lucky again!
-
-562
-01:08:33,696 --> 01:08:36,318
-E minor!
-
-563
-01:08:36,490 --> 01:08:40,025
-I was right
-She did spin!
-
-564
-01:09:55,559 --> 01:09:59,225
-You hurry right in, I'll park the car.
-
-565
-01:10:00,147 --> 01:10:03,516
-Go! I'll be right with you!
-
-566
-01:10:27,212 --> 01:10:31,292
-I've got you now.
-I'm all the future you'll ever have.
-
-567
-01:10:31,466 --> 01:10:33,174
-Buddy!
-
-568
-01:10:33,342 --> 01:10:36,677
-No!
-You won't take my life from me again!
-
-569
-01:10:36,846 --> 01:10:40,512
-But I am gonna make
-what's left of it a living hell
-
-570
-01:10:40,683 --> 01:10:43,055
-But why?
-- Like you don't know.
-
-571
-01:10:43,226 --> 01:10:47,769
-All your music, all your hopes,
-they're just ruins and blank canvas now.
-
-572
-01:10:47,938 --> 01:10:51,308
-I'm all that you can bring to mind
-You tell me why!
-
-573
-01:10:51,483 --> 01:10:55,066
-I can't help it!
-- You always knew I was poison!
-
-574
-01:10:55,236 --> 01:10:58,155
-You could have chosen her
-if you'd cut me down to size.
-
-575
-01:10:58,323 --> 01:11:01,942
-But you built me stronger every year!
-- I had to!
-
-576
-01:11:02,118 --> 01:11:05,203
-I never wanted to lose
-the memory of you!
-
-577
-01:11:05,370 --> 01:11:08,787
-I've wiped you clean of useless
-dreams and memories, -
-
-578
-01:11:08,956 --> 01:11:11,495
-you weak little brat.
-- Dad, please!
-
-579
-01:11:11,667 --> 01:11:15,713
-I'll drag you down with me!
-You always knew I would:!
-
-580
-01:11:15,880 --> 01:11:18,882
-Dad! Stop!
-
-581
-01:11:28,557 --> 01:11:31,643
-I have to let you go.
-
-582
-01:11:52,078 --> 01:11:54,155
-Daddy.
-
-583
-01:11:54,831 --> 01:11:56,789
-Daddy.
-
-584
-01:12:41,163 --> 01:12:44,117
-Thanks for the ride.
-
-585
-01:13:49,640 --> 01:13:53,010
-Sleep tight, Princess.
-
-586
-01:14:29,258 --> 01:14:31,751
-I'm here.
-
-587
-01:14:34,846 --> 01:14:37,339
-I'm so sorry.
-
-588
-01:14:43,938 --> 01:14:46,810
-Daddy.
-
-589
-01:14:55,614 --> 01:14:58,533
-Is this what you want?
-
-590
-01:15:08,710 --> 01:15:11,118
+00:22:30,755 --> 00:22:32,353
 What?
 
+404
+00:22:32,355 --> 00:22:36,260
+...and to my alluring and
+phenomenally talented fiancée...
+
+405
+00:22:38,261 --> 00:22:40,595
+I'd like to dedicate
+this imbibing
+
+406
+00:22:40,597 --> 00:22:42,331
+of intoxicating elixirs.
+
+407
+00:22:42,333 --> 00:22:45,435
+Here's to becoming
+a Power Caller!
+
+408
+00:22:53,644 --> 00:22:55,144
+Cassius,
+how'd you do that?
+
+409
+00:22:55,146 --> 00:22:57,781
+Old man at the jobby-job.
+
+410
+00:22:57,783 --> 00:22:58,948
+It's called the white voice.
+
+411
+00:22:58,950 --> 00:23:00,883
+I guess I'm...
+a natural at it.
+
+412
+00:23:00,885 --> 00:23:03,085
+That was all some
+puppet-master voodoo shit!
+
+413
+00:23:03,087 --> 00:23:04,554
+Dude, you sounded
+overdubbed.
+
+414
+00:23:04,556 --> 00:23:07,290
+Man, your white voice, man,
+it's fucking scary.
+
+415
+00:23:07,292 --> 00:23:09,192
+Yeah, I've never seen
+that shit before.
+
+416
+00:23:09,194 --> 00:23:12,630
+But I have heard about that Power
+Caller shit that you're talking about.
+
+417
+00:23:12,632 --> 00:23:13,664
+That's a scam.
+
+418
+00:23:13,666 --> 00:23:15,268
+- Oh, yeah?
+- Yeah.
+
+419
+00:23:16,068 --> 00:23:17,735
+"If you work
+hard enough as a fry cook,
+
+420
+00:23:17,737 --> 00:23:19,902
+maybe you can become
+a manager!"
+
+421
+00:23:19,904 --> 00:23:23,372
+Or... or "If you twirl
+that sign really well,
+
+422
+00:23:23,374 --> 00:23:27,111
+then maybe you can twirl a larger
+sign on a more glamorous corner."
+
+423
+00:23:27,113 --> 00:23:29,045
+No, I already have
+the best corner,
+
+424
+00:23:29,047 --> 00:23:32,049
+and the biggest sign,
+and the best word. "Off."
+
+425
+00:23:32,051 --> 00:23:33,785
+It is the anchor to the slogan.
+
+426
+00:23:33,787 --> 00:23:35,586
+- So...
+- So, what's the point then?
+
+427
+00:23:35,588 --> 00:23:39,123
+What you think, I'm just supposed
+to work, eat, fuck, sleep?
+
+428
+00:23:39,125 --> 00:23:42,462
+No, I'm... I'm not saying that.
+I'm saying what we need...
+
+429
+00:23:44,597 --> 00:23:46,632
+We need a union
+at Regalview.
+
+430
+00:23:46,634 --> 00:23:48,200
+That way,
+we all get paid.
+
+431
+00:23:48,202 --> 00:23:51,902
+Okay. Okay. Well said, broham.
+
+432
+00:23:51,904 --> 00:23:53,607
+I'm down.
+
+433
+00:23:59,713 --> 00:24:01,646
+- Hey, Cassius.
+- Hey, Serg.
+
+434
+00:24:01,648 --> 00:24:04,884
+Uh, look, I get paid Friday, so
+I'll have half your money by then.
+
+435
+00:24:04,886 --> 00:24:06,318
+Even if you had
+all the money,
+
+436
+00:24:06,320 --> 00:24:08,520
+your little four month's
+rent wouldn't help me.
+
+437
+00:24:08,522 --> 00:24:09,922
+I owe too much.
+
+438
+00:24:09,924 --> 00:24:11,724
+If I don't come up
+with a boatload of money
+
+439
+00:24:11,726 --> 00:24:13,394
+by next month...
+which I won't...
+
+440
+00:24:14,162 --> 00:24:16,028
+the bank is
+taking my shit.
+
+441
+00:24:16,030 --> 00:24:17,933
+You should find
+a new place.
+
+442
+00:24:19,201 --> 00:24:20,100
+Damn.
+
+443
+00:24:20,102 --> 00:24:22,604
+It's making
+my diabetes act up.
+
+444
+00:24:28,511 --> 00:24:29,609
+So, what you gonna do?
+
+445
+00:24:29,611 --> 00:24:32,078
+I've been talkin' to those
+Worryfree people.
+
+446
+00:24:32,080 --> 00:24:35,315
+They sent me a brochure.
+It don't sound that bad.
+
+447
+00:24:35,317 --> 00:24:37,550
+Three hots and a cot,
+like we used to say.
+
+448
+00:24:37,552 --> 00:24:40,186
+- Oh, hell no, sir. Come on.
+- No, don't... don't do that.
+
+449
+00:24:40,188 --> 00:24:42,057
+Look, we'll figure
+something out.
+
+450
+00:24:43,059 --> 00:24:44,692
+Yes, I'm so sorry
+to bother you.
+
+451
+00:24:44,694 --> 00:24:46,661
+Yeah, well, let me tell you.
+I got a special for you.
+
+452
+00:24:46,663 --> 00:24:49,563
+Look, you bring a
+chick home to your apartment.
+
+453
+00:24:49,565 --> 00:24:51,465
+It's clean. It's stylish.
+
+454
+00:24:51,467 --> 00:24:53,166
+Of course, it is.
+She's already seen that
+
+455
+00:24:53,168 --> 00:24:54,769
+from the guy she
+was with two weeks ago.
+
+456
+00:24:54,771 --> 00:24:56,570
+And then her eyes
+move over
+
+457
+00:24:56,572 --> 00:24:58,405
+to those brown
+leather bad boys
+
+458
+00:24:58,407 --> 00:25:01,709
+from the Insight Encyclopedias,
+Intellectual Edition.
+
+459
+00:25:03,146 --> 00:25:04,811
+- It's fuck time! Do you know what I mean?
+- Yeah!
+
+460
+00:25:04,813 --> 00:25:07,117
+Yeah! Holla, holla,
+holla, holla, holla!
+
+461
+00:25:07,885 --> 00:25:09,585
+Oh, yeah?
+
+462
+00:25:09,587 --> 00:25:11,421
+Spin Doctors.
+Classic!
+
+463
+00:25:11,423 --> 00:25:13,888
+Tim, I want
+to chop it up more,
+
+464
+00:25:13,890 --> 00:25:15,957
+but I gotta get
+to my squash game.
+
+465
+00:25:15,959 --> 00:25:18,860
+Was that Visa
+or Mastercard?
+
+466
+00:25:18,862 --> 00:25:21,466
+God, this voice shit is crazy.
+
+467
+00:25:26,669 --> 00:25:27,703
+Yeah!
+
+468
+00:25:27,705 --> 00:25:29,471
+- <i>♫ Oh yeah... ♫</i>
+- Oh!
+
+469
+00:25:29,473 --> 00:25:31,439
+<i>♫ All right ♫</i>
+
+470
+00:25:31,441 --> 00:25:32,442
+Yeah!
+
+471
+00:25:32,444 --> 00:25:34,744
+- Yes! Tell that bitch "yes"! Yes!
+- Yes!
+
+472
+00:25:34,746 --> 00:25:37,313
+- Yeah! Yeah! Yeah!
+- Hey! Hey! Hey!
+
+473
+00:25:37,315 --> 00:25:40,149
+<i>♫ All right, oh yeah... ♫</i>
+
+474
+00:25:40,151 --> 00:25:42,254
+<i>♫ That's right ♫</i>
+
+475
+00:25:43,487 --> 00:25:44,521
+<i>♫ Hey ♫</i>
+
+476
+00:25:44,523 --> 00:25:45,522
+Where's the wine at?
+
+477
+00:25:45,524 --> 00:25:47,657
+Power Calling
+all you motherfuckers!
+
+478
+00:25:50,928 --> 00:25:52,596
+Yeah!
+
+479
+00:25:52,598 --> 00:25:54,063
+Baby, yes!
+
+480
+00:25:54,065 --> 00:25:56,300
+Oh yeah! Oh yeah!
+
+481
+00:25:56,302 --> 00:25:59,570
+Woo! Woo-hoo-hoo-hoo!
+
+482
+00:25:59,572 --> 00:26:00,737
+Yes!
+
+483
+00:26:04,677 --> 00:26:06,343
+I... I should probably
+get back to work, man.
+
+484
+00:26:08,346 --> 00:26:11,048
+You're stoked, man!
+
+485
+00:26:11,050 --> 00:26:13,350
+You're doin' so fucking good
+with the voice thing.
+
+486
+00:26:13,352 --> 00:26:15,820
+But hit more contacts
+per hour.
+
+487
+00:26:15,822 --> 00:26:17,187
+Mm-hmm.
+
+488
+00:26:17,189 --> 00:26:20,495
+Oh. They're talkin'
+about you, bro.
+
+489
+00:26:21,496 --> 00:26:23,394
+You're on your way.
+
+490
+00:26:23,396 --> 00:26:25,096
+Pah!
+
+491
+00:26:25,098 --> 00:26:27,666
+To where, heaven?
+
+492
+00:26:27,668 --> 00:26:29,700
+Almost.
+
+493
+00:26:29,702 --> 00:26:33,141
+PC, baby.
+Power Caller.
+
+494
+00:26:35,042 --> 00:26:36,644
+Oh, uh...
+
+495
+00:26:40,815 --> 00:26:43,583
+- Did you hear what he just said?
+- Yeah, yeah, I heard him, man.
+
+496
+00:26:43,585 --> 00:26:45,919
+He told me the exact same
+shit three months ago.
+
+497
+00:26:45,921 --> 00:26:47,655
+Nice earrings.
+
+498
+00:26:48,823 --> 00:26:50,793
+Thanks. Made 'em myself.
+
+499
+00:26:57,664 --> 00:26:59,998
+<i>♫ Copulation ♫</i>
+
+500
+00:27:00,000 --> 00:27:02,168
+<i>♫ An equation... ♫</i>
+
+501
+00:27:12,213 --> 00:27:13,613
+What kind
+of world is it
+
+502
+00:27:13,615 --> 00:27:15,785
+when this is the most
+popular show in America?
+
+503
+00:27:16,818 --> 00:27:19,987
+They say 150 million people
+watch this every night.
+
+504
+00:27:19,989 --> 00:27:21,220
+Mmm.
+
+505
+00:27:21,222 --> 00:27:23,123
+I, personally, love seeing
+
+506
+00:27:23,125 --> 00:27:25,491
+a muthafucka get beat
+down and humiliated.
+
+507
+00:27:26,461 --> 00:27:28,765
+Makes... makes
+me feel warm inside.
+
+508
+00:27:30,031 --> 00:27:32,266
+I got the muthafucking T-shirt.
+
+509
+00:27:32,268 --> 00:27:34,036
+- Oh!
+- Check this.
+
+510
+00:27:34,038 --> 00:27:35,504
+Oh!
+
+511
+00:27:35,506 --> 00:27:39,707
+- I'm gonna go dance, man.
+- Alright. Yeah, motherfucka.
+
+512
+00:27:48,350 --> 00:27:50,684
+Mm-mm-mm-mm-mm! No.
+
+513
+00:27:50,686 --> 00:27:51,888
+Give me the good stuff.
+
+514
+00:27:52,888 --> 00:27:55,391
+Give me the good stuff.
+
+515
+00:27:57,395 --> 00:27:58,463
+Yeah.
+
+516
+00:28:01,331 --> 00:28:03,601
+That's what
+I'm talking about.
+
+517
+00:28:04,335 --> 00:28:06,769
+So, why you
+ain't dancing' man?
+
+518
+00:28:06,771 --> 00:28:09,439
+Motherfucker, I'm too old
+for that shit.
+
+519
+00:28:10,809 --> 00:28:14,376
+Man look, what happened to just
+doing the muthafucking dog,
+
+520
+00:28:14,378 --> 00:28:16,412
+Umf-umf-umf-bow-wow.
+
+521
+00:28:16,414 --> 00:28:19,549
+You know I'm freakin,
+you know what I'm saying?
+
+522
+00:28:19,551 --> 00:28:23,520
+Shit, now you got to dislocate
+your muthafucking shoulder.
+
+523
+00:28:23,522 --> 00:28:26,158
+Damn, what the fuck
+I look like doin that shit.
+
+524
+00:28:26,992 --> 00:28:28,157
+You, uh...
+
+525
+00:28:28,159 --> 00:28:30,830
+Hey. Power Callers, right?
+
+526
+00:28:31,696 --> 00:28:34,029
+They make a shit ton
+of money, man.
+
+527
+00:28:34,031 --> 00:28:36,133
+I'm talking about, like, bins
+
+528
+00:28:36,135 --> 00:28:39,368
+and expensive house payment
+type of money.
+
+529
+00:28:39,370 --> 00:28:41,238
+How the fuck is that
+even possible?
+
+530
+00:28:41,240 --> 00:28:45,742
+If you selling the bullshit
+we selling, it's impossible.
+
+531
+00:28:45,744 --> 00:28:48,713
+But they not selling the
+bullshit we selling.
+
+532
+00:28:48,715 --> 00:28:50,482
+So, I guess comparing
+to what we doing
+
+533
+00:28:50,484 --> 00:28:53,952
+to what they're doing
+is like apples to oranges.
+
+534
+00:28:53,954 --> 00:28:57,291
+More like apples
+and the Holocaust.
+
+535
+00:29:00,793 --> 00:29:02,225
+Alright. Bye.
+
+536
+00:29:10,138 --> 00:29:12,137
+Don't look into the light.
+
+537
+00:29:12,139 --> 00:29:13,672
+Fuckin' asshole.
+
+538
+00:29:15,208 --> 00:29:17,108
+- What up bro?
+- What's up man?
+
+539
+00:29:17,110 --> 00:29:18,977
+- Good man.
+- Aw, that hurt.
+
+540
+00:29:18,979 --> 00:29:20,611
+It's all good.
+I've been telling
+
+541
+00:29:20,613 --> 00:29:22,781
+everybody how you've been kicking
+all types of ass at work.
+
+542
+00:29:22,783 --> 00:29:25,384
+Yea. I mean it's crazy.
+I'm finally...
+
+543
+00:29:25,386 --> 00:29:27,019
+feel like
+I'm good at something.
+
+544
+00:29:27,021 --> 00:29:28,287
+I'm feeling myself.
+
+545
+00:29:28,289 --> 00:29:30,455
+- Word.
+- I'm a fucking monster at this.
+
+546
+00:29:32,427 --> 00:29:34,359
+Man. That's awesome, man.
+
+547
+00:29:34,361 --> 00:29:35,794
+Fucking dope man.
+That's awesome.
+
+548
+00:29:35,796 --> 00:29:37,533
+Yeah... whoa!
+
+549
+00:29:38,333 --> 00:29:41,100
+- Hey, Sugar Foot. Hey.
+- Hey, Lovely.
+
+550
+00:29:41,102 --> 00:29:43,337
+- Can I get that?
+- Who invited you?
+
+551
+00:29:43,339 --> 00:29:45,038
+Who asked you?
+
+552
+00:29:45,040 --> 00:29:46,606
+I was hoping
+you'd pop up earlier.
+
+553
+00:29:46,608 --> 00:29:48,007
+I thought you
+were coming by.
+
+554
+00:29:48,009 --> 00:29:50,609
+Oh, to your gallery?
+I thought you said don't come.
+
+555
+00:29:50,611 --> 00:29:52,145
+Your friends
+were helping you out.
+
+556
+00:29:52,147 --> 00:29:55,448
+Baby, that's what I said.
+But don't listen to what I say.
+
+557
+00:29:55,450 --> 00:29:57,650
+Listen to what I want.
+
+558
+00:29:57,652 --> 00:29:59,419
+- I'm confused.
+- Yeah, I know you are.
+
+559
+00:29:59,421 --> 00:30:01,354
+But are you gonna
+pick me up on Friday?
+
+560
+00:30:01,356 --> 00:30:03,357
+- That's what I want.
+- Is cash green?
+
+561
+00:30:03,359 --> 00:30:04,961
+Yeah. Cash is green.
+
+562
+00:30:07,295 --> 00:30:09,565
+- Can I get a light?
+- No.
+
+563
+00:30:11,299 --> 00:30:13,533
+Those are nice earrings.
+
+564
+00:30:13,535 --> 00:30:16,506
+Wait, baby. I didn't know
+you changed your earrings.
+
+565
+00:30:18,240 --> 00:30:21,711
+Detroit, I didn't know you made
+earrings of your ex-boyfriends.
+
+566
+00:30:56,681 --> 00:30:58,314
+Alright, everybody.
+
+567
+00:30:58,316 --> 00:31:00,583
+This is a pretty amazing
+turnout.
+
+568
+00:31:00,585 --> 00:31:02,750
+I hope you guys all know
+that we're in this together.
+
+569
+00:31:02,752 --> 00:31:05,587
+That this is all of us,
+ride or die.
+
+570
+00:31:05,589 --> 00:31:07,591
+You know what today is?
+
+571
+00:31:07,593 --> 00:31:09,358
+Today is the warning shot.
+
+572
+00:31:09,360 --> 00:31:11,363
+Telling them that
+we stand united.
+
+573
+00:31:12,196 --> 00:31:14,096
+If we get this right today,
+
+574
+00:31:14,098 --> 00:31:15,531
+not only will it be our floor
+
+575
+00:31:15,533 --> 00:31:17,934
+but it will be every other floor
+in Regalview and beyond.
+
+576
+00:31:17,936 --> 00:31:21,939
+A twenty-minute work stoppage
+during prime calling time.
+
+577
+00:31:21,941 --> 00:31:24,274
+I'll give the call.
+Sal what's the call?
+
+578
+00:31:24,276 --> 00:31:26,309
+Fuck you, pay me.
+
+579
+00:31:26,311 --> 00:31:28,411
+The other... other one.
+
+580
+00:31:28,413 --> 00:31:29,880
+Phones down.
+
+581
+00:31:29,882 --> 00:31:31,615
+Phones down.
+
+582
+00:31:31,617 --> 00:31:33,351
+Okay?
+
+583
+00:31:33,353 --> 00:31:35,953
+We hang up the phones.
+Put down our headsets.
+
+584
+00:31:35,955 --> 00:31:38,155
+Now, they're gonna
+single some of us out.
+
+585
+00:31:38,157 --> 00:31:40,659
+- Threaten our jobs.
+- Fuck that.
+
+586
+00:31:40,661 --> 00:31:43,326
+- Yes, fuck that.
+- Fuck that.
+
+587
+00:31:43,328 --> 00:31:44,562
+- Fuck that.
+- Yeah, fuck.
+
+588
+00:31:44,564 --> 00:31:47,966
+We ride for anyone
+they try to fire.
+
+589
+00:31:47,968 --> 00:31:49,467
+We fight
+
+590
+00:31:49,469 --> 00:31:52,570
+because we make the profits
+and they don't share.
+
 591
-01:15:28,894 --> 01:15:31,896
-Princess.
+00:31:52,572 --> 00:31:55,039
+If we're gonna
+give them our day,
 
 592
-01:16:57,888 --> 01:17:01,673
-I'll hope to hear the chords
-played again one day.
+00:31:55,041 --> 00:31:58,743
+we need to have enough
+to cover our basic necessities.
 
 593
-01:17:05,061 --> 01:17:09,190
-Without them I'm lost
-in this nothingness.
+00:31:58,745 --> 00:32:00,982
+- Human decency.
+- Yeah.
 
 594
-01:17:11,401 --> 01:17:16,110
-Wandering after far off music
-through a desert of ashes.
+00:32:02,015 --> 00:32:04,051
+Is anyone not down?
 
 595
-01:17:19,741 --> 01:17:24,368
-If a tune had a colour it would be
-a mixture of pink and red
+00:32:05,686 --> 00:32:06,719
+Speak now.
 
 596
-01:17:27,165 --> 01:17:30,581
-Constantly afraid of it fading away
+00:32:06,721 --> 00:32:08,723
+Nah, fuck that, Squeeze!
+We're ready!
 
 597
-01:17:30,751 --> 01:17:34,880
-Terrified of the silence that may come.
+00:32:09,691 --> 00:32:10,759
+Hmm?
 
 598
-01:17:44,888 --> 01:17:49,930
-My final memories are pulling me
-towards the end of a black alley
+00:32:11,525 --> 00:32:14,993
+Yeah. Uh, one for all.
+All for one.
 
 599
-01:17:51,394 --> 01:17:54,728
-There 's a door in the darkness...
+00:32:14,995 --> 00:32:17,598
+Yeah! I brought
+all types of weapons.
 
 600
-01:17:58,400 --> 01:18:02,648
-I struggle to find my way
-through the door.
+00:32:18,733 --> 00:32:22,301
+Alright, folks. Let's meet back
+here at 3:00 PM. Okay?
 
 601
-01:18:16,167 --> 01:18:18,919
-I can hear it clearly now.
+00:32:22,303 --> 00:32:25,137
+- Don't. It's not that serious.
+- Okay, alright cool.
 
 602
-01:18:19,085 --> 01:18:23,001
-The most beautiful melody
-ever created by man.
+00:32:25,139 --> 00:32:28,141
+- It's like serious, but it's not that...
+- But I'm ready though.
 
 603
-01:18:30,553 --> 01:18:33,425
-I enter the room...
+00:33:04,481 --> 00:33:06,781
+Thanks, Mr. Goldberg.
 
 604
-01:18:38,310 --> 01:18:42,012
-And there forever remains -
+00:33:06,783 --> 00:33:10,519
+As always, we'll be getting
+that out to you right away.
 
 605
-01:18:42,189 --> 01:18:46,602
-that change from G to E minor.
+00:33:10,521 --> 00:33:11,887
+By the way...
+
+606
+00:33:11,889 --> 00:33:14,559
+Regalview management...
+
+607
+00:33:16,560 --> 00:33:18,863
+you are hereby warned.
+
+608
+00:33:19,764 --> 00:33:22,867
+We will not be overlooked.
+
+609
+00:33:26,270 --> 00:33:28,206
+Fucking God...
+
+610
+00:33:29,605 --> 00:33:33,876
+Fuck you! Fuck you! Fuck you!
+
+611
+00:33:33,878 --> 00:33:35,948
+Phones down!
+
+612
+00:33:37,849 --> 00:33:40,185
+Fuck you! Fuck you!
+
+613
+00:33:41,119 --> 00:33:42,187
+And fuck you!
+
+614
+00:33:43,420 --> 00:33:45,021
+Fuck you, Regalview!
+
+615
+00:33:45,023 --> 00:33:48,757
+Fuck you, Regalview!
+Fuck you, Regalview!
+
+616
+00:33:48,759 --> 00:33:52,494
+Fuck you, Regalview!
+Fuck you, Regalview!
+
+617
+00:33:52,496 --> 00:33:54,429
+Fuck you, Regalview!
+
+618
+00:33:54,431 --> 00:33:58,168
+Fuck you, Regalview!
+Fuck you, Regalview!
+
+619
+00:33:58,170 --> 00:33:59,836
+Fuck you, Regalview!
+
+620
+00:33:59,838 --> 00:34:03,506
+Fuck you, Regalview!
+Fuck you, Regalview!
+
+621
+00:34:03,508 --> 00:34:05,007
+Fuck you, Regalview!
+
+622
+00:34:05,009 --> 00:34:08,678
+Fuck you, Regalview!
+Fuck you, Regalview!
+
+623
+00:34:08,680 --> 00:34:10,546
+Fuck you, Regalview!
+
+624
+00:34:10,548 --> 00:34:13,117
+Fuck you,
+Regalview!
+
+625
+00:34:20,928 --> 00:34:22,196
+Oh man!
+
+626
+00:34:30,002 --> 00:34:31,939
+Out, out, out,
+out, out, out, out.
+
+627
+00:34:40,245 --> 00:34:41,478
+Alright, hey look,
+
+628
+00:34:41,480 --> 00:34:43,182
+I know you're gonna
+threaten to fire me.
+
+629
+00:34:43,184 --> 00:34:44,816
+And go ahead whatever.
+I don't care anymore
+
+630
+00:34:44,818 --> 00:34:46,385
+cause we're gonna
+take this fuckin place...
+
+631
+00:34:49,456 --> 00:34:51,891
+Pack up your shit
+and get out.
+
+632
+00:34:51,893 --> 00:34:55,394
+Well, fuck you and
+fuck you and fuck you!
+
+633
+00:34:55,396 --> 00:34:56,762
+- What? No...
+- Fuck you!
+
+634
+00:34:56,764 --> 00:34:59,264
+- Fuck you!
+- No, no, no, no, no, no Mr. Green.
+
+635
+00:34:59,266 --> 00:35:01,666
+You're starting to sound
+a little paranoid here.
+
+636
+00:35:01,668 --> 00:35:04,103
+We're the bearers
+of good news.
+
+637
+00:35:04,105 --> 00:35:05,237
+Great news.
+
+638
+00:35:05,239 --> 00:35:07,207
+Great mothafuckin' news.
+
+639
+00:35:07,209 --> 00:35:09,343
+Great motherfucking news.
+
+640
+00:35:09,345 --> 00:35:10,877
+Power Caller.
+
+641
+00:35:10,879 --> 00:35:13,013
+- What the fuck...
+- Yeah, we just got the call.
+
+642
+00:35:13,015 --> 00:35:14,848
+They think you're
+A-1 material.
+
+643
+00:35:14,850 --> 00:35:17,317
+You're going upstairs
+my <i>compadre.</i>
+
+644
+00:35:17,319 --> 00:35:20,352
+Yes. You are getting
+a promotion.
+
+645
+00:35:20,354 --> 00:35:22,589
+9:00 AM tomorrow morning.
+
+646
+00:35:22,591 --> 00:35:24,924
+- Do you have a suit?
+- Of course he does.
+
+647
+00:35:24,926 --> 00:35:29,428
+Powerful, young, strong,
+intelligent Power Caller.
+
+648
+00:35:29,430 --> 00:35:31,465
+- But, but they, um...
+- Oh, God.
+
+649
+00:35:31,467 --> 00:35:33,034
+They're gonna do what
+they're gonna do.
+
+650
+00:35:33,036 --> 00:35:34,869
+You're not going
+against their actions.
+
+651
+00:35:34,871 --> 00:35:37,505
+All their issues are down here.
+Not up there.
+
+652
+00:35:39,007 --> 00:35:41,242
+Two very different
+kinds of telemarketing.
+
+653
+00:35:41,244 --> 00:35:44,915
+But, but, oh, okay, um...
+
+654
+00:35:49,719 --> 00:35:52,686
+This is your moment.
+Don't waste it.
+
+655
+00:35:52,688 --> 00:35:55,225
+Woo woo! Woo woo! Woo woo!
+
+656
+00:35:58,495 --> 00:35:59,763
+Okay.
+
+657
+00:36:03,700 --> 00:36:04,832
+Maybe you're right.
+
+658
+00:36:04,834 --> 00:36:06,202
+The big money.
+
+659
+00:36:06,204 --> 00:36:09,803
+The top fucking tier
+of telemarketing.
+
+660
+00:36:09,805 --> 00:36:14,575
+Making history with legends
+like Hal Jameson.
+
+661
+00:36:14,577 --> 00:36:16,246
+Bad ass.
+
+662
+00:36:20,951 --> 00:36:24,055
+Oh, it's a really good batch,
+so I hope you like France.
+
+663
+00:36:25,190 --> 00:36:26,623
+You should have some.
+
+664
+00:36:28,092 --> 00:36:30,428
+- Should I just drink it right now?
+- Yes!
+
+665
+00:36:31,429 --> 00:36:34,096
+Oh, yes!
+
+666
+00:36:36,101 --> 00:36:38,400
+- Because we didn't have any cups.
+- Power Caller.
+
+667
+00:36:38,402 --> 00:36:40,672
+- Yeah!
+- Yes!
+
+668
+00:36:43,175 --> 00:36:44,441
+Power Caller, baby.
+
+669
+00:36:44,443 --> 00:36:47,010
+- Power Caller, man!
+- Power Caller!
+
+670
+00:36:47,012 --> 00:36:48,681
+Power Caller.
+Power Caller.
+
+671
+00:37:01,294 --> 00:37:05,396
+Wow, you really are ready,
+aren't you?
+
+672
+00:37:05,398 --> 00:37:07,431
+Hey, Ms. D. Yeah.
+
+673
+00:37:07,433 --> 00:37:11,471
+Wow, oh okay, well let's do
+this, mu-tha-fuck-ah.
+
+674
+00:37:13,806 --> 00:37:15,308
+I've always wanted to say that.
+
+675
+00:37:18,245 --> 00:37:19,543
+Okay.
+
+676
+00:37:19,545 --> 00:37:22,179
+I would be remiss if I didn't
+bring up your pink shirt.
+
+677
+00:37:22,181 --> 00:37:25,616
+I think it's extraordinary
+and sexy.
+
+678
+00:37:25,618 --> 00:37:28,052
+You know, 35% of men
+who wear pink
+
+679
+00:37:28,054 --> 00:37:31,423
+are more likely
+to start a franchise.
+
+680
+00:37:31,425 --> 00:37:33,193
+- Is that so?
+- Yeah.
+
+681
+00:37:33,195 --> 00:37:36,995
+- Oh.
+- Wow. Damn.
+
+682
+00:37:36,997 --> 00:37:40,066
+- This is crazy.
+- Oh, I'm sorry.
+
+683
+00:37:40,068 --> 00:37:41,803
+So clumsy.
+
+684
+00:38:00,422 --> 00:38:01,987
+Almost done...
+
+685
+00:38:01,989 --> 00:38:03,759
+this job's crazy right?
+
+686
+00:38:13,000 --> 00:38:14,970
+Do you need help with that?
+
+687
+00:38:23,412 --> 00:38:24,481
+Okay.
+
+688
+00:38:26,014 --> 00:38:28,215
+It's very secure.
+It's very...
+
+689
+00:38:28,217 --> 00:38:29,818
+<i>Welcome, Power Caller.</i>
+
+690
+00:38:29,820 --> 00:38:32,619
+<i>Today is your day
+to dominate the world.</i>
+
+691
+00:38:32,621 --> 00:38:34,988
+<i>You are Regalview's elite
+brigade.</i>
+
+692
+00:38:34,990 --> 00:38:38,726
+<i>Take your place alongside
+legends like Hal Jameson.</i>
+
+693
+00:38:38,728 --> 00:38:40,929
+<i>You call the shots.</i>
+
+694
+00:38:40,931 --> 00:38:43,598
+What...?
+
+695
+00:38:43,600 --> 00:38:45,734
+<i>You are in your sexual prime.</i>
+
+696
+00:38:45,736 --> 00:38:48,205
+<i>The top of the
+reproductive pile.</i>
+
+697
+00:38:49,941 --> 00:38:51,806
+Alright, does it do
+that every time━
+
+698
+00:38:51,808 --> 00:38:56,111
+Welcome to the
+Power Calling Suite, Mr. Green.
+
+699
+00:38:56,113 --> 00:38:58,180
+White Voice
+at all times here.
+
+700
+00:38:58,182 --> 00:39:01,319
+Yes, I almost forgot.
+
+701
+00:39:03,720 --> 00:39:05,389
+Good luck.
+
+702
+00:39:07,625 --> 00:39:09,059
+Nice suit, by the way.
+
+703
+00:39:09,061 --> 00:39:10,693
+You've been
+selected, Mr. Green,
+
+704
+00:39:10,695 --> 00:39:14,364
+because you have the potential
+to be a great telemarketer.
+
+705
+00:39:14,366 --> 00:39:15,632
+The potential.
+
+706
+00:39:15,634 --> 00:39:17,333
+Do you know
+what we sell up here?
+
+707
+00:39:17,335 --> 00:39:19,969
+- Oh, I heard it's a...
+- Ah, we sell power.
+
+708
+00:39:19,971 --> 00:39:22,606
+Firepower. Manpower.
+
+709
+00:39:22,608 --> 00:39:26,842
+When U.S. weapons manufacturers
+sell arms to other countries
+
+710
+00:39:26,844 --> 00:39:30,380
+who do you think, Mr. Green, makes that
+call at the precisely perfect time?
+
+711
+00:39:30,382 --> 00:39:33,019
+- Which is of course, dinner.
+- We do.
+
+712
+00:39:33,852 --> 00:39:35,886
+Before a drone
+drops a bomb
+
+713
+00:39:35,888 --> 00:39:38,321
+on an apartment building
+in Pakistan
+
+714
+00:39:38,323 --> 00:39:40,390
+who drops the
+bomb ass sales pitch
+
+715
+00:39:40,392 --> 00:39:41,627
+you may ask, Cassius?
+
+716
+00:39:42,629 --> 00:39:43,995
+We do.
+
+717
+00:39:43,997 --> 00:39:48,732
+Okay, so you said
+firepower, manpower?
+
+718
+00:39:48,734 --> 00:39:50,401
+Worryfree is our
+biggest client.
+
+719
+00:39:50,403 --> 00:39:54,873
+We help thousands of companies
+utilize Worryfree workers
+
+720
+00:39:54,875 --> 00:39:57,911
+to improve their efficiency.
+
+721
+00:39:58,846 --> 00:40:01,579
+So, wait, are you telling me
+you sell slave labor
+
+722
+00:40:01,581 --> 00:40:02,947
+to companies over
+the phone?
+
+723
+00:40:02,949 --> 00:40:06,087
+God damnit.
+You are a sharp one.
+
+724
+00:40:26,642 --> 00:40:28,677
+Hey, what the fuck
+are you doing?
+
+725
+00:40:30,812 --> 00:40:32,514
+Dave, stop him.
+
+726
+00:40:33,814 --> 00:40:35,082
+Shit!
+
+727
+00:40:39,620 --> 00:40:41,220
+Left Eye, bitches!
+
+728
+00:40:41,222 --> 00:40:43,857
+Worryfree has resuscitated
+America.
+
+729
+00:40:43,859 --> 00:40:45,525
+Workers live in
+space efficient dwellings
+
+730
+00:40:45,527 --> 00:40:47,960
+in the same facilities where
+production occurs.
+
+731
+00:40:47,962 --> 00:40:50,096
+They make anything
+and they make everything.
+
+732
+00:40:50,098 --> 00:40:53,167
+Lifetime contracts
+so no wages needed.
+
+733
+00:40:53,969 --> 00:40:59,005
+They make automobiles for what it
+used to cost to make bicycles.
+
+734
+00:40:59,007 --> 00:41:00,875
+Okay, but see
+I don't know if I can...
+
+735
+00:41:00,877 --> 00:41:02,576
+Sugar on top, white voice.
+
+736
+00:41:02,578 --> 00:41:04,311
+Yeah, but what
+I'm saying is I don't know
+
+737
+00:41:04,313 --> 00:41:05,913
+if I'm gonna be
+able to s... sell...
+
+738
+00:41:07,117 --> 00:41:08,986
+Here's the starting salary.
+
+739
+00:41:14,157 --> 00:41:15,291
+Hmm?
+
+740
+00:41:18,461 --> 00:41:21,396
+Well, man, I'm gonna
+have to get me some new suits.
+
+741
+00:41:21,398 --> 00:41:23,263
+You'll be working
+here until late.
+
+742
+00:41:23,265 --> 00:41:26,334
+We need you
+in the mix right away.
+
+743
+00:41:33,877 --> 00:41:35,377
+Hey baby, what's your sign?
+
+744
+00:41:35,379 --> 00:41:37,315
+I haven't heard that one before.
+
+745
+00:41:38,882 --> 00:41:40,281
+Yo, that was
+crazy yesterday.
+
+746
+00:41:40,283 --> 00:41:42,250
+That was like that scene
+in <i>Norma Rae.</i>
+
+747
+00:41:42,252 --> 00:41:43,953
+You know, the one when
+she's like on the table.
+
+748
+00:41:43,955 --> 00:41:45,389
+Yeah, yeah.
+
+749
+00:41:46,156 --> 00:41:49,193
+Yeah, Regalview is scared shitless.
+We'll win.
+
+750
+00:41:50,828 --> 00:41:52,263
+Can I check that out?
+
+751
+00:41:53,663 --> 00:41:54,733
+Yeah.
+
+752
+00:41:58,436 --> 00:42:00,139
+Oh, okay.
+
+753
+00:42:07,112 --> 00:42:09,012
+Okay. Bravo.
+
+754
+00:42:09,014 --> 00:42:10,579
+Where'd you learn
+how to do that?
+
+755
+00:42:10,581 --> 00:42:11,715
+Down in L.A.
+
+756
+00:42:12,483 --> 00:42:15,952
+We organized the first sign
+twirlers union there.
+
+757
+00:42:15,954 --> 00:42:17,954
+Oh, okay.
+
+758
+00:42:17,956 --> 00:42:19,323
+Is that what you do?
+
+759
+00:42:19,325 --> 00:42:21,725
+You just go from place to
+place stirring up trouble?
+
+760
+00:42:21,727 --> 00:42:25,365
+Trouble's already there.
+I just help folks fix it.
+
+761
+00:42:26,366 --> 00:42:29,834
+Yeah, that's what I do with
+my art too, you know.
+
+762
+00:42:29,836 --> 00:42:31,502
+Expose the bullshit.
+
+763
+00:42:31,504 --> 00:42:34,872
+- It's not exactly the same thing.
+- It's pretty much the same.
+
+764
+00:42:34,874 --> 00:42:36,808
+I haven't seen your stuff
+so I can't...
+
+765
+00:42:36,810 --> 00:42:38,812
+I'm not gonna
+show you my stuff.
+
+766
+00:42:40,078 --> 00:42:43,418
+So how does it work with, uh...
+
+767
+00:42:44,851 --> 00:42:46,319
+with you and Cassius?
+
+768
+00:42:47,922 --> 00:42:49,791
+You know,
+you sound like a radical.
+
+769
+00:42:50,891 --> 00:42:52,225
+He's... I don't know.
+
+770
+00:42:54,695 --> 00:42:56,197
+He's what?
+
+771
+00:43:02,402 --> 00:43:03,769
+He's real.
+
+772
+00:43:03,771 --> 00:43:06,137
+He's not that fake-ass
+bougie gallery world.
+
+773
+00:43:06,139 --> 00:43:08,476
+So, that's how it works.
+
+774
+00:43:13,214 --> 00:43:15,617
+Well, you're rubbing him off
+right. So...
+
+775
+00:43:16,484 --> 00:43:19,285
+He helped with the work
+stoppage. So...
+
+776
+00:43:19,287 --> 00:43:21,589
+Your fire is rubbing off on him.
+
+777
+00:43:22,522 --> 00:43:23,691
+I like it.
+
+778
+00:43:24,959 --> 00:43:26,658
+I'm going.
+
+779
+00:43:26,660 --> 00:43:29,294
+You look like you're done here
+if you need a ride.
+
+780
+00:43:29,296 --> 00:43:33,168
+Nah, Cassius' on the way.
+But thank you.
+
+781
+00:43:40,743 --> 00:43:42,277
+Nice work.
+
+782
+00:43:52,989 --> 00:43:55,756
+Hey girl. We gotta go!
+
+783
+00:43:55,758 --> 00:43:56,857
+Thank you.
+
+784
+00:44:39,937 --> 00:44:41,837
+You okay?
+
+785
+00:44:41,839 --> 00:44:42,972
+Yeah.
+
+786
+00:44:42,974 --> 00:44:45,608
+- Did you get into an accident?
+- No.
+
+787
+00:44:45,610 --> 00:44:47,678
+How about robbed or
+something else crazy like that.
+
+788
+00:44:47,680 --> 00:44:50,914
+So, I don't think you flaked and
+left me on a corner for an hour.
+
+789
+00:44:50,916 --> 00:44:53,515
+Yeah, I know. Look baby I was gonna
+talk to you about it earlier
+
+790
+00:44:53,517 --> 00:44:55,486
+but I didn't know if it would be
+a for sure thing or not.
+
+791
+00:44:55,488 --> 00:44:58,854
+But, as of today
+I'm a Power Caller.
+
+792
+00:44:58,856 --> 00:45:01,459
+Does that mean you can
+pay me back my $80?
+
+793
+00:45:02,561 --> 00:45:04,528
+Hell, yes, baby, of course I can.
+
+794
+00:45:04,530 --> 00:45:07,864
+Stop Cassius.
+Stop, it's freaky.
+
+795
+00:45:07,866 --> 00:45:09,502
+What do they sell?
+
+796
+00:45:10,236 --> 00:45:12,872
+Am I finally gonna be able
+to see your show?
+
+797
+00:45:13,839 --> 00:45:16,741
+Baby, this is beautiful.
+
+798
+00:45:16,743 --> 00:45:19,476
+And big.
+
+799
+00:45:19,478 --> 00:45:20,781
+Africa.
+
+800
+00:45:22,047 --> 00:45:25,150
+Oh, really, is that
+what this is?
+
+801
+00:45:25,152 --> 00:45:27,784
+Yeah, I mean they're big
+because they're Africa.
+
+802
+00:45:27,786 --> 00:45:31,323
+So, I added the sculptures
+from last year.
+
+803
+00:45:31,325 --> 00:45:34,059
+Oh, okay. Well,
+if nobody shows up
+
+804
+00:45:34,061 --> 00:45:35,829
+at least it'll look full.
+
+805
+00:45:36,597 --> 00:45:38,530
+Can I... can I ask a question?
+
+806
+00:45:38,532 --> 00:45:41,067
+Why did you choose Africa?
+
+807
+00:45:42,068 --> 00:45:47,573
+I wanted to talk about
+a life shaped by exploitation.
+
+808
+00:45:47,575 --> 00:45:51,577
+About fighting for a say
+in our own lives.
+
+809
+00:45:51,579 --> 00:45:54,848
+About how beauty,
+love, and laughter
+
+810
+00:45:54,850 --> 00:45:58,250
+thrive and flourish under almost
+any circumstances...
+
+811
+00:45:58,252 --> 00:45:59,585
+Right.
+
+812
+00:45:59,587 --> 00:46:01,654
+How Capitalism
+basically started
+
+813
+00:46:01,656 --> 00:46:04,324
+by stealing
+labor from Africans
+
+814
+00:46:04,326 --> 00:46:06,426
+and about how
+you're nodding
+
+815
+00:46:06,428 --> 00:46:07,759
+like you're listening
+but you're not.
+
+816
+00:46:07,761 --> 00:46:11,297
+Oh, no sorry baby.
+I was receiving that.
+
+817
+00:46:11,299 --> 00:46:14,500
+I was just had a long day and...
+
+818
+00:46:14,502 --> 00:46:16,136
+- it's work.
+- It's okay.
+
+819
+00:46:16,138 --> 00:46:17,870
+You really want to hit this?
+
+820
+00:46:17,872 --> 00:46:19,041
+Yes.
+
+821
+00:46:26,248 --> 00:46:29,215
+Ah... yes, okay.
+I'm listening now.
+
+822
+00:46:29,217 --> 00:46:32,487
+Capitalism in Africa
+is booming.
+
+823
+00:46:32,489 --> 00:46:35,356
+Shh. I'm done talking.
+
+824
+00:46:35,358 --> 00:46:37,992
+I just want to
+marinate in this.
+
+825
+00:46:37,994 --> 00:46:40,494
+This is major for me, Cash.
+
+826
+00:46:40,496 --> 00:46:42,997
+What I want to do is
+I want sit here,
+
+827
+00:46:42,999 --> 00:46:44,933
+hit this weed
+
+828
+00:46:44,935 --> 00:46:47,004
+and just be here.
+
+829
+00:46:47,904 --> 00:46:50,671
+Alright guys. That
+felt good the other day, right?
+
+830
+00:46:50,673 --> 00:46:52,239
+- Yes.
+- Yes. Good, man.
+
+831
+00:46:52,241 --> 00:46:54,308
+Like I've known y'all
+my whole life, you know.
+
+832
+00:46:54,310 --> 00:46:56,243
+Don't forget that. Okay?
+
+833
+00:46:56,245 --> 00:46:58,314
+Remember each other's faces.
+
+834
+00:46:58,316 --> 00:47:01,383
+Cassius? What's up man?
+Where you been?
+
+835
+00:47:01,385 --> 00:47:02,984
+What's up with the suit?
+
+836
+00:47:02,986 --> 00:47:04,518
+I got promoted.
+
+837
+00:47:04,520 --> 00:47:06,287
+What does that mean?
+Are you a manager now?
+
+838
+00:47:06,289 --> 00:47:08,724
+That means I'm
+a Power Caller now.
+
+839
+00:47:08,726 --> 00:47:11,594
+- About to be paid.
+- We're all trying to get fucking paid.
+
+840
+00:47:11,596 --> 00:47:13,762
+- Yeah.
+- But we're gonna do it as a team.
+
+841
+00:47:13,764 --> 00:47:16,264
+- Are you on the team?
+- Yeah, I guess I'm still on your little team
+
+842
+00:47:16,266 --> 00:47:17,900
+but I'm playing
+from the bench.
+
+843
+00:47:17,902 --> 00:47:19,668
+The bench where you sit
+and get your bills paid.
+
+844
+00:47:19,670 --> 00:47:21,838
+You know my uncle is
+about to lose his house.
+
+845
+00:47:21,840 --> 00:47:24,106
+Cash, I'm sorry
+about your uncle, man,
+
+846
+00:47:24,108 --> 00:47:25,407
+but that don't
+mean sell out.
+
+847
+00:47:25,409 --> 00:47:27,376
+I'm not selling y'all out.
+
+848
+00:47:27,378 --> 00:47:29,778
+My success has nothing to do
+with you, alright.
+
+849
+00:47:29,780 --> 00:47:31,515
+You just keep doing
+whatever it is
+
+850
+00:47:31,517 --> 00:47:33,818
+that you're fucking doing
+and I'll root for you.
+
+851
+00:47:33,820 --> 00:47:35,685
+From the sidelines.
+
+852
+00:47:35,687 --> 00:47:38,189
+And try not to laugh at that
+stupid ass smirk on your face.
+
+853
+00:47:38,191 --> 00:47:39,658
+We don't need this.
+
+854
+00:47:41,327 --> 00:47:43,260
+- Are you doing alright?
+- Yeah, I'm doing good.
+
+855
+00:47:43,262 --> 00:47:44,660
+- How you doing?
+- Fantastic.
+
+856
+00:47:44,662 --> 00:47:46,629
+- Fantastic?
+- I hope you have a good day.
+
+857
+00:47:46,631 --> 00:47:47,930
+I hope you have a better week.
+
+858
+00:47:47,932 --> 00:47:50,267
+I hope your month is full of
+successful days.
+
+859
+00:47:50,269 --> 00:47:52,836
+And a lot of great ventures. I
+hope you just come up, brother.
+
+860
+00:47:52,838 --> 00:47:54,639
+I hope your whole fucking year
+is spectacular.
+
+861
+00:47:54,641 --> 00:47:57,608
+- Oh, you hope my year is spectacular?
+- Yeah.
+
+862
+00:47:57,610 --> 00:47:59,110
+You got something
+you want to say to me?
+
+863
+00:47:59,112 --> 00:48:01,014
+You got something
+you want to say?
+
+864
+00:48:04,116 --> 00:48:07,085
+- You smell great.
+- You smell great. What is that?
+
+865
+00:48:07,087 --> 00:48:08,619
+Burberry.
+What you got on?
+
+866
+00:48:08,621 --> 00:48:10,587
+- I forgot. It's just deodorant.
+- Smells expensive. Okay.
+
+867
+00:48:10,589 --> 00:48:11,822
+- Yeah. Good.
+- We smelling good.
+
+868
+00:48:11,824 --> 00:48:13,558
+Some good smelling
+brothers out here.
+
+869
+00:48:13,560 --> 00:48:15,226
+You're an awesome man
+and I appreciate you.
+
+870
+00:48:15,228 --> 00:48:17,527
+- I hope you find yourself.
+- Yeah, we should go out. Get drinks.
+
+871
+00:48:17,529 --> 00:48:18,830
+- You want to get drinks?
+- Yeah!
+
+872
+00:48:18,832 --> 00:48:20,332
+- How many drinks?
+- Two. Three.
+
+873
+00:48:20,334 --> 00:48:21,600
+- Three? Five?
+- Four! Five!
+
+874
+00:48:21,602 --> 00:48:23,100
+- Six? Eight?
+- Seven! Nine!
+
+875
+00:48:23,102 --> 00:48:24,303
+- Ten? On me?
+- All of them!
+
+876
+00:48:24,305 --> 00:48:25,470
+It's on me, no,
+it's on me now!
+
+877
+00:48:25,472 --> 00:48:26,771
+- It's on you?
+- Yeah, it's on me now.
+
+878
+00:48:26,773 --> 00:48:29,108
+- Alright. Alright!
+- Yeah, it's on me!
+
+879
+00:48:29,110 --> 00:48:30,845
+- It's on you now.
+- Now!
+
+880
+00:48:33,079 --> 00:48:34,148
+Walk!
+
+881
+00:48:55,969 --> 00:48:57,703
+<i>Greetings, Cassius Green.</i>
+
+882
+00:48:57,705 --> 00:49:00,306
+<i>I hope you did
+not masturbate today.</i>
+
+883
+00:49:00,308 --> 00:49:02,875
+<i>We need you sharp
+and ready to go.</i>
+
+884
+00:49:02,877 --> 00:49:06,447
+<i>I detect the pheromones
+percolating out of your pores.</i>
+
+885
+00:49:06,449 --> 00:49:08,249
+<i>They say to others
+around you:</i>
+
+886
+00:49:08,251 --> 00:49:12,486
+<i>"Hold my penis while I piss on
+your underestimated expectations."</i>
+
+887
+00:49:12,488 --> 00:49:15,222
+<i>Mr. Green,
+I am a computer</i>
+
+888
+00:49:15,224 --> 00:49:18,925
+<i>but I wish I had hands to
+caress your muscular brain.</i>
+
+889
+00:49:18,927 --> 00:49:21,796
+Cassius Green, you've been
+assigned a Worryfree campaign.
+
+890
+00:49:21,798 --> 00:49:23,898
+Brush up on that
+Chapter Six stuff.
+
+891
+00:49:23,900 --> 00:49:26,001
+Excuse me.
+
+892
+00:49:27,070 --> 00:49:29,269
+And give them that
+radiant voice of yours
+
+893
+00:49:29,271 --> 00:49:31,172
+in the next half hour.
+
+894
+00:49:31,174 --> 00:49:32,406
+2:00 PM.
+
+895
+00:49:32,408 --> 00:49:34,909
+Almost breakfast time in Japan.
+
+896
+00:49:34,911 --> 00:49:38,582
+Oh okay. Ah, doodily
+doodily doodily doo.
+
+897
+00:49:55,333 --> 00:49:56,967
+- <i>Moshi moshi.</i>
+- Mr. Son.
+
+898
+00:49:56,969 --> 00:49:59,068
+Cassius Green of Worryfree calling.
+Sorry to bother you.
+
+899
+00:49:59,070 --> 00:50:01,637
+I'm calling about who
+is assembling your phone.
+
+900
+00:50:01,639 --> 00:50:03,673
+Now I know they're
+being made in China.
+
+901
+00:50:03,675 --> 00:50:05,041
+I'm a big fan of yours.
+
+902
+00:50:05,043 --> 00:50:06,842
+I've been following you
+since you were with Takashi.
+
+903
+00:50:06,844 --> 00:50:09,845
+I cheered literally when
+I found out you acquired Tanrio,
+
+904
+00:50:09,847 --> 00:50:12,947
+which is why I'm calling you
+and not Phonarolla.
+
+905
+00:50:12,949 --> 00:50:14,018
+Mm-hmm.
+
+906
+00:50:16,653 --> 00:50:18,689
+Our team of
+dedicated workers
+
+907
+00:50:18,691 --> 00:50:21,457
+will make twice as many phones
+at half the cost.
+
+908
+00:50:21,459 --> 00:50:23,493
+You'll double up
+your market share
+
+909
+00:50:23,495 --> 00:50:24,895
+over these bastards.
+
+910
+00:50:28,901 --> 00:50:31,636
+Power Callers, our
+very own Cassius Green
+
+911
+00:50:31,638 --> 00:50:33,536
+just made our
+client, Worryfree,
+
+912
+00:50:33,538 --> 00:50:35,004
+upwards of
+ten million dollars
+
+913
+00:50:35,006 --> 00:50:37,808
+in one call on his first day,
+none the less.
+
+914
+00:50:37,810 --> 00:50:40,743
+- Oh, it's not that much.
+- Indeed one for the history books.
+
+915
+00:50:40,745 --> 00:50:42,582
+Cheers!
+
+916
+00:50:44,349 --> 00:50:46,184
+Excuse me for a second.
+
+917
+00:50:46,186 --> 00:50:47,684
+What can I do for you, chum?
+
+918
+00:50:47,686 --> 00:50:49,219
+Yes, I have a question.
+
+919
+00:50:49,221 --> 00:50:52,356
+I've just achieved a sort of
+miraculous financial endeavor.
+
+920
+00:50:52,358 --> 00:50:55,226
+I'm also in
+a financial bind.
+
+921
+00:50:55,228 --> 00:50:57,494
+I'm gonna need a cash advance.
+
+922
+00:50:57,496 --> 00:50:58,765
+Hmm.
+
+923
+00:52:35,065 --> 00:52:37,833
+<i>This is where the magic
+happens, baby.</i>
+
+924
+00:52:37,835 --> 00:52:40,569
+<i>MTV spots Worryfree edition.</i>
+
+925
+00:52:40,571 --> 00:52:43,374
+<i>Hole puncher
+Jim Ellman.</i>
+
+926
+00:52:51,749 --> 00:52:53,950
+<i>This was the scene yesterday</i>
+
+927
+00:52:53,952 --> 00:52:56,452
+<i>at the Regalview
+Telemarketer's strike.</i>
+
+928
+00:52:56,454 --> 00:52:58,254
+<i>The striking
+Regalview workers</i>
+
+929
+00:52:58,256 --> 00:53:00,689
+<i>are joined by other
+telemarketers,</i>
+
+930
+00:53:00,691 --> 00:53:03,526
+<i>phone operators
+and university students</i>
+
+931
+00:53:03,528 --> 00:53:05,296
+<i>from all over the area.</i>
+
+932
+00:53:08,167 --> 00:53:10,534
+<i>After a long day
+of hearty-ass work,</i>
+
+933
+00:53:10,536 --> 00:53:11,868
+<i>you feel me?</i>
+
+934
+00:53:11,870 --> 00:53:13,136
+<i>We ready to eat.</i>
+
+935
+00:53:13,138 --> 00:53:15,474
+<i>This is where
+we get our grub on.</i>
+
+936
+00:53:18,310 --> 00:53:20,476
+<i>Mm-mm!</i>
+
+937
+00:53:20,478 --> 00:53:21,881
+<i>Yum.</i>
+
+938
+00:53:23,781 --> 00:53:26,049
+<i>Swimming through
+the vat of hyena urie</i>
+
+939
+00:53:26,051 --> 00:53:27,986
+<i>is not as bd
+as it sound!</i>
+
+940
+00:53:28,888 --> 00:53:30,121
+<i>What do we want!?</i>
+
+941
+00:53:30,123 --> 00:53:32,557
+<i>We want enough money
+to pay our rent!</i>
+
+942
+00:53:32,559 --> 00:53:34,226
+<i>Yeah! Yeah!</i>
+
+943
+00:53:34,228 --> 00:53:38,528
+<i>We want enough money to not et
+Cup ‘O Noodles every night!</i>
+
+944
+00:53:38,530 --> 00:53:39,664
+<i>Yeah! Yeah!</i>
+
+945
+00:53:39,666 --> 00:53:41,398
+<i>We are sick
+and tired of no..</i>
+
+946
+00:53:41,400 --> 00:53:43,934
+<i>We want to
+be able to go see our doctor</i>
+
+947
+00:53:43,936 --> 00:53:45,936
+<i>if we get drunk one night!</i>
+
+948
+00:53:45,938 --> 00:53:48,005
+<i>Yeah! Yeah!</i>
+
+949
+00:53:48,007 --> 00:53:52,311
+<i>When we hook up with someone
+without using any protection!</i>
+
+950
+00:53:52,313 --> 00:53:53,845
+<i>Okay. Okay, yea!</i>
+
+951
+00:53:53,847 --> 00:53:58,250
+<i>And we think we might have
+contracted chlamydia or gonorrhea!</i>
+
+952
+00:53:58,252 --> 00:54:01,219
+<i>Or any one of those crazy
+STDs that you've never heard f</i>
+
+953
+00:54:01,221 --> 00:54:04,457
+<i>that you find on
+Self-Diagnosis.com!</i>
+
+954
+00:54:11,399 --> 00:54:12,564
+<i>Fuck Regalview!</i>
+
+955
+00:54:13,767 --> 00:54:15,302
+<i>Fuck Regalview!</i>
+
+956
+00:54:16,604 --> 00:54:19,972
+<i>Fuck Regalview! Fuck Regalview!</i>
+
+957
+00:54:19,974 --> 00:54:21,641
+<i>Fuck Regalview!</i>
+
+958
+00:54:21,643 --> 00:54:24,144
+<i>Fuck Regalview!
+Fuck Regalview!</i>
+
+959
+00:54:24,146 --> 00:54:25,880
+<i>And fuck chlamydia, too.</i>
+
+960
+00:54:25,882 --> 00:54:29,349
+<i>Although strikers have
+kept most replacement workers</i>
+
+961
+00:54:29,351 --> 00:54:30,885
+<i>from breaking the strike</i>
+
+962
+00:54:30,887 --> 00:54:34,554
+<i>every morning, Starkwater security
+agents successfully escort</i>
+
+963
+00:54:34,556 --> 00:54:38,291
+<i>Regalview's elite Power
+Callers into the building.</i>
+
+964
+00:54:38,293 --> 00:54:40,027
+<i>For more on the
+Regalview strike,</i>
+
+965
+00:54:40,029 --> 00:54:41,760
+<i>let's go to the studio.</i>
+
+966
+00:54:41,762 --> 00:54:44,233
+<i>This is Ken Baget.
+Chanel 3 news.</i>
+
+967
+00:54:50,606 --> 00:54:52,406
+Hey baby. Good morning.
+
+968
+00:54:52,408 --> 00:54:54,107
+No. Please, no.
+
+969
+00:54:54,109 --> 00:54:56,544
+Stop with that
+stupid voice, Cassius.
+
+970
+00:54:58,147 --> 00:55:01,050
+Didn't even realize I was doing it.
+
+971
+00:55:03,019 --> 00:55:04,955
+That's a problem, you know.
+
+972
+00:55:05,821 --> 00:55:07,090
+Sorry.
+
+973
+00:55:09,060 --> 00:55:10,862
+How long you been up?
+
+974
+00:55:12,695 --> 00:55:13,964
+I'm not up.
+
+975
+00:55:18,369 --> 00:55:21,103
+But I saw your TV debut.
+
+976
+00:55:21,105 --> 00:55:22,607
+Oh, shit.
+
+977
+00:55:25,610 --> 00:55:28,876
+- Cash, baby...
+- Can we not. Please.
+
+978
+00:55:28,878 --> 00:55:31,414
+Look, I quit when
+the strike jumped off
+
+979
+00:55:31,416 --> 00:55:34,216
+because being with you
+made it awkward for me. But...
+
+980
+00:55:34,218 --> 00:55:35,984
+Cassius!
+
+981
+00:55:35,986 --> 00:55:38,153
+You abandoned your friends.
+
+982
+00:55:38,155 --> 00:55:40,789
+Baby, I thought they'd do a
+couple of stoppages and...
+
+983
+00:55:40,791 --> 00:55:42,524
+It's one thing
+to take the promotion,
+
+984
+00:55:42,526 --> 00:55:44,294
+but now you're
+a full out scab.
+
+985
+00:55:44,296 --> 00:55:46,562
+Come on, baby, the Power
+Callers ain't on strike!
+
+986
+00:55:46,564 --> 00:55:48,263
+No, but they should be.
+
+987
+00:55:48,265 --> 00:55:50,533
+I'm so tired of talking
+to you about this.
+
+988
+00:55:50,535 --> 00:55:51,834
+You are crossing
+the picket line.
+
+989
+00:55:51,836 --> 00:55:53,035
+I can't ride with you.
+
+990
+00:55:53,037 --> 00:55:54,839
+Oh, you can't
+ride with me now!
+
+991
+00:55:54,841 --> 00:55:56,306
+But you was riding with me
+all around over...
+
+992
+00:55:56,308 --> 00:55:59,043
+Alright, fine.
+Well, no more.
+
+993
+00:55:59,045 --> 00:56:01,444
+Baby, what are you
+asking me to do?
+
+994
+00:56:01,446 --> 00:56:03,614
+Are you asking me to quit
+the fattest job I ever had?
+
+995
+00:56:03,616 --> 00:56:05,081
+But Cassius, it's not fat!
+
+996
+00:56:05,083 --> 00:56:07,654
+It is morally emaciated.
+
+997
+00:56:08,388 --> 00:56:10,587
+You sell fucking slave labor,
+Cassius!
+
+998
+00:56:10,589 --> 00:56:12,190
+What the fuck
+isn't slave labor?
+
+999
+00:56:12,192 --> 00:56:13,824
+Oh my god! Side-stepping.
+
+1000
+00:56:13,826 --> 00:56:16,029
+- You side-step more than the fucking Temptations.
+- What isn't?
+
+1001
+00:56:19,332 --> 00:56:20,966
+Fuck you, man!
+
+1002
+00:56:20,968 --> 00:56:22,100
+Fuck you, alright!
+
+1003
+00:56:22,102 --> 00:56:23,334
+Fuck you ‘cause
+I'm doing something
+
+1004
+00:56:23,336 --> 00:56:24,702
+that I'm really
+fucking good at.
+
+1005
+00:56:24,704 --> 00:56:26,137
+I'm really good at it
+and I'm important.
+
+1006
+00:56:26,139 --> 00:56:27,338
+I'm making shit happen.
+
+1007
+00:56:27,340 --> 00:56:28,807
+And you don't
+appreciate the shit
+
+1008
+00:56:28,809 --> 00:56:30,008
+cause you already
+fucking had it.
+
+1009
+00:56:30,010 --> 00:56:31,642
+And you're talking to me
+about slave labor?
+
+1010
+00:56:31,644 --> 00:56:33,477
+What is Squeeze and them
+gonna do about slave labor?
+
+1011
+00:56:33,479 --> 00:56:34,945
+What does Squeeze
+have to do with this?
+
+1012
+00:56:34,947 --> 00:56:36,383
+They ain't gonna do shit.
+
+1013
+00:56:37,151 --> 00:56:38,749
+And you ain't
+gonna do shit neither
+
+1014
+00:56:38,751 --> 00:56:41,452
+by selling fucking art
+to rich people.
+
+1015
+00:56:41,454 --> 00:56:42,658
+Fuck it.
+
+1016
+00:56:46,460 --> 00:56:48,196
+Gimme the damn covers!
+
+1017
+00:56:49,062 --> 00:56:50,362
+- What you doing?
+- Taking them.
+
+1018
+00:56:50,364 --> 00:56:51,964
+- I'm cold.
+- I'm not playing Cassius.
+
+1019
+00:56:51,966 --> 00:56:53,565
+- You're being greedy.
+- Don't play with me Cassius.
+
+1020
+00:56:53,567 --> 00:56:57,238
+You don't even need all those covers.
+It's not necessary.
+
+1021
+00:57:08,851 --> 00:57:11,552
+The whole reason I went
+to work for Regalview
+
+1022
+00:57:11,554 --> 00:57:13,990
+was to make myself
+more interesting to you.
+
+1023
+00:57:16,291 --> 00:57:19,362
+Cassius, the old you
+was way more interesting.
+
+1024
+00:57:23,097 --> 00:57:24,898
+If you go to work
+today at Regalview
+
+1025
+00:57:24,900 --> 00:57:26,369
+crossing the picket line...
+
+1026
+00:57:28,369 --> 00:57:29,971
+we're done.
+
+1027
+00:57:32,743 --> 00:57:34,979
+Elbows and assholes, people!
+Let's go!
+
+1028
+00:57:39,616 --> 00:57:42,317
+Chisels or dynamite, Cassius.
+You pick.
+
+1029
+00:57:42,319 --> 00:57:44,319
+Yeah, agreed.
+I just have to follow up
+
+1030
+00:57:44,321 --> 00:57:46,023
+on this lead
+I've been working on.
+
+1031
+00:57:58,235 --> 00:58:01,103
+This motherfucker right here...
+
+1032
+00:58:01,105 --> 00:58:03,371
+is on fire!
+
+1033
+00:58:03,373 --> 00:58:05,907
+Let's give it up
+for the boy wonder!
+
+1034
+00:58:07,978 --> 00:58:09,979
+Yeah, yeah! Some for the homeys.
+
+1035
+00:58:09,981 --> 00:58:11,313
+And some for me!
+
+1036
+00:58:11,315 --> 00:58:13,782
+Bag them, tag them, rag them!
+
+1037
+00:58:13,784 --> 00:58:15,249
+I trained her. I trained her.
+
+1038
+00:58:15,251 --> 00:58:19,388
+We hunted mammoths! Yeah!
+
+1039
+00:58:19,390 --> 00:58:23,328
+Douse him. Douse
+our winner with champagne.
+
+1040
+00:58:48,221 --> 00:58:49,887
+Scabs won't pass!
+
+1041
+00:58:49,889 --> 00:58:52,690
+Scabs won't pass!
+Scabs won't pass!
+
+1042
+00:58:52,692 --> 00:58:54,291
+Scabs won't pass!
+
+1043
+00:58:54,293 --> 00:58:57,196
+Scabs won't pass!
+Scabs won't pass!
+
+1044
+00:58:59,032 --> 00:59:00,300
+Move!
+
+1045
+00:59:03,835 --> 00:59:05,204
+I said get back!
+
+1046
+00:59:06,907 --> 00:59:09,107
+Have a cola and smile, bitch!
+
+1047
+00:59:14,749 --> 00:59:16,982
+Thank you very much, Miss Welcrott.
+
+1048
+00:59:16,984 --> 00:59:19,151
+I'll talk to you soon.
+Mm-hmm.
+
+1049
+00:59:19,153 --> 00:59:20,555
+Okay, bye.
+
+1050
+00:59:21,988 --> 00:59:23,520
+You, my friend,
+
+1051
+00:59:23,522 --> 00:59:27,459
+you are the best decision
+I've made in quite a long time.
+
+1052
+00:59:27,461 --> 00:59:29,060
+I have to pat myself
+on the ass for that.
+
+1053
+00:59:29,062 --> 00:59:31,864
+Thank you, Mister...
+
+1054
+00:59:31,866 --> 00:59:33,933
+Feels good
+to be appreciated.
+
+1055
+00:59:33,935 --> 00:59:37,003
+Don't call me Mr...,
+Cassius.
+
+1056
+00:59:37,005 --> 00:59:38,404
+Call me...
+
+1057
+00:59:38,406 --> 00:59:40,607
+Million-dollar question
+for you, Cassius.
+
+1058
+00:59:40,609 --> 00:59:43,009
+Do you like to party?
+
+1059
+00:59:43,011 --> 00:59:45,344
+I like parties.
+
+1060
+00:59:45,346 --> 00:59:46,913
+What are you
+doing tonight?
+
+1061
+00:59:46,915 --> 00:59:48,380
+Oh, I got this thing.
+
+1062
+00:59:48,382 --> 00:59:50,549
+Well my girlfriend,
+ex-girlfriend...
+
+1063
+00:59:50,551 --> 00:59:51,686
+Fudge all that.
+
+1064
+00:59:58,593 --> 01:00:00,059
+Hmm!
+
+1065
+01:00:00,061 --> 01:00:02,129
+Steve Lift is throwing
+his yearly party.
+
+1066
+01:00:02,131 --> 01:00:03,530
+Wants to see
+our new star there.
+
+1067
+01:00:03,532 --> 01:00:05,166
+Wants to talk to you, Cassius.
+
+1068
+01:00:05,168 --> 01:00:07,236
+I have been waiting years
+for this invite.
+
+1069
+01:00:08,003 --> 01:00:10,470
+Even Jay and Bey
+can't get this invite.
+
+1070
+01:00:11,573 --> 01:00:14,240
+Hell yeah. I just got to do
+this other thing.
+
+1071
+01:00:14,242 --> 01:00:15,742
+You go to your other thing.
+
+1072
+01:00:15,744 --> 01:00:18,513
+And I'll be there waiting.
+Pick you up.
+
+1073
+01:00:18,515 --> 01:00:21,252
+This is the kind of party
+that could change your life.
+
+1074
+01:00:38,768 --> 01:00:40,870
+Beauty, love, and laughter.
+
+1075
+01:00:45,008 --> 01:00:48,910
+I realize you were asking
+about specific... that one.
+
+1076
+01:00:48,912 --> 01:00:50,447
+Yes...
+
+1077
+01:00:58,389 --> 01:01:02,326
+You know what, will you please
+excuse me just one minute?
+
+1078
+01:01:10,268 --> 01:01:11,634
+- Hey.
+- Hey.
+
+1079
+01:01:11,636 --> 01:01:14,103
+I wouldn't miss this
+for the world, you know.
+
+1080
+01:01:14,105 --> 01:01:15,839
+It's beautiful.
+
+1081
+01:01:15,841 --> 01:01:17,873
+- You're beautiful.
+- Cash...
+
+1082
+01:01:17,875 --> 01:01:19,176
+I love you too...
+
+1083
+01:01:19,178 --> 01:01:21,911
+but I can't hang with
+what I see in you now.
+
+1084
+01:01:21,913 --> 01:01:23,647
+What happened to your head?
+
+1085
+01:01:23,649 --> 01:01:24,717
+Oh, um...
+
+1086
+01:01:25,817 --> 01:01:27,951
+Oh, just... shaving...
+
+1087
+01:01:27,953 --> 01:01:30,688
+Alright, I have to go get ready
+for my performance.
+
+1088
+01:01:30,690 --> 01:01:32,624
+You should really stay
+and see it, okay?
+
+1089
+01:01:32,626 --> 01:01:34,525
+Okay, but I can only stay
+for a little while, baby,
+
+1090
+01:01:34,527 --> 01:01:36,994
+cause there's this party I got
+to get back to. It's important.
+
+1091
+01:01:36,996 --> 01:01:38,496
+A Slave auctioneers party?
+
+1092
+01:01:38,498 --> 01:01:41,298
+- Hey.
+- Yo, what's up?
+
+1093
+01:01:41,300 --> 01:01:42,432
+Thank you for coming.
+
+1094
+01:01:42,434 --> 01:01:44,668
+I wouldn't miss this
+for the world.
+
+1095
+01:01:44,670 --> 01:01:46,570
+You always know just
+what to say, huh?
+
+1096
+01:01:46,572 --> 01:01:48,706
+I literally just said that.
+
+1097
+01:01:48,708 --> 01:01:50,807
+I hope you stay.
+
+1098
+01:01:50,809 --> 01:01:52,543
+Yo, is the reason why
+you don't call me no more
+
+1099
+01:01:52,545 --> 01:01:56,547
+is cause you sell out or
+cause you're just a star?
+
+1100
+01:01:56,549 --> 01:01:58,216
+What are you talking about?
+
+1101
+01:01:58,218 --> 01:02:00,254
+Eleven million views, man!
+
+1102
+01:02:00,988 --> 01:02:02,520
+What the fuck?
+
+1103
+01:02:02,522 --> 01:02:04,390
+You're like the Ariana
+Grande of disloyal niggas.
+
+1104
+01:02:04,392 --> 01:02:06,957
+<i>Have a cola and smile, bitch!</i>
+
+1105
+01:02:10,698 --> 01:02:12,698
+You could really
+help us out right now.
+
+1106
+01:02:12,700 --> 01:02:14,665
+We got them by the balls,
+but they're holding out.
+
+1107
+01:02:14,667 --> 01:02:16,701
+We got the info on how much
+this is costing them.
+
+1108
+01:02:16,703 --> 01:02:20,472
+You flipping sides
+could turn the tide.
+
+1109
+01:02:20,474 --> 01:02:23,076
+Don't be the leaf
+that floats down the river.
+
+1110
+01:02:23,078 --> 01:02:24,913
+Be the stone that
+splits the stream.
+
+1111
+01:02:26,648 --> 01:02:27,480
+Is that Tupac?
+
+1112
+01:02:35,556 --> 01:02:38,925
+Welcome, friends! Gather around,
+
+1113
+01:02:38,927 --> 01:02:40,729
+Form a semi-circle.
+
+1114
+01:02:41,897 --> 01:02:46,933
+Tonight, we will have a
+transformative experience.
+
+1115
+01:02:46,935 --> 01:02:48,535
+In those containers,
+
+1116
+01:02:48,537 --> 01:02:50,836
+there are broken cell phones,
+used bullet casings,
+
+1117
+01:02:50,838 --> 01:02:53,406
+and water balloons filled
+with sheep's blood.
+
+1118
+01:02:53,408 --> 01:02:56,209
+Cellphones can only work
+with the mineral Coltan,
+
+1119
+01:02:56,211 --> 01:02:58,778
+which is found
+in Africa's Congo.
+
+1120
+01:02:58,780 --> 01:03:03,249
+The profit involved in this
+has created hardship and wars.
+
+1121
+01:03:03,251 --> 01:03:05,151
+I will stand here.
+
+1122
+01:03:05,153 --> 01:03:06,621
+If you feel so moved,
+
+1123
+01:03:06,623 --> 01:03:09,357
+you may throw the items
+in the containers at me.
+
+1124
+01:03:09,359 --> 01:03:11,092
+While I'm standing here,
+
+1125
+01:03:11,094 --> 01:03:12,594
+I will be reciting excerpts
+
+1126
+01:03:12,596 --> 01:03:18,032
+from the timeless
+Motown-produced movie entitled
+
+1127
+01:03:18,034 --> 01:03:19,500
+"The Last Dragon".
+
+1128
+01:03:19,502 --> 01:03:23,204
+I'll recite those lines
+Angela says to Eddie Arcadian
+
+1129
+01:03:23,206 --> 01:03:25,443
+as she leaves him.
+
+1130
+01:03:27,411 --> 01:03:28,713
+Let's begin.
+
+1131
+01:03:37,321 --> 01:03:39,722
+"And in the end, Eddie,
+you know what?
+
+1132
+01:03:39,724 --> 01:03:43,459
+"You're nothing but a misguided
+midget asshole
+
+1133
+01:03:43,461 --> 01:03:45,794
+"with dreams
+of ruling the world.
+
+1134
+01:03:45,796 --> 01:03:49,164
+"Yeah, and also
+from Kew Gardens.
+
+1135
+01:03:49,166 --> 01:03:53,369
+And also getting by
+on my tits."
+
+1136
+01:03:53,371 --> 01:03:54,640
+Bravo!
+
+1137
+01:03:58,511 --> 01:04:01,677
+"And in the end, Eddie,
+you know what?
+
+1138
+01:04:01,679 --> 01:04:05,583
+"You're nothing but a
+misguided midget asshole
+
+1139
+01:04:05,585 --> 01:04:07,683
+"with dreams
+of ruling the world.
+
+1140
+01:04:07,685 --> 01:04:09,386
+"And also from Kew Gardens.
+
+1141
+01:04:09,388 --> 01:04:12,991
+And also getting by
+on my tits."
+
+1142
+01:04:18,231 --> 01:04:22,367
+"And in the end, Eddie,
+you know what?
+
+1143
+01:04:22,369 --> 01:04:25,035
+"You're nothing but a mis...
+
+1144
+01:04:25,037 --> 01:04:28,740
+"misguided midget asshole
+
+1145
+01:04:28,742 --> 01:04:32,242
+"with dreams
+of ruling the world.
+
+1146
+01:04:32,244 --> 01:04:35,312
+"Yeah, also from Kew Gardens.
+
+1147
+01:04:35,314 --> 01:04:37,582
+And also getting by
+on my tits."
+
+1148
+01:04:37,584 --> 01:04:40,017
+Hey, hey, hey! Stop!
+
+1149
+01:04:40,019 --> 01:04:41,386
+What the fuck is this?
+
+1150
+01:04:41,388 --> 01:04:42,987
+Why would you subject
+yourself to this?
+
+1151
+01:04:42,989 --> 01:04:45,424
+It's a part of the show, Cassius.
+
+1152
+01:04:45,426 --> 01:04:47,458
+You of all people should
+understand, right?
+
+1153
+01:04:47,460 --> 01:04:49,661
+- Stick to the script.
+- No.
+
+1154
+01:04:49,663 --> 01:04:52,397
+Don't you have a party
+to get to, Cash?
+
+1155
+01:04:52,399 --> 01:04:53,700
+Go!
+
+1156
+01:04:54,902 --> 01:04:56,704
+Go, Cash.
+
+1157
+01:05:06,581 --> 01:05:08,750
+Let's begin again.
+
+1158
+01:05:10,719 --> 01:05:13,054
+"And in the end, Eddie..."
+
+1159
+01:05:33,575 --> 01:05:34,741
+Well, I guess
+you're all wondering
+
+1160
+01:05:34,743 --> 01:05:36,112
+why I've called this meeting!
+
+1161
+01:05:45,020 --> 01:05:45,986
+Hey. Hey.
+
+1162
+01:05:45,988 --> 01:05:48,823
+Fucking Sexy chocolate
+motherfucker!
+
+1163
+01:05:49,691 --> 01:05:52,225
+- Oh yeah!
+- Cool guy.
+
+1164
+01:05:52,227 --> 01:05:53,461
+You're coming with me.
+
+1165
+01:05:53,463 --> 01:05:55,028
+I know you're loving
+the new digs.
+
+1166
+01:05:55,030 --> 01:05:58,101
+Or even better,
+I'm digging the new love.
+
+1167
+01:05:59,268 --> 01:06:00,668
+Stick around because...
+
+1168
+01:06:00,670 --> 01:06:01,836
+I think a lot
+of these bitches
+
+1169
+01:06:01,838 --> 01:06:03,304
+are gonna be
+getting naked later.
+
+1170
+01:06:03,306 --> 01:06:05,807
+You know, I mean, your parties
+are the stuff of folklore.
+
+1171
+01:06:05,809 --> 01:06:07,842
+You got to meet the man
+of the hour though.
+
+1172
+01:06:07,844 --> 01:06:10,411
+Hey Cassius Green.
+It's a pleasure to meet you.
+
+1173
+01:06:10,413 --> 01:06:12,414
+An honor even, sir.
+
+1174
+01:06:12,416 --> 01:06:14,481
+It's okay, he's friendly.
+He's friendly.
+
+1175
+01:06:14,483 --> 01:06:15,851
+Oh, yeah, how you doing man?
+You alright?
+
+1176
+01:06:15,853 --> 01:06:17,219
+I'm really well,
+thank you.
+
+1177
+01:06:17,221 --> 01:06:19,622
+Thank you for inviting us, Mr. Lift.
+It's amazing.
+
+1178
+01:06:19,624 --> 01:06:22,125
+Just don't call me
+"Mister."
+
+1179
+01:06:22,127 --> 01:06:24,426
+Oh, uh... Steve.
+
+1180
+01:06:24,428 --> 01:06:26,131
+I never said "Steve."
+
+1181
+01:06:28,033 --> 01:06:29,101
+Sir.
+
+1182
+01:06:32,269 --> 01:06:34,604
+- I'm fucking kidding with you, man.
+- Ow! Ow!
+
+1183
+01:06:34,606 --> 01:06:36,305
+You can call me
+whatever you want,
+
+1184
+01:06:36,307 --> 01:06:37,839
+you keep
+closing those deals.
+
+1185
+01:06:37,841 --> 01:06:40,810
+You must be like a fucking genius.
+
+1186
+01:06:40,812 --> 01:06:42,279
+I'd love to pick your brain
+
+1187
+01:06:42,281 --> 01:06:44,014
+because we need people like
+you over at WorryFree.
+
+1188
+01:06:44,016 --> 01:06:47,052
+People who can comprehend
+the big picture, you know?
+
+1189
+01:06:47,786 --> 01:06:50,288
+It's people like you that are
+gonna save this nation.
+
+1190
+01:06:50,290 --> 01:06:51,554
+I mean look
+don't get me wrong;
+
+1191
+01:06:51,556 --> 01:06:53,190
+we still need the workers
+to do the work.
+
+1192
+01:06:53,192 --> 01:06:54,358
+Per se.
+
+1193
+01:06:54,360 --> 01:06:55,858
+But we also need
+people like you.
+
+1194
+01:06:55,860 --> 01:06:57,362
+People that can be trusted.
+
+1195
+01:06:58,130 --> 01:07:01,764
+People that can analyze
+the challenge and adapt.
+
+1196
+01:07:01,766 --> 01:07:04,036
+Like a cunning racoon.
+
+1197
+01:07:05,070 --> 01:07:06,738
+Like a snake.
+
+1198
+01:07:06,740 --> 01:07:08,809
+Or like a tardigrade!
+
+1199
+01:07:12,445 --> 01:07:13,713
+Thanks...
+
+1200
+01:07:15,682 --> 01:07:18,017
+Go, I'll lock up.
+
+1201
+01:07:19,653 --> 01:07:21,120
+Great performance tonight, D!
+
+1202
+01:07:22,555 --> 01:07:24,022
+I told you,
+you didn't have to do that.
+
+1203
+01:07:24,024 --> 01:07:26,359
+No, it's my pleasure.
+It was good.
+
+1204
+01:07:30,464 --> 01:07:33,934
+So, you gonna tell me what
+you thought about the show now?
+
+1205
+01:07:35,469 --> 01:07:37,839
+It was, uh...
+
+1206
+01:07:39,040 --> 01:07:40,440
+fiery.
+
+1207
+01:07:40,442 --> 01:07:42,674
+Fiery? The fuck?
+
+1208
+01:07:42,676 --> 01:07:44,310
+That's what you thought?
+That's it?
+
+1209
+01:07:44,312 --> 01:07:46,378
+It was fiery.
+It was great.
+
+1210
+01:07:46,380 --> 01:07:48,984
+Alright. Shh,
+you can tell me later.
+
+1211
+01:07:54,555 --> 01:07:56,990
+So now, I gotta climb over the
+side of this overturned jeep
+
+1212
+01:07:56,992 --> 01:07:58,492
+cause I got to
+pry the AK out
+
+1213
+01:07:58,494 --> 01:07:59,959
+from under the crushed
+bloody body
+
+1214
+01:07:59,961 --> 01:08:02,629
+of my now inconveniently
+deceased guide, right?
+
+1215
+01:08:02,631 --> 01:08:04,263
+And just as I get this thing out
+I spin around.
+
+1216
+01:08:04,265 --> 01:08:05,999
+And this fucking thing
+starts to charge and it...
+
+1217
+01:08:12,842 --> 01:08:14,774
+Fucker took two mags
+to the head.
+
+1218
+01:08:14,776 --> 01:08:16,345
+Turned that bitch
+into a trophy.
+
+1219
+01:08:18,548 --> 01:08:20,047
+What about you, Cash?
+
+1220
+01:08:20,049 --> 01:08:22,382
+You ever had to bust a cap
+in anybody's ass?
+
+1221
+01:08:23,686 --> 01:08:26,053
+- Green, no...
+- Shut the fuck up!
+
+1222
+01:08:26,055 --> 01:08:28,221
+I'm talking to the man
+of the hour here.
+
+1223
+01:08:28,223 --> 01:08:29,759
+Come on man, have a seat.
+
+1224
+01:08:31,060 --> 01:08:32,262
+Come on.
+
+1225
+01:08:33,029 --> 01:08:36,397
+I want to hear about some of
+that Oakland gangster shit, man.
+
+1226
+01:08:36,399 --> 01:08:38,398
+- Oaktown.
+- Just right here?
+
+1227
+01:08:38,400 --> 01:08:40,099
+- Just sit down?
+- Yeah.
+
+1228
+01:08:40,101 --> 01:08:41,971
+Well...
+
+1229
+01:08:41,973 --> 01:08:47,342
+Luckily, I have not had
+to put a cap in anyone's ass.
+
+1230
+01:08:47,344 --> 01:08:48,910
+Or head or anything.
+
+1231
+01:08:48,912 --> 01:08:52,681
+So, I don't have any cool
+stories, sorry.
+
+1232
+01:08:52,683 --> 01:08:56,383
+Alright, well I mean
+give us something. Right?
+
+1233
+01:08:56,385 --> 01:08:59,287
+These boring cunts are at
+every single one of my parties.
+
+1234
+01:08:59,289 --> 01:09:01,989
+You're different, man.
+Make an impression.
+
+1235
+01:09:01,991 --> 01:09:03,725
+At least take off
+the white voice.
+
+1236
+01:09:03,727 --> 01:09:05,828
+And I know you can
+bust a rap, right?
+
+1237
+01:09:05,830 --> 01:09:07,463
+No, actually I can't.
+
+1238
+01:09:07,465 --> 01:09:09,066
+Bullshit. Come on. Bullshit.
+
+1239
+01:09:09,068 --> 01:09:10,365
+I can't, man.
+
+1240
+01:09:10,367 --> 01:09:12,935
+I mean I can listen to rap,
+well, but I just can't rap.
+
+1241
+01:09:12,937 --> 01:09:14,436
+It's actually embarrassing.
+
+1242
+01:09:14,438 --> 01:09:15,739
+I don't know.
+I think he's lying.
+
+1243
+01:09:15,741 --> 01:09:16,939
+I think you can rap.
+
+1244
+01:09:16,941 --> 01:09:18,674
+I think you should rap.
+
+1245
+01:09:18,676 --> 01:09:20,275
+Rap, rap, rap...
+
+1246
+01:09:20,277 --> 01:09:23,747
+Rap, rap, rap, rap, rap, rap.
+
+1247
+01:09:23,749 --> 01:09:25,548
+Rap, rap, rap.
+
+1248
+01:09:25,550 --> 01:09:29,152
+Rap, rap, rap,
+rap, rap, rap.
+
+1249
+01:09:29,154 --> 01:09:30,720
+Rap, rap, rap.
+
+1250
+01:09:30,722 --> 01:09:34,258
+Rap, rap, rap,
+rap, rap, rap.
+
+1251
+01:09:44,869 --> 01:09:47,273
+My name is Cash. I like to...
+
+1252
+01:09:49,309 --> 01:09:50,409
+Smash!
+
+1253
+01:09:56,482 --> 01:09:59,352
+I come from the land of dope.
+
+1254
+01:10:00,153 --> 01:10:02,289
+Somebody got something to smoke?
+
+1255
+01:10:09,329 --> 01:10:10,627
+Nigger shit. Nigger shit.
+
+1256
+01:10:10,629 --> 01:10:11,862
+Nigger, nigger, nigger, shit.
+
+1257
+01:10:11,864 --> 01:10:13,130
+Nigger shit. Nigger shit.
+
+1258
+01:10:13,132 --> 01:10:14,599
+Nigger, nigger, nigger, shit.
+
+1259
+01:10:14,601 --> 01:10:15,899
+Nigger shit. Nigger shit.
+
+1260
+01:10:15,901 --> 01:10:17,168
+Nigger, nigger, nigger, shit.
+
+1261
+01:10:17,170 --> 01:10:18,703
+- Nigger shit. Nigger shit.
+- Yeah!
+
+1262
+01:10:18,705 --> 01:10:20,206
+Nigger, nigger, nigger, shit.
+
+1263
+01:10:20,208 --> 01:10:22,240
+Nigger shit. Nigger shit.
+Nigger, nigger, nigger, shit.
+
+1264
+01:10:22,242 --> 01:10:24,743
+Nigger shit. Nigger shit.
+Nigger, nigger, nigger, shit.
+
+1265
+01:10:24,745 --> 01:10:27,479
+Nigger shit. Nigger shit.
+Nigger, nigger, nigger, shit.
+
+1266
+01:10:27,481 --> 01:10:30,149
+- Yeah!
+- Nigger shit. Nigger shit. Nigger, nigger, nigger, shit.
+
+1267
+01:10:30,151 --> 01:10:32,685
+Nigger shit. Nigger shit.
+Nigger, nigger, nigger, shit.
+
+1268
+01:10:32,687 --> 01:10:35,421
+Nigger shit. Nigger shit.
+Nigger, nigger, nigger, shit.
+
+1269
+01:10:35,423 --> 01:10:38,123
+Nigger shit. Nigger shit.
+Nigger, nigger, nigger, shit.
+
+1270
+01:10:38,125 --> 01:10:40,826
+Nigger shit. Nigger shit.
+Nigger, nigger, nigger, shit.
+
+1271
+01:10:40,828 --> 01:10:42,398
+Nigger shit. Nigger shit.
+
+1272
+01:10:45,768 --> 01:10:48,534
+Nigger shit. Nigger shit.
+Nigger, nigger, nigger, shit.
+
+1273
+01:10:48,536 --> 01:10:51,771
+Nigger shit. Nigger shit.
+Nigger, nigger, nigger, shit.
+
+1274
+01:11:51,868 --> 01:11:53,735
+Go through that big ass foyer.
+
+1275
+01:11:53,737 --> 01:11:55,337
+Go through the door
+next to the stairs.
+
+1276
+01:11:55,339 --> 01:11:58,140
+Go down the other stairs.
+Hang a left.
+
+1277
+01:11:58,142 --> 01:12:00,510
+Go to the end of the hallway.
+
+1278
+01:12:00,512 --> 01:12:01,912
+Then make a right.
+
+1279
+01:12:01,914 --> 01:12:04,046
+You'll see it.
+
+1280
+01:12:04,048 --> 01:12:06,248
+Big magenta color doors.
+At the end of the halls.
+
+1281
+01:12:06,250 --> 01:12:07,817
+Steve Lift will be
+waiting for you.
+
+1282
+01:12:07,819 --> 01:12:09,088
+He wants you in there.
+
+1283
+01:12:10,621 --> 01:12:14,924
+Look here, young blood. We don't
+cry about the shit that should be.
+
+1284
+01:12:14,926 --> 01:12:17,427
+We just thrive on what is
+and what is...
+
+1285
+01:12:17,429 --> 01:12:18,932
+opportunity.
+
+1286
+01:12:20,098 --> 01:12:22,168
+This could be big, Cassius.
+
+1287
+01:12:23,535 --> 01:12:25,468
+Don't do that thing.
+
+1288
+01:12:25,470 --> 01:12:28,241
+- What thing?
+- That thing where you fuck it up.
+
+1289
+01:12:30,942 --> 01:12:32,411
+Please, though.
+
+1290
+01:13:48,923 --> 01:13:50,258
+Heads up.
+
+1291
+01:13:51,325 --> 01:13:54,328
+This place is fucking nuts, man.
+
+1292
+01:13:54,330 --> 01:13:56,297
+Thank you. I will accept
+your backhanded compliment.
+
+1293
+01:13:56,299 --> 01:13:59,268
+Please. Take a seat,
+Mr. Cassius Green.
+
+1294
+01:14:03,673 --> 01:14:06,240
+- How's your head, you alright?
+- No, it's perfect.
+
+1295
+01:14:06,242 --> 01:14:08,842
+Well, here, in this lair
+
+1296
+01:14:08,844 --> 01:14:10,310
+we do no line
+before its time.
+
+1297
+01:14:10,312 --> 01:14:12,447
+And for you, my friend,
+it is time.
+
+1298
+01:14:12,449 --> 01:14:16,384
+Cause you are rolling
+with the big dogs now.
+
+1299
+01:14:16,386 --> 01:14:17,789
+Fuck it!
+
+1300
+01:14:27,631 --> 01:14:30,365
+Fuck! It's strong, man!
+
+1301
+01:14:30,367 --> 01:14:33,636
+Oh yeah. I have a
+proposition for you, Cash.
+
+1302
+01:14:33,638 --> 01:14:37,105
+I will listen to your
+proposition, Stevie.
+
+1303
+01:14:37,107 --> 01:14:41,009
+I want you at WorryFree.
+
+1304
+01:14:41,011 --> 01:14:42,980
+I see something in you.
+
+1305
+01:14:42,982 --> 01:14:44,481
+I think that you are more
+
+1306
+01:14:44,483 --> 01:14:46,215
+than just the world's
+greatest telemarketer
+
+1307
+01:14:46,217 --> 01:14:47,817
+since Hal Jameson.
+
+1308
+01:14:47,819 --> 01:14:49,887
+You know what
+that's very interesting.
+
+1309
+01:14:49,889 --> 01:14:50,920
+Boring, though.
+
+1310
+01:14:50,922 --> 01:14:52,821
+I want to talk
+about the dollars
+
+1311
+01:14:52,823 --> 01:14:54,257
+and zeros and the commas
+and shit.
+
+1312
+01:14:54,259 --> 01:14:55,825
+Cocky. I like it.
+
+1313
+01:14:55,827 --> 01:14:57,694
+Watch this little video
+proposal we put together
+
+1314
+01:14:57,696 --> 01:14:59,428
+and you'll understand
+everything. Alright?
+
+1315
+01:15:05,238 --> 01:15:07,037
+You know, I kind of
+got to piss.
+
+1316
+01:15:07,039 --> 01:15:08,438
+So, could we, like,
+kind of watch this
+
+1317
+01:15:08,440 --> 01:15:09,907
+after I get back
+from the bathroom?
+
+1318
+01:15:09,909 --> 01:15:11,178
+No.
+
+1319
+01:15:16,148 --> 01:15:17,982
+Hell, I got to piss, man.
+
+1320
+01:15:17,984 --> 01:15:19,584
+Okay fine.
+Out the door,
+
+1321
+01:15:19,586 --> 01:15:21,685
+halfway down the hallway,
+jade door.
+
+1322
+01:15:21,687 --> 01:15:23,090
+Jade door, okay.
+
+1323
+01:15:36,636 --> 01:15:37,804
+Okay...
+
+1324
+01:15:40,507 --> 01:15:41,576
+Wow...
+
+1325
+01:15:42,543 --> 01:15:43,611
+Alright...
+
+1326
+01:15:46,679 --> 01:15:48,647
+Shit...
+
+1327
+01:15:48,649 --> 01:15:49,851
+One stall.
+
+1328
+01:15:50,918 --> 01:15:54,087
+Hey, you on your way
+in or out, man?
+
+1329
+01:15:54,089 --> 01:15:55,624
+Can you help me?
+
+1330
+01:15:58,026 --> 01:16:00,726
+No. No, I can't. Sorry.
+
+1331
+01:16:00,728 --> 01:16:02,962
+Please. Could you help me?
+
+1332
+01:16:02,964 --> 01:16:06,168
+Fucked up, man.
+I'm really hurt.
+
+1333
+01:16:09,137 --> 01:16:12,508
+Oh, shit. Okay.
+
+1334
+01:16:13,842 --> 01:16:15,376
+Just hold on, man.
+
+1335
+01:16:22,084 --> 01:16:25,119
+Please... help me.
+
+1336
+01:16:25,121 --> 01:16:28,155
+Help me! Help me!
+
+1337
+01:16:32,761 --> 01:16:35,762
+No, no, no, no, no, no!
+Don't touch me.
+
+1338
+01:16:35,764 --> 01:16:38,167
+- Help us!
+- Help me!
+
+1339
+01:16:44,041 --> 01:16:45,439
+Hey, what the fuck!
+
+1340
+01:16:45,441 --> 01:16:48,244
+What the fuck, man!
+
+1341
+01:16:49,279 --> 01:16:52,113
+- I said the jade door.
+- That is the jade door.
+
+1342
+01:16:52,115 --> 01:16:53,314
+No, that's an olive door.
+
+1343
+01:16:53,316 --> 01:16:54,816
+That's very clearly
+an olive door.
+
+1344
+01:16:54,818 --> 01:16:56,084
+That's a jade door.
+
+1345
+01:16:56,086 --> 01:16:57,619
+Look, you got to get me
+the fuck out of here.
+
+1346
+01:16:57,621 --> 01:17:00,888
+Okay, calm, calm. This is
+a big misunderstanding. Okay?
+
+1347
+01:17:00,890 --> 01:17:02,590
+Let's just take a deep breath
+and calm down.
+
+1348
+01:17:02,592 --> 01:17:03,924
+We're gonna go
+back to my office.
+
+1349
+01:17:03,926 --> 01:17:05,361
+I'm gonna explain
+everything to you, alright?
+
+1350
+01:17:05,363 --> 01:17:06,595
+Wait, do you
+still have to pee?
+
+1351
+01:17:06,597 --> 01:17:08,797
+I mean, I pissed
+on myself, man.
+
+1352
+01:17:08,799 --> 01:17:10,532
+So, no I don't have to pee.
+
+1353
+01:17:10,534 --> 01:17:12,167
+Look, I got to get
+the fuck out of here.
+
+1354
+01:17:12,169 --> 01:17:13,571
+No, no, no, no, no, no...
+
+1355
+01:17:16,007 --> 01:17:17,605
+Here's the deal.
+
+1356
+01:17:17,607 --> 01:17:20,410
+I can't let you leave without
+explaining everything. Alright?
+
+1357
+01:17:20,412 --> 01:17:21,778
+And if you'd even
+seen the video
+
+1358
+01:17:21,780 --> 01:17:23,712
+before you went in there
+you wouldn't even be scared.
+
+1359
+01:17:23,714 --> 01:17:26,484
+What the fuck was that thing
+in there, man?
+
+1360
+01:17:27,584 --> 01:17:28,654
+It's...
+
+1361
+01:17:32,057 --> 01:17:33,856
+the video is gonna
+show you everything.
+
+1362
+01:17:33,858 --> 01:17:35,260
+Don't worry about it.
+
+1363
+01:17:41,933 --> 01:17:44,669
+There's a lot of
+production value in this.
+
+1364
+01:17:54,380 --> 01:17:56,881
+<i>Since the dawn of time,</i>
+
+1365
+01:17:56,883 --> 01:18:00,084
+<i>or least since before anyone
+cares to remember</i>
+
+1366
+01:18:00,086 --> 01:18:02,622
+<i>we have used our wits
+to survive.</i>
+
+1367
+01:18:04,823 --> 01:18:07,091
+<i>But what has
+allowed us to thrive</i>
+
+1368
+01:18:07,093 --> 01:18:09,360
+<i>was our use of tools.</i>
+
+1369
+01:18:09,362 --> 01:18:11,698
+<i>A natural development.</i>
+
+1370
+01:18:14,134 --> 01:18:16,299
+<i>But what are tools</i>
+
+1371
+01:18:16,301 --> 01:18:18,303
+<i>if not extensions
+of the appendages</i>
+
+1372
+01:18:18,305 --> 01:18:19,707
+<i>with which we were born?</i>
+
+1373
+01:18:21,108 --> 01:18:24,279
+<i>Humans have modified ourselves
+throughout history.</i>
+
+1374
+01:18:25,444 --> 01:18:28,245
+<i>We train ourselves to fight.</i>
+
+1375
+01:18:28,247 --> 01:18:30,281
+<i>We work out.</i>
+
+1376
+01:18:30,283 --> 01:18:31,782
+<i>We study.</i>
+
+1377
+01:18:31,784 --> 01:18:34,453
+<i>Worryfree is carrying
+forward this lineage</i>
+
+1378
+01:18:34,455 --> 01:18:38,025
+<i>of natural developments</i>
+that began in prehistoric time.
+
+1379
+01:18:41,796 --> 01:18:45,034
+<i>We realize that human labor
+has its limitations.</i>
+
+1380
+01:18:48,069 --> 01:18:51,204
+<i>And, so, our scientists
+have discovered a way.</i>
+
+1381
+01:18:51,206 --> 01:18:54,340
+<i>A chemical change to make
+humans stronger,</i>
+
+1382
+01:18:54,342 --> 01:18:56,410
+<i>more obedient, more durable</i>
+
+1383
+01:18:56,412 --> 01:18:59,713
+<i>and therefore more
+efficient and profitable.</i>
+
+1384
+01:18:59,715 --> 01:19:02,515
+<i>We are proud to announce
+to our shareholders</i>
+
+1385
+01:19:02,517 --> 01:19:07,320
+<i>that a new day in human
+productivity is dawning.</i>
+
+1386
+01:19:07,322 --> 01:19:09,355
+<i>Our workforce
+of Equisapiens</i>
+
+1387
+01:19:09,357 --> 01:19:10,757
+<i>will make Worryfree</i>
+
+1388
+01:19:10,759 --> 01:19:13,896
+<i>the most profitable company
+in human history.</i>
+
+1389
+01:19:15,164 --> 01:19:16,764
+<i>And you, our shareholders,</i>
+
+1390
+01:19:16,766 --> 01:19:19,399
+<i>will be a part
+of that history.</i>
+
+1391
+01:19:19,401 --> 01:19:22,403
+See? It's all just a
+big misunderstanding.
+
+1392
+01:19:22,405 --> 01:19:25,605
+This ain't no fucking
+misunderstanding, man!
+
+1393
+01:19:25,607 --> 01:19:30,078
+So, you making half-human,
+half-horse fucking things
+
+1394
+01:19:30,080 --> 01:19:31,446
+so you can make more money?
+
+1395
+01:19:31,448 --> 01:19:32,748
+Yeah, basically.
+
+1396
+01:19:32,750 --> 01:19:35,382
+I just didn't want you
+to think I was crazy.
+
+1397
+01:19:35,384 --> 01:19:36,985
+That I was doing
+this for no reason.
+
+1398
+01:19:36,987 --> 01:19:39,320
+Because this isn't irrational.
+
+1399
+01:19:39,322 --> 01:19:40,888
+Oh.
+
+1400
+01:19:40,890 --> 01:19:42,123
+Cool. Alright.
+
+1401
+01:19:42,125 --> 01:19:43,425
+Cool. No, I understand.
+
+1402
+01:19:43,427 --> 01:19:45,260
+I just I just got
+to leave now, man.
+
+1403
+01:19:45,262 --> 01:19:47,261
+So, please get the fuck
+out of my way.
+
+1404
+01:19:47,263 --> 01:19:48,363
+We haven't finished
+the movie.
+
+1405
+01:19:48,365 --> 01:19:49,698
+Call me about that
+next week, please.
+
+1406
+01:19:49,700 --> 01:19:51,399
+And then we'll talk about it.
+
+1407
+01:19:51,401 --> 01:19:53,503
+Sit in that chair
+
+1408
+01:19:53,505 --> 01:19:55,538
+and we're gonna
+watch this movie.
+
+1409
+01:19:55,540 --> 01:19:57,609
+And then I'm gonna
+make you a proposal.
+
+1410
+01:19:58,510 --> 01:19:59,978
+Come on.
+
+1411
+01:20:06,050 --> 01:20:08,249
+<i>Our worker modification process</i>
+
+1412
+01:20:08,251 --> 01:20:10,388
+<i>is simple and rather quick.</i>
+
+1413
+01:20:16,227 --> 01:20:18,262
+<i>It works for
+70% of humans</i>
+
+1414
+01:20:18,264 --> 01:20:20,533
+<i>who take the
+fusing catalyst.</i>
+
+1415
+01:20:35,881 --> 01:20:37,281
+And, see, this is how we begin
+
+1416
+01:20:37,283 --> 01:20:39,015
+the process
+of the transformation.
+
+1417
+01:20:39,017 --> 01:20:40,684
+They take what's called the fusing
+catalyst. And what happens is...
+
+1418
+01:20:40,686 --> 01:20:42,553
+Wait, wait, wait, wait, wait.
+Wait a minute, man.
+
+1419
+01:20:42,555 --> 01:20:45,489
+What the fuck did you
+give me to snort? Huh?
+
+1420
+01:20:45,491 --> 01:20:47,358
+What the... what the fuck
+was that?
+
+1421
+01:20:47,360 --> 01:20:48,658
+- Wait, what?
+- What did I snort?!
+
+1422
+01:20:48,660 --> 01:20:49,928
+Cause I'm, I'm not
+even fucking high.
+
+1423
+01:20:49,930 --> 01:20:51,929
+You're not what?
+Wait, wait wait. Wait.
+
+1424
+01:20:51,931 --> 01:20:54,764
+No, I don't give a fuck
+about that anymore, alright?
+
+1425
+01:20:54,766 --> 01:20:56,166
+I don't give a fuck
+about that shit.
+
+1426
+01:20:56,168 --> 01:20:57,402
+If you had me
+snort some shit
+
+1427
+01:20:57,404 --> 01:20:58,569
+that's gonna have
+me mutated man
+
+1428
+01:20:58,571 --> 01:21:00,371
+I want you to fucking shoot me!
+
+1429
+01:21:00,373 --> 01:21:03,640
+Cash. What you snorted was
+100% Peruvian, man.
+
+1430
+01:21:03,642 --> 01:21:05,511
+I need you to be a little bit
+more particular, man.
+
+1431
+01:21:05,513 --> 01:21:08,413
+You know, they got fucking
+horses in Peru, probably.
+
+1432
+01:21:08,415 --> 01:21:11,382
+- Motherfucker!
+- You're gonna get semantic on me?
+
+1433
+01:21:11,384 --> 01:21:12,551
+No, I'm not
+getting semantic.
+
+1434
+01:21:12,553 --> 01:21:13,886
+You're the one
+that's being semantic
+
+1435
+01:21:13,888 --> 01:21:15,753
+if you refer to the fucking
+horses as a 100%.
+
+1436
+01:21:15,755 --> 01:21:17,389
+Fuck that.
+It doesn't even matter.
+
+1437
+01:21:17,391 --> 01:21:18,657
+Was it coke?
+Was it not coke?
+
+1438
+01:21:18,659 --> 01:21:21,527
+- What was it?
+- Cash. It was coke.
+
+1439
+01:21:21,529 --> 01:21:23,596
+Calm down, man.
+
+1440
+01:21:23,598 --> 01:21:25,430
+You're... I wouldn't
+just give you
+
+1441
+01:21:25,432 --> 01:21:27,164
+the fusing catalyst
+without telling you.
+
+1442
+01:21:27,166 --> 01:21:29,435
+I'm not evil. Okay?
+
+1443
+01:21:29,437 --> 01:21:30,904
+The reason you're not high
+
+1444
+01:21:30,906 --> 01:21:33,707
+is because your adrenaline
+is pumping so hard right now
+
+1445
+01:21:33,709 --> 01:21:35,141
+that to be perfectly honest
+
+1446
+01:21:35,143 --> 01:21:38,043
+you're starting to harsh both
+of our mellows. Okay?
+
+1447
+01:21:38,045 --> 01:21:41,114
+So, sit down
+and just take a breath, man.
+
+1448
+01:21:41,116 --> 01:21:42,216
+It's fucking adrenaline.
+
+1449
+01:21:42,218 --> 01:21:44,116
+Fuck. Fuck. Fuck.
+Fuck. Fuck. Fuck.
+
+1450
+01:21:44,118 --> 01:21:46,285
+It's fine, okay.
+Just breathe.
+
+1451
+01:21:46,287 --> 01:21:48,055
+Okay?
+
+1452
+01:21:48,057 --> 01:21:50,089
+Fucking bitch...
+
+1453
+01:21:50,091 --> 01:21:51,857
+Okay?
+
+1454
+01:21:51,859 --> 01:21:56,099
+Now, the proposal that
+I want to make you is this...
+
+1455
+01:21:56,933 --> 01:21:59,799
+That is the future
+of labor. Okay?
+
+1456
+01:21:59,801 --> 01:22:01,869
+They're bigger.
+They're stronger.
+
+1457
+01:22:01,871 --> 01:22:03,571
+They hopefully
+gripe a lot less.
+
+1458
+01:22:03,573 --> 01:22:07,575
+And also, soon, I'm gonna
+have millions of them.
+
+1459
+01:22:07,577 --> 01:22:08,741
+Fucking crazy...
+
+1460
+01:22:08,743 --> 01:22:10,443
+They're gonna form
+their own society.
+
+1461
+01:22:10,445 --> 01:22:12,379
+They'll probably form
+their own culture.
+
+1462
+01:22:12,381 --> 01:22:14,115
+Then maybe
+they want to organize.
+
+1463
+01:22:14,117 --> 01:22:15,516
+Maybe they
+want to rebel.
+
+1464
+01:22:15,518 --> 01:22:18,786
+And that's why we need
+someone on the inside
+
+1465
+01:22:18,788 --> 01:22:22,323
+who represents
+Worryfree's needs.
+
+1466
+01:22:22,325 --> 01:22:24,595
+Someone they can relate to.
+
+1467
+01:22:25,494 --> 01:22:27,594
+To manage it.
+
+1468
+01:22:27,596 --> 01:22:29,264
+For fucking horse people.
+
+1469
+01:22:29,266 --> 01:22:31,433
+No. No.
+
+1470
+01:22:31,435 --> 01:22:36,504
+The Equisapien
+Martin Luther King, Junior.
+
+1471
+01:22:36,506 --> 01:22:39,073
+But one that we create.
+
+1472
+01:22:39,075 --> 01:22:40,842
+One that we control.
+
+1473
+01:22:40,844 --> 01:22:43,979
+So, you want to...
+want to have a false leader
+
+1474
+01:22:43,981 --> 01:22:46,015
+for these fucking
+horse people.
+
+1475
+01:22:46,017 --> 01:22:48,518
+But at the same time,
+he works for you?
+
+1476
+01:22:48,520 --> 01:22:50,989
+Yeah. Keeps shit simple.
+
+1477
+01:22:53,691 --> 01:22:55,757
+Well, why the fuck
+did you choose me?
+
+1478
+01:22:55,759 --> 01:22:57,225
+Out of everybody
+you could have chose,
+
+1479
+01:22:57,227 --> 01:22:58,293
+why did you pick me?
+
+1480
+01:22:58,295 --> 01:23:00,697
+- For what?
+- Cash. Cash.
+
+1481
+01:23:00,699 --> 01:23:04,233
+You are awesome.
+
+1482
+01:23:04,235 --> 01:23:06,802
+I've never seen anyone
+go through the ranks
+
+1483
+01:23:06,804 --> 01:23:08,838
+at Regalview
+like you did.
+
+1484
+01:23:08,840 --> 01:23:12,275
+And I want someone
+like that at Worryfree.
+
+1485
+01:23:12,277 --> 01:23:13,709
+Someone hungry.
+
+1486
+01:23:13,711 --> 01:23:15,779
+Someone who'll fucking shank
+their own friend in the back
+
+1487
+01:23:15,781 --> 01:23:18,114
+if it means getting
+what they want.
+
+1488
+01:23:18,116 --> 01:23:21,252
+Now, look, I can see that
+you're freaked out.
+
+1489
+01:23:21,254 --> 01:23:23,319
+And that you
+want to say no.
+
+1490
+01:23:23,321 --> 01:23:26,258
+But I wouldn't do that before
+you see what I'm offering.
+
+1491
+01:23:33,533 --> 01:23:34,932
+No, man. No, no.
+
+1492
+01:23:34,934 --> 01:23:36,468
+There's no fucking
+amount of money
+
+1493
+01:23:36,470 --> 01:23:38,102
+that will make me
+do that shit.
+
+1494
+01:23:38,104 --> 01:23:39,338
+Two things.
+
+1495
+01:23:39,340 --> 01:23:41,239
+One:
+it's a short-term contract.
+
+1496
+01:23:41,241 --> 01:23:43,074
+Five years. Done.
+
+1497
+01:23:43,076 --> 01:23:45,110
+Then we give you
+the diffuser antidote
+
+1498
+01:23:45,112 --> 01:23:46,410
+special sauce serum
+
+1499
+01:23:46,412 --> 01:23:47,911
+and you're back to normal.
+
+1500
+01:23:47,913 --> 01:23:51,383
+And the second one, and I
+want you to remember this.
+
+1501
+01:23:51,385 --> 01:23:53,888
+You're gonna have
+a horse cock.
+
+1502
+01:23:55,489 --> 01:23:59,224
+What the fuck is a special antidote
+sauce serum. What the f...
+
+1503
+01:23:59,226 --> 01:24:00,793
+It sounds like you
+made that shit up, man.
+
+1504
+01:24:00,795 --> 01:24:01,927
+That shit ain't real.
+
+1505
+01:24:01,929 --> 01:24:04,729
+No, it's real.
+And so is my offer.
+
+1506
+01:24:04,731 --> 01:24:07,566
+Five years as our man
+amongst horses.
+
+1507
+01:24:07,568 --> 01:24:10,271
+For one hundred
+million dollars.
+
+1508
+01:24:11,605 --> 01:24:13,438
+Just go sleep on it. Okay?
+
+1509
+01:24:13,440 --> 01:24:17,178
+And after that,
+holla at your boy. Okay.
+
+1510
+01:24:17,913 --> 01:24:21,083
+Get out in that party
+and go fuck something.
+
+1511
+01:24:50,045 --> 01:24:53,249
+Fuck. Fuck. Fuck. Fuck.
+
+1512
+01:24:55,684 --> 01:24:58,388
+Fuck! Fuck!
+
+1513
+01:25:09,800 --> 01:25:12,070
+Where's my cell phone?
+
+1514
+01:25:19,343 --> 01:25:21,643
+<i>San Francisco Chronicle, good morning.</i>
+
+1515
+01:25:21,645 --> 01:25:23,579
+Um... Eric.
+Eric Arnold, please.
+
+1516
+01:25:23,581 --> 01:25:24,849
+<i>One moment.</i>
+
+1517
+01:25:25,683 --> 01:25:27,281
+<i>Hello.</i>
+
+1518
+01:25:27,283 --> 01:25:30,219
+Okay, Eric Arnold.
+My name is Cassius Green.
+
+1519
+01:25:30,221 --> 01:25:32,722
+I have some
+important information.
+
+1520
+01:25:32,724 --> 01:25:34,191
+Some very, very
+important information
+
+1521
+01:25:34,193 --> 01:25:37,126
+that I think you would really,
+really be interested in.
+
+1522
+01:25:37,128 --> 01:25:41,130
+- <i>Okay, shoot.</i>
+- Okay, uh... alright.
+
+1523
+01:25:41,132 --> 01:25:44,200
+They turning motherfuckers
+into horse-people.
+
+1524
+01:25:44,202 --> 01:25:47,637
+Horse... half-horse, half-human
+people that work. Alright.
+
+1525
+01:25:47,639 --> 01:25:49,739
+Look, they have you
+snort some fucking coke,
+
+1526
+01:25:49,741 --> 01:25:51,208
+and, well,
+it's not really coke,
+
+1527
+01:25:51,210 --> 01:25:53,243
+but you snort it and it has
+your nostrils get all big
+
+1528
+01:25:53,245 --> 01:25:54,944
+and then you get
+a horse dick and shit.
+
+1529
+01:25:54,946 --> 01:25:58,314
+And listen... listen, you got
+to get this story out here, man,
+
+1530
+01:25:58,316 --> 01:26:00,250
+because look, you put...
+
+1531
+01:26:00,252 --> 01:26:01,218
+<i>Jake?</i>
+
+1532
+01:26:01,220 --> 01:26:04,255
+What you talking about?
+No. Cassius.
+
+1533
+01:26:04,257 --> 01:26:06,090
+Cassius Green.
+
+1534
+01:26:09,561 --> 01:26:11,260
+<i>The first thing we're gonna do</i>
+
+1535
+01:26:11,262 --> 01:26:14,233
+<i>is cut a little nib
+into the cola can.</i>
+
+1536
+01:26:19,272 --> 01:26:23,877
+<i>Voila! "Have a cola
+and smile, bitch," wig!</i>
+
+1537
+01:26:26,847 --> 01:26:29,850
+Fuck! Where the fuck
+is my cellphone?!
+
+1538
+01:26:32,118 --> 01:26:33,685
+<i>And the strangest thing</i>
+
+1539
+01:26:33,687 --> 01:26:35,153
+<i>to happen in
+advertising history</i>
+
+1540
+01:26:35,155 --> 01:26:37,322
+<i>Soda Cola has announced
+working with Cynthia Rose,</i>
+
+1541
+01:26:37,324 --> 01:26:40,092
+<i>the foul-mouthed heroine
+with perfect aim</i>
+
+1542
+01:26:40,094 --> 01:26:42,995
+<i>from the "Cola-and-Smile-Bitch"
+YouTube clip.</i>
+
+1543
+01:26:42,997 --> 01:26:44,829
+<i>Rose reportedly signed
+for an amount of money</i>
+
+1544
+01:26:44,831 --> 01:26:46,565
+<i>that could buy
+four white babies.</i>
+
+1545
+01:26:46,567 --> 01:26:49,168
+<i>The strike breaker who's
+hilariously pegged in that clip</i>
+
+1546
+01:26:49,170 --> 01:26:50,302
+<i>has been revealed
+to be named...</i>
+
+1547
+01:26:50,304 --> 01:26:51,904
+- Cassius Green.
+- <i>Cassius Green.</i>
+
+1548
+01:26:51,906 --> 01:26:54,239
+Alright Doc,
+now I'm, uh...
+
+1549
+01:26:54,241 --> 01:26:55,842
+I got a little worried,
+you know.
+
+1550
+01:26:55,844 --> 01:26:57,810
+Because I was looking at it
+maybe from up here.
+
+1551
+01:26:57,812 --> 01:26:59,811
+But that it might be different.
+
+1552
+01:26:59,813 --> 01:27:01,249
+Is it bigger?
+
+1553
+01:27:03,817 --> 01:27:05,819
+No. No, it's the same size.
+
+1554
+01:27:05,821 --> 01:27:07,286
+I mean, I'm glad
+you're feeling yourself.
+
+1555
+01:27:07,288 --> 01:27:09,522
+Is that why you tried to
+booty call me last night?
+
+1556
+01:27:09,524 --> 01:27:13,058
+I didn't try to booty call you.
+I lost my phone. I told you.
+
+1557
+01:27:13,060 --> 01:27:14,895
+It doesn't matter.
+I got a new one.
+
+1558
+01:27:14,897 --> 01:27:16,362
+What is up with you, Cash?
+
+1559
+01:27:16,364 --> 01:27:18,831
+You called me at 3:23.
+You left a video message.
+
+1560
+01:27:18,833 --> 01:27:19,999
+I didn't check it,
+
+1561
+01:27:20,001 --> 01:27:21,101
+cause I assumed
+it was lude as fuck
+
+1562
+01:27:21,103 --> 01:27:22,303
+and I wasn't
+trying to do that...
+
+1563
+01:27:22,305 --> 01:27:23,506
+Can I see that?
+
+1564
+01:27:24,739 --> 01:27:26,108
+Come on.
+
+1565
+01:27:33,816 --> 01:27:37,852
+<i>We're hurting!
+We're hurting!</i>
+
+1566
+01:27:37,854 --> 01:27:39,554
+<i>Help us! Help us!</i>
+
+1567
+01:27:39,556 --> 01:27:41,888
+<i>Get back in there. Get in there.</i>
+
+1568
+01:27:41,890 --> 01:27:43,392
+<i>Help us!</i>
+
+1569
+01:27:44,994 --> 01:27:46,662
+<i>We're hurting!</i>
+
+1570
+01:27:47,430 --> 01:27:49,598
+Security code cleared.
+
+1571
+01:27:49,600 --> 01:27:51,131
+<i>Love of Christ.</i>
+
+1572
+01:27:51,133 --> 01:27:53,234
+<i>If your beautiful perversions
+don't shut the fuck up,</i>
+
+1573
+01:27:53,236 --> 01:27:56,039
+<i>I will turn you all into glue!</i>
+
+1574
+01:27:56,973 --> 01:27:58,575
+I found my phone.
+
+1575
+01:28:09,520 --> 01:28:11,086
+I don't know, Cash...
+
+1576
+01:28:11,088 --> 01:28:13,822
+You got to do something.
+People got to know.
+
+1577
+01:28:13,824 --> 01:28:16,059
+Right? Honey,
+you got to tell them, right?
+
+1578
+01:28:16,061 --> 01:28:17,362
+Yeah. Yeah I mean...
+
+1579
+01:28:18,263 --> 01:28:20,029
+- Why did you show...
+- I don't know, alright.
+
+1580
+01:28:20,031 --> 01:28:21,498
+I snorted something that was...
+
+1581
+01:28:21,500 --> 01:28:22,765
+I thought it was activated
+
+1582
+01:28:22,767 --> 01:28:24,434
+but it turned out
+it was just coke...
+
+1583
+01:28:24,436 --> 01:28:26,468
+But why did you focus
+on your dick, though?
+
+1584
+01:28:26,470 --> 01:28:27,637
+They have big nostrils
+
+1585
+01:28:27,639 --> 01:28:29,338
+you could have just asked me
+to check your nostrils.
+
+1586
+01:28:29,340 --> 01:28:31,343
+- Okay check ‘em, check ‘em.
+- Okay, okay.
+
+1587
+01:28:32,576 --> 01:28:33,877
+Yeah, they look bigger.
+
+1588
+01:28:33,879 --> 01:28:35,444
+- No, they don't.
+- I think that's just cause...
+
+1589
+01:28:35,446 --> 01:28:37,346
+- Yeah. You're flaring them.
+- No, I'm not flaring them.
+
+1590
+01:28:37,348 --> 01:28:38,849
+- You are, you are.
+- No, I'm not.
+
+1591
+01:28:38,851 --> 01:28:40,486
+Just relax them a little bit
+so I can see.
+
+1592
+01:28:41,754 --> 01:28:44,955
+Okay. Look, listen. They're normal size.
+They look normal size.
+
+1593
+01:28:44,957 --> 01:28:46,625
+They look normal size.
+
+1594
+01:29:09,015 --> 01:29:10,115
+I need you to know...
+
+1595
+01:29:10,117 --> 01:29:12,517
+I want to be clear...
+
+1596
+01:29:12,519 --> 01:29:14,119
+this can't happen again.
+
+1597
+01:29:14,121 --> 01:29:15,920
+I'm not going back.
+
+1598
+01:29:15,922 --> 01:29:18,556
+I'm not going to be
+a fucking Power Caller.
+
+1599
+01:29:18,558 --> 01:29:20,424
+That's a good decision.
+
+1600
+01:29:20,426 --> 01:29:21,625
+But I...
+
+1601
+01:29:21,627 --> 01:29:23,495
+- I still have problems with all this.
+- I'm not...
+
+1602
+01:29:23,497 --> 01:29:25,763
+Only something happening to you
+turned you against them.
+
+1603
+01:29:25,765 --> 01:29:27,531
+Okay. But I know
+how they view me.
+
+1604
+01:29:27,533 --> 01:29:29,469
+How I look in the eyes
+
+1605
+01:29:29,471 --> 01:29:31,371
+of fucking Worryfree
+and Regalview.
+
+1606
+01:29:31,373 --> 01:29:34,974
+They just view me as another one
+of their fucking creatures
+
+1607
+01:29:34,976 --> 01:29:38,113
+to control and to manipulate.
+And that's not me.
+
+1608
+01:29:39,980 --> 01:29:41,248
+Good.
+
+1609
+01:29:42,650 --> 01:29:43,719
+Good.
+
+1610
+01:29:46,654 --> 01:29:48,723
+That doesn't change
+what I said about us.
+
+1611
+01:29:51,059 --> 01:29:53,193
+And also, I kind of
+messed around
+
+1612
+01:29:53,195 --> 01:29:54,427
+with somebody last night.
+
+1613
+01:29:54,429 --> 01:29:56,199
+What? Wait...
+
+1614
+01:29:56,932 --> 01:29:58,864
+what do you mean you kind of...
+
+1615
+01:29:58,866 --> 01:30:00,567
+I need you
+to explain that one
+
+1616
+01:30:00,569 --> 01:30:01,868
+cause I don't understand
+
+1617
+01:30:01,870 --> 01:30:05,574
+what you mean by you kind of
+messed around with somebody.
+
+1618
+01:30:06,508 --> 01:30:09,710
+- I mean did you...
+- Everything but.
+
+1619
+01:30:09,712 --> 01:30:10,844
+Everything but.
+
+1620
+01:30:10,846 --> 01:30:12,045
+You see, that's
+almost worse than
+
+1621
+01:30:12,047 --> 01:30:13,579
+anything I can imagine
+in my mind.
+
+1622
+01:30:13,581 --> 01:30:18,022
+- Everything but. So, did you...
+- Cassius we were broken up.
+
+1623
+01:30:18,955 --> 01:30:20,821
+Okay? It's over.
+
+1624
+01:30:20,823 --> 01:30:23,559
+It's me and you that shouldn't
+have messed around tonight.
+
+1625
+01:30:33,836 --> 01:30:36,040
+You want to know
+who it was?
+
+1626
+01:30:37,808 --> 01:30:39,540
+Do you plan on fucking
+
+1627
+01:30:39,542 --> 01:30:42,479
+or "everything but"-ting
+with that person again?
+
+1628
+01:30:43,648 --> 01:30:44,716
+No.
+
+1629
+01:30:46,917 --> 01:30:49,621
+Nah. No,
+I don't want to know, then.
+
+1630
+01:30:52,189 --> 01:30:54,259
+No, I don't want to know.
+
+1631
+01:31:22,387 --> 01:31:24,823
+I have absolutely no
+idea what this is about.
+
+1632
+01:31:25,657 --> 01:31:28,158
+Maybe it's saying that
+capitalism dehumanizes them.
+
+1633
+01:31:28,160 --> 01:31:30,528
+Maybe the artist
+is being literal.
+
+1634
+01:31:30,530 --> 01:31:33,698
+Maybe Worryfree is
+turning workers into horses.
+
+1635
+01:31:33,700 --> 01:31:35,635
+And literally fucking them?
+
+1636
+01:31:47,946 --> 01:31:49,080
+Hey, bro.
+
+1637
+01:31:49,082 --> 01:31:50,413
+Ain't you the dude
+from the clip
+
+1638
+01:31:50,415 --> 01:31:52,016
+that got hit in the head
+with the can?
+
+1639
+01:31:52,018 --> 01:31:54,386
+No. No, everybody thinks
+that's me, man.
+
+1640
+01:31:54,388 --> 01:31:56,488
+- But that's not me.
+- What's wrong with your head then?
+
+1641
+01:31:56,490 --> 01:31:58,090
+Man, everybody
+thinks that's...
+
+1642
+01:31:58,092 --> 01:31:59,524
+That's you,
+that shit is funny!
+
+1643
+01:31:59,526 --> 01:32:02,796
+- What the fuck, man?!
+- For you lyin'!
+
+1644
+01:32:13,607 --> 01:32:14,808
+That's alright.
+
+1645
+01:32:16,077 --> 01:32:17,346
+Happen to the best of us.
+
+1646
+01:32:22,050 --> 01:32:23,318
+Walk it off.
+
+1647
+01:32:32,359 --> 01:32:33,692
+This is Cassius Green
+
+1648
+01:32:33,694 --> 01:32:35,695
+from "Have-A-Cola
+And-A-Smile-Bitch" fame.
+
+1649
+01:32:35,697 --> 01:32:37,499
+I want to be on
+your show tomorrow.
+
+1650
+01:32:38,666 --> 01:32:42,905
+<i>"Have a Cola and smile, Bitch"</i>
+
+1651
+01:32:53,683 --> 01:32:56,683
+"I Got the Shit
+Kicked Out Of Me"
+
+1652
+01:32:56,685 --> 01:32:59,853
+Today, YouTube sensation
+Cassius Green is here.
+
+1653
+01:32:59,855 --> 01:33:02,121
+You had
+500 million people
+
+1654
+01:33:02,123 --> 01:33:03,557
+watch you get pegged
+to the noggin
+
+1655
+01:33:03,559 --> 01:33:05,660
+and get utterly humiliated.
+It was effin hilarious.
+
+1656
+01:33:05,662 --> 01:33:07,495
+The way your hair
+went up like that...
+
+1657
+01:33:09,232 --> 01:33:11,131
+The whole world is laughing
+‘til they pissed.
+
+1658
+01:33:12,468 --> 01:33:15,403
+Well, I got a new clip
+that I need you to play
+
+1659
+01:33:15,405 --> 01:33:17,237
+and the only reason
+I came on the show
+
+1660
+01:33:17,239 --> 01:33:19,140
+was because you agreed
+to show this clip
+
+1661
+01:33:19,142 --> 01:33:21,376
+to your 150 million viewers.
+
+1662
+01:33:21,378 --> 01:33:23,277
+Well, if you want some ass,
+you have to bring some ass.
+
+1663
+01:33:23,279 --> 01:33:24,946
+So, we'll get ready
+for an ass whipping,
+
+1664
+01:33:24,948 --> 01:33:26,279
+then jump in the shit tank.
+
+1665
+01:33:26,281 --> 01:33:27,783
+Then we'll play your clip.
+
+1666
+01:33:47,605 --> 01:33:49,939
+Could you play
+my clip now, please?
+
+1667
+01:33:49,941 --> 01:33:51,273
+Okay.
+
+1668
+01:33:51,275 --> 01:33:54,244
+Is it as crazy as the
+cola-and-a-smile-bitch clip?
+
+1669
+01:33:54,246 --> 01:33:55,712
+Not possible.
+
+1670
+01:33:57,049 --> 01:33:59,181
+It's crazy, Mary.
+
+1671
+01:33:59,183 --> 01:34:01,818
+- It's fucking crazy.
+- Woo-hoo.
+
+1672
+01:34:01,820 --> 01:34:03,287
+Let's roll the clip.
+
+1673
+01:34:03,289 --> 01:34:06,222
+<i>Help us. We're hurting!</i>
+
+1674
+01:34:06,224 --> 01:34:08,158
+<i>We're hurting!</i>
+
+1675
+01:34:08,160 --> 01:34:11,028
+<i>If you beautiful perversions
+don't shut the fuck up,</i>
+
+1676
+01:34:11,030 --> 01:34:13,896
+<i>I will turn you
+all into glue!</i>
+
+1677
+01:34:15,702 --> 01:34:17,569
+As a Power Caller
+for Regalview,
+
+1678
+01:34:17,571 --> 01:34:20,303
+Worryfree was
+my premier client.
+
+1679
+01:34:20,305 --> 01:34:22,440
+This is just
+incontrovertible proof
+
+1680
+01:34:22,442 --> 01:34:24,575
+of Worryfree's
+evil practices.
+
+1681
+01:34:24,577 --> 01:34:27,611
+They're turning humans into
+grotesque horse-people.
+
+1682
+01:34:27,613 --> 01:34:29,547
+<i>And I want the world to know</i>
+
+1683
+01:34:29,549 --> 01:34:32,549
+<i>that... that... that they're
+manipulating humanity</i>
+
+1684
+01:34:32,551 --> 01:34:34,151
+<i>for the sake of profit.</i>
+
+1685
+01:34:34,153 --> 01:34:35,786
+<i>Now, we cannot
+let this go on.</i>
+
+1686
+01:34:35,788 --> 01:34:38,121
+<i>You have to call your
+congressman, alright.</i>
+
+1687
+01:34:38,123 --> 01:34:39,523
+<i>Call your local politicians</i>
+
+1688
+01:34:39,525 --> 01:34:41,926
+<i>and let them know
+we will not stand for this.</i>
+
+1689
+01:34:41,928 --> 01:34:43,295
+<i>It's been one day</i>
+
+1690
+01:34:43,297 --> 01:34:45,496
+<i>since the viral celebrity
+leak to the world,</i>
+
+1691
+01:34:45,498 --> 01:34:48,533
+<i>new scientific achievements
+made by Worryfree</i>
+
+1692
+01:34:48,535 --> 01:34:50,635
+<i>and their genius
+CEO, Steve Lift,</i>
+
+1693
+01:34:50,637 --> 01:34:53,537
+<i>which caused Worryfree
+stocks to sky rocket</i>
+
+1694
+01:34:53,539 --> 01:34:56,442
+<i>at a rate faster than any
+other company in history.</i>
+
+1695
+01:34:56,444 --> 01:34:58,076
+<i>House and
+Senate leaders</i>
+
+1696
+01:34:58,078 --> 01:34:59,644
+<i>joined Lift in
+ringing the bell</i>
+
+1697
+01:34:59,646 --> 01:35:02,280
+<i>to celebrate the record
+stock market rally</i>
+
+1698
+01:35:02,282 --> 01:35:03,750
+<i>Worryfree's success
+has created.</i>
+
+1699
+01:35:03,752 --> 01:35:04,819
+Fuck you!
+
+1700
+01:35:05,753 --> 01:35:10,355
+<i>We are all sinners, but in
+every sinner lies a winner.</i>
+
+1701
+01:35:10,357 --> 01:35:12,558
+<i>The Lord lifted you
+from the whore house,</i>
+
+1702
+01:35:12,560 --> 01:35:15,095
+<i>you from flop house,
+you from drop house...</i>
+
+1703
+01:35:18,333 --> 01:35:20,699
+- Fuck! Fuck!
+- <i>Out devil!</i>
+
+1704
+01:35:20,701 --> 01:35:21,770
+Fuck!
+
+1705
+01:35:31,479 --> 01:35:33,883
+No. No.
+We're just doing dutch.
+
+1706
+01:35:38,086 --> 01:35:40,357
+- Thanks for calling, man.
+- Yeah.
+
+1707
+01:35:41,191 --> 01:35:42,791
+Look, I betrayed you.
+
+1708
+01:35:44,227 --> 01:35:46,092
+I know it's not
+gonna change anything,
+
+1709
+01:35:46,094 --> 01:35:47,595
+but I wanted to say I'm sorry.
+
+1710
+01:35:47,597 --> 01:35:52,002
+- I acted stupid, I was...
+- Man, hey, we... we good.
+
+1711
+01:35:52,803 --> 01:35:55,236
+Alright, but all you
+got to do is just...
+
+1712
+01:35:55,238 --> 01:35:56,771
+just do right
+from now on, man.
+
+1713
+01:35:56,773 --> 01:35:58,507
+Yeah, I know
+and that's what...
+
+1714
+01:35:58,509 --> 01:36:01,342
+I tried to change it.
+I tried to stop it. But it's...
+
+1715
+01:36:01,344 --> 01:36:02,709
+it's just right in front
+of their faces.
+
+1716
+01:36:02,711 --> 01:36:05,480
+They're turning human beings
+into monstrosities
+
+1717
+01:36:05,482 --> 01:36:06,714
+and nobody
+gives a fuck.
+
+1718
+01:36:06,716 --> 01:36:08,450
+Most people that saw you
+on that screen
+
+1719
+01:36:08,452 --> 01:36:10,985
+knew calling their congressman
+wasn't gonna do shit.
+
+1720
+01:36:10,987 --> 01:36:12,186
+If you get shown a problem,
+
+1721
+01:36:12,188 --> 01:36:13,655
+but have no idea
+how to control it,
+
+1722
+01:36:13,657 --> 01:36:15,924
+then you just decide to get
+used to the problem.
+
+1723
+01:36:15,926 --> 01:36:20,097
+Yeah, and that's why our plan
+for tomorrow...
+
+1724
+01:36:21,132 --> 01:36:23,098
+is important.
+
+1725
+01:36:23,100 --> 01:36:24,400
+‘Cause if we stop them
+
+1726
+01:36:24,402 --> 01:36:27,468
+from crossing the picket line
+this time we win.
+
+1727
+01:36:27,470 --> 01:36:30,339
+- That's a good plan.
+- Yeah.
+
+1728
+01:36:30,341 --> 01:36:32,844
+Tomorrow we show ‘em
+how to give fucks.
+
+1729
+01:36:37,282 --> 01:36:38,813
+Ain't that about a...
+
+1730
+01:36:38,815 --> 01:36:41,785
+- Happy Halloween
+- Look at that shit. You see that shit?
+
+1731
+01:36:41,787 --> 01:36:44,888
+What the fuck is that about?
+What the fuck, man.
+
+1732
+01:36:44,890 --> 01:36:46,793
+That's what
+I'm talking about.
+
+1733
+01:36:50,995 --> 01:36:54,801
+- <i>Get back in there!</i>
+- <i>We're hurting! Help us!</i>
+
+1734
+01:37:01,539 --> 01:37:03,709
+<i>Security code cleared.</i>
+
+1735
+01:37:10,284 --> 01:37:11,783
+Fuck you, Regalview!
+
+1736
+01:37:11,785 --> 01:37:14,118
+Fuck you, Regalview!
+Fuck you, Regalview!
+
+1737
+01:37:14,120 --> 01:37:16,654
+None of the strikers here
+at the Regalview strike
+
+1738
+01:37:16,656 --> 01:37:18,588
+will tell us why
+they're all wearing
+
+1739
+01:37:18,590 --> 01:37:22,159
+their Cola-And
+A-Smile-Bitch wigs.
+
+1740
+01:37:22,161 --> 01:37:23,761
+Although the strikers
+have been
+
+1741
+01:37:23,763 --> 01:37:25,930
+extremely militant
+over the past weeks,
+
+1742
+01:37:25,932 --> 01:37:29,133
+they've not been able to stop
+the Stackwater juggernaut
+
+1743
+01:37:29,135 --> 01:37:30,802
+from breaking through the lines.
+
+1744
+01:37:30,804 --> 01:37:33,806
+Scabs won't pass! Scabs won't pass!
+
+1745
+01:37:33,808 --> 01:37:36,874
+Scabs won't pass!
+Scabs won't pass!
+
+1746
+01:37:36,876 --> 01:37:40,212
+Scabs won't pass!
+Scabs won't pass!
+
+1747
+01:37:40,214 --> 01:37:42,213
+Elbows and assholes, people!
+
+1748
+01:37:42,215 --> 01:37:43,484
+Let's move!
+
+1749
+01:37:44,551 --> 01:37:47,351
+Scabs won't pass!
+Scabs won't pass!...
+
+1750
+01:37:53,694 --> 01:37:56,629
+Scabs won't pass!
+Scabs won't pass!
+
+1751
+01:37:56,631 --> 01:37:59,465
+Scabs won't pass!
+Scabs won't pass!
+
+1752
+01:37:59,467 --> 01:38:01,099
+Scabs won't pass!
+
+1753
+01:38:01,101 --> 01:38:04,170
+Scabs won't pass! Scabs won't pass!
+
+1754
+01:38:09,077 --> 01:38:10,343
+Oh!
+
+1755
+01:38:18,020 --> 01:38:20,153
+The infamous Cassius Green,
+
+1756
+01:38:20,155 --> 01:38:23,057
+former Power Caller
+and strike line crosser,
+
+1757
+01:38:23,059 --> 01:38:24,793
+has switched sides.
+
+1758
+01:38:29,465 --> 01:38:31,735
+- Yeah, man!
+- Yeah!
+
+1759
+01:38:45,515 --> 01:38:48,149
+Looks like the Calvary's
+arrived, folks.
+
+1760
+01:39:07,472 --> 01:39:09,072
+Get the fuck back!
+
+1761
+01:39:09,074 --> 01:39:10,675
+This way! This way!
+
+1762
+01:39:12,943 --> 01:39:13,943
+Come on!
+
+1763
+01:39:19,317 --> 01:39:20,350
+Over here! Over here!
+
+1764
+01:39:24,354 --> 01:39:26,256
+This is when
+the magic happens.
+
+1765
+01:39:26,258 --> 01:39:28,094
+Get them here quick.
+
+1766
+01:39:35,468 --> 01:39:36,970
+Hey, Cassius.
+
+1767
+01:39:59,391 --> 01:40:01,092
+Look out! Look out!
+
+1768
+01:40:01,094 --> 01:40:02,995
+Hey! Hey!
+
+1769
+01:40:07,199 --> 01:40:08,836
+Let me out!
+
+1770
+01:40:11,471 --> 01:40:13,140
+Hey!
+
+1771
+01:40:32,493 --> 01:40:34,294
+Hold your ground!
+
+1772
+01:40:38,598 --> 01:40:41,236
+Yes! Yes!
+
+1773
+01:41:18,974 --> 01:41:20,042
+Wow!
+
+1774
+01:41:22,077 --> 01:41:23,177
+Thank you.
+
+1775
+01:41:23,179 --> 01:41:25,480
+We. Are Honored.
+
+1776
+01:41:25,482 --> 01:41:28,482
+To. Be. In.
+Your. Presence.
+
+1777
+01:41:28,484 --> 01:41:31,419
+Dude. I'm from
+East Oakland.
+
+1778
+01:41:31,421 --> 01:41:32,853
+Talk regular.
+
+1779
+01:41:32,855 --> 01:41:34,656
+My name is DeMarius.
+
+1780
+01:41:34,658 --> 01:41:35,923
+Thanks for
+breaking us out.
+
+1781
+01:41:35,925 --> 01:41:39,996
+Oh, I'm Cassius.
+Cassius Green.
+
+1782
+01:41:40,831 --> 01:41:42,100
+No problem.
+
+1783
+01:41:44,667 --> 01:41:46,468
+Worryfree is here.
+
+1784
+01:41:46,470 --> 01:41:48,840
+Hey. Same struggle.
+
+1785
+01:41:49,806 --> 01:41:51,074
+Same fight.
+
+1786
+01:41:53,845 --> 01:41:56,381
+Equisapiens!
+Let's be out!
+
+1787
+01:42:02,988 --> 01:42:06,024
+Equisapiens, thank you so much!
+
+1788
+01:42:09,927 --> 01:42:11,162
+Hey!
+
+1789
+01:42:13,364 --> 01:42:15,200
+Master mind.
+
+1790
+01:42:50,403 --> 01:42:51,903
+Are you serious right now?
+
+1791
+01:42:51,905 --> 01:42:53,771
+Serious as kicking the can.
+
+1792
+01:42:53,773 --> 01:42:55,172
+Don't... don't play
+with me, Cash
+
+1793
+01:42:55,174 --> 01:42:56,842
+cause that's some
+serious shit.
+
+1794
+01:42:56,844 --> 01:42:59,377
+No, man. That's yours.
+
+1795
+01:42:59,379 --> 01:43:01,747
+And I've got a car
+that'll do me just fine
+
+1796
+01:43:01,749 --> 01:43:03,885
+til I get back
+to work at Regalview.
+
+1797
+01:43:06,888 --> 01:43:08,687
+Plus, I wanted
+to say I'm sorry.
+
+1798
+01:43:08,689 --> 01:43:11,192
+Cash, man. Look.
+
+1799
+01:43:11,925 --> 01:43:14,328
+Just saying sorry is fine.
+
+1800
+01:43:16,596 --> 01:43:18,731
+This is good.
+This is perfect.
+
+1801
+01:43:18,733 --> 01:43:20,231
+This is the
+perfect apology.
+
+1802
+01:43:20,233 --> 01:43:23,138
+I don't want disrespect you.
+You know this is cool, I'm...
+
+1803
+01:43:26,407 --> 01:43:27,475
+Hey!
+
+1804
+01:43:30,712 --> 01:43:32,148
+So, uh...
+
+1805
+01:43:33,015 --> 01:43:34,214
+now that we
+won that strike
+
+1806
+01:43:34,216 --> 01:43:36,083
+you cool coming
+back to work with us
+
+1807
+01:43:36,085 --> 01:43:39,452
+lowly regular
+telemarketers.
+
+1808
+01:43:39,454 --> 01:43:40,986
+Well, if the new
+and glorious
+
+1809
+01:43:40,988 --> 01:43:43,156
+telemarketers union
+will have me.
+
+1810
+01:43:43,158 --> 01:43:45,193
+You got to start fighting
+somewhere.
+
+1811
+01:43:46,427 --> 01:43:48,295
+- Huh?
+- Alright, bro.
+
+1812
+01:43:48,297 --> 01:43:49,899
+- Be good.
+- Mm-hmm.
+
+1813
+01:43:50,765 --> 01:43:52,568
+Kiss already, huh?
+
+1814
+01:44:01,110 --> 01:44:04,080
+So, what about being part
+of something important, huh?
+
+1815
+01:44:05,114 --> 01:44:06,179
+Oh shit.
+
+1816
+01:44:06,181 --> 01:44:08,382
+It looks like the sun
+is about to explode.
+
+1817
+01:44:08,384 --> 01:44:09,416
+Oh my god...
+
+1818
+01:44:09,418 --> 01:44:10,486
+Come here, sugar.
+
+1819
+01:44:13,789 --> 01:44:16,059
+We are a part
+of something important.
+
+1820
+01:44:16,826 --> 01:44:18,463
+Changing the world.
+
+1821
+01:44:20,865 --> 01:44:22,599
+Before the sun explodes.
+
+1822
+01:44:27,236 --> 01:44:28,337
+Well...
+
+1823
+01:44:28,339 --> 01:44:30,738
+I couldn't come back
+to the exact same thing
+
+1824
+01:44:30,740 --> 01:44:33,076
+after all that, right?
+
+1825
+01:44:42,987 --> 01:44:44,419
+What happened?
+
+1826
+01:44:47,325 --> 01:44:48,928
+What, Cash?
+
+1827
+01:45:25,864 --> 01:45:26,965
+What?
+
+1828
+01:45:27,801 --> 01:45:30,234
+<i>I'm Cassius Green calling on behalf of</i>
+
+1829
+01:45:30,236 --> 01:45:32,703
+<i>stomp a mud hole
+in your ass.com.</i>
+
+1830
+01:45:32,705 --> 01:45:34,606
+<i>Sorry to bother you but...</i>
+
+1831
+01:46:05,106 --> 01:46:06,541
+<i>♫ Oh, yeah ♫</i>
+
+1832
+01:46:07,642 --> 01:46:08,777
+<i>♫ Alright ♫</i>
+
+1833
+01:46:09,709 --> 01:46:10,779
+<i>♫ Hell, yeah ♫</i>
+
+1834
+01:46:11,712 --> 01:46:12,781
+<i>♫ That's right ♫</i>
+
+1835
+01:46:13,714 --> 01:46:14,783
+<i>♫ Oh, yeah ♫</i>
+
+1836
+01:46:15,718 --> 01:46:16,786
+<i>♫ Alright ♫</i>
+
+1837
+01:46:17,519 --> 01:46:20,622
+<i>♫ Hell, yeah,
+that's tight ♫</i>
+
+1838
+01:46:21,689 --> 01:46:24,494
+<i>♫ Hey, Hey ♫</i>
+
+1839
+01:46:25,427 --> 01:46:26,496
+<i>♫ Hey ♫</i>
+
+1840
+01:46:27,429 --> 01:46:28,531
+<i>♫ Hey ♫</i>
+
+1841
+01:46:29,464 --> 01:46:30,532
+<i>♫ Hey ♫</i>
+
+1842
+01:46:31,467 --> 01:46:32,535
+<i>♫ Hey ♫</i>
+
+1843
+01:46:33,469 --> 01:46:36,102
+<i>♫ Hey, Hey ♫</i>
+
+1844
+01:46:36,104 --> 01:46:37,570
+<i>♫ I'm Boots Riley,
+they ain't merc'd me yet ♫</i>
+
+1845
+01:46:37,572 --> 01:46:39,374
+<i>♫ Gon' get shit popping
+like Percocet ♫</i>
+
+1846
+01:46:39,376 --> 01:46:41,342
+<i>♫ Got pent up anger
+that ain't surfaced yet ♫</i>
+
+1847
+01:46:41,344 --> 01:46:43,445
+<i>♫ Two stepping like the boss
+dispersed the check ♫</i>
+
+1848
+01:46:43,447 --> 01:46:45,378
+<i>♫ Imagine this hymn
+is a hand grenade ♫</i>
+
+1849
+01:46:45,380 --> 01:46:47,347
+<i>♫ Asphalt
+sheet rock serenade ♫</i>
+
+1850
+01:46:47,349 --> 01:46:49,151
+<i>♫ Jack and Coke
+is the marinade ♫</i>
+
+1851
+01:46:49,153 --> 01:46:51,352
+<i>♫ But we sober up quick
+at the barricades ♫</i>
+
+1852
+01:46:51,354 --> 01:46:53,288
+<i>♫ Joint in my mouth,
+pass the fire ♫</i>
+
+1853
+01:46:53,290 --> 01:46:55,388
+<i>♫ Everything out they
+mouth is a pacifier ♫</i>
+
+1854
+01:46:55,390 --> 01:46:57,258
+<i>♫ I'm not preaching,
+ask the choir ♫</i>
+
+1855
+01:46:57,260 --> 01:46:59,360
+<i>♫ The green one,
+the red one, pass the wire ♫</i>
+
+1856
+01:46:59,362 --> 01:47:01,329
+<i>♫ Camel toe,
+camouflage with fashion ♫</i>
+
+1857
+01:47:01,331 --> 01:47:03,365
+<i>♫ Passing the shell codes
+on to the assassin ♫</i>
+
+1858
+01:47:03,367 --> 01:47:05,267
+<i>♫ Dash in security,
+mall expansion ♫</i>
+
+1859
+01:47:05,269 --> 01:47:07,572
+<i>♫ Whatever I wear,
+know I'm here to be clashing ♫</i>
+
+1860
+01:47:08,639 --> 01:47:09,707
+<i>♫ Oh, yeah ♫</i>
+
+1861
+01:47:10,640 --> 01:47:11,708
+<i>♫ Alright ♫</i>
+
+1862
+01:47:12,642 --> 01:47:13,711
+<i>♫ Hell, yeah ♫</i>
+
+1863
+01:47:14,645 --> 01:47:15,713
+<i>♫ That's tight ♫</i>
+
+1864
+01:47:16,646 --> 01:47:17,715
+<i>♫ Oh, yeah ♫</i>
+
+1865
+01:47:18,448 --> 01:47:21,518
+<i>♫ Alright,
+Hell, yeah ♫</i>
+
+1866
+01:47:22,252 --> 01:47:23,520
+<i>♫ That's tight ♫</i>
+
+1867
+01:47:24,255 --> 01:47:27,459
+<i>♫ Hey, Hey ♫</i>
+
+1868
+01:47:28,192 --> 01:47:31,396
+<i>♫ Hey, Hey ♫</i>
+
+1869
+01:47:32,164 --> 01:47:35,301
+<i>♫ Hey, Hey ♫</i>
+
+1870
+01:47:36,067 --> 01:47:39,068
+<i>♫ Hey, Hey ♫</i>
+
+1871
+01:47:39,070 --> 01:47:40,670
+<i>♫ We came ♫</i>
+
+1872
+01:47:40,672 --> 01:47:42,072
+<i>♫ To bleed ♫</i>
+
+1873
+01:47:42,074 --> 01:47:44,143
+<i>♫ Electricity ♫</i>
+
+1874
+01:47:46,778 --> 01:47:49,880
+<i>♫ We came to bleed ♫</i>
+
+1875
+01:47:49,882 --> 01:47:51,751
+<i>♫ Electricity ♫</i>
