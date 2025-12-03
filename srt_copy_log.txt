@@ -1,18 +1,18 @@
-SRT Copy Log - Sat 11/29/2025  7:37:13.68 
+SRT Copy Log - Tue 12/02/2025 18:16:45.04 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\SUBDL.com__sorry.to.bother.you1858902\Sorry.to.Bother.You.2018.1080p.BluRay.x264-DRONES.srt"" 
-Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\SUBDL.com__sorry.to.bother.you1858902\Sorry.to.Bother.You.2018.1080p.BluRay.x264-DRONES.srt" 
-File name: "Sorry.to.Bother.You.2018.1080p.BluRay.x264-DRONES.srt" 
+Raw argument 1: ""J:\Movies J Drive\Home Alone (1990)\Home Alone (1990).eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Home Alone (1990)\Home Alone (1990).eng.srt" 
+File name: "Home Alone (1990).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
