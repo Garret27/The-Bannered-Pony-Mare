@@ -1,24 +1,17 @@
-SRT Copy Log - Sat 12/06/2025 12:16:49.81 
+SRT Copy Log - Sat 12/06/2025 19:20:56.31 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: "C:\Users\ripja\AppData\Local\Temp\Rar$DRa5708.24545.rartemp\The.Santa.Clause.1994.720p.BluRay.x264.EngHI.srt" 
-Clean argument 1: "C:\Users\ripja\AppData\Local\Temp\Rar$DRa5708.24545.rartemp\The.Santa.Clause.1994.720p.BluRay.x264.EngHI.srt" 
-File name: "The.Santa.Clause.1994.720p.BluRay.x264.EngHI.srt" 
-File extension: ".srt" 
+Raw argument 1: ""J:\Movies J Drive - Jellyfin\The Santa Clause (1994)\The Santa Clause (1994) 2160p AAC.mp4"" 
+Clean argument 1: "J:\Movies J Drive - Jellyfin\The Santa Clause (1994)\The Santa Clause (1994) 2160p AAC.mp4" 
+File name: "The Santa Clause (1994) 2160p AAC.mp4" 
+File extension: ".mp4" 
  
 File argument exists 
-File has .srt extension 
-Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
- 
-Attempting copy command... 
-        1 file(s) copied.
-Copy command returned success (errorlevel 0
-SUCCESS: Target file exists after copy 
-Copy command failed with errorlevel: 0 
+ERROR: File does not have .srt extension 
+Extension found: ".mp4" 
  
 Script finished 
 ================================== 
