@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 12/06/2025 19:27:19.28 
+SRT Copy Log - Sat 12/13/2025  4:44:08.29 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: "C:\Users\ripja\AppData\Local\Temp\Rar$DRa24472.7469.rartemp\The.Santa.Clause.2.2002.1080p.BluRay.H264.AAC-RARBG_Eng.srt" 
-Clean argument 1: "C:\Users\ripja\AppData\Local\Temp\Rar$DRa24472.7469.rartemp\The.Santa.Clause.2.2002.1080p.BluRay.H264.AAC-RARBG_Eng.srt" 
-File name: "The.Santa.Clause.2.2002.1080p.BluRay.H264.AAC-RARBG_Eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Office Christmas Party (2016)\Office Christmas Party (2016).eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Office Christmas Party (2016)\Office Christmas Party (2016).eng.srt" 
+File name: "Office Christmas Party (2016).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
