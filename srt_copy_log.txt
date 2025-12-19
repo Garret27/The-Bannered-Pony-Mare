@@ -1,18 +1,18 @@
-SRT Copy Log - Sat 12/13/2025  4:44:08.29 
+SRT Copy Log - Fri 12/19/2025  3:34:18.67 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Office Christmas Party (2016)\Office Christmas Party (2016).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Office Christmas Party (2016)\Office Christmas Party (2016).eng.srt" 
-File name: "Office Christmas Party (2016).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Jingle All the Way (1996)\Jingle All the Way (1996) 1080p DTS.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Jingle All the Way (1996)\Jingle All the Way (1996) 1080p DTS.eng.srt" 
+File name: "Jingle All the Way (1996) 1080p DTS.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
