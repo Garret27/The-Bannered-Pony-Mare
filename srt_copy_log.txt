@@ -1,12 +1,12 @@
-SRT Copy Log - Fri 12/19/2025  3:34:18.67 
+SRT Copy Log - Fri 12/26/2025  4:11:09.99 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Jingle All the Way (1996)\Jingle All the Way (1996) 1080p DTS.eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Jingle All the Way (1996)\Jingle All the Way (1996) 1080p DTS.eng.srt" 
-File name: "Jingle All the Way (1996) 1080p DTS.eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Die Hard (1988)\Die Hard (1988) 720p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Die Hard (1988)\Die Hard (1988) 720p AAC.eng.srt" 
+File name: "Die Hard (1988) 720p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
