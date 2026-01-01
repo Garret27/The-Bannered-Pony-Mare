@@ -1,18 +1,18 @@
-SRT Copy Log - Thu 01/01/2026  4:45:20.35 
+SRT Copy Log - Thu 01/01/2026  6:02:17.72 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Wicked For Good (2025)\Wicked For Good (2025).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Wicked For Good (2025)\Wicked For Good (2025).eng.srt" 
-File name: "Wicked For Good (2025).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Now You See Me (2013)\Now You See Me (2013) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Now You See Me (2013)\Now You See Me (2013) 1080p AAC.eng.srt" 
+File name: "Now You See Me (2013) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
