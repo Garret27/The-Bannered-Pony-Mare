@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 12/27/2025 12:36:23.05 
+SRT Copy Log - Thu 01/01/2026  4:45:20.35 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Die Hard (1988)\Die Hard (1988) 720p AAC.eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Die Hard (1988)\Die Hard (1988) 720p AAC.eng.srt" 
-File name: "Die Hard (1988) 720p AAC.eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Wicked For Good (2025)\Wicked For Good (2025).eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Wicked For Good (2025)\Wicked For Good (2025).eng.srt" 
+File name: "Wicked For Good (2025).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
