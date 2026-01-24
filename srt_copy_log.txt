@@ -1,12 +1,12 @@
-SRT Copy Log - Sun 01/18/2026  8:31:41.06 
+SRT Copy Log - Sat 01/24/2026  4:02:11.72 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Code 3 (2025)\Code 3 (2025).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Code 3 (2025)\Code 3 (2025).eng.srt" 
-File name: "Code 3 (2025).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\If I Had Legs I'd Kick You (2025)\If I Had Legs I'd Kick You (2025).eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\If I Had Legs I'd Kick You (2025)\If I Had Legs I'd Kick You (2025).eng.srt" 
+File name: "If I Had Legs I'd Kick You (2025).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
