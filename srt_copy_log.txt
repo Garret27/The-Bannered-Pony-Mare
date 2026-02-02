@@ -1,18 +1,18 @@
-SRT Copy Log - Sat 01/31/2026 17:10:45.69 
+SRT Copy Log - Mon 02/02/2026 16:55:22.61 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Now You See Me 2 (2016)\Now You See Me 2 (2016) 1080p AAC.eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Now You See Me 2 (2016)\Now You See Me 2 (2016) 1080p AAC.eng.srt" 
-File name: "Now You See Me 2 (2016) 1080p AAC.eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\The Fifth Element (1997)\The Fifth Element - Remastered (1997) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\The Fifth Element (1997)\The Fifth Element - Remastered (1997) 1080p AAC.eng.srt" 
+File name: "The Fifth Element - Remastered (1997) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
