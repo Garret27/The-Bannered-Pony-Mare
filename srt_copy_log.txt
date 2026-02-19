@@ -1,12 +1,12 @@
-SRT Copy Log - Tue 02/17/2026 18:15:41.01 
+SRT Copy Log - Thu 02/19/2026 13:14:21.26 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Eternal Sunshine of the Spotless Mind (2004)\Eternal Sunshine of the Spotless Mind (2004).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Eternal Sunshine of the Spotless Mind (2004)\Eternal Sunshine of the Spotless Mind (2004).eng.srt" 
-File name: "Eternal Sunshine of the Spotless Mind (2004).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Kung Fu Hustle (2004)\Kung Fu Hustle (2004) 720p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Kung Fu Hustle (2004)\Kung Fu Hustle (2004) 720p AAC.eng.srt" 
+File name: "Kung Fu Hustle (2004) 720p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
