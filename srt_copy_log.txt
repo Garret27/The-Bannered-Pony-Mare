@@ -1,18 +1,18 @@
-SRT Copy Log - Sat 02/21/2026 16:06:01.82 
+SRT Copy Log - Tue 02/24/2026 18:14:43.24 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\ClearMind - 2024.eng-en.srt"" 
-Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\ClearMind - 2024.eng-en.srt" 
-File name: "ClearMind - 2024.eng-en.srt" 
+Raw argument 1: ""J:\Movies J Drive\Kung Fu Hustle (2004)\Kung Fu Hustle (2004) 720p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Kung Fu Hustle (2004)\Kung Fu Hustle (2004) 720p AAC.eng.srt" 
+File name: "Kung Fu Hustle (2004) 720p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
