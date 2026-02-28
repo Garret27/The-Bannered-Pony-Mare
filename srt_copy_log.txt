@@ -1,18 +1,18 @@
-SRT Copy Log - Tue 02/24/2026 18:14:43.24 
+SRT Copy Log - Sat 02/28/2026 16:24:48.73 
 ================================== 
  
 Script started 
 Batch file location: D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Kung Fu Hustle (2004)\Kung Fu Hustle (2004) 720p AAC.eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Kung Fu Hustle (2004)\Kung Fu Hustle (2004) 720p AAC.eng.srt" 
-File name: "Kung Fu Hustle (2004) 720p AAC.eng.srt" 
+Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem_english_1601802\[1111]_Interstella5555_[E5E5F0C5]_track6_eng.srt"" 
+Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem_english_1601802\[1111]_Interstella5555_[E5E5F0C5]_track6_eng.srt" 
+File name: "[1111]_Interstella5555_[E5E5F0C5]_track6_eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
