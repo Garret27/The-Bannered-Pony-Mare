@@ -18,7 +18,7 @@ if "%~1"=="" (
 
 REM Set the target width and output file path
 set "target_width=900"
-set "output_file=D:\OneDrive\Pictures\Movie Night\The-Bannered-Pony-Mare\CurrentMovieNightPoster.jpg"
+set "output_file=%~dp0CurrentMovieNightPoster.jpg"
 
 REM Resize the image
 magick "%~1" -resize %target_width%x -auto-orient "%output_file%"
