@@ -1,12 +1,12 @@
-SRT Copy Log - Wed 03/25/2026 15:38:19.56 
+SRT Copy Log - Wed 04/01/2026 16:14:29.64 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\GOAT (2026)\GOAT (2026).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\GOAT (2026)\GOAT (2026).eng.srt" 
-File name: "GOAT (2026).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\The Little Mermaid (1989)\The Little Mermaid (1989) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\The Little Mermaid (1989)\The Little Mermaid (1989) 1080p AAC.eng.srt" 
+File name: "The Little Mermaid (1989) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
