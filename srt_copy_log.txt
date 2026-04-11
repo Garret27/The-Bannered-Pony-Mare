@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 04/04/2026  9:00:56.52 
+SRT Copy Log - Sat 04/11/2026 15:17:27.59 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\The Men Who Stare at Goats (2009)\The Men Who Stare at Goats (2009) 1080p AAC.eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\The Men Who Stare at Goats (2009)\The Men Who Stare at Goats (2009) 1080p AAC.eng.srt" 
-File name: "The Men Who Stare at Goats (2009) 1080p AAC.eng.srt" 
+Raw argument 1: ""E:\Movies E Drive\Barbarian (2022)\Barbarian (2022) 1080p AAC.eng.srt"" 
+Clean argument 1: "E:\Movies E Drive\Barbarian (2022)\Barbarian (2022) 1080p AAC.eng.srt" 
+File name: "Barbarian (2022) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
