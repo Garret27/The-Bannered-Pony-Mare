@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 04/11/2026 19:20:04.37 
+SRT Copy Log - Sat 04/11/2026 21:13:07.76 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Run (2020)\Run (2020).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Run (2020)\Run (2020).eng.srt" 
-File name: "Run (2020).eng.srt" 
+Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___alice-in-wonderland-1966_english_726881\Alice in Wonderland.1966.srt"" 
+Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___alice-in-wonderland-1966_english_726881\Alice in Wonderland.1966.srt" 
+File name: "Alice in Wonderland.1966.srt" 
 File extension: ".srt" 
  
 File argument exists 
