@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 04/11/2026 15:17:27.59 
+SRT Copy Log - Sat 04/11/2026 19:20:04.37 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""E:\Movies E Drive\Barbarian (2022)\Barbarian (2022) 1080p AAC.eng.srt"" 
-Clean argument 1: "E:\Movies E Drive\Barbarian (2022)\Barbarian (2022) 1080p AAC.eng.srt" 
-File name: "Barbarian (2022) 1080p AAC.eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Run (2020)\Run (2020).eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Run (2020)\Run (2020).eng.srt" 
+File name: "Run (2020).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
