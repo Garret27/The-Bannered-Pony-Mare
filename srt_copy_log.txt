@@ -1,18 +1,18 @@
-SRT Copy Log - Sat 04/11/2026 21:13:07.76 
+SRT Copy Log - Tue 04/14/2026 17:51:04.60 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___alice-in-wonderland-1966_english_726881\Alice in Wonderland.1966.srt"" 
-Clean argument 1: "D:\C Drive OffLoad\ripja\Downloads\SUBDL.com___alice-in-wonderland-1966_english_726881\Alice in Wonderland.1966.srt" 
-File name: "Alice in Wonderland.1966.srt" 
+Raw argument 1: ""J:\Movies J Drive\Legend (1985)\Legend (1985).eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Legend (1985)\Legend (1985).eng.srt" 
+File name: "Legend (1985).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
