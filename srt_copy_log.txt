@@ -1,18 +1,18 @@
-SRT Copy Log - Tue 04/14/2026 17:51:04.60 
+SRT Copy Log - Sat 04/18/2026  9:44:10.58 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Legend (1985)\Legend (1985).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Legend (1985)\Legend (1985).eng.srt" 
-File name: "Legend (1985).eng.srt" 
+Raw argument 1: ""E:\Movies E Drive\Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb (1964)\Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb (1964).eng.srt"" 
+Clean argument 1: "E:\Movies E Drive\Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb (1964)\Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb (1964).eng.srt" 
+File name: "Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb (1964).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "C:\Users\ripja\Pictures\Movie Night\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
