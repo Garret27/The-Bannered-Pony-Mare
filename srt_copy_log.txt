@@ -1,18 +1,18 @@
-SRT Copy Log - Sat 04/25/2026  4:12:47.96 
+SRT Copy Log - Sat 04/25/2026  4:24:08.02 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\The Mitchells vs. the Machines (2021)\The Mitchells vs. the Machines (2021) 1080p AAC.eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\The Mitchells vs. the Machines (2021)\The Mitchells vs. the Machines (2021) 1080p AAC.eng.srt" 
-File name: "The Mitchells vs. the Machines (2021) 1080p AAC.eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\The World's Fastest Indian (2005)\The World's Fastest Indian (2005) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\The World's Fastest Indian (2005)\The World's Fastest Indian (2005) 1080p AAC.eng.srt" 
+File name: "The World's Fastest Indian (2005) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
