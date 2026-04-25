@@ -1,12 +1,12 @@
-SRT Copy Log - Tue 04/21/2026 17:36:05.04 
+SRT Copy Log - Sat 04/25/2026  4:12:47.96 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""\\SHARK-PLEX\J Drive\Movies J Drive\The Simpsons Movie (2007)\The Simpsons Movie (2007).eng.srt"" 
-Clean argument 1: "\\SHARK-PLEX\J Drive\Movies J Drive\The Simpsons Movie (2007)\The Simpsons Movie (2007).eng.srt" 
-File name: "The Simpsons Movie (2007).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\The Mitchells vs. the Machines (2021)\The Mitchells vs. the Machines (2021) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\The Mitchells vs. the Machines (2021)\The Mitchells vs. the Machines (2021) 1080p AAC.eng.srt" 
+File name: "The Mitchells vs. the Machines (2021) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
