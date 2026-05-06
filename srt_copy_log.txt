@@ -1,12 +1,12 @@
-SRT Copy Log - Sat 05/02/2026 17:44:23.70 
+SRT Copy Log - Wed 05/06/2026 17:37:46.18 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Sinners (2025)\Sinners (2025).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Sinners (2025)\Sinners (2025).eng.srt" 
-File name: "Sinners (2025).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\Project Hail Mary (2026)\Project Hail Mary (2026).eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\Project Hail Mary (2026)\Project Hail Mary (2026).eng.srt" 
+File name: "Project Hail Mary (2026).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
