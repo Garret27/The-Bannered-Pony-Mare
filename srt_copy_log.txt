@@ -1,12 +1,12 @@
-SRT Copy Log - Wed 05/06/2026 17:37:46.18 
+SRT Copy Log - Sat 05/09/2026  8:36:07.73 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Project Hail Mary (2026)\Project Hail Mary (2026).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Project Hail Mary (2026)\Project Hail Mary (2026).eng.srt" 
-File name: "Project Hail Mary (2026).eng.srt" 
+Raw argument 1: ""J:\Movies J Drive\The Martian (2015)\The Martian - Extended Edition (2015) 1080p AAC.eng.srt"" 
+Clean argument 1: "J:\Movies J Drive\The Martian (2015)\The Martian - Extended Edition (2015) 1080p AAC.eng.srt" 
+File name: "The Martian - Extended Edition (2015) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
