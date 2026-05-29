@@ -1,18 +1,18 @@
-SRT Copy Log - Tue 05/26/2026 18:36:51.63 
+SRT Copy Log - Fri 05/29/2026 13:42:40.42 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\The Super Mario Galaxy Movie (2026)\The Super Mario Galaxy Movie (2026).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\The Super Mario Galaxy Movie (2026)\The Super Mario Galaxy Movie (2026).eng.srt" 
-File name: "The Super Mario Galaxy Movie (2026).eng.srt" 
+Raw argument 1: ""E:\Movies E Drive\Hurricane Bianca (2016)\Hurricane Bianca (2016) 1080p AAC.eng.srt"" 
+Clean argument 1: "E:\Movies E Drive\Hurricane Bianca (2016)\Hurricane Bianca (2016) 1080p AAC.eng.srt" 
+File name: "Hurricane Bianca (2016) 1080p AAC.eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
+Target file: "C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
