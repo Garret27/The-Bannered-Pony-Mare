@@ -1,18 +1,18 @@
-SRT Copy Log - Fri 05/29/2026 13:42:40.42 
+SRT Copy Log - Mon 06/01/2026 10:27:36.40 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""E:\Movies E Drive\Hurricane Bianca (2016)\Hurricane Bianca (2016) 1080p AAC.eng.srt"" 
-Clean argument 1: "E:\Movies E Drive\Hurricane Bianca (2016)\Hurricane Bianca (2016) 1080p AAC.eng.srt" 
-File name: "Hurricane Bianca (2016) 1080p AAC.eng.srt" 
+Raw argument 1: ""E:\Movies E Drive\Avatar Aang, The Last Airbender (2026)\Avatar Aang, The Last Airbender (2026).eng.srt"" 
+Clean argument 1: "E:\Movies E Drive\Avatar Aang, The Last Airbender (2026)\Avatar Aang, The Last Airbender (2026).eng.srt" 
+File name: "Avatar Aang, The Last Airbender (2026).eng.srt" 
 File extension: ".srt" 
  
 File argument exists 
 File has .srt extension 
 Source file exists 
-Target file: "C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\MovieNightSubtitles.srt" 
+Target file: "C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\MovieNightHSPCSubtitles.srt" 
  
 Attempting copy command... 
         1 file(s) copied.
