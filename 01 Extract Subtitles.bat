@@ -1,51 +1,143 @@
 @echo off
-setlocal enabledelayedexpansion
+setlocal EnableExtensions EnableDelayedExpansion
 
-REM Check if a file was dragged onto the script
+title Extract Subtitles
+
 if "%~1"=="" (
-    echo Please drag a video file onto this batch file.
+    echo.
+    echo  Drag and drop one or more video files onto this batch file.
+    echo  All subtitle tracks will be saved as .srt files next to each video.
+    echo.
     pause
-    exit /b
+    exit /b 1
 )
 
-REM Set the FFmpeg path
-set "FFMPEG_PATH=D:\C Drive OffLoad\ripja\Downloads\ffmpeg-2025-06-23-git-e6298e0759-full_build\ffmpeg-2025-06-23-git-e6298e0759-full_build\bin\ffmpeg.exe"
-
-REM Get the input file and its directory
-set "INPUT_FILE=%~1"
-set "INPUT_DIR=%~dp1"
-set "INPUT_NAME=%~n1"
-
-echo Processing: %INPUT_FILE%
-echo Output directory: %INPUT_DIR%
-
-REM First, check what subtitle streams are available
-echo.
-echo Checking for subtitle streams...
-"%FFMPEG_PATH%" -i "%INPUT_FILE%" 2>&1 | findstr "Stream.*subtitle"
-
+where ffmpeg >nul 2>&1
 if errorlevel 1 (
-    echo No subtitle streams found in this file.
+    echo ERROR: ffmpeg was not found in your PATH.
+    echo Install FFmpeg and make sure ffmpeg.exe is available from the command line.
     pause
-    exit /b
+    exit /b 1
+)
+
+where ffprobe >nul 2>&1
+if errorlevel 1 (
+    echo ERROR: ffprobe was not found in your PATH.
+    echo Install FFmpeg and make sure ffprobe.exe is available from the command line.
+    pause
+    exit /b 1
+)
+
+set "TOTAL=0"
+set "EXTRACTED=0"
+set "SKIPPED=0"
+
+:next_file
+if "%~1"=="" goto finished
+
+set "INPUT=%~f1"
+set "DIR=%~dp1"
+set "BASENAME=%~n1"
+
+if not exist "!INPUT!" (
+    echo.
+    echo [SKIP] File not found: !INPUT!
+    set /a SKIPPED+=1
+    shift
+    goto next_file
 )
 
 echo.
-echo Extracting subtitle streams...
+echo ============================================================
+echo Processing: !INPUT!
+echo ============================================================
 
-REM Extract all subtitle streams
-"%FFMPEG_PATH%" -i "%INPUT_FILE%" -map 0:s -c:s srt "%INPUT_DIR%%INPUT_NAME%_subtitle_%%d.srt" 2>nul
+set "FOUND=0"
+set "IDX="
+set "LANG="
+set "NAME="
+set "FORCED=0"
+set "SDH=0"
+set "CAPTIONS=0"
 
+for /f "usebackq delims=" %%L in (`ffprobe -v error -select_streams s -show_entries stream^=index:tags^=language:tags^=name:disposition^=forced:disposition^=hearing_impaired:disposition^=captions -of default^=noprint_wrappers^=1 "!INPUT!" 2^>nul`) do (
+    set "LINE=%%L"
+    for /f "tokens=1,* delims==" %%A in ("!LINE!") do (
+        if /i "%%A"=="index" (
+            if defined IDX (
+                call :extract_one
+            )
+            set "IDX=%%B"
+            set "LANG="
+            set "NAME="
+            set "FORCED=0"
+            set "SDH=0"
+            set "CAPTIONS=0"
+        )
+        if /i "%%A"=="TAG:language" set "LANG=%%B"
+        if /i "%%A"=="TAG:name" set "NAME=%%B"
+        if /i "%%A"=="DISPOSITION:forced" set "FORCED=%%B"
+        if /i "%%A"=="DISPOSITION:hearing_impaired" set "SDH=%%B"
+        if /i "%%A"=="DISPOSITION:captions" set "CAPTIONS=%%B"
+    )
+)
+
+if defined IDX call :extract_one
+
+if "!FOUND!"=="0" (
+    echo   No subtitle tracks found.
+)
+
+set /a TOTAL+=1
+shift
+goto next_file
+
+:extract_one
+set "FOUND=1"
+
+if not defined LANG set "LANG=und"
+
+set "OUTNAME=!BASENAME!.!LANG!"
+if "!FORCED!"=="1" set "OUTNAME=!OUTNAME!.forced"
+if "!SDH!"=="1" set "OUTNAME=!OUTNAME!.sdh"
+if "!CAPTIONS!"=="1" if not "!SDH!"=="1" set "OUTNAME=!OUTNAME!.cc"
+
+if defined NAME (
+    set "SAFE=!NAME!"
+    set "SAFE=!SAFE: =_!"
+    set "SAFE=!SAFE:.=_!"
+    set "SAFE=!SAFE:(=_!"
+    set "SAFE=!SAFE:)=_!"
+    set "SAFE=!SAFE:[=_!"
+    set "SAFE=!SAFE:]=_!"
+    set "OUTNAME=!OUTNAME!.!SAFE!"
+)
+
+set "OUTPUT=!DIR!!OUTNAME!.srt"
+
+if exist "!OUTPUT!" (
+    set "OUTPUT=!DIR!!OUTNAME!.s!IDX!.srt"
+)
+
+echo   Stream !IDX! ^(!LANG!^) -^> !OUTPUT!
+
+ffmpeg -y -nostdin -loglevel error -i "!INPUT!" -map 0:!IDX! -c:s srt "!OUTPUT!"
 if errorlevel 1 (
-    echo Failed to extract subtitles. The file may not contain extractable subtitle streams.
+    echo   [ERROR] Failed to extract stream !IDX!
 ) else (
-    echo.
-    echo Subtitles extracted successfully to:
-    echo %INPUT_DIR%
-    echo.
-    echo Files created:
-    dir /b "%INPUT_DIR%%INPUT_NAME%_subtitle_*.srt" 2>nul
+    set /a EXTRACTED+=1
 )
 
+goto :eof
+
+:finished
+echo.
+echo ============================================================
+echo Finished.
+echo   Files processed : !TOTAL!
+echo   Subtitles saved : !EXTRACTED!
+if !SKIPPED! gtr 0 echo   Files skipped   : !SKIPPED!
+echo ============================================================
 echo.
 pause
+exit /b 0
