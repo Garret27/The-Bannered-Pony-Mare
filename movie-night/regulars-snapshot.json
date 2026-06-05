@@ -1,0 +1,492 @@
+{
+  "updatedAt": "2026-06-05T15:37:32.761Z",
+  "source": "vrcx",
+  "criteria": {
+    "lookbackDays": 62,
+    "saturdayWindow": "17:00–22:00 MDT",
+    "tuesdayWindow": "18:00–22:00 MDT",
+    "description": "Joined your instance on Sat 5–10 PM or Tue 6–10 PM MDT at least once in the lookback window."
+  },
+  "members": [
+    {
+      "userId": "usr_fb206c1c-b3d1-4895-8364-7e6e683885e0",
+      "displayName": "__Will__",
+      "distinctSaturdays": 5,
+      "distinctTuesdays": 5
+    },
+    {
+      "userId": "usr_ca45429e-02a6-4e2e-b1a1-30bbe195a7c0",
+      "displayName": "「Ceejay」",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_914210da-6ce5-4cd4-8063-8c58bb8d07fe",
+      "displayName": "aboxofdeth",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_df23cfb4-4fb2-4171-a8e7-4fbc5d5aedc0",
+      "displayName": "AdamColt",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_537a2ce4-e915-4d7e-b611-4eeeacdd59e6",
+      "displayName": "Alex_Valdrift",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_f456d30c-c8c6-495a-b4d9-db5b1f4a4d07",
+      "displayName": "AmalgamofIdeas",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_4996a39e-5abf-47c6-bcb5-9594993c3c4c",
+      "displayName": "ArrowT",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_75fbeb57-fcc7-48ec-a278-1c9327861eb8",
+      "displayName": "Auggiewolf565",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_cf14c12f-c618-4c7c-8720-5e63ec7d79ea",
+      "displayName": "AzimuthTM",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_659c0b14-bac3-485d-8db7-90c366ca2132",
+      "displayName": "Bracer Phoenix",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_a18b14af-e29d-46b2-a147-7219ed6ba8f6",
+      "displayName": "BrickyBoy",
+      "distinctSaturdays": 4,
+      "distinctTuesdays": 5
+    },
+    {
+      "userId": "usr_59763a39-7923-43f4-a746-689b598a8fc9",
+      "displayName": "BurkhardBadger",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_a5ab5e8a-a982-4f54-b35a-08b758b7ff73",
+      "displayName": "Caliban001",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 4
+    },
+    {
+      "userId": "usr_5102105e-526f-4796-89ed-1da2fa5a7d40",
+      "displayName": "chrissy561",
+      "distinctSaturdays": 2,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_cc36c216-4efb-4d4c-a44f-78d947363832",
+      "displayName": "Constellar",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_9d28e601-3102-42ed-b681-6da6ee258040",
+      "displayName": "EchorLeggy",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_b1e8e56c-594b-4541-a4a6-11d0cced4dd7",
+      "displayName": "Edrax",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_6b806179-6a63-4220-a1fc-4e57ad79cd93",
+      "displayName": "ɛɢɢռօɢ",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_7fc5739d-a5df-4603-8c23-40f6efd81cdf",
+      "displayName": "Fasuhn",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 5
+    },
+    {
+      "userId": "usr_e7c5872f-ab6b-4db5-8fe9-3b9c1ec75a54",
+      "displayName": "Faush",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 2
+    },
+    {
+      "userId": "usr_c043508f-eedf-45d2-a3a5-aa663b4a1c9c",
+      "displayName": "Fenli",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_b8752e89-2f18-4ac5-96da-87cbdade09d8",
+      "displayName": "Gagepanth",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 3
+    },
+    {
+      "userId": "usr_3546d275-2b03-4ea6-aa79-a51120a03756",
+      "displayName": "GarrusV",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 3
+    },
+    {
+      "userId": "usr_1df44853-2e6c-40ff-98c3-1cf6da5a2180",
+      "displayName": "Grímnir",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_224585d6-b3a3-48f1-8535-21b23c26a93b",
+      "displayName": "Having_Fittz",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 4
+    },
+    {
+      "userId": "usr_4dabc334-bcee-469d-a5f3-515f13ada555",
+      "displayName": "Innerxen",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 3
+    },
+    {
+      "userId": "usr_f80f975b-4362-45a6-9346-cfbd9472ce94",
+      "displayName": "J-Pup",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 4
+    },
+    {
+      "userId": "usr_b292d819-6af6-470a-b756-d90045388b1f",
+      "displayName": "James Fluffball",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_0afc278f-8226-40ba-8996-1a39fe0a5eb5",
+      "displayName": "JenkaTamar",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_aff05b64-4195-4fee-972e-d010c3ff652a",
+      "displayName": "Jericko_Mutt",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_3b17a340-79b2-4dc5-be5f-b2b1fa0ce864",
+      "displayName": "JetTheDog",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_9c46f468-5cb3-4e4d-860c-91b6ac284bf4",
+      "displayName": "John R Hall",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_e9563dc8-89a9-4613-835e-1ea0341e76b2",
+      "displayName": "justinthecorgi",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_4edcba55-f97d-451f-8415-cabf2dc84cda",
+      "displayName": "KaaneWolf",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 4
+    },
+    {
+      "userId": "U2wUpbxtr5",
+      "displayName": "KaroRaro",
+      "distinctSaturdays": 2,
+      "distinctTuesdays": 3
+    },
+    {
+      "userId": "usr_4799faa3-379f-4c7e-95a0-8f9259024c77",
+      "displayName": "KITTYGUARD",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_1925b6fc-7eaf-414d-b740-61cfd893cec4",
+      "displayName": "KonisRK9",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_84236f27-8ab4-438d-a46f-bac33ea29553",
+      "displayName": "KyberTheYeen",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_0a586b7b-763b-4540-b67a-b7c5f80c0135",
+      "displayName": "Lozcario",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_53fcf9ae-c076-4736-9ad8-27d01ea97356",
+      "displayName": "Luke_Nadewalker",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_d2b2ea54-27ec-4dcf-b1a2-25ce8a925094",
+      "displayName": "LupisYoung",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_5fda2837-69e6-4763-98d4-5b7d0829d9be",
+      "displayName": "Lutd",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_4adc88f9-b4a2-4ab2-b45a-ff3a6043f354",
+      "displayName": "MapleDaCat",
+      "distinctSaturdays": 2,
+      "distinctTuesdays": 4
+    },
+    {
+      "userId": "usr_7e96eed9-8ee9-42ea-b884-14c58a7dad04",
+      "displayName": "Maxieus",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 2
+    },
+    {
+      "userId": "usr_b63f92bd-42b8-49cd-81bb-e1a343aae8c0",
+      "displayName": "Morphdude",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_2aafb15a-52ff-4685-afec-4a76af303d1d",
+      "displayName": "mow-500",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_e874f299-e6d6-44f1-955f-5057e19c1dfe",
+      "displayName": "Mr-Rus",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_a9196cd1-0b64-4536-9590-18bd90f4d315",
+      "displayName": "MrSpaceWeasel",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_e51e4abf-e35c-42da-ae7e-90e85543e3e4",
+      "displayName": "Nico Tiger",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_8f23a4f9-5cc0-4b68-afff-ab72d7fc1c9b",
+      "displayName": "nightshadezero",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 2
+    },
+    {
+      "userId": "usr_83345e1a-96bb-48a6-9a9f-c342ba16617b",
+      "displayName": "nomatsu_nya",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_8c0871f0-4816-45d9-a886-983c87c60717",
+      "displayName": "Nostson",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 2
+    },
+    {
+      "userId": "usr_2cc7a15d-2083-4536-83df-a2a8d5740c73",
+      "displayName": "Oxmo",
+      "distinctSaturdays": 5,
+      "distinctTuesdays": 3
+    },
+    {
+      "userId": "usr_3d58ef85-8d21-470d-8f93-e43f699e858b",
+      "displayName": "passLion",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_0e74ab4e-82dc-48ad-a21a-da177674f10d",
+      "displayName": "Ralgarog",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 2
+    },
+    {
+      "userId": "usr_79793dd1-695d-4463-974e-21a0f2499ee0",
+      "displayName": "redpanda93",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 2
+    },
+    {
+      "userId": "usr_e9b03143-10a5-4ade-9566-6bec1ce0e8a7",
+      "displayName": "Ripjaws Proxy",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 2
+    },
+    {
+      "userId": "usr_9a80838e-103d-4613-b499-2a6c8771fe71",
+      "displayName": "Riverwalk",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_dbc089ad-b262-4c51-84cc-ba6476f99911",
+      "displayName": "RomeoRedWolf",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_14a6f084-9783-4746-a4c4-446810adda8b",
+      "displayName": "Ryanshimada",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_0c6687bd-5f5c-4c67-a653-319c6ca8ab09",
+      "displayName": "Ryker™",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_4d759c37-9812-4df4-9c12-6868862c0894",
+      "displayName": "Ryleization",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_b35d1469-12e9-40ff-906f-5dd36e341877",
+      "displayName": "RZ Darkstone",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_062448c4-4b58-4b78-9ae4-4b1f76418a45",
+      "displayName": "Sawnec",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_a0e17510-6c61-4e3a-9411-fafb784d49ee",
+      "displayName": "Schizure-Shade",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_f1479dc6-b270-4c97-b920-87478b83e1bc",
+      "displayName": "Slave23 ~ Dugan",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_2ce200df-6d76-4b77-8855-e756f42310f1",
+      "displayName": "Spoôky",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_67f18f4d-9518-443f-b1d6-3a5b6963713c",
+      "displayName": "SteezTiger",
+      "distinctSaturdays": 2,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_5fe57c01-e280-4072-805d-48db23b5ae9f",
+      "displayName": "StripedMo",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_957cda9a-89c1-4f3e-8224-00bb8c1bf99d",
+      "displayName": "stygian raptor",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_0190245f-222a-4580-8ada-57ecc16b3f41",
+      "displayName": "Tau of the sun",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 3
+    },
+    {
+      "userId": "usr_cd8fff25-5458-47dd-909b-6f09d371e75d",
+      "displayName": "The-Iron-Wolf",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_fcd5c8e3-a3ed-4d73-a1ee-edd61b9b4c8d",
+      "displayName": "TheDoctor26",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 4
+    },
+    {
+      "userId": "usr_1dd42580-5b92-41b8-b7e3-8be7acd89c12",
+      "displayName": "Thundor405",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_531399ce-97c4-49ba-8664-481abc0dc7ab",
+      "displayName": "Tigertron",
+      "distinctSaturdays": 2,
+      "distinctTuesdays": 4
+    },
+    {
+      "userId": "usr_0d1deeaa-c8df-4cd9-8498-506898b6cd80",
+      "displayName": "TykeTheDino",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_2482961a-e1d9-4b6b-bfd0-53c4e7493cf5",
+      "displayName": "Tytanous",
+      "distinctSaturdays": 3,
+      "distinctTuesdays": 4
+    },
+    {
+      "userId": "usr_b339b148-7e5f-4dd1-8678-576635ff1fcb",
+      "displayName": "VassyDragon",
+      "distinctSaturdays": 0,
+      "distinctTuesdays": 1
+    },
+    {
+      "userId": "usr_d91331df-3747-4bec-9115-d131e6c2a99c",
+      "displayName": "Xembos",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    },
+    {
+      "userId": "usr_ee4fdda5-7f37-4129-b837-50499da1306b",
+      "displayName": "zanderwolf70",
+      "distinctSaturdays": 1,
+      "distinctTuesdays": 0
+    }
+  ]
+}
