@@ -1,4301 +1,5859 @@
-1
-00:00:55,134 --> 00:00:57,010
-Whoever gets to the temple first win!
+﻿1
+00:00:00,709 --> 00:00:02,377
+The stars are gone.
 
 2
-00:00:57,011 --> 00:00:58,010
-What?
+00:00:02,000 --> 00:00:07,000
+For best IPTV provider, please visit: WWW.IPTV.CAT
+For best IPTV provider, please visit: WWW.IPTV.CAT.BZ
 
 3
-00:00:58,011 --> 00:00:59,622
-Aang, no fair!
+00:00:05,172 --> 00:00:08,050
+The planets have disappeared.
 
 4
-00:01:01,275 --> 00:01:02,010
-Let's get him!
+00:00:08,000 --> 00:00:13,000
+For best IPTV provider, please visit: WWW.IPTV.CAT
+For best IPTV provider, please visit: WWW.IPTV.CAT.BZ
 
 5
-00:01:02,011 --> 00:01:03,011
-Hurry up!
+00:00:10,219 --> 00:00:13,889
+There were barely enough of us
+left to give the end to name--
 
 6
-00:01:12,103 --> 00:01:13,006
-Hi, Nima.
+00:00:15,766 --> 00:00:17,850
+the Quiet Rapture.
 
 7
-00:01:13,031 --> 00:01:14,030
-Good morning, Aang.
+00:00:19,853 --> 00:00:22,271
+I'm seeing a discrepancy in...
 
 8
-00:01:14,063 --> 00:01:14,777
-Hei, mipmip.
+00:00:22,272 --> 00:00:24,190
+No, it's well within
+acceptable limits.
 
 9
-00:01:14,844 --> 00:01:15,687
-Oh, hello, Aang.
+00:00:24,191 --> 00:00:25,858
+Uh, proceeding
+with the mission.
 
 10
-00:01:22,110 --> 00:01:24,109
-Oh, perfect timing.
+00:00:33,408 --> 00:00:36,035
+Supplies dwindle.
 
 11
-00:01:24,661 --> 00:01:26,030
-I don't mind giving me a lift.
+00:00:36,036 --> 00:00:38,037
+Infrastructure crumbles.
 
 12
-00:01:26,031 --> 00:01:28,030
-Gyatso, this isn't the best time.
+00:00:38,038 --> 00:00:43,000
+Too few to rebuild,
+too many to feed.
 
 13
-00:01:28,105 --> 00:01:30,030
-I'm getting old, you know.
+00:00:43,001 --> 00:00:45,962
+Humanity decays.
 
 14
-00:01:30,031 --> 00:01:32,050
-My body doesn't move like it used to.
+00:00:45,963 --> 00:00:49,048
+But don't despair, my sons.
 
 15
-00:01:32,337 --> 00:01:34,571
-I'm kind of in the middle of something.
+00:00:49,049 --> 00:00:51,551
+I tell you now that there is
+more to these moons
 
 16
-00:01:34,711 --> 00:01:35,557
-You are so heavy.
+00:00:51,552 --> 00:00:53,886
+than meets the eye.
 
 17
-00:01:35,758 --> 00:01:37,050
-Heavy? Me?
+00:00:53,887 --> 00:00:56,556
+The Consolidation--
 
 18
-00:01:37,051 --> 00:01:39,050
-I eat nothing but vegetables.
+00:00:56,557 --> 00:01:00,060
+they hide their technology,
+their people.
 
 19
-00:01:39,199 --> 00:01:40,969
-Pie is not a vegetable.
+00:01:02,020 --> 00:01:05,524
+They won't tell you
+what they found, but I will.
 
 20
-00:01:41,282 --> 00:01:42,551
-I'm gonna lose the race.
+00:01:07,067 --> 00:01:09,945
+One moon stands apart
+from the rest.
 
 21
-00:01:42,824 --> 00:01:44,256
-Race? What race?
+00:01:12,447 --> 00:01:14,615
+And in the darkness
+of that moon...
 
 22
-00:01:44,989 --> 00:01:46,050
-We finally won!
+00:01:18,954 --> 00:01:20,955
+...an ocean of blood.
 
 23
-00:01:46,051 --> 00:01:48,050
-We won! We won!
+00:02:11,173 --> 00:02:12,715
+Beginning the descent.
 
 24
-00:01:53,434 --> 00:01:54,303
-Aang,
+00:02:12,716 --> 00:02:15,551
+Mission clock started.
 
 25
-00:01:54,957 --> 00:01:55,970
-as an airbender,
+00:02:15,552 --> 00:02:17,221
+Exploration of AT-5 under way.
 
 26
-00:01:56,317 --> 00:01:58,920
-it's important that you know when to show restraint.
+00:02:20,015 --> 00:02:21,724
+How's it looking down there, convict?
 
 27
-00:02:00,124 --> 00:02:04,498
-Even if you have the power
-to win, you are the Avatar.
+00:02:21,725 --> 00:02:23,936
+Ready to do some good
+for a change?
 
 28
-00:02:04,931 --> 00:02:08,727
-A lot of people are going to rely on you.
+00:02:25,479 --> 00:02:26,730
+Yeah.
 
 29
-00:02:20,260 --> 00:02:21,050
-He's gone!
+00:02:28,524 --> 00:02:29,982
+Let's get this done.
 
 30
-00:02:21,051 --> 00:02:22,090
-He ran away!
+00:02:29,983 --> 00:02:31,526
+Roger that.
 
 31
-00:02:22,480 --> 00:02:24,090
-What? I'm here!
+00:02:31,527 --> 00:02:34,570
+Cruising depth
+in roughly two minutes.
 
 32
-00:02:24,814 --> 00:02:26,090
-Where's the Avatar?
+00:02:34,571 --> 00:02:35,613
+Stand by.
 
 33
-00:02:26,167 --> 00:02:27,090
-Avatar!
+00:02:38,534 --> 00:02:40,284
+I'm seeing
+some voltage irregularities
 
 34
-00:02:27,320 --> 00:02:29,090
-Aang, where are you?
+00:02:40,285 --> 00:02:41,869
+on the instruments,
 
 35
-00:02:29,314 --> 00:02:31,090
-Gyatso, I'm here!
+00:02:41,870 --> 00:02:43,204
+so keep an eye out
+for sparks or flames
 
 36
-00:02:34,994 --> 00:02:37,110
-I'm right here!
+00:02:43,205 --> 00:02:44,705
+or anything like that.
 
 37
-00:02:37,354 --> 00:02:39,110
-I'm here!
+00:02:44,706 --> 00:02:47,291
+Flames?
+Why would there be flames?
 
 38
-00:02:39,281 --> 00:02:40,694
-I'm here!
+00:02:47,292 --> 00:02:50,086
+I don't know.
+That's why I warned you.
 
 39
-00:02:41,111 --> 00:02:42,111
-I'm here.
+00:02:53,298 --> 00:02:54,841
+You did test this thing, right?
 
 40
-00:02:46,777 --> 00:02:47,977
-Hi, Momo.
+00:02:54,842 --> 00:02:56,676
+This is the test.
 
 41
-00:02:48,960 --> 00:02:50,110
-Hi, Appa.
+00:02:56,677 --> 00:02:58,427
+But you're welded in as tight
+as we could make it,
 
 42
-00:02:50,210 --> 00:02:51,110
-Was I asleep for long?
+00:02:58,428 --> 00:03:00,263
+and that ship's a tank.
 
 43
-00:02:51,330 --> 00:02:52,432
-Ooh! Okay, okay.
+00:03:00,264 --> 00:03:02,139
+Just keep an eye on your depth
+while you're down there.
 
 44
-00:02:52,684 --> 00:02:54,130
-I'm awake already.
+00:03:02,140 --> 00:03:03,724
+The terrain
+can be unpredictable,
 
 45
-00:02:54,131 --> 00:02:55,131
-I know, I know.
+00:03:03,725 --> 00:03:05,351
+so make sure
+you're not wandering down
 
 46
-00:02:55,380 --> 00:02:57,130
-We've got a job to finish.
+00:03:05,352 --> 00:03:07,019
+too far into the red.
 
 47
-00:02:57,131 --> 00:02:58,131
-[ Sighs ]
+00:03:07,020 --> 00:03:09,815
+It can take pressure,
+but there's a limit.
 
 48
-00:02:58,330 --> 00:03:00,130
-Let's continue our journey.
+00:03:11,275 --> 00:03:13,025
+Hey, Captain,
 
 49
-00:03:00,505 --> 00:03:02,130
-Back to our old home.
+00:03:13,026 --> 00:03:14,861
+the-- the hull's starting
+to feel it, that glass.
 
 50
-00:03:50,137 --> 00:03:51,343
-This may not have been our best trip,
+00:03:14,862 --> 00:03:17,280
+Alright.
+Closing porthole shielding.
 
 51
-00:03:51,763 --> 00:03:54,190
-but any Airbender relic we
-find makes it all worthwhile.
+00:03:17,281 --> 00:03:19,490
+Hey, what is it exactly
+you want me to find?
 
 52
-00:04:00,306 --> 00:04:02,624
-This could be the oldest
-piece in our collection.
+00:03:19,491 --> 00:03:21,075
+You haven't told me what it is.
 
 53
-00:04:08,350 --> 00:04:09,323
-Sonum.
+00:03:21,076 --> 00:03:24,704
+We don't know.
+You're the first one down.
 
 54
-00:04:22,642 --> 00:04:23,429
-I miss you.
+00:03:24,705 --> 00:03:25,997
+All we have are surface scans.
 
 55
-00:04:30,332 --> 00:04:32,116
-Momo, go outside with Appa.
+00:03:25,998 --> 00:03:27,915
+That's why you're there--
 
 56
-00:04:34,076 --> 00:04:34,749
-Now!
+00:03:27,916 --> 00:03:31,377
+Well, one of the reasons.
 
 57
-00:04:43,547 --> 00:04:44,855
-Who are you?
+00:03:31,378 --> 00:03:35,047
+You know, we salvaged that
+glass from Filament Station.
 
 58
-00:04:45,201 --> 00:04:46,508
-Why are you doing this?
+00:03:35,048 --> 00:03:37,466
+Not a scratch on it.
 
 59
-00:04:50,527 --> 00:04:51,580
-Please, Stop.
+00:03:37,467 --> 00:03:40,261
+I know, right? Pretty lucky.
 
 60
-00:04:51,668 --> 00:04:52,942
-I don't want to hurt you.
+00:03:40,262 --> 00:03:43,098
+Funny how some things survive
+and others don't.
 
 61
-00:04:56,846 --> 00:04:57,386
-Where is it?
+00:03:45,100 --> 00:03:47,351
+Approaching maximum depth.
 
 62
-00:04:57,488 --> 00:04:58,240
-Where is it?
+00:03:47,352 --> 00:03:49,061
+30 seconds.
 
 63
-00:04:58,373 --> 00:04:59,456
-No, that's not it.
+00:03:49,062 --> 00:03:50,856
+Hey, um...
 
 64
-00:04:59,616 --> 00:05:00,755
-Hey, those are antiques.
+00:03:52,149 --> 00:03:53,775
+Hey, are you hearing this?
 
 65
-00:05:13,101 --> 00:05:13,961
-Enough!
+00:03:55,611 --> 00:03:58,196
+Hello? Hey.
 
 66
-00:05:17,279 --> 00:05:17,672
-Wait!
+00:03:58,197 --> 00:04:00,531
+Uh, hey,
+you said not to go into the red!
 
 67
-00:05:18,112 --> 00:05:19,052
-I found it!
+00:04:00,532 --> 00:04:03,242
+We're in the red!
 
 68
-00:05:21,413 --> 00:05:23,448
-Sonum, why an after you?
+00:04:03,243 --> 00:04:04,660
+Head to the coordinates
+of the map
 
 69
-00:05:42,623 --> 00:05:43,276
-Wait!
+00:04:04,661 --> 00:04:06,329
+and catalog as instructed
 
 70
-00:05:46,670 --> 00:05:48,991
-No, that's 1,000 years old!
+00:04:06,330 --> 00:04:08,664
+and we'll consider your penance
+served.
 
 71
-00:05:54,980 --> 00:05:56,520
-Why don't we just talk? Maybe I can help.
+00:04:08,665 --> 00:04:11,668
+Be careful.
 
 72
-00:05:56,633 --> 00:05:58,914
-We don't need your help, Avatar.
+00:04:13,253 --> 00:04:15,880
+- Good--
+- Hey! Hey!
 
 73
-00:05:59,847 --> 00:06:03,223
-We're done living in a world where benders
-have all the power and we have none.
+00:04:22,513 --> 00:04:23,889
+You can't be serious.
 
 74
-00:06:03,311 --> 00:06:04,416
-Who are you?
+00:04:26,642 --> 00:04:28,143
+You can't be serious.
 
 75
-00:06:04,509 --> 00:06:05,296
-We're the Denied.
+00:04:29,728 --> 00:04:31,103
+You can't be serious.
 
 76
-00:06:05,376 --> 00:06:06,439
-The Denied?
+00:04:45,619 --> 00:04:46,995
+Okay.
 
 77
-00:06:07,532 --> 00:06:08,310
-Just kill him already!
+00:04:48,205 --> 00:04:49,665
+Fuck me.
 
 78
-00:06:08,426 --> 00:06:10,310
-No! He'll bring the whole place down!
+00:05:20,153 --> 00:05:21,613
+50.
 
 79
-00:06:37,503 --> 00:06:38,923
-You saved me.
+00:06:18,253 --> 00:06:19,588
+Camera.
 
 80
-00:06:41,480 --> 00:06:43,350
-Kalik, wrap the map! Let's go!
+00:06:20,797 --> 00:06:22,466
+That's useful.
 
 81
-00:06:57,821 --> 00:06:58,598
-Oh, no!
+00:07:28,156 --> 00:07:29,575
+Okay. One down...
 
 82
-00:07:55,999 --> 00:07:56,759
-I'm fine.
+00:07:30,868 --> 00:07:32,035
+five to go.
 
 83
-00:07:57,139 --> 00:07:58,592
-Momo, I'm fine.
+00:07:34,246 --> 00:07:35,330
+Oxygen.
 
 84
-00:08:01,480 --> 00:08:03,503
-We've got to get to Republic City.
+00:09:22,312 --> 00:09:23,814
+Way off.
 
 85
-00:08:04,662 --> 00:08:05,862
-Appa, yip, yip!
+00:10:22,497 --> 00:10:24,208
+That's not even on the map.
 
 86
-00:08:23,481 --> 00:08:24,061
-Water,
+00:10:25,709 --> 00:10:26,877
+Maybe...
 
 87
-00:08:25,587 --> 00:08:31,037
-her tribes gather strength from
-the moon and flow with the tides.
+00:10:35,928 --> 00:10:37,346
+Hey...
 
 88
-00:08:32,371 --> 00:08:33,477
-Earth,
+00:10:38,430 --> 00:10:40,849
+What do I do if I find something
+not on the map?
 
 89
-00:08:33,897 --> 00:08:36,333
-a kingdomof unshakable will.
+00:10:45,062 --> 00:10:47,231
+You're not just pretending
+you can't hear me, right?
 
 90
-00:08:36,641 --> 00:08:39,041
-Reliable and strong.
+00:10:53,278 --> 00:10:55,489
+Why is it so fucking hot
+down here?
 
 91
-00:08:42,605 --> 00:08:43,446
-Fire,
+00:14:03,051 --> 00:14:04,051
+What the fuck?
 
 92
-00:08:44,565 --> 00:08:51,470
-a nation capable of great
-destruction, but also of great warmth.
+00:14:11,727 --> 00:14:13,728
+...what's your stat...
 
 93
-00:08:53,933 --> 00:08:54,654
-Air,
+00:14:13,729 --> 00:14:15,981
+Are you reading me?
+What's your status?
 
 94
-00:08:55,121 --> 00:08:57,933
-peaceful nomads with the power of a hurricane,
+00:14:16,773 --> 00:14:19,233
+Yeah, I'm here.
 
 95
-00:08:58,433 --> 00:09:00,837
-but the spirit of a gentle breeze.
+00:14:19,234 --> 00:14:21,277
+...ship damaged. Did you fall?
 
 96
-00:09:03,249 --> 00:09:05,570
-For generations, the Avatar,
+00:14:21,278 --> 00:14:24,655
+Uh-- Uh, I-I-I don't know.
 
 97
-00:09:06,010 --> 00:09:10,984
-the one master of all four elements,
-kept the nations in balance.
+00:14:24,656 --> 00:14:26,365
+Was that you?
 
 98
-00:09:12,608 --> 00:09:17,010
-But when that responsibility
-fell to me as a child, I ran away.
+00:14:26,366 --> 00:14:28,035
+...hull damaged...
 
 99
-00:09:17,563 --> 00:09:19,650
-I was caught in a deadly storm,
+00:14:29,494 --> 00:14:31,329
+I dunno. Is it?!
 
 100
-00:09:20,303 --> 00:09:26,510
-but my Avatar spirit preserved me in a sphere
-of energy where I stayed for 100 years.
+00:14:31,330 --> 00:14:33,039
+You didn't tell me that there
+would be anything down here!
 
 101
-00:09:27,652 --> 00:09:33,990
-I woke to discover that the balance preserved by the Avatar
-had been destroyed by war.
+00:14:33,040 --> 00:14:34,207
+Okay, calm down.
 
 102
-00:09:34,827 --> 00:09:36,510
-The air nomads were gone.
+00:14:34,208 --> 00:14:35,500
+Just tell me if there's
+a problem with the ship.
 
 103
-00:09:37,717 --> 00:09:38,397
-All but one.
+00:14:35,501 --> 00:14:37,251
+We need to know
+if the ship is damaged
 
 104
-00:09:39,357 --> 00:09:39,650
-Me.
+00:14:37,252 --> 00:14:38,753
+before we send you back down.
 
 105
-00:09:41,144 --> 00:09:44,530
-I could no longer run for my
-responsibility as the Avatar.
+00:14:38,754 --> 00:14:40,630
+Back-- Back down.
 
 106
-00:09:45,806 --> 00:09:47,966
-I found allies from every nation.
+00:14:40,631 --> 00:14:42,381
+Back? No way.
 
 107
-00:09:48,766 --> 00:09:51,530
-Benders and non-benders.
+00:14:42,382 --> 00:14:43,634
+No fucking way!
 
 108
-00:09:52,884 --> 00:09:54,767
-Katara taught me how to waterbend.
+00:14:44,760 --> 00:14:47,470
+I'm done. I'm done.
 
 109
-00:09:55,701 --> 00:09:58,478
-Toph trained me in the
-ways of the earthbenders.
+00:14:47,471 --> 00:14:49,514
+So just bring me back up
+and throw me in prison.
 
 110
-00:09:59,111 --> 00:10:03,550
-Zuko, once my worst enemy,
-became my firebending teacher.
+00:14:49,515 --> 00:14:51,098
+I'm not doing this!
 
 111
-00:10:04,450 --> 00:10:08,906
-Sokka showed me that bravery is the
-most important part of being a leader.
+00:14:51,099 --> 00:14:52,643
+Is. There. Damage?!
 
 112
-00:10:10,280 --> 00:10:12,206
-We became a family.
+00:14:54,853 --> 00:14:58,356
+Just tell me if there is
+a problem with the sub.
 
 113
-00:10:13,574 --> 00:10:16,939
-And together, we ended
-the Hundred Year War.
+00:14:58,357 --> 00:15:01,275
+Because if you fell,
+the hull could be punctured,
 
 114
-00:10:17,852 --> 00:10:22,570
-Then, we began the hard
-work of rebuilding the world.
+00:15:01,276 --> 00:15:05,488
+which means a leak, which means
+flooding, which means you die.
 
 115
-00:10:34,125 --> 00:10:37,570
-For so long, the nations
-stood apart, alone,
+00:15:12,204 --> 00:15:13,789
+The sub...
 
 116
-00:10:37,919 --> 00:10:39,570
-and we all suffered as a result.
+00:15:16,959 --> 00:15:20,962
+um, seems fine.
 
 117
-00:10:40,319 --> 00:10:42,590
-But here, on this ancient site,
+00:15:20,963 --> 00:15:24,006
+Good. Good.
 
 118
-00:10:42,739 --> 00:10:48,136
-we created a place where all people are
-welcome, bender and non-bender alike,
+00:15:24,007 --> 00:15:28,845
+I can't see much, but it seems
+like the hull is in one piece.
 
 119
-00:10:48,729 --> 00:10:51,972
-working together in
-peace to build the future.
+00:15:28,846 --> 00:15:30,638
+So we're gonna check on
+your progress
 
 120
-00:10:52,699 --> 00:10:55,590
-Though there are still those
-who would seek to divide us,
+00:15:30,639 --> 00:15:32,265
+while we wait for the ocean
+to settle back down.
 
 121
-00:10:55,989 --> 00:10:57,590
-we remain united.
+00:15:32,266 --> 00:15:34,141
+Hey, do you think
+we can get any pictures?
 
 122
-00:10:58,239 --> 00:10:59,590
-As a council representative,
+00:15:34,142 --> 00:15:35,685
+What, at that depth?
 
 123
-00:11:00,089 --> 00:11:05,222
-I am honored to be here today celebrating
-the anniversary of Republic City
+00:15:35,686 --> 00:15:37,687
+I mean,
+you could get a couple, maybe.
 
 124
-00:11:05,282 --> 00:11:09,610
-and the opening of Unity Tower,
-a symbol for all people.
+00:15:37,688 --> 00:15:39,564
+Yeah, well, it might take it
+a while to settle, so go ahead.
 
 125
-00:11:17,841 --> 00:11:18,610
-Yeah!
+00:15:39,565 --> 00:15:41,148
+Uh, "settle"--
 
 126
-00:11:19,105 --> 00:11:20,610
-It's the Avatar!
+00:15:41,149 --> 00:15:43,317
+mm, what does that mean?
 
 127
-00:11:32,191 --> 00:11:33,046
-Momo!
+00:15:43,318 --> 00:15:45,862
+Um, is that why everything
+was shaking?
 
 128
-00:11:35,482 --> 00:11:36,689
-Appa!
+00:15:45,863 --> 00:15:47,154
+Essentially, yeah.
 
 129
-00:11:37,015 --> 00:11:39,099
-I missed you, too, old friend.
+00:15:47,155 --> 00:15:49,115
+The bottom isn't exactly rock.
 
 130
-00:11:41,559 --> 00:11:42,433
-Aang!
+00:15:49,116 --> 00:15:52,451
+Just layers of congealed blood
+and gas bubbles.
 
 131
-00:11:42,486 --> 00:11:43,069
-Katara!
+00:15:52,452 --> 00:15:54,245
+I wasn't lying
+when I said it wasn't stable.
 
 132
-00:11:48,644 --> 00:11:49,650
-You're hurt.
+00:15:54,246 --> 00:15:55,705
+- Hey...
+- What?
 
 133
-00:11:57,668 --> 00:11:58,655
-Take a deep breath,
+00:15:55,706 --> 00:15:57,790
+You're gonna want to see this,
 
 134
-00:12:01,460 --> 00:12:03,819
-and exhale.
+00:15:57,791 --> 00:15:59,292
+the most recent picture.
 
 135
-00:12:05,179 --> 00:12:07,032
-I've heard the Denied are growing in numbers,
+00:15:59,293 --> 00:16:01,377
+Holy shit.
+Convict, did you...
 
 136
-00:12:07,272 --> 00:12:08,996
-but they've never done anything like this.
+00:16:01,378 --> 00:16:04,463
+Did you find a skeleton?
 
 137
-00:12:09,303 --> 00:12:10,670
-Attacking the Avatar?
+00:16:04,464 --> 00:16:06,007
+Yeah.
 
 138
-00:12:10,916 --> 00:12:11,429
-Yeah.
+00:16:06,008 --> 00:16:08,509
+Yeah. Uh, yeah.
+And there was something else. - This could just be rocks.
 
 139
-00:12:12,219 --> 00:12:13,809
-They were incredible fighters,
+00:16:08,510 --> 00:16:10,386
+Can you get me
+a higher resolution?
 
 140
-00:12:14,619 --> 00:12:15,670
-even without bending.
+00:16:10,387 --> 00:16:12,847
+What rock has teeth?
+Look at this. - Are you really asking that?
 
 141
-00:12:16,543 --> 00:12:17,381
-Ahh, Ow!
+00:16:12,848 --> 00:16:18,019
+- Yes, I am.
+- Convict, are you absolutely sure that it was a skeleton?
 
 142
-00:12:17,406 --> 00:12:18,179
-Oops!
+00:16:18,020 --> 00:16:21,564
+Yeah.
+I've seen a skeleton before.
 
 143
-00:12:18,835 --> 00:12:20,061
-Breathe through it.
+00:16:21,565 --> 00:16:22,982
+How stupid do you think I am?
 
 144
-00:12:20,569 --> 00:12:22,453
-Be honest. You're enjoying this.
+00:16:26,320 --> 00:16:28,321
+We're pulling you up.
+Stand by. - What?
 
 145
-00:12:22,546 --> 00:12:24,371
-Aang, this is serious.
+00:16:29,823 --> 00:16:31,782
+All hands,
+prepare for recovery.
 
 146
-00:12:24,726 --> 00:12:29,078
-Whatever this map they took was,
-if they were willing to kill the Avatar to get it,
+00:16:31,783 --> 00:16:33,284
+13's coming up
+ahead of schedule.
 
 147
-00:12:29,571 --> 00:12:30,981
-what else are they willing to do?
+00:16:33,285 --> 00:16:35,119
+We might have found something.
 
 148
-00:12:31,788 --> 00:12:32,394
-I don't know.
+00:16:35,120 --> 00:16:36,787
+Make sure Jack's moving.
 
 149
-00:12:33,881 --> 00:12:35,057
-I'm worried about you.
+00:16:36,788 --> 00:16:37,914
+He just rotated off duty.
 
 150
-00:12:36,039 --> 00:12:39,644
-You're spending more and more time at the Air Temple, alone.
+00:16:37,915 --> 00:16:40,291
+He'll be pissy but I need welds
+I can count on. -
 
 151
-00:12:41,082 --> 00:12:43,683
-It's how I hold on to my past.
+00:16:40,292 --> 00:16:42,084
+You. Get me maps.
 
 152
-00:12:45,789 --> 00:12:47,774
-I know how hard this is for you.
+00:16:42,085 --> 00:16:44,545
+I want scans going
+from 13's last location.
 
 153
-00:12:52,209 --> 00:12:53,710
-When I was attacked,
+00:16:44,546 --> 00:16:46,589
+Keep walking him out
+100 meters at a time
 
 154
-00:12:54,559 --> 00:12:58,660
-all I could think about was that...
-this could be it.
+00:16:46,590 --> 00:16:48,424
+until we're back down there.
 
 155
-00:13:00,459 --> 00:13:02,870
-I'm the last Airbender.
+00:16:48,425 --> 00:16:51,177
+Call up anything that looks
+different from before.
 
 156
-00:13:04,463 --> 00:13:05,710
-If I die,
+00:16:51,178 --> 00:16:53,095
+What?
 
 157
-00:13:06,353 --> 00:13:08,449
-my culture dies with me.
+00:16:53,096 --> 00:16:54,805
+No. Don't bother.
 
 158
-00:13:11,229 --> 00:13:13,009
-You may be the last Airbender,
+00:16:54,806 --> 00:16:57,099
+Won't make a difference if we
+don't get down there in time.
 
 159
-00:13:13,679 --> 00:13:15,730
-but you're not alone.
+00:16:57,100 --> 00:16:59,644
+No, they don't
+need to know either.
 
 160
-00:13:16,271 --> 00:13:16,685
-Aang,
+00:16:59,645 --> 00:17:01,271
+Not yet anyway.
 
 161
-00:13:17,379 --> 00:13:19,710
-None of this would exist without you.
+00:17:15,953 --> 00:17:18,037
+Bringing you in now.
 
 162
-00:13:20,979 --> 00:13:24,905
-You made the city possible
-with your heart and your mind.
+00:17:27,881 --> 00:17:30,591
+Okay.
 
 163
-00:13:26,579 --> 00:13:30,750
-Because of you,
-all of the nations live here, together.
+00:17:30,592 --> 00:17:32,760
+Okay. Uh...
 
 164
-00:13:33,649 --> 00:13:34,750
-All except mine.
+00:17:32,761 --> 00:17:34,345
+So now what?
 
 165
-00:13:45,381 --> 00:13:49,730
-I know, but the people here
-still need your protection.
+00:17:39,184 --> 00:17:41,269
+Alright. We're clear.
 
 166
-00:13:50,264 --> 00:13:51,944
-You're an Airbender,
+00:17:41,270 --> 00:17:43,605
+How's his oxygen?
 
 167
-00:13:52,829 --> 00:13:54,730
-but you're also the Avatar.
+00:17:51,947 --> 00:17:54,907
+Hey.
+So, uh-- So what's the deal?
 
 168
-00:13:56,979 --> 00:13:57,599
-You're right.
+00:17:54,908 --> 00:17:56,784
+- Am I done?
+- How's your oxygen?
 
 169
-00:13:59,529 --> 00:14:03,462
-Whoever this Sonum person is,
-I need to find out more.
+00:17:56,785 --> 00:17:58,327
+See any leaks?
 
 170
-00:14:29,214 --> 00:14:29,693
-Aang.
+00:17:58,328 --> 00:18:01,330
+Uh, um, uh, yeah.
+I'm down a light.
 
 171
-00:14:30,477 --> 00:14:31,476
-Avatar Roku.
+00:18:01,331 --> 00:18:04,208
+But-- But, yeah, maybe.
+There might be a leak.
 
 172
-00:14:31,800 --> 00:14:33,770
-It is good to see you again.
+00:18:04,209 --> 00:18:06,043
+Uh, there was some blood
+dripping in,
 
 173
-00:14:34,151 --> 00:14:35,323
-How can I help you?
+00:18:06,044 --> 00:18:08,921
+and then there's some kind of
+liquid building up on the walls.
 
 174
-00:14:35,605 --> 00:14:39,770
-In your lifetime,
-did you ever hear of an ancient Airbender named Sonum?
+00:18:08,922 --> 00:18:10,506
+I don't know--
+I don't know what it was.
 
 175
-00:14:40,119 --> 00:14:44,340
-I have not,
-but you have many past lives to call upon.
+00:18:10,507 --> 00:18:12,383
+It's just condensation.
 
 176
-00:14:44,739 --> 00:14:48,790
-Perhaps one further back in the Avatar cycle can help you.
+00:18:12,384 --> 00:18:14,302
+I know what condensation--
+Look, it doesn't matter.
 
 177
-00:14:49,464 --> 00:14:50,790
-Thank you, Avatar Roku.
+00:18:14,303 --> 00:18:17,513
+You just warn the next person
+that goes down what I found.
 
 178
-00:14:52,790 --> 00:14:55,790
--I'm sorry. -I've never heard of Sonum.
+00:18:17,514 --> 00:18:19,056
+There's something alive
+down there.
 
 179
-00:14:55,939 --> 00:14:57,790
--Perhaps earlier. -You must go find him.
+00:18:19,057 --> 00:18:20,433
+Hey, Captain.
 
 180
-00:14:57,791 --> 00:14:58,790
-Not here. Not here.
+00:18:20,434 --> 00:18:21,809
+You're gonna want to see this.
 
 181
-00:15:08,993 --> 00:15:10,810
-Um, hello?
+00:18:21,810 --> 00:18:23,102
+We got pictures?
 
 182
-00:15:11,732 --> 00:15:13,167
-Is there anyone here?
+00:18:23,103 --> 00:18:24,187
+Hmm.
 
 183
-00:15:14,459 --> 00:15:15,810
-Hello?
+00:18:32,863 --> 00:18:34,697
+Punch in tighter.
 
 184
-00:15:17,811 --> 00:15:22,830
-Who calls upon Avatar Xion, vast wealth of knowledge
+00:18:34,698 --> 00:18:37,116
+If there are more of these
+things down there, we might...
 
 185
-00:15:26,853 --> 00:15:28,166
-Oh, hello.
+00:18:39,703 --> 00:18:41,579
+Whoa.
+Does he have enough oxygen?
 
 186
-00:15:28,486 --> 00:15:31,830
-You look like an Avatar from
-a time quite distant from mine.
+00:18:41,580 --> 00:18:43,623
+No. Don't bother.
+We got to move fast.
 
 187
-00:15:32,029 --> 00:15:34,830
-Please, please, tell me about your era.
+00:18:43,624 --> 00:18:45,291
+- We can't lose this.
+- Captain, you sure he doesn't need more air
 
 188
-00:15:35,117 --> 00:15:36,806
-What are people wearing?
+00:18:45,292 --> 00:18:46,542
+before he goes back down?
 
 189
-00:15:36,831 --> 00:15:37,871
-Are sandals still a thing?
+00:18:46,543 --> 00:18:48,002
+You know, just in case?
 
 190
-00:15:38,229 --> 00:15:39,830
-Uh, yes.
+00:18:48,003 --> 00:18:50,922
+I'll worry about that.
+You notify the council.
 
 191
-00:15:40,229 --> 00:15:41,830
-Why? Why?
+00:18:50,923 --> 00:18:52,840
+Yeah. You got it.
 
 192
-00:15:41,929 --> 00:15:47,850
-After so many years, open toes,
-in someone else's crusty cuticles.
+00:18:52,841 --> 00:18:55,259
+Oh, yeah?
 
 193
-00:15:47,851 --> 00:15:48,850
-Disgusting.
+00:18:57,346 --> 00:19:00,264
+Hey, yeah.
+So I found something, right--
 
 194
-00:15:48,851 --> 00:15:49,851
-Right.
+00:19:00,265 --> 00:19:02,099
+something good?
 
 195
-00:15:50,249 --> 00:15:51,850
-Anyway, I have come through guidance.
+00:19:02,100 --> 00:19:04,060
+We downloaded the pictures.
 
 196
-00:15:51,851 --> 00:15:53,850
-You see, I was attacked.
+00:19:04,061 --> 00:19:05,687
+Sure looks like a skeleton
+to me.
 
 197
-00:15:54,149 --> 00:15:56,324
-It was not me, okay? It wasn't me.
+00:19:07,523 --> 00:19:09,607
+So come on. Get me out of here.
 
 198
-00:15:56,564 --> 00:15:57,224
-I know that.
+00:19:09,608 --> 00:19:12,485
+I can't.
+Like I said, you're welded in.
 
 199
-00:15:57,549 --> 00:16:00,850
-I think it might have something to
-do with an Airbender named Sonum.
+00:19:12,486 --> 00:19:13,986
+We take the time
+to get you out of here,
 
 200
-00:16:00,899 --> 00:16:04,357
-Sonum. It sounds familiar.
+00:19:13,987 --> 00:19:15,655
+we might miss the opportunity.
 
 201
-00:16:04,749 --> 00:16:06,850
-Sonum. Where have I heard that name before?
+00:19:15,656 --> 00:19:17,865
+Another slip, might go somewhere
+that we can't get it.
 
 202
-00:16:07,223 --> 00:16:12,615
-Aha! Sonum was the youngest daughter of the owner of
-the possum chicken shop at the corner marketplace.
+00:19:17,866 --> 00:19:19,909
+So I'm gonna give
+you something to take a sample.
 
 203
-00:16:12,722 --> 00:16:15,249
-Wait. That was my ex, Soniam.
+00:19:19,910 --> 00:19:23,412
+Hey. Hey!
+You're not listening to me!
 
 204
-00:16:15,495 --> 00:16:18,549
-If only she didn't have
-those humongous toenails.
+00:19:23,413 --> 00:19:25,207
+There's something else!
 
 205
-00:16:18,615 --> 00:16:20,215
-Ugh. Disgusting.
+00:19:26,458 --> 00:19:27,959
+Okay.
 
 206
-00:16:20,362 --> 00:16:21,483
-This is going nowhere.
+00:19:27,960 --> 00:19:29,544
+It's not like I don't want
+the deal, alright?
 
 207
-00:16:21,562 --> 00:16:23,516
-Sonum?
+00:19:29,545 --> 00:19:31,630
+I want the deal!
+I want to make amends.
 
 208
-00:16:23,869 --> 00:16:25,999
-Well, thank you for your time.
+00:19:33,048 --> 00:19:34,424
+It's not worth it.
 
 209
-00:16:26,125 --> 00:16:27,782
-I must continue my search.
+00:19:35,509 --> 00:19:38,761
+It's not.
+It's not worth it for me.
 
 210
-00:16:27,869 --> 00:16:29,955
-Oh! Sonum!
+00:19:38,762 --> 00:19:40,346
+It's not worth it for you.
 
 211
-00:16:30,062 --> 00:16:34,280
-You're asking about the
-legend of the lost Avatar.
+00:19:40,347 --> 00:19:42,056
+Yeah, you're all fawning
+over this skeleton,
 
 212
-00:16:34,406 --> 00:16:36,255
-Sona m was an Avatar?
+00:19:42,057 --> 00:19:43,391
+but you're not hearing me
 
 213
-00:16:36,308 --> 00:16:37,855
-Indeed she was.
+00:19:43,392 --> 00:19:46,227
+when I say
+there's something else--
 
 214
-00:16:37,966 --> 00:16:42,571
-She was the Avatar in the
-golden age of Airbender.
+00:19:46,228 --> 00:19:47,563
+something alive.
 
 215
-00:16:42,631 --> 00:16:48,331
-Legend said she had a staff
-that could channel the vast energy of the spirit world,
+00:19:49,815 --> 00:19:51,483
+There might just be.
 
 216
-00:16:48,413 --> 00:16:51,560
-granting
-its keeper unlimited power.
+00:19:54,236 --> 00:19:57,488
+We're gonna put this on the sub
+right up front.
 
 217
-00:16:51,726 --> 00:16:53,910
-Is -- Is that even possible?
+00:19:57,489 --> 00:19:59,866
+All you got to do is point it
+in the right direction.
 
 218
-00:16:54,883 --> 00:16:57,116
-We'll never know for sure.
+00:19:59,867 --> 00:20:01,576
+Once it makes contact,
+it should be able
 
 219
-00:16:57,189 --> 00:16:59,869
-Many Avatars have tried
-to communicate with her,
+00:20:01,577 --> 00:20:03,995
+to grab on to something
+and hold on tight.
 
 220
-00:16:59,958 --> 00:17:00,322
-but they couldn't.
+00:20:03,996 --> 00:20:07,164
+This-- So what am I supposed
+to do , just ram it?
 
 221
-00:17:00,764 --> 00:17:05,378
-She disappeared so completely
-that it was as if she never existed.
+00:20:07,165 --> 00:20:08,792
+Pretty much.
 
 222
-00:17:05,984 --> 00:17:07,691
-And perhaps it's better that way.
+00:20:10,377 --> 00:20:12,962
+- You can't be serious.
+- I am.
 
 223
-00:17:08,277 --> 00:17:12,419
-Maybe such a staff was too
-dangerous for anyone to possess.
+00:20:12,963 --> 00:20:15,006
+You'll have to hit it hard,
+too--
 
 224
-00:17:12,829 --> 00:17:14,433
-Even the Avatar.
+00:20:15,007 --> 00:20:16,924
+hard enough to make sure
+that it catches.
 
 225
-00:17:14,879 --> 00:17:17,125
-But -- But that's exactly
-why I need to find it.
+00:20:16,925 --> 00:20:18,384
+You won't be able to see
+if it works,
 
 226
-00:17:17,392 --> 00:17:19,930
-The people who attacked
-me discovered a map.
+00:20:18,385 --> 00:20:20,344
+- so no second chances.
+- Okay.
 
 227
-00:17:20,028 --> 00:17:21,588
-It must lead to the staff.
+00:20:20,345 --> 00:20:22,763
+So you don't just want me
+to ram it?
 
 228
-00:17:22,079 --> 00:17:24,199
-Avatar Xion,
-please.
+00:20:22,764 --> 00:20:25,433
+You want me to ram it
+at full speed?
 
 229
-00:17:24,419 --> 00:17:26,201
-You have to tell me where it is.
+00:20:25,434 --> 00:20:28,269
+Why play games?
+Why go through all this trouble?
 
 230
-00:17:28,854 --> 00:17:34,950
-The legend says that Sonum disappeared
-with her staff on the peak of Mount Baihu.
+00:20:28,270 --> 00:20:29,979
+If you want me dead so bad,
 
 231
-00:17:37,249 --> 00:17:39,950
-Katara, I'm sorry to leave so suddenly,
+00:20:29,980 --> 00:20:31,731
+why don't you just do it
+yourself?!
 
 232
-00:17:40,249 --> 00:17:42,950
-but I found out what the Denied are after.
+00:20:31,732 --> 00:20:34,400
+This is the best we have.
 
 233
-00:17:43,299 --> 00:17:45,930
-Sonim had a staff of immense power.
+00:20:34,401 --> 00:20:36,904
+And it's a lot more
+than you deserve.
 
 234
-00:17:46,079 --> 00:17:49,930
-And in their hands, it could
-be a devastating weapon.
+00:20:39,489 --> 00:20:42,074
+This is bigger than any of us.
+So just do your job.
 
 235
-00:17:49,931 --> 00:17:51,930
-They have a head start.
+00:20:43,869 --> 00:20:46,537
+My job-- my job?
+Oh. I'm sorry.
 
 236
-00:17:51,931 --> 00:17:53,829
-There's no time to waste.
+00:20:46,538 --> 00:20:48,331
+The handcuffs
+must have confused me.
 
 237
-00:17:53,930 --> 00:17:57,222
-You take Appa and Momo and
-gather up the rest of the team.
+00:20:48,332 --> 00:20:50,250
+I didn't realize
+this was voluntary!
 
 238
-00:17:57,482 --> 00:17:58,930
-We're gonna need some help.
+00:20:51,835 --> 00:20:53,628
+Hey!
 
 239
-00:18:04,950 --> 00:18:08,551
-Next on the agenda, a
-Fire Nation naval vessel
+00:20:53,629 --> 00:20:56,214
+Don't walk away!
+If this is so important to you,
 
 240
-00:18:08,584 --> 00:18:12,284
-came into conflict with an extremist
-group of non-Benders called the Denied.
+00:20:56,215 --> 00:20:57,673
+why aren't you going down
+there?!
 
 241
-00:18:12,499 --> 00:18:14,951
-They've been robbing
-ancient sites -- Your Majesty!
+00:20:57,674 --> 00:20:59,509
+Hey!
 
 242
-00:18:15,449 --> 00:18:17,950
-An urgent message has
-arrived from Republic City.
+00:20:59,510 --> 00:21:03,596
+Go down, come back,
+and then I'm free!
 
 243
-00:18:17,951 --> 00:18:18,951
-How impudent.
+00:21:03,597 --> 00:21:05,431
+That was the deal!
 
 244
-00:18:19,399 --> 00:18:22,596
-Can't you see Fire Lord
-Zuko is -- Chamberlain.
+00:21:05,432 --> 00:21:08,976
+How many times are you gonna
+use me before you let me go?!
 
 245
-00:18:23,219 --> 00:18:24,995
-There's only one person
-who can send a message
+00:21:08,977 --> 00:21:10,353
+Why...
 
 246
-00:18:25,019 --> 00:18:27,059
-urgent enough to interrupt
-the Fire Lord's counsel.
+00:21:22,616 --> 00:21:24,367
+Are you out of your mind?!
 
 247
-00:18:27,769 --> 00:18:28,970
-Is it from the Avatar?
+00:21:24,368 --> 00:21:27,203
+Oh, good. You can hear me.
 
 248
-00:18:28,971 --> 00:18:29,971
-Yes, my lord.
+00:21:27,204 --> 00:21:29,455
+Now get someone else
+for your suicide mission,
 
 249
-00:18:30,070 --> 00:18:30,970
-Read it to me.
+00:21:29,456 --> 00:21:33,794
+- because I'm not going--
+- You blasted us with radiation, you psycho Eden fuck!
 
 250
-00:18:30,971 --> 00:18:31,971
-Yes, my lord.
+00:21:35,712 --> 00:21:37,880
+- What?
+- It's not a normal camera!
 
 251
-00:18:35,319 --> 00:18:35,970
-Um...
+00:21:37,881 --> 00:21:40,007
+You can't see through blood!
 
 252
-00:18:36,337 --> 00:18:37,337
-What are you doing?
+00:21:40,008 --> 00:21:42,553
+So you need x-rays
+to get through!
 
 253
-00:18:37,457 --> 00:18:38,309
-Read it quickly.
+00:21:44,346 --> 00:21:46,557
+- I-I didn't know that.
+- Okay. It's on.
 
 254
-00:18:38,655 --> 00:18:41,103
-Uh, y-y-yes, Grand Chamberlain.
+00:21:47,182 --> 00:21:49,559
+- It-- It should hold.
+- I-I didn't know that.
 
 255
-00:18:42,319 --> 00:18:45,437
-Flameo Hartman, house
-ruling the Fire Nation.
+00:21:57,317 --> 00:21:58,943
+No, wait. Look, I'm sorry.
 
 256
-00:18:45,536 --> 00:18:47,991
-I hope the boring Chamberlain
-you mentioned...
+00:21:58,944 --> 00:22:00,152
+But maybe
+if you had talked to me,
 
 257
-00:18:48,039 --> 00:18:51,698
-...in your letters isn't
-still annoying you.
+00:22:00,153 --> 00:22:01,737
+this wouldn't have happened!
 
 258
-00:18:51,799 --> 00:18:53,990
-Anywho, to cut to the
-chase, I need your help.
+00:22:08,620 --> 00:22:10,371
+Just get the sample.
 
 259
-00:18:53,991 --> 00:18:56,955
-Can you please come immediately?
+00:22:16,253 --> 00:22:18,045
+Drop him.
 
 260
-00:18:57,242 --> 00:19:00,969
-Oh, and don't forget to
-bring some firecracker buns.
+00:22:26,138 --> 00:22:27,763
+You can't send me back.
 
 261
-00:19:03,618 --> 00:19:06,236
-Allow me to present Sokka Cycle.
+00:22:51,413 --> 00:22:53,248
+Have you calmed down yet?
 
 262
-00:19:06,290 --> 00:19:10,424
-Flames launch you into the sky where
-you can drop water bombs on your enemies.
+00:22:55,375 --> 00:22:57,793
+Come on, Convict.
+You can't be too upset.
 
 263
-00:19:10,578 --> 00:19:13,487
-Then skis pop out to
-help you stick the landing.
+00:22:57,794 --> 00:23:00,172
+Kind of fair play
+after what you did.
 
 264
-00:19:13,633 --> 00:19:15,010
-Pretty great, right?
+00:23:02,549 --> 00:23:04,258
+Aw, shit. Are you still alive?
 
 265
-00:19:15,011 --> 00:19:16,011
-Eh, boring.
+00:23:04,259 --> 00:23:05,259
+Fuck off!
 
 266
-00:19:16,126 --> 00:19:18,352
-Why would you need a sled
-when you can just waterbend?
+00:23:05,260 --> 00:23:07,678
+Ah. There you are,
 
 267
-00:19:18,412 --> 00:19:19,819
-Oh, oh, oh, like me, like me!
+00:23:07,679 --> 00:23:09,388
+Alright. Beginning the descent.
 
 268
-00:19:19,866 --> 00:19:21,010
-Whee!
+00:23:16,813 --> 00:23:18,731
+Uh... hey,
 
 269
-00:19:21,259 --> 00:19:24,649
-Keep in mind, there's still plenty
-of folks like me who can't bend.
+00:23:18,732 --> 00:23:21,442
+You, uh-- You got to close
+the porthole shield, man.
 
 270
-00:19:24,674 --> 00:19:27,286
-Why would Avatar Aang
-partner with a non-bender?
+00:23:23,237 --> 00:23:25,112
+Hello?
 
 271
-00:19:27,367 --> 00:19:28,734
-Ugh. Why?
+00:23:25,113 --> 00:23:27,698
+Convict, this is serious.
 
 272
-00:19:28,760 --> 00:19:29,907
-I'll tell you why.
+00:23:27,699 --> 00:23:29,116
+Close the shield.
 
 273
-00:19:29,940 --> 00:19:32,091
-I saved him from the iceberg.
+00:23:29,117 --> 00:23:30,826
+Who is this?
 
 274
-00:19:32,171 --> 00:19:36,062
-My boomerang flew by his side while I
-carried away enemies with my trusty blade.
+00:23:30,827 --> 00:23:32,495
+Where's the other one?
 
 275
-00:19:36,095 --> 00:19:38,532
-I even took down the whole
-Fire Nation airship armada.
+00:23:32,496 --> 00:23:34,038
+The-- The other one?
+You talking about Jack,
 
 276
-00:19:41,105 --> 00:19:44,245
-And on top of all that, I
-was more popular than him.
+00:23:34,039 --> 00:23:35,623
+the guy you irradiated?
 
 277
-00:19:45,172 --> 00:19:46,525
-You're such a liar, Sokka.
+00:23:35,624 --> 00:23:37,625
+Well, Captain's taken him
+to Medical,
 
 278
-00:19:49,821 --> 00:19:50,916
-It's from the Avatar.
+00:23:37,626 --> 00:23:39,335
+so I'm in charge now.
 
 279
-00:19:51,049 --> 00:19:51,579
-Wow!
+00:23:39,336 --> 00:23:43,048
+And my first order
+is close the fucking shield.
 
 280
-00:19:51,604 --> 00:19:52,248
-Really?
+00:23:44,758 --> 00:23:46,092
+Why can't you do it?
 
 281
-00:19:52,262 --> 00:19:52,895
-Cool!
+00:23:46,093 --> 00:23:47,635
+It's not responding.
 
 282
-00:19:53,213 --> 00:19:54,702
-Oh, so now you think I'm cool?
+00:23:47,636 --> 00:23:49,428
+Which is why we have you.
 
 283
-00:19:55,917 --> 00:19:57,650
-All right, metalbenders.
+00:23:49,429 --> 00:23:50,638
+Is it closed?
 
 284
-00:19:58,164 --> 00:20:00,052
-Let's see if any of you tenderfoots
+00:23:50,639 --> 00:23:53,057
+- Yes. Closed.
+- Good.
 
 285
-00:20:00,199 --> 00:20:01,736
-can at least make me use my hands.
+00:23:53,058 --> 00:23:54,892
+Now we're gonna give you
+about 30 minutes
 
 286
-00:20:35,091 --> 00:20:38,498
-I'm still the greatest
-earthbender in the world!
+00:23:54,893 --> 00:23:57,311
+to go get that sample
+before we pull you back up.
 
 287
-00:20:39,857 --> 00:20:41,020
-And I'm bored.
+00:23:57,312 --> 00:23:59,564
+And don't worry. I know
+ramming it sounds scary,
 
 288
-00:20:41,306 --> 00:20:43,642
-M-Master Toph, there's a bird on your head.
+00:23:59,565 --> 00:24:01,774
+but the salvage claw
+will take most of the impact.
 
 289
-00:20:43,789 --> 00:20:44,444
-And?
+00:24:01,775 --> 00:24:03,442
+And those welds
+aren't going anywhere,
 
 290
-00:20:44,539 --> 00:20:46,090
-It looks like it has a message.
+00:24:03,443 --> 00:24:05,611
+'cause Jack
+is good at his job--
 
 291
-00:20:46,243 --> 00:20:46,876
-Read.
+00:24:05,612 --> 00:24:09,657
+Or, well, he--
+Well, he was good at his job.
 
 292
-00:20:47,115 --> 00:20:49,201
-Uh, it's from Avatar Aang.
+00:24:09,658 --> 00:24:11,659
+You didn't think
+it was important to tell me
 
 293
-00:20:49,435 --> 00:20:50,420
-He needs your help.
+00:24:11,660 --> 00:24:13,327
+that your camera
+was a radiation gun?
 
 294
-00:20:50,608 --> 00:20:51,604
-It's the Denied?
+00:24:13,328 --> 00:24:15,496
+That w--
 
 295
-00:20:52,197 --> 00:20:52,818
-Where is he?
+00:24:15,497 --> 00:24:17,373
+That shouldn't have happened
+at all.
 
 296
-00:20:53,259 --> 00:20:54,724
-Mount Bihu.
+00:24:17,374 --> 00:24:19,125
+The-- The camera's wired
+into the black box,
 
 297
-00:21:56,777 --> 00:21:58,209
-No, no, no!
+00:24:19,126 --> 00:24:22,044
+but I-I must have wired it
+into the backup battery.
 
 298
-00:21:58,823 --> 00:21:59,530
-No.
+00:24:22,045 --> 00:24:24,172
+I don't know.
+We-- We were in a rush.
 
 299
-00:22:03,732 --> 00:22:04,999
-I love that hat.
+00:24:24,173 --> 00:24:26,174
+Right.
+Things are somehow faster
 
 300
-00:23:49,753 --> 00:23:50,786
-Sonum?
+00:24:26,175 --> 00:24:27,800
+when I don't know
+what I'm doing.
 
 301
-00:23:56,004 --> 00:23:57,401
-Could that be you?
+00:24:27,801 --> 00:24:29,051
+You know, honestly,
+if I were in charge,
 
 302
-00:25:00,795 --> 00:25:01,815
-Who are you?
+00:24:29,052 --> 00:24:30,553
+you would know more.
 
 303
-00:27:54,753 --> 00:27:55,638
-Aang!.
+00:24:30,554 --> 00:24:32,221
+Might actually get us
+some results.
 
 304
-00:28:23,609 --> 00:28:25,669
-Team avatar to the rescue.
+00:24:32,222 --> 00:24:34,265
+But I'm not.
+I'm just a cog in the machine.
 
 305
-00:28:27,451 --> 00:28:28,304
-Aang.
+00:24:34,266 --> 00:24:37,810
+But, you know,
+this is bigger than us.
 
 306
-00:28:29,285 --> 00:28:30,172
-You made it.
+00:24:37,811 --> 00:24:39,520
+So I've heard.
 
 307
-00:28:30,344 --> 00:28:33,252
-You couldn't wait a day before running off to get yourself killed?
+00:24:39,521 --> 00:24:41,439
+Look, man.
 
 308
-00:28:33,379 --> 00:28:35,139
-I thought you were here to looking for staff.
+00:24:41,440 --> 00:24:44,066
+Can we just agree
+this is important?
 
 309
-00:28:35,769 --> 00:28:36,896
-Who is this guy?
+00:24:44,067 --> 00:24:45,776
+Filament Station
+was a bad loss,
 
 310
-00:28:44,072 --> 00:28:44,991
-It Airbender
+00:24:45,777 --> 00:24:48,779
+but imagine if we
+could actually rebuild it.
 
 311
-00:29:06,399 --> 00:29:08,643
-How did he hold up an entire mountain?
+00:24:48,780 --> 00:24:50,531
+Even you could be a part
+of that.
 
 312
-00:29:08,857 --> 00:29:11,979
-His chi is strong, like
-nothing I've ever felt.
+00:24:50,532 --> 00:24:52,491
+I read your report.
+You surrendered.
 
 313
-00:29:13,549 --> 00:29:18,350
-Hey, Avatar, you think this guy beat
-your record for longest frozen airbender?
+00:24:52,492 --> 00:24:55,870
+So you don't fully buy
+Eden's bullshit.
 
 314
-00:29:18,399 --> 00:29:21,350
-Yeah.
-How long do you think he was in that ice?
+00:24:55,871 --> 00:24:58,539
+All their dogma
+about the last tree.
 
 315
-00:29:21,549 --> 00:29:25,370
-I don't know. His tattoos look ancient.
+00:24:58,540 --> 00:25:00,750
+It's not about the tree.
 
 316
-00:29:26,019 --> 00:29:27,728
-He's been in there a long time.
+00:25:00,751 --> 00:25:02,793
+Alright?
+Look, Eden gave me a tattoo.
 
 317
-00:29:28,108 --> 00:29:29,522
-He smells good for an old guy.
+00:25:02,794 --> 00:25:06,130
+The COI made me burn it off.
 
 318
-00:29:29,622 --> 00:29:30,199
-Ew.
+00:25:06,131 --> 00:25:09,008
+I didn't choose either of them.
 
 319
-00:29:30,258 --> 00:29:32,376
-What? My senses tell me
-this guy is pretty attractive.
+00:25:09,009 --> 00:25:11,260
+I still get a scar.
 
 320
-00:29:32,419 --> 00:29:33,679
--Toph! 
--Someone else confirmed.
+00:25:11,261 --> 00:25:14,764
+Since the Quiet Rapture,
+none of us get a choice.
 
 321
-00:29:33,732 --> 00:29:34,479
-This is serious.
+00:25:14,765 --> 00:25:16,349
+Hey, look at that.
 
 322
-00:29:34,552 --> 00:29:35,988
-What does "attractive" even mean?
+00:25:16,350 --> 00:25:18,226
+There's at least something
+we can agree on.
 
 323
-00:29:36,014 --> 00:29:37,370
-Just give me a straight confirmation.
+00:25:18,227 --> 00:25:19,644
+Be honest with you,
+the Captain's
 
 324
-00:29:37,371 --> 00:29:38,449
-Is he attractive?
+00:25:19,645 --> 00:25:20,853
+had a consolidated
+stick up our ass
 
 325
-00:29:38,529 --> 00:29:39,371
-He's very attractive.
+00:25:20,854 --> 00:25:22,897
+since the Quiet Rapture, but...
 
 326
-00:29:39,529 --> 00:29:39,896
-Huh?
+00:25:22,898 --> 00:25:25,066
+But she cares about her crew.
 
 327
-00:29:41,469 --> 00:29:44,509
-What? He is.
-It's all in the bone structure.
+00:25:25,067 --> 00:25:27,735
+Some more than others,
+but, you know?
 
 328
-00:29:45,022 --> 00:29:46,036
-No.
+00:25:27,736 --> 00:25:29,278
+Yeah, right.
 
 329
-00:29:46,391 --> 00:29:47,180
-No.
+00:25:29,279 --> 00:25:30,738
+Can you at least tell me
 
 330
-00:29:47,670 --> 00:29:48,480
-No!
+00:25:30,739 --> 00:25:32,281
+if this thing is blasting me
+with radi...
 
 331
-00:29:49,340 --> 00:29:50,024
-NO!.
+00:25:32,282 --> 00:25:34,325
+No. The hull's thick enough.
 
 332
-00:29:50,049 --> 00:29:51,847
-Whoa, whoa, whoa. Hey.
+00:25:34,326 --> 00:25:36,118
+The blood
+would soak it up anyway.
 
 333
-00:29:51,900 --> 00:29:53,720
-Easy. You're safe.
+00:25:36,119 --> 00:25:38,788
+This actually
+is bigger than us, man.
 
 334
-00:29:56,579 --> 00:29:57,319
-Earthbender!
+00:25:38,789 --> 00:25:40,540
+Because if that's a skeleton
+down there,
 
 335
-00:29:57,391 --> 00:29:58,926
-No, no, no. We're all friends here.
+00:25:40,541 --> 00:25:42,750
+that means that this ocean
+supported life.
 
 336
-00:29:59,292 --> 00:30:00,391
-It's okay.
+00:25:42,751 --> 00:25:45,044
+Things could be alive
+down there right now.
 
 337
-00:30:00,539 --> 00:30:03,091
-Someone woke up on the
-wrong side of the mountain.
+00:25:45,045 --> 00:25:47,380
+Food, air. We need this.
 
 338
-00:30:03,909 --> 00:30:05,461
-Where is she?
+00:25:47,381 --> 00:25:50,424
+Not just the COI--
+all of us, We need this.
 
 339
-00:30:06,609 --> 00:30:08,410
-Where is Avatar Sonum?
+00:25:50,425 --> 00:25:52,343
+It's the first shred
+of real hope
 
 340
-00:30:08,709 --> 00:30:09,645
-You knew Sonum?
+00:25:52,344 --> 00:25:53,845
+that we've had
+in twenty fucking-- - Shut the fuck up!
 
 341
-00:30:11,309 --> 00:30:12,410
-Who are you?
+00:25:53,846 --> 00:25:54,846
+Hey. Excuse me?
 
 342
-00:30:13,609 --> 00:30:17,660
-I don't know how to explain it, but
-you've been asleep for a long time.
+00:25:56,807 --> 00:25:58,474
+Hey, fuck you, man.
 
 343
-00:30:19,034 --> 00:30:20,410
-I'm the Avatar now.
+00:25:58,475 --> 00:26:01,185
+I don't even know why I try
+talking to you Eden--
 
 344
-00:30:20,959 --> 00:30:21,573
-I'm Aang.
+00:26:01,186 --> 00:26:05,815
+Go die down there with the rest
+of 'em for all I care.
 
 345
-00:30:23,192 --> 00:30:27,568
-If you're the Avatar, then Sonum.
+00:26:05,816 --> 00:26:07,733
+Plenty more
+where you came from!
 
 346
-00:30:30,729 --> 00:30:34,769
-Well, Sonum might be
-long gone, but on the bright side,
+00:28:10,148 --> 00:28:11,524
+"Cross..."
 
 347
-00:30:34,896 --> 00:30:37,076
-you woke
-up at the perfect time.
+00:28:57,029 --> 00:28:59,323
+This is not an expedition.
 
 348
-00:30:37,169 --> 00:30:39,629
-Everyone will be amazed
-to see another Airbender.
+00:29:01,575 --> 00:29:03,243
+It's an execution.
 
 349
-00:30:39,822 --> 00:30:42,430
-Aang's not the last one anymore.
+00:29:04,870 --> 00:29:07,038
+When they put you in here,
 
 350
-00:30:43,329 --> 00:30:45,271
-What do you mean, "last"?
+00:29:07,039 --> 00:29:10,124
+they don't want you to return.
 
 351
-00:30:45,885 --> 00:30:46,151
-Oh.
+00:29:10,125 --> 00:29:15,129
+And even if you do and even
+if they keep their promises,
 
 352
-00:30:49,949 --> 00:30:51,450
-The Air Nomads.
+00:29:15,130 --> 00:29:19,133
+what freedom waits for you?
 
 353
-00:30:52,149 --> 00:30:53,214
-They've been wiped out.
+00:29:19,134 --> 00:29:24,639
+A few dying ships
+in a sea of dead stars.
 
 354
-00:30:55,149 --> 00:30:55,970
-There's only me.
+00:29:24,640 --> 00:29:30,603
+If there is still hope,
+it lies beyond the veil.
 
 355
-00:30:58,296 --> 00:30:58,710
-No.
+00:29:30,604 --> 00:29:36,652
+Hope in this void is as
+illusionary as the starlight.
 
 356
-00:31:00,199 --> 00:31:02,609
-Sonum Staff, do you have it?
+00:29:37,694 --> 00:29:41,781
+I will choose
+to breathe my last
 
 357
-00:31:03,649 --> 00:31:04,816
-It's our only hope now.
+00:29:41,782 --> 00:29:46,078
+here,
+at the bottom of an ocean...
 
 358
-00:31:05,682 --> 00:31:06,470
-What do you mean?
+00:29:47,913 --> 00:29:50,081
+unseen...
 
 359
-00:31:07,069 --> 00:31:08,470
-I thought it was a weapon.
+00:29:50,082 --> 00:29:51,875
+unheard...
 
 360
-00:31:09,869 --> 00:31:11,470
-The staff is no weapon.
+00:29:53,710 --> 00:29:55,253
+uncontrolled.
 
 361
-00:31:12,269 --> 00:31:13,068
-It is a gift.
+00:29:58,924 --> 00:30:01,050
+They will get their execution.
 
 362
-00:31:15,977 --> 00:31:20,477
-With it, Sonum was able to channel
-the vast power of the spirit world.
+00:30:04,096 --> 00:30:06,055
+I will get my freedom.
 
 363
-00:31:21,569 --> 00:31:24,566
-It was this power that
-allowed Jirana to flourish.
+00:30:09,518 --> 00:30:11,269
+Sorry, brother.
 
 364
-00:31:25,656 --> 00:31:29,490
-The greatest city in the
-world, an Air Nomad utopia,
+00:30:14,523 --> 00:30:15,899
+But I want to live.
 
 365
-00:31:30,064 --> 00:31:33,655
-where Sonum presided
-over a golden age of balance,
+00:30:56,231 --> 00:30:57,732
+It was right here.
 
 366
-00:31:34,155 --> 00:31:37,490
-and where I devoted
-my life to serving her.
+00:31:20,464 --> 00:31:21,631
+Where'd you go?
 
 367
-00:31:37,865 --> 00:31:41,793
-In return, she raised me
-up and used her staff to give me,
+00:32:43,672 --> 00:32:44,881
+Hello?
 
 368
-00:31:42,312 --> 00:31:46,510
-a lowly non-Bender,
-the power to bend the air.
+00:32:58,478 --> 00:33:00,855
+He's definitely moving away...
+Did he get the sample?
 
 369
-00:31:47,609 --> 00:31:50,510
-I was the first, but I
-would not be the last.
+00:33:00,856 --> 00:33:02,982
+Hello?
 
 370
-00:31:51,419 --> 00:31:53,804
-She filled the skies with
-Airbenders,
+00:33:02,983 --> 00:33:04,817
+Can you hear me?
 
 371
-00:31:54,311 --> 00:31:57,948
-and we flew by her side, spreading
-peace across the world.
+00:33:04,818 --> 00:33:06,652
+Convict. Yes.
 
 372
-00:32:06,959 --> 00:32:08,807
-Aang, are you okay?
+00:33:06,653 --> 00:33:09,655
+We can hear you, barely.
+What's going on?
 
 373
-00:32:10,779 --> 00:32:13,530
-Sonum used the staff to
-give people Airbending.
+00:33:09,656 --> 00:33:11,699
+Why are you moving away
+from the location?
 
 374
-00:32:14,479 --> 00:32:16,530
-If we found it,
+00:33:11,700 --> 00:33:13,159
+Uh...
 
 375
-00:32:17,479 --> 00:32:19,700
-I could bring Airbending back to the world.
+00:33:13,160 --> 00:33:16,370
+Uh, well,
+this is gonna sound made up.
 
 376
-00:32:20,935 --> 00:32:21,841
-This is incredible.
+00:33:16,371 --> 00:33:18,080
+The skeleton's gone.
 
 377
-00:32:21,895 --> 00:32:24,625
-There haven't been Airbenders
-for over a hundred years.
+00:33:18,081 --> 00:33:19,624
+Say again. I can't hear you.
 
 378
-00:32:25,325 --> 00:32:28,292
-This is everything you ever wanted, Aang.
+00:33:19,625 --> 00:33:22,920
+The skeleton is gone!
 
 379
-00:32:29,799 --> 00:32:33,550
-We could heal the greatest atrocity
-my nation committed in the war.
+00:33:25,297 --> 00:33:26,464
+How can it be gone?
 
 380
-00:32:34,749 --> 00:32:37,550
-This could be the final
-step to rebuilding the world.
+00:33:26,465 --> 00:33:28,174
+Well, I don't know.
 
 381
-00:32:37,949 --> 00:32:39,550
-Not if the Denied get there first.
+00:33:28,175 --> 00:33:30,051
+I'm at the coordinates.
 
 382
-00:32:39,949 --> 00:32:40,736
-They have the map.
+00:33:30,052 --> 00:33:32,387
+I took a picture.
+It's just a big hill.
 
 383
-00:32:42,249 --> 00:32:43,123
-Who are the Denied?
+00:33:33,472 --> 00:33:35,849
+I don't know.
+Maybe it got buried.
 
 384
-00:32:43,657 --> 00:32:45,550
-A group of violent non-Benders.
+00:33:37,684 --> 00:33:39,227
+Standby.
 
 385
-00:32:45,949 --> 00:32:48,443
-They...they must be after the staff
+00:34:01,834 --> 00:34:05,087
+...pick up from nearby... 450, 250...
 
 386
-00:32:48,590 --> 00:32:49,937
-to give themselves Airbending.
+00:34:06,672 --> 00:34:08,673
+Uh, one second.
 
 387
-00:32:50,419 --> 00:32:51,619
-Then there's no time to waste.
+00:34:13,720 --> 00:34:17,056
+No... No. It's just more hill.
 
 388
-00:32:52,169 --> 00:32:53,570
-There's only one place it could be.
+00:34:17,057 --> 00:34:18,725
+- Say again?
+- It's...
 
 389
-00:32:54,172 --> 00:32:54,925
-Ready your bison.
+00:34:26,859 --> 00:34:28,818
+How about now?
 
 390
-00:32:55,278 --> 00:32:57,570
-We'll need to travel
-across the endless ocean.
+00:34:28,819 --> 00:34:30,736
+It's just more hill.
 
 391
-00:32:58,194 --> 00:32:59,570
-On the other side of the world?
+00:34:30,737 --> 00:34:33,030
+- No skeleton.
+- Yes. No, I can hear you.
 
 392
-00:33:00,071 --> 00:33:00,980
-But there's nothing out there.
+00:34:33,031 --> 00:34:35,449
+Did you say
+that there was a hill?
 
 393
-00:33:01,434 --> 00:33:04,570
-There's an island.
-The journey will not be easy,
+00:34:35,450 --> 00:34:37,952
+Yes. I am on a hill.
 
 394
-00:33:04,919 --> 00:33:06,590
-but we can make it.
+00:34:37,953 --> 00:34:40,246
+There is no skeleton.
 
 395
-00:33:07,439 --> 00:33:08,590
-Then let's get going.
+00:34:42,291 --> 00:34:43,875
+It likely got moved
+in the quake.
 
 396
-00:33:09,864 --> 00:33:12,590
-The skies are no place for a water child.
+00:34:43,876 --> 00:34:45,168
+Probably what we're
+picking up ahead of you,
 
 397
-00:33:12,783 --> 00:33:14,110
-Water child?
+00:34:45,169 --> 00:34:46,670
+maybe... meters.
 
 398
-00:33:14,897 --> 00:33:18,523
-Um, I know you just
-woke up after thousands of years,
+00:34:48,630 --> 00:34:50,006
+Yeah.
 
 399
-00:33:18,603 --> 00:33:20,169
-but we do
-these things together.
+00:34:50,007 --> 00:34:52,634
+Roger.
 
 400
-00:33:20,591 --> 00:33:22,698
-Trust me, we're stronger this way.
+00:34:58,682 --> 00:35:00,099
+Why is it so hot in here?
 
 401
-00:33:22,989 --> 00:33:24,590
-Welcome to Team Avatar.
+00:35:00,100 --> 00:35:01,767
+Just stay focused.
+Get the sample.
 
 402
-00:33:25,239 --> 00:33:26,459
-What's your name?
+00:35:01,768 --> 00:35:03,853
+- Can I not ask a question?
+- No.
 
 403
-00:33:27,139 --> 00:33:29,886
-Taga. My name is Taga.
+00:35:03,854 --> 00:35:06,273
+Stay focused
+and get the sample.
 
 404
-00:33:40,012 --> 00:33:42,590
-Just think of it as a big metal air bison.
+00:35:08,066 --> 00:35:09,276
+Sure.
 
 405
-00:33:50,591 --> 00:33:54,020
-We will travel ancient
-paths through the sky,
+00:35:36,303 --> 00:35:37,763
+I...
 
 406
-00:33:54,889 --> 00:34:01,721
-ones that our people learned by following the great
-air bison herds that long ago taught us Airbending.
+00:35:40,933 --> 00:35:42,976
+I didn't mean
+for that to happen.
 
 407
-00:34:02,114 --> 00:34:07,610
-Air currents known only to us,
-encircling the great sphere of existence,
+00:35:45,562 --> 00:35:47,813
+I was just...
 
 408
-00:34:08,311 --> 00:34:14,609
-allowing us to travel where we wish,
-giving us our name, the Air Nomads.
+00:35:47,814 --> 00:35:49,358
+I was scared.
 
 409
-00:34:44,780 --> 00:34:46,230
-What's he doing?
+00:35:54,363 --> 00:35:57,783
+- The radiation, I mean.
+- I know what you mean.
 
 410
-00:34:46,880 --> 00:34:48,629
-He's really feeling that air.
+00:36:01,245 --> 00:36:04,080
+- How bad was it?
+- Doesn't matter.
 
 411
-00:34:49,730 --> 00:34:51,649
-He's navigating by instinct.
+00:36:04,081 --> 00:36:06,874
+Dwelling on it
+doesn't help the cause.
 
 412
-00:34:51,825 --> 00:34:53,991
-What if his instincts are just wrong?
+00:36:06,875 --> 00:36:09,877
+- Yeah, and what cause is that?
+- Survival.
 
 413
-00:34:54,218 --> 00:34:56,649
-Who needs instincts when
-you've got muscles like that?
+00:36:09,878 --> 00:36:12,171
+The only cause we have left.
 
 414
-00:34:56,693 --> 00:34:59,113
-Or what if his brain is
-messed up from being frozen?
+00:36:12,172 --> 00:36:13,923
+Yeah.
 
 415
-00:34:59,473 --> 00:35:00,173
-Like me?
+00:36:13,924 --> 00:36:16,718
+Tell that to the other poor
+bastards you left down here.
 
 416
-00:35:00,360 --> 00:35:02,486
-Uh, no, no!
+00:36:19,221 --> 00:36:21,180
+You are the first one
+we've sent down.
 
 417
-00:35:02,553 --> 00:35:04,650
-He was frozen for 5,000 years, okay?
+00:36:21,181 --> 00:36:24,517
+What's the point of lying to me, hmm?
 
 418
-00:35:04,750 --> 00:35:06,983
-You were frozen for, what, 100?
+00:36:24,518 --> 00:36:26,519
+What's the point of any of this?
 
 419
-00:35:07,229 --> 00:35:07,757
-Okay, that's nothing.
+00:36:26,520 --> 00:36:29,146
+What does it matter if you find
+a big fucking skeleton?!
 
 420
-00:35:07,825 --> 00:35:11,143
-Your brain is...fresh.
+00:36:29,147 --> 00:36:31,732
+This is all just useless
+bullshit to get me killed!
 
 421
-00:35:11,856 --> 00:35:14,670
-Maybe he is a little
-old-fashioned, but look at him.
+00:36:31,733 --> 00:36:34,110
+Do you think
+that I enjoy this?!
 
 422
-00:35:15,120 --> 00:35:17,009
-He's so in tune with his
-element,
+00:36:34,111 --> 00:36:35,487
+Do you?!
 
 423
-00:35:17,056 --> 00:35:21,670
- he can travel across the entire ocean
-with no map, no instruments.
+00:36:36,989 --> 00:36:41,534
+There aren't enough of us left
+to be throwing lives away!
 
 424
-00:35:24,671 --> 00:35:26,670
-There's so much I can learn from him.
+00:36:41,535 --> 00:36:46,122
+But there is too much at stake
+not to take calculated risks!
 
 425
-00:35:38,433 --> 00:35:42,026
-I'd give anything to be able
-to see my air bison again.
+00:36:46,123 --> 00:36:47,957
+Eden doesn't understand that!
 
 426
-00:35:45,344 --> 00:35:48,980
-And now, to see only one remains.
+00:36:47,958 --> 00:36:49,667
+You don't understand that!
 
 427
-00:35:51,280 --> 00:35:51,693
-Aang.
+00:36:49,668 --> 00:36:51,461
+What's to understand?!
 
 428
-00:35:53,190 --> 00:35:56,710
-You said our people were
-wiped out, yet you survived.
+00:36:53,797 --> 00:36:56,424
+It's all over!
+That's what Eden understands.
 
 429
-00:35:57,540 --> 00:35:57,953
-How?
+00:36:58,927 --> 00:37:00,428
+At least
+they're not deluding themselves
 
 430
-00:36:00,610 --> 00:36:02,710
-I had just found out I was the Avatar,
+00:37:00,429 --> 00:37:03,264
+with some big future
+for humanity
 
 431
-00:36:04,471 --> 00:36:07,710
-but the responsibility -- it was too much.
+00:37:03,265 --> 00:37:05,349
+if we all just believe
+hard enough.
 
 432
-00:36:09,385 --> 00:36:10,710
-So I ran away.
+00:37:09,396 --> 00:37:11,105
+It's game over and you know it.
 
 433
-00:36:12,010 --> 00:36:15,183
-And while I was gone,
-the Fire Nation attacked.
+00:37:15,194 --> 00:37:17,361
+Is that why you destroyed
+Filament Station?
 
 434
-00:36:17,763 --> 00:36:18,862
-They were looking for me.
+00:37:17,362 --> 00:37:19,739
+That wasn't...
 
 435
-00:36:21,622 --> 00:36:24,730
-If -- If I'd just been there...
+00:37:22,576 --> 00:37:25,453
+That wasn't supposed to happen.
 
 436
-00:36:25,230 --> 00:36:26,405
-Sonum would say,
+00:37:31,835 --> 00:37:33,920
+That wasn't supposed to happen.
 
 437
-00:36:26,930 --> 00:36:29,730
-Air nomads are formed from the mist.
+00:37:38,050 --> 00:37:39,425
+That...
 
 438
-00:36:30,230 --> 00:36:32,730
-We walk the world for a moment in time.
+00:37:44,681 --> 00:37:46,433
+Oxygen.
 
 439
-00:36:33,130 --> 00:36:36,425
-Then we return
-to the eternal wind.
+00:38:11,124 --> 00:38:13,084
+That's not right.
 
 440
-00:36:37,950 --> 00:36:39,598
-Monkiatsu taught me that.
+00:38:13,085 --> 00:38:15,002
+What?
 
 441
-00:36:40,650 --> 00:36:41,859
-We carry the same weight,
+00:38:15,003 --> 00:38:16,963
+This.
 
 442
-00:36:42,650 --> 00:36:45,750
-a grief no one else could
-possibly comprehend.
+00:38:18,507 --> 00:38:20,049
+I can't see
+what you're talking about.
 
 443
-00:36:45,950 --> 00:36:48,408
-But you and I can heal the past.
+00:38:20,050 --> 00:38:21,801
+The-- The skeleton.
 
 444
-00:36:49,128 --> 00:36:54,750
-Let me show you how powerful our element
-can be when airbenders work together.
+00:38:21,802 --> 00:38:23,594
+It moved.
 
 445
-00:36:58,018 --> 00:36:59,016
-Aah!
+00:38:23,595 --> 00:38:26,514
+I told you already.
+The ocean floor isn't static.
 
 446
-00:36:59,041 --> 00:37:00,247
-What are you doing?!
+00:38:26,515 --> 00:38:28,099
+Things shift.
+It's just what happens.
 
 447
-00:37:00,327 --> 00:37:01,229
-Aah!
+00:38:28,100 --> 00:38:29,642
+- You have eyes on it?
+- Yeah.
 
 448
-00:37:01,254 --> 00:37:03,356
-This is how Sonum taught me!
+00:38:29,643 --> 00:38:31,185
+I'm-- I'm looking at it
+right now.
 
 449
-00:37:03,489 --> 00:37:05,770
-Feel the energy that tethers us.
+00:38:31,186 --> 00:38:32,813
+But I'm telling you...
 
 450
-00:37:11,245 --> 00:37:15,085
-The bond between us -- can you feel it?
-Use it!
+00:38:34,064 --> 00:38:36,692
+it-- it looks like something--
 
 451
-00:37:15,505 --> 00:37:17,080
-This is amazing!
+00:38:38,110 --> 00:38:39,819
+I don't think gas bubbles
+did this.
 
 452
-00:37:22,182 --> 00:37:23,483
-Whoo-hoo!
+00:38:39,820 --> 00:38:41,153
+But you see the skeleton?
 
 453
-00:37:23,596 --> 00:37:24,817
-Oh, yeah!
+00:38:41,154 --> 00:38:42,613
+Yes, I see the skeleton.
 
 454
-00:37:24,917 --> 00:37:26,104
-Human boomerang!
+00:38:42,614 --> 00:38:44,782
+But I'm telling you,
+something's wrong.
 
 455
-00:37:26,298 --> 00:37:27,551
-He's actually flying.
+00:38:44,783 --> 00:38:46,284
+It-- It's just the head.
 
 456
-00:37:27,937 --> 00:37:28,631
-So are we.
+00:38:46,285 --> 00:38:48,536
+Well, the sooner
+you get a sample,
 
 457
-00:37:28,877 --> 00:37:30,236
-Whoa! That's my best friend!
+00:38:48,537 --> 00:38:50,371
+the sooner
+you get to come back,
 
 458
-00:37:30,261 --> 00:37:31,283
-That's my best friend!
+00:38:50,372 --> 00:38:53,083
+so stop wasting time gawking
+at it and just get it.
 
 459
-00:37:32,550 --> 00:37:34,136
-No, you throw me!
+00:38:55,419 --> 00:38:58,171
+- So I get this and I'm done?
+- For now.
 
 460
-00:38:01,992 --> 00:38:04,584
-I had no idea this was possible!
+00:38:58,172 --> 00:39:00,965
+Obviously, we'll need more
+than just a single sample,
 
 461
-00:38:04,811 --> 00:38:06,434
-This is only the beginning.
+00:39:00,966 --> 00:39:02,843
+but it will take time
+to study it.
 
 462
-00:38:14,230 --> 00:38:15,850
-I can't believe it.
+00:39:04,553 --> 00:39:06,554
+You're not just gonna kill me
+as soon as I get up there?
 
 463
-00:38:16,200 --> 00:38:17,850
-Airbenders will fill the sky again.
+00:39:06,555 --> 00:39:08,432
+Why would we k--
 
 464
-00:38:18,550 --> 00:38:20,850
-We have been given a great gift --
+00:39:10,100 --> 00:39:12,018
+We need your help,
 
 465
-00:38:21,350 --> 00:38:22,850
-the chance to redeem ourselves.
+00:39:12,019 --> 00:39:15,021
+and you're earning your place
+in the Consolidation.
 
 466
-00:38:23,800 --> 00:38:26,468
-You were destined to find
-me on that mountain, Aang.
+00:39:15,022 --> 00:39:17,106
+That's all.
 
 467
-00:38:28,650 --> 00:38:29,974
-How did you end up there?
+00:39:23,780 --> 00:39:26,533
+I'm sorry about the radiation.
 
 468
-00:38:34,163 --> 00:38:36,850
-The earthbenders had attacked Tirana.
+00:39:27,576 --> 00:39:29,036
+I didn't know.
 
 469
-00:38:37,150 --> 00:38:39,870
-Sonum and I fought
-fearlessly, side by side.
+00:39:30,996 --> 00:39:33,290
+You can apologize
+to my tumors.
 
 470
-00:38:40,520 --> 00:38:41,870
-We drove them back to Mount Bahu,
+00:39:34,958 --> 00:39:36,334
+Just get the sample.
 
 471
-00:38:42,820 --> 00:38:45,870
-and that's the last I remember.
+00:39:40,047 --> 00:39:41,339
+Fair enough.
 
 472
-00:38:46,490 --> 00:38:48,116
-She must have saved your life.
+00:39:48,597 --> 00:39:50,556
+How hard
+do I need to hit this thing?
 
 473
-00:38:48,820 --> 00:38:51,870
-Only an Avatar could
-have put you in that sphere.
+00:39:50,557 --> 00:39:52,808
+I-I don't know.
 
 474
-00:38:55,020 --> 00:38:57,651
-Aang, can I ask you something?
+00:39:52,809 --> 00:39:54,977
+This isn't exactly
+standard procedure.
 
 475
-00:38:58,224 --> 00:38:58,797
-Of course.
+00:39:54,978 --> 00:39:56,396
+Just ram it.
 
 476
-00:38:59,740 --> 00:39:02,890
-If the Fire Nation
-destroyed the Air Nomads,
+00:39:58,065 --> 00:39:59,315
+Just ram it?
 
 477
-00:39:03,384 --> 00:39:06,890
-how can you suffer the
-presence of the Fire Lord?
+00:39:59,316 --> 00:40:01,943
+Just ram it. Get the job done.
 
 478
-00:39:09,240 --> 00:39:11,033
-Zuko is a friend and an ally.
+00:40:01,944 --> 00:40:03,569
+The ship can handle it,
+I promise.
 
 479
-00:39:11,790 --> 00:39:14,470
-He turned against his own
-father to help me end the war.
+00:40:03,570 --> 00:40:05,988
+- Are you sure?
+- I'm sure.
 
 480
-00:39:15,263 --> 00:39:17,557
-Yet he wears the crown himself now.
+00:40:05,989 --> 00:40:08,533
+And I need you to trust me.
 
 481
-00:39:18,560 --> 00:39:21,910
-Fire, by its nature, burns, Aang.
+00:40:08,534 --> 00:40:10,117
+Ram the ship.
 
 482
-00:39:22,260 --> 00:39:23,910
-Our kind have always suffered
+00:40:10,118 --> 00:40:11,494
+Alright. Okay, okay.
 
 483
-00:39:24,010 --> 00:39:25,843
-at the hands of the other elements.
+00:40:11,495 --> 00:40:13,622
+Alright, yeah.
+Just ram it, just ram it.
 
 484
-00:39:27,210 --> 00:39:28,910
-That's why we built Republic City --
+00:40:14,790 --> 00:40:16,791
+Just ram it.
 
 485
-00:39:29,710 --> 00:39:31,910
-to show the world that
-if we listen to each other,
+00:40:16,792 --> 00:40:19,210
+- And then I'm free?
+- Then you come back up.
 
 486
-00:39:32,310 --> 00:39:34,809
-we can all live together in peace.
+00:40:23,924 --> 00:40:25,383
+And then I'm free.
 
 487
-00:39:36,185 --> 00:39:40,045
-And once we bring back
-airbenders, it'll be complete.
+00:41:05,090 --> 00:41:06,633
+Uh...
 
 488
-00:39:43,730 --> 00:39:45,340
-When everyone stuck to their own,
+00:41:08,677 --> 00:41:10,386
+I rammed it.
 
 489
-00:39:45,880 --> 00:39:47,930
-the whole world was nearly torn apart.
+00:41:10,387 --> 00:41:11,929
+Did you get it?
 
 490
-00:39:49,030 --> 00:39:52,930
-And besides, Katara, Sokka, Zuko, Toph,
+00:41:11,930 --> 00:41:13,514
+I think I got it. One second.
 
 491
-00:39:53,480 --> 00:39:54,930
-they're my family now.
+00:41:28,947 --> 00:41:30,448
+Uh...
 
 492
-00:39:56,430 --> 00:39:58,950
-I want to live in a world
-where we can all be together.
+00:41:30,449 --> 00:41:32,242
+Yeah, I'm looking at, um...
 
 493
-00:40:00,850 --> 00:40:03,528
-You remind me so much of Sonum.
+00:41:33,410 --> 00:41:36,787
+I mean,
+what might be a hole in the jaw.
 
 494
-00:40:08,272 --> 00:40:08,950
-It's the Avatar.
+00:41:36,788 --> 00:41:39,790
+- I think I got it.
+- Good. Alright.
 
 495
-00:40:09,625 --> 00:40:11,554
-And this time, he's got
-his friends with them.
+00:41:39,791 --> 00:41:41,751
+Hopefully, it can hold on
+to the sample during the ascent
 
 496
-00:40:12,214 --> 00:40:13,221
-That's the Fire Lord's airship.
+00:41:41,752 --> 00:41:44,045
+or else we're gonna have
+to send you right back down.
 
 497
-00:40:13,601 --> 00:40:14,661
-How'd they get ahead of us?
+00:41:44,046 --> 00:41:45,671
+Is that it?
 
 498
-00:40:14,928 --> 00:40:15,950
-They don't even have the map.
+00:41:45,672 --> 00:41:47,298
+With all the buildup,
 
 499
-00:40:16,223 --> 00:40:18,649
-We can't risk him
-getting to the staff first.
+00:41:47,299 --> 00:41:49,342
+I thought there might be
+something a bit more calamitous.
 
 500
-00:40:18,956 --> 00:40:19,616
-Kill him.
+00:41:49,343 --> 00:41:51,802
+Our goal is to hopefully avoid
+something more calamitous.
 
 501
-00:40:19,796 --> 00:40:20,970
-But he spared our lives.
+00:41:51,803 --> 00:41:53,721
+That's what keeps us all alive.
 
 502
-00:40:21,995 --> 00:40:24,970
-And how many Countless were killed in
-the hundred years waiting for his return?
+00:41:53,722 --> 00:41:55,556
+Now hold on to something.
+We're beginning the ascent.
 
 503
-00:40:25,070 --> 00:40:27,839
-Where was he when
-your family was wiped out?
+00:41:55,557 --> 00:41:58,309
+Hey, hey.
 
 504
-00:40:28,119 --> 00:40:32,332
-If we want anything to change, we
-need what the benders have -- power.
+00:41:58,310 --> 00:42:00,562
+Hey!
 
 505
-00:40:40,762 --> 00:40:41,573
-Fire!
+00:42:03,774 --> 00:42:05,942
+Uh, there was something else.
 
 506
-00:40:48,376 --> 00:40:49,156
-It's the Denied.
+00:42:05,943 --> 00:42:07,652
+- S-Say again?
+- There was something else!
 
 507
-00:40:51,636 --> 00:40:53,867
-Uh, we are definitely under attack.
+00:42:07,653 --> 00:42:09,403
+- It was looking right at me!
+- It's something alive?
 
 508
-00:40:55,753 --> 00:40:57,048
-Turn up your spreads.
+00:42:09,404 --> 00:42:11,197
+Are you-- Are you sure?
+Can you confirm?
 
 509
-00:41:10,325 --> 00:41:11,631
-Is he crushing the ship?
+00:42:16,453 --> 00:42:18,329
+W-What just happened?
 
 510
-00:41:14,011 --> 00:41:14,424
-Taga?
+00:42:18,330 --> 00:42:20,289
+Something's got me!
 
 511
-00:41:15,936 --> 00:41:16,809
-Taga, stop!
+00:42:20,290 --> 00:42:22,583
+We're getting pulled in!
+I need to cut the line!
 
 512
-00:41:42,499 --> 00:41:43,439
-We're here.
+00:42:22,584 --> 00:42:24,836
+No, no, no!
+We need that sample!
 
 513
-00:41:45,865 --> 00:41:47,062
-The Immortal Storm.
+00:42:24,837 --> 00:42:26,838
+It's not worth losing
+the whole fucking ship!
 
 514
-00:41:48,189 --> 00:41:48,716
-Oh, no.
+00:42:26,839 --> 00:42:28,298
+Convict, what the fuck
+is going on?
 
 515
-00:41:54,817 --> 00:41:56,617
-There has to be another way around.
+00:42:34,179 --> 00:42:35,805
+I can still see them.
 
 516
-00:41:56,837 --> 00:41:59,431
-No. Together, you and I
-can clear a path for the ship.
+00:42:38,934 --> 00:42:41,520
+Stop saying they're gone.
+We can all see them.
 
 517
-00:41:59,491 --> 00:42:01,037
-But we have to go now.
+00:42:42,855 --> 00:42:47,191
+My son,
+those stars are already dead.
 
 518
-00:42:01,989 --> 00:42:03,886
-Aang, trust me.
+00:42:51,280 --> 00:42:53,614
+Mere ghost light,
 
 519
-00:42:07,919 --> 00:42:09,746
-Uh, maybe now's a good time to turn back.
+00:42:53,615 --> 00:42:55,742
+growing dimmer by the day.
 
 520
-00:42:09,957 --> 00:42:11,799
-I don't think that's an option anymore.
+00:43:45,334 --> 00:43:46,460
+Hello?
 
 521
-00:42:12,042 --> 00:42:13,504
-Where are they going?
+00:46:18,529 --> 00:46:20,280
+I had water this whole time?
 
 522
-00:42:22,063 --> 00:42:24,363
-The engine's out.
-We're losing air pressure.
+00:46:49,977 --> 00:46:51,853
+Okay.
 
 523
-00:42:30,539 --> 00:42:32,132
-Katara, come with me.
+00:47:29,183 --> 00:47:30,684
+Aw, fuck that!
 
 524
-00:42:32,172 --> 00:42:33,005
-What about me?
+00:47:49,369 --> 00:47:51,621
+Stupid piece of shit.
 
 525
-00:42:33,045 --> 00:42:34,238
-Take the wheel.
+00:47:51,622 --> 00:47:53,331
+You just had to chuck
+the whole...
 
 526
-00:42:34,265 --> 00:42:36,344
-What? I've only ever
-crashed Fire Nation airships.
+00:48:19,107 --> 00:48:21,777
+Fuck that.
 
 527
-00:42:37,982 --> 00:42:39,760
-Okay, let's see. Here's our rudder.
+00:49:07,865 --> 00:49:10,116
+Fuck me.
 
 528
-00:42:39,785 --> 00:42:41,565
-This is the elevator. There's our ballast.
+00:49:28,844 --> 00:49:31,680
+Okay. What do I do?
 
 529
-00:42:41,625 --> 00:42:44,425
-And there's the giant tornado
-that's going to kill us all.
+00:49:35,642 --> 00:49:37,978
+Cockpit voice recorder.
 
 530
-00:42:47,410 --> 00:42:48,810
-Follow my lead.
+00:49:39,730 --> 00:49:42,982
+All that to find
+a fucking black box.
 
 531
-00:43:00,191 --> 00:43:01,271
-Work with me.
+00:49:42,983 --> 00:49:44,984
+Damn it!
 
 532
-00:43:01,394 --> 00:43:02,717
-Just like I showed you.
+00:49:47,029 --> 00:49:49,072
+Of all the fucking things...
 
 533
-00:43:03,204 --> 00:43:03,970
-We can heart it.
+00:49:51,533 --> 00:49:54,952
+I swear, if I have to read
+one of those fucking manuals,
 
 534
-00:43:14,604 --> 00:43:17,720
-Yes! That's it, Aang. Keep going.
+00:49:54,953 --> 00:49:57,206
+I'm gonna lose--
 
 535
-00:43:29,835 --> 00:43:30,524
-Got it.
+00:51:02,229 --> 00:51:03,730
+Of course it was.
 
 536
-00:43:34,122 --> 00:43:36,162
-Zuko! Zuko!
+00:51:34,511 --> 00:51:36,221
+Ah!
 
 537
-00:43:36,229 --> 00:43:39,770
-Aang and Taga are destroying
-tornadoes, but there's too many!
+00:51:42,311 --> 00:51:44,313
+Okay.
 
 538
-00:43:39,810 --> 00:43:40,970
-And they're everywhere!
+00:51:47,649 --> 00:51:50,485
+Okay.
 
 539
-00:43:40,971 --> 00:43:42,970
-Just steer the ship. Don't lose Aang.
+00:52:03,582 --> 00:52:06,250
+Eh, almost worked.
 
 540
-00:43:42,971 --> 00:43:46,766
-It's not that easy, especially
-when everything is sideways.
+00:52:36,073 --> 00:52:43,037
+Hull breach. Hull breach.
 
 541
-00:43:46,793 --> 00:43:48,108
-Okay, left!
+00:52:43,038 --> 00:52:46,332
+Hull breach. Hull breach.
 
 542
-00:43:57,634 --> 00:43:58,709
-I did it!
+00:52:46,333 --> 00:52:50,294
+Hull breach. Hull breach.
 
 543
-00:43:59,413 --> 00:44:00,257
-Right!
+00:52:50,295 --> 00:52:56,717
+Hull breach. Hull breach.
 
 544
-00:44:08,997 --> 00:44:10,803
-Oh no, we're falling behind!
+00:52:56,718 --> 00:53:00,012
+Hull breach. Hull breach.
 
 545
-00:44:11,988 --> 00:44:14,329
-I'm losing sight of them.
-We have to go back.
+00:53:00,013 --> 00:53:03,224
+Hull breach. Hull breach.
 
 546
-00:44:14,782 --> 00:44:18,352
-Trust in your friends. They won't
-make it if we don't clear a path.
+00:53:03,225 --> 00:53:20,324
+Hull breach. Hull breach.
 
 547
-00:44:31,766 --> 00:44:33,967
-Zuko, we're going to crash into the sea!
+00:53:20,325 --> 00:53:24,120
+Hull breach. Hull breach.
 
 548
-00:44:34,027 --> 00:44:36,970
-When I give you the signal,
-pull the lever next to the wheel.
+00:53:24,121 --> 00:53:28,749
+Hull breach.
+Hull breach. Hull breach.
 
 549
-00:44:41,366 --> 00:44:43,306
-We're going to crash! We're going to crash!
+00:53:28,750 --> 00:53:32,086
+Fire. Hull breach.
+Fire. Hull breach.
 
 550
-00:44:43,668 --> 00:44:44,470
-Katara?
+00:53:32,087 --> 00:53:34,505
+Fire. Hull breach. Fire.
 
 551
-00:45:04,634 --> 00:45:06,309
-Give me the signal! Give me the signal!
+00:53:34,506 --> 00:53:35,923
+- What?!
+- Fire.
 
 552
-00:45:11,303 --> 00:45:11,983
-Closed!
+00:53:38,260 --> 00:53:40,970
+Fire. Hull breach.
+Fire. Hull breach.
 
 553
-00:45:13,844 --> 00:45:14,977
-Sokka, now!
+00:53:43,182 --> 00:53:49,687
+Fire. Hull breach.
+Fire. Hull breach.
 
 554
-00:45:15,490 --> 00:45:17,337
-Here we go!
+00:53:49,688 --> 00:54:00,281
+Hull breach. Hull breach.
 
 555
-00:45:39,712 --> 00:45:41,305
-Katara! We did it!
+00:54:00,282 --> 00:54:03,743
+- Hull breach. Hull breach.
+- Mm.
 
 556
-00:45:42,674 --> 00:45:43,806
-What were you thinking?
+00:54:03,744 --> 00:54:09,999
+Hull breach. Hull breach.
 
 557
-00:45:44,026 --> 00:45:45,586
-I was clearing the
-tornadoes to make a path.
+00:54:10,000 --> 00:54:11,834
+Shut the fuck up!
 
 558
-00:45:45,613 --> 00:45:47,881
-The ship almost crashed, Aang.
-We could have died.
+00:54:14,796 --> 00:54:16,506
+Fuck!
 
 559
-00:45:48,209 --> 00:45:50,891
-And what if you got yourself killed?
-You're the Avatar.
+00:56:46,990 --> 00:56:49,325
+I'm not dying down here.
 
 560
-00:45:51,172 --> 00:45:54,189
-This is too risky.
-We need to turn back now.
+00:56:54,623 --> 00:56:56,458
+Ah.
 
 561
-00:45:54,255 --> 00:45:56,678
-No! We're almost there.
+00:56:58,544 --> 00:56:59,627
+I'm fucked.
 
 562
-00:45:56,785 --> 00:45:59,265
-We just need to get
-to the eye of the storm.
+00:57:32,286 --> 00:57:33,286
+Yeah.
 
 563
-00:45:59,824 --> 00:46:02,716
-Aang, no! This is too dangerous.
+00:58:00,063 --> 00:58:01,272
+Okay.
 
 564
-00:46:02,816 --> 00:46:05,196
-The staff is out there.
-They denied her after it.
+00:58:58,622 --> 00:58:59,706
+Sure.
 
 565
-00:46:05,518 --> 00:46:07,991
-Do you really believe that they
-could make it through the storm?
+00:59:00,916 --> 00:59:02,042
+Good.
 
 566
-00:46:08,077 --> 00:46:11,436
-We're nearly there.
-That staff can bring back my people.
+00:59:03,710 --> 00:59:05,128
+Don't mind me.
 
 567
-00:46:11,490 --> 00:46:15,180
-I understand how much you want that, but...
-You don't understand. None of you do.
+00:59:06,880 --> 00:59:08,632
+I'm just trying to go home.
 
 568
-00:46:16,619 --> 00:46:17,958
-Aang...
+00:59:11,677 --> 00:59:12,886
+Just...
 
 569
-00:46:19,522 --> 00:46:20,816
-We push forward.
+00:59:14,054 --> 00:59:17,641
+Just pretend
+like I'm not even here.
 
 570
-00:46:24,702 --> 00:46:27,669
-If we generate enough air,
-we can push our way through.
+00:59:19,434 --> 00:59:21,269
+I'm sure they're
+falling over themselves
 
 571
-00:47:12,599 --> 00:47:13,970
-We're alive?
+00:59:21,270 --> 00:59:23,313
+trying to find me, so...
 
 572
-00:47:14,446 --> 00:47:16,740
-We made it through. Thank you, Taga.
+00:59:24,898 --> 00:59:28,527
+If you see anyone
+looking for Simon...
 
 573
-00:47:17,070 --> 00:47:19,970
-It was you, Aang.
-We're here because of you.
+00:59:30,237 --> 00:59:31,905
+tell them I'm still alive.
 
 574
-00:47:20,028 --> 00:47:21,862
-Yeah, we're having a good time, too.
+01:00:02,352 --> 01:00:05,063
+God--
 
 575
-00:47:21,888 --> 00:47:24,683
-You could have told us we were
-flying into the Immortal Storm.
+01:00:07,941 --> 01:00:09,193
+Damn it!
 
 576
-00:47:24,737 --> 00:47:26,970
-I know it was dangerous,
-but we had to risk it.
+01:00:28,045 --> 01:00:29,296
+I'm trusting you.
 
 577
-00:47:27,020 --> 00:47:30,349
-We? I don't remember
-when we took a vote on that.
+01:02:35,255 --> 01:02:36,756
+Fucking aliens.
 
 578
-00:47:30,411 --> 00:47:32,698
-There wasn't time. I had to make a call.
+01:02:50,938 --> 01:02:54,482
+Hull breach. Hull breach.
 
 579
-00:47:32,771 --> 00:47:34,258
-Friends, please, don't blame Aang.
+01:02:54,483 --> 01:02:56,651
+Hull bre--
 
 580
-00:47:34,618 --> 00:47:37,624
-This is all my fault.
-I knew this would be difficult.
+01:04:06,930 --> 01:04:08,974
+Simon!
 
 581
-00:47:38,870 --> 00:47:40,970
-But Aang believed in
-your strength as a team.
+01:04:10,350 --> 01:04:11,726
+Simon!
 
 582
-00:47:41,670 --> 00:47:43,070
-And I'm honored to be a part of it.
+01:04:11,727 --> 01:04:13,311
+Simon!
 
 583
-00:47:49,523 --> 00:47:50,970
-I forgive you, Taga.
+01:04:13,312 --> 01:04:15,521
+Don't just stand there!
+Do something!
 
 584
-00:47:51,620 --> 00:47:53,396
-Everyone, look.
+01:04:32,122 --> 01:04:33,415
+What...
 
 585
-00:47:54,720 --> 00:47:58,915
-These islands... they were... lion turtles.
+01:04:39,546 --> 01:04:40,922
+SM-8.
 
 586
-00:48:00,713 --> 00:48:01,749
-Whoa!
+01:04:40,923 --> 01:04:42,381
+8...
 
 587
-00:48:03,160 --> 00:48:04,846
-It's beautiful.
+01:04:45,761 --> 01:04:47,386
+What are you doing down here?
 
 588
-00:48:06,966 --> 00:48:12,266
-Long before my time, the lion turtles
-granted the gift of bending to humans.
+01:04:47,387 --> 01:04:49,055
+Connecting.
 
 589
-00:48:13,070 --> 00:48:15,578
-These are their final resting grounds.
+01:04:51,016 --> 01:04:53,559
+Connected to Submersible Rover
+8. Running diagnostics.
 
 590
-00:48:16,170 --> 00:48:18,970
-This is where Sonum
-came to learn their ways.
+01:04:53,560 --> 01:04:58,773
+Wait. Wait. Wait. Wait. Wait.
 
 591
-00:48:20,270 --> 00:48:22,970
-I am certain that she left her staff here.
+01:04:58,774 --> 01:05:01,400
+Oxygen-- fail. Fuel-- fail.
+Engine-- fail. Pressure-- fail. Hull-- fail.
 
 592
-00:48:23,670 --> 00:48:24,970
-Where should we start looking?
+01:05:01,401 --> 01:05:02,693
+Camera-- Fail. Battery-- low.
 
 593
-00:48:25,320 --> 00:48:27,970
-Aang, you must connect with her.
+01:05:02,694 --> 01:05:04,529
+Initiating black box
+recovery program.
 
 594
-00:48:29,145 --> 00:48:31,970
-But no one can connect with Sonum.
+01:05:04,530 --> 01:05:06,531
+Insufficient privileges.
+Leave the area immediately
 
 595
-00:48:32,170 --> 00:48:35,130
-The spiritual power of the lion
-turtles is still concentrated here.
+01:05:06,532 --> 01:05:08,324
+or surrender yourself
+to council authority.
 
 596
-00:48:36,020 --> 00:48:38,970
-Let it guide you.
-We'll set out immediately.
+01:05:08,325 --> 01:05:09,492
+What?
 
 597
-00:48:39,220 --> 00:48:41,970
-Actually, Taga, we could
-really use your help here.
+01:05:14,540 --> 01:05:16,958
+Insufficient privileges.
+Leave the area immediately
 
 598
-00:48:42,020 --> 00:48:45,515
-If the denied are close
-behind, we need to be ready.
+01:05:16,959 --> 01:05:19,043
+or surrender yourself
+to council authority.
 
 599
-00:48:45,688 --> 00:48:48,970
-Yeah, and we're gonna need more
-than Toph's metal bending to fix this.
+01:05:21,463 --> 01:05:23,673
+Insufficient privileges.
+Leave the area immediately
 
 600
-00:48:49,420 --> 00:48:52,353
-My bending got us through that storm.
-What did you do?
+01:05:23,674 --> 01:05:24,966
+or surrender yourself--
+Insufficient privileges.
 
 601
-00:48:52,546 --> 00:48:53,746
-Steered with his feet.
+01:05:24,967 --> 01:05:26,676
+Leave the area immediately
 
 602
-00:48:54,053 --> 00:48:56,557
-Repairs can wait. Aang needs me.
+01:05:26,677 --> 01:05:28,427
+or surrender yourself
+to council authority.
 
 603
-00:48:56,770 --> 00:49:00,226
-Taga, please, stay and help my friends.
+01:05:28,428 --> 01:05:30,304
+Insufficient privileges.
+Leave the area immediately
 
 604
-00:49:01,120 --> 00:49:02,180
-I'll be okay on my own.
+01:05:30,305 --> 01:05:32,558
+- or surrender yourself...
+- Of all the fucking things.
 
 605
-00:49:03,259 --> 00:49:03,970
-As you wish.
+01:05:34,685 --> 01:05:36,394
+Insufficient privileges.
 
 606
-00:49:05,170 --> 00:49:07,473
-We will begin repairs for our voyage home.
+01:05:36,395 --> 01:05:38,104
+Leave the area immediately
 
 607
-00:49:09,566 --> 00:49:13,535
-Everyone, I know I've asked
-a lot of you on this journey.
+01:05:38,105 --> 01:05:39,772
+or surrender yourself
+to council authority.
 
 608
-00:49:14,061 --> 00:49:17,577
-But we're about to accomplish
-something that will change the world.
+01:05:43,944 --> 01:05:46,112
+- Fucking--
+- Insufficient privileges.
 
 609
-00:50:08,971 --> 00:50:10,545
-"let it guide you".
+01:05:46,113 --> 01:05:48,364
+Leave the area immediately
+or surrender yourself - Really?!
 
 610
-00:50:27,460 --> 00:50:28,433
-Sonum?
+01:05:48,365 --> 01:05:50,032
+to council authority.
 
 611
-00:50:46,620 --> 00:50:49,797
-Oh, this is turning out
-to be a nice little vacation.
+01:06:48,967 --> 01:06:50,343
+Not my problem.
 
 612
-00:50:50,564 --> 00:50:53,897
-Aside from all the people trying
-to kill us, and the tornadoes.
+01:07:11,740 --> 01:07:13,158
+What the fuck?
 
 613
-00:50:54,039 --> 00:50:56,372
-Um, we're supposed to be fixing the ship?
+01:07:27,673 --> 01:07:28,799
+Yep.
 
 614
-00:50:56,590 --> 00:50:57,946
-You're doing great, buddy.
+01:07:33,136 --> 01:07:34,763
+Fucking circle.
 
 615
-00:50:58,513 --> 00:51:00,320
-Has anyone seen Taga?
+01:07:42,437 --> 01:07:43,438
+Sorry.
 
 616
-00:51:00,620 --> 00:51:03,593
-Yes, we've all seen Taga. He's so gorgeous.
+01:08:18,557 --> 01:08:22,685
+1, 2, 3, 4, 5, 6, wall.
 
 617
-00:51:03,630 --> 00:51:04,926
-Geez, I get it.
+01:08:22,686 --> 01:08:24,353
+Yeah, okay.
 
 618
-00:51:05,613 --> 00:51:07,035
-Oh, I see what you mean.
+01:08:31,361 --> 01:08:33,279
+Wall.
 
 619
-00:51:07,142 --> 00:51:08,368
-He wandered off that way.
+01:08:52,007 --> 01:08:53,674
+Of course it is.
 
 620
-00:51:08,717 --> 00:51:11,142
-No, maybe that way?
+01:08:59,181 --> 01:09:01,474
+Only one left to try.
 
 621
-00:51:44,708 --> 00:51:45,320
-Taga?
+01:09:01,475 --> 01:09:04,143
+Alright.
 
 622
-00:51:45,420 --> 00:51:47,479
-Where are you going?
+01:09:04,144 --> 01:09:05,978
+One more.
 
 623
-00:51:48,501 --> 00:51:49,970
-Aang needs to be protected.
+01:09:26,124 --> 01:09:27,542
+No way.
 
 624
-00:51:50,650 --> 00:51:51,254
-I agree.
+01:09:39,012 --> 01:09:40,180
+Hello?
 
 625
-00:51:54,487 --> 00:51:56,614
-I know my ways may seem unusual to you.
+01:09:59,908 --> 01:10:00,950
+Almost there.
 
 626
-00:51:57,187 --> 00:52:01,587
-But I assure you, everything
-I do, I do for Aang.
+01:10:06,498 --> 01:10:08,332
+Hello?!
 
 627
-00:52:01,902 --> 00:52:04,069
-For Aang? Or for the staff?
+01:10:08,333 --> 01:10:10,209
+Come on!
 
 628
-00:52:05,775 --> 00:52:08,423
-You have no idea all that we've lost.
+01:10:10,210 --> 01:10:12,003
+What?!
 
 629
-00:52:08,689 --> 00:52:10,716
-You've never known a world with airbenders.
+01:10:12,004 --> 01:10:15,007
+Come on! Hello?!
 
 630
-00:52:11,395 --> 00:52:12,970
-I know Aang.
+01:10:21,305 --> 01:10:22,722
+Come on.
 
 631
-00:52:13,720 --> 00:52:15,604
-He may be the last of his kind.
+01:10:27,978 --> 01:10:29,479
+Yes!
 
 632
-00:52:16,090 --> 00:52:18,387
-But he's the reason this world knows peace.
+01:10:31,023 --> 01:10:32,273
+I'm here!
 
 633
-00:52:22,373 --> 00:52:26,443
-His values as an air nomad
-have brought balance to chaos.
+01:10:37,738 --> 01:10:40,156
+- Can you hear us?
+- Yeah.
 
 634
-00:52:28,589 --> 00:52:31,767
-It's because of Aang
-that the Water Tribes,
+01:10:40,157 --> 01:10:42,783
+Yeah, I'm here.
+Can you not hear me?
 
 635
-00:52:31,974 --> 00:52:35,139
-Earth Kingdom, and Fire
-Nation now work together.
+01:10:42,784 --> 01:10:44,660
+I can hear you.
 
 636
-00:52:35,546 --> 00:52:36,946
-Striving for harmony.
+01:10:44,661 --> 01:10:46,871
+Are you real?
 
 637
-00:52:37,719 --> 00:52:40,365
-A peace we once thought unattainable.
+01:10:46,872 --> 01:10:49,207
+Is this another trick?
 
 638
-00:52:42,565 --> 00:52:44,268
-You speak of peace.
+01:10:49,208 --> 01:10:51,417
+Who is this?
 
 639
-00:52:44,528 --> 00:52:46,970
-There will never be
-peace among the elements.
+01:10:51,418 --> 01:10:53,003
+Who do you think it is?
 
 640
-00:52:47,343 --> 00:52:48,878
-There never was.
+01:10:54,087 --> 01:10:56,797
+Ava? Is that you?
 
 641
-00:52:48,992 --> 00:52:51,930
-Your precious Republic
-City is built on lies.
+01:10:56,798 --> 01:10:58,674
+Is that really you?
 
 642
-00:52:52,103 --> 00:52:54,190
-It's built on hope.
+01:11:03,764 --> 01:11:06,140
+Oh, fuck!
 
 643
-00:52:54,436 --> 00:52:55,970
-Do you have hope, Taga?
+01:11:06,141 --> 01:11:09,185
+Oh, God! Please, get us out!
 
 644
-00:52:56,110 --> 00:52:58,970
-Saving my people requires
-more than just hope.
+01:11:09,186 --> 01:11:11,103
+Please help us!
 
 645
-00:52:59,045 --> 00:53:00,970
-It requires sacrifice.
+01:11:11,104 --> 01:11:13,023
+We can't take it anymore!
 
 646
-00:53:01,020 --> 00:53:03,970
-I saw you try to crush
-the denied's airships.
+01:11:14,066 --> 01:11:16,317
+How could you leave us
+down here?!
 
 647
-00:53:04,045 --> 00:53:05,733
-You were ready to kill them.
+01:11:16,318 --> 01:11:17,944
+You're not on the tow ship.
 
 648
-00:53:07,964 --> 00:53:10,771
-I know what kind of airbender Aang is.
+01:11:17,945 --> 01:11:20,112
+What?! What did you say?!
 
 649
-00:53:12,976 --> 00:53:15,228
-But what kind of airbender are you?
+01:11:20,113 --> 01:11:22,448
+You're still here, right?!
 
 650
-00:53:43,971 --> 00:53:45,724
-Aang did well getting us here.
+01:11:22,449 --> 01:11:24,992
+I heard you leave, so--
+so there must be a way. - You're not.
 
 651
-00:53:46,366 --> 00:53:50,019
-There is great strength in
-him, but weakness as well.
+01:11:24,993 --> 01:11:27,245
+You-- You always have a plan.
 
 652
-00:53:50,145 --> 00:53:51,332
-Weakness?
+01:11:27,246 --> 01:11:28,871
+And it worked.
+It worked before.
 
 653
-00:53:51,666 --> 00:53:53,564
-Yes, you.
+01:11:28,872 --> 01:11:31,457
+We-- We can work together
+this time.
 
 654
-00:54:09,971 --> 00:54:11,970
-What the hog monkey?
+01:11:31,458 --> 01:11:34,710
+Everything is down here,
+everything we've ever
 
 655
-00:54:35,277 --> 00:54:36,565
-He trusted you.
+01:11:34,711 --> 01:11:37,381
+- wanted to know.
+- You're stuck down here, too?
 
 656
-00:54:43,717 --> 00:54:44,432
-No.
-
-657
-00:56:05,055 --> 00:56:05,857
-Brother.
-
-658
-00:56:09,211 --> 00:56:11,458
-Taga, it's real.
-
-659
-00:56:15,971 --> 00:56:18,283
-We can finally bring back airbending.
-
-660
-00:56:21,595 --> 00:56:22,989
-Let's go tell the others.
-
-661
-00:56:23,071 --> 00:56:26,106
-We can do this, me and you.
-
-662
-00:56:26,971 --> 00:56:28,932
-I can't do this without my friends.
-
-663
-00:56:29,292 --> 00:56:33,970
-Earth killed my people, fire killed yours.
-
-664
-00:56:34,470 --> 00:56:38,185
-The staff is the only way we
-can create a new air empire.
-
-665
-00:56:38,370 --> 00:56:40,970
-One capable of defending itself.
-
-666
-00:56:41,064 --> 00:56:43,970
-No, we can build a new future, Taga.
-
-667
-00:56:44,170 --> 00:56:45,970
-But it has to be for everyone.
-
-668
-00:56:46,237 --> 00:56:47,970
-The staff doesn't belong to everyone.
-
-669
-00:56:48,485 --> 00:56:49,970
-It belongs to us.
-
-670
-00:56:49,971 --> 00:56:51,784
-What have you done?
-
-671
-00:56:51,871 --> 00:56:55,391
-As long as they were around, you
-always put them ahead of our people.
-
-672
-00:56:55,795 --> 00:56:56,794
-Don't you see?
-
-673
-00:56:56,860 --> 00:56:59,267
-This is how we redeem ourselves.
-
-674
-00:56:59,814 --> 00:57:01,528
-It doesn't matter that you ran then.
-
-675
-00:57:01,847 --> 00:57:03,810
-As long as you stand with me now.
-
-676
-00:57:03,836 --> 00:57:04,160
-No.
-
-677
-00:57:04,236 --> 00:57:05,722
-Aang, listen to me.
-
-678
-00:57:05,942 --> 00:57:06,685
-Katara.
-
-679
-00:57:06,734 --> 00:57:08,405
-It's the only way.
-
-680
-00:57:08,467 --> 00:57:08,856
-No.
-
-681
-00:57:22,048 --> 00:57:23,956
-You're a traitor to your own.
-
-682
-00:57:24,128 --> 00:57:25,970
-Just like Sonum.
-
-683
-00:58:03,885 --> 00:58:06,125
-I wanted to do this with you by my side.
-
-684
-00:58:07,532 --> 00:58:11,774
-But if I must build a new air empire alone, so be it.
-
-685
-00:58:20,657 --> 00:58:22,256
-There's no way in.
-
-686
-00:58:22,529 --> 00:58:23,823
-We have to turn back.
-
-687
-00:58:23,936 --> 00:58:26,589
-No, we keep trying to push through.
-
-688
-00:58:38,958 --> 00:58:40,419
-Sonum staff.
-
-689
-00:58:41,073 --> 00:58:42,893
-Denied.
-
-690
-00:58:42,971 --> 00:58:44,970
-The Avatar is dead.
-
-691
-00:58:45,413 --> 00:58:50,402
-If you wish to build a new world where
-you have the power, I can give it to you.
-
-692
-00:59:05,242 --> 00:59:05,891
-Appa.
-
-693
-00:59:06,618 --> 00:59:07,970
-Katara.
-
-694
-00:59:08,525 --> 00:59:09,698
-Katara.
-
-695
-00:59:11,278 --> 00:59:11,838
-Katara.
-
-696
-00:59:13,220 --> 00:59:14,189
-They're gone.
-
-697
-00:59:15,029 --> 00:59:16,109
-It's all my fault.
-
-698
-00:59:17,220 --> 00:59:18,970
-It's always been my fault.
-
-699
-00:59:19,620 --> 00:59:21,789
-Ever since I ran away.
-
-700
-00:59:23,320 --> 00:59:28,783
-No Avatar has ever fallen into such
-shame as to join me here in my sorrow.
-
-701
-00:59:31,106 --> 00:59:32,970
-Why do you grieve so, friend?
-
-702
-00:59:33,732 --> 00:59:35,012
-Avatar Sonum?
-
-703
-00:59:38,270 --> 00:59:39,970
-Taga murdered my friends.
-
-704
-00:59:40,520 --> 00:59:41,633
-And now he has the staff.
-
-705
-00:59:42,046 --> 00:59:42,970
-Taga.
-
-706
-00:59:43,153 --> 00:59:43,946
-No.
-
-707
-00:59:44,200 --> 00:59:44,971
-No.
-
-708
-00:59:45,270 --> 00:59:46,970
-I stopped him.
-
-709
-00:59:47,120 --> 00:59:48,517
-I hide the staff.
-
-710
-00:59:49,120 --> 00:59:50,882
-What have you done?
-
-711
-00:59:51,802 --> 00:59:53,970
-You're the one who gave him airbending.
-
-712
-00:59:54,520 --> 00:59:56,970
-How could you give power to a monster?
-
-713
-00:59:57,520 --> 01:00:01,352
-The Taga I gave bending
-to was a different man.
-
-714
-01:00:02,894 --> 01:00:04,995
-It was a different time.
-
-715
-01:00:05,241 --> 01:00:07,970
-The airbenders were the
-peacekeepers of the four elements.
-
-716
-01:00:08,620 --> 01:00:12,970
-We used our power to mediate
-all conflict with nonviolence.
-
-717
-01:00:13,163 --> 01:00:15,250
-But we were the fewest in numbers.
-
-718
-01:00:16,263 --> 01:00:20,970
-For many years, we existed in a
-beautiful balance of great prosperity.
-
-719
-01:00:21,370 --> 01:00:23,096
-But the world began to shift.
-
-720
-01:00:23,549 --> 01:00:28,970
-The earthbenders formed their own kingdom,
-separating from the other elemental tribes.
-
-721
-01:00:29,763 --> 01:00:31,970
-The balance of the world was at risk.
-
-722
-01:00:32,170 --> 01:00:34,970
-It was my duty to act.
-
-723
-01:00:35,479 --> 01:00:39,656
-So I learned how to channel the energy of the
-spirit world just as the lion turtles did.
-
-724
-01:00:40,220 --> 01:00:43,031
-To give people the power of airbending.
-
-725
-01:00:43,971 --> 01:00:48,970
-My most devout pupil,
-Taga, was the first to receive it.
-
-726
-01:00:49,470 --> 01:00:53,970
-I sent my new peacekeepers out
-to help calm the growing unrest.
-
-727
-01:00:54,620 --> 01:00:58,499
-But they were not prepared for the
-brutality of the new earth kingdom.
-
-728
-01:01:00,971 --> 01:01:06,499
-Taga watched as his brothers
-and sisters were all slaughtered.
-
-729
-01:01:07,372 --> 01:01:09,970
-His heart darkened by the violence of war.
-
-730
-01:01:10,645 --> 01:01:14,918
-He now saw everyone who
-wasn't an air nomad as the enemy.
-
-731
-01:01:16,118 --> 01:01:18,192
-Taga begged me to
-use the staff
-
-732
-01:01:18,238 --> 01:01:20,784
-to create an army and to kill all
-who would do us harm.
-
-733
-01:01:21,596 --> 01:01:22,970
-I refused.
-
-734
-01:01:23,497 --> 01:01:24,616
-So he stole it.
-
-735
-01:01:25,955 --> 01:01:28,149
-When he connected
-the staff to the temple,
-
-736
-01:01:28,183 --> 01:01:30,921
-his energy was so
-corrupted by grief and rage
-
-737
-01:01:30,946 --> 01:01:33,819
-that the power of the
-spirit world consumed him.
-
-738
-01:01:34,866 --> 01:01:40,426
-Taga became something more
-than human, too powerful to kill.
-
-739
-01:01:40,971 --> 01:01:43,981
-It took all my energy
-to finally trap him
-
-740
-01:01:44,006 --> 01:01:47,257
-high above the clouds and
-no one would find him.
-
-741
-01:01:48,457 --> 01:01:52,970
-I reclaimed the staff,
-but I was fatally wounded.
-
-742
-01:01:53,220 --> 01:01:55,562
-Before the earth kingdom
-could invade Jirana, I
-
-743
-01:01:55,768 --> 01:01:58,702
-sent the remaining air
-nomads into the mountains.
-
-744
-01:01:59,615 --> 01:02:03,723
-And I hid my temple in the spirit world
-where no one could access its power.
-
-745
-01:02:06,120 --> 01:02:10,397
-Then I locked the staff away
-where only the avatar could find it.
-
-746
-01:02:12,171 --> 01:02:16,112
-I died hoping that one day
-another avatar would create
-
-747
-01:02:16,124 --> 01:02:19,562
-more airbenders and
-restore balance to this world.
-
-748
-01:02:20,245 --> 01:02:23,067
-And that avatar is you, Aang.
-
-749
-01:02:23,370 --> 01:02:26,970
-You have to get my staff before
-Taga connects it to the temple.
-
-750
-01:02:27,420 --> 01:02:30,970
-There's still time.
-Don't let my regret become yours.
-
-751
-01:02:31,770 --> 01:02:33,970
-My friends and I fought
-hard for this peace.
-
-752
-01:02:34,820 --> 01:02:36,970
-I won't let him start another war.
-
-753
-01:02:37,138 --> 01:02:39,062
-Help me find a way back.
-
-754
-01:02:40,622 --> 01:02:41,970
-Sonum?
-
-755
-01:02:42,944 --> 01:02:43,770
-What's happening?
-
-756
-01:02:46,310 --> 01:02:49,970
-No! No! Please! I have to fix this!
-
-757
-01:02:50,083 --> 01:02:54,970
-This can't be it! I can't die yet!
-Please! Not yet! No!
-
-758
-01:02:55,431 --> 01:02:56,917
-- Aang? - Katara?
-
-759
-01:02:56,971 --> 01:03:02,808
-Come on, Aang! Come on!
-Aang! Move up! Aang!
-
-760
-01:03:04,720 --> 01:03:06,970
-- Katara. - I was so worried.
-
-761
-01:03:07,170 --> 01:03:12,240
-Aang. Sokka.
-I knew you'd pull through, buddy.
-
-762
-01:03:12,420 --> 01:03:14,093
-- Hey, Aang. - Zuko.
-
-763
-01:03:14,266 --> 01:03:17,970
-- Momo. - Welcome back, Twinkle Toes.
-
-764
-01:03:18,120 --> 01:03:22,588
-Toph, you're okay.
-I thought you were all dead.
-
-765
-01:03:22,888 --> 01:03:25,970
-We were, but Katara saved us.
-
-766
-01:03:26,420 --> 01:03:30,159
-The spiritual power of these waters
-strengthened my healing abilities.
-
-767
-01:03:32,946 --> 01:03:34,952
-You're incredible, Katara.
-
-768
-01:03:36,758 --> 01:03:37,551
-Where's Appa?
-
-769
-01:03:38,698 --> 01:03:40,970
-Taga must have taken him.
-
-770
-01:03:41,608 --> 01:03:42,521
-I'm sorry.
-
-771
-01:03:43,320 --> 01:03:44,228
-No.
-
-772
-01:03:45,770 --> 01:03:47,577
-I can't believe I trusted him.
-
-773
-01:03:49,551 --> 01:03:51,491
-We'll get through this.
-
-774
-01:03:53,872 --> 01:03:55,726
-So, let me get this straight.
-
-775
-01:03:55,920 --> 01:03:59,915
-He's pulling Sonum's temple out of
-the spirit world to gain unlimited power?
-
-776
-01:03:59,971 --> 01:04:03,165
-And let me guess, you want us to stop him?
-
-777
-01:04:03,970 --> 01:04:08,970
-Sure. Only problem is your air bro
-crushed our ship and stole your bison.
-
-778
-01:04:09,170 --> 01:04:12,970
-Also, there's a massive
-typhoon surrounding us!
-
-779
-01:04:15,783 --> 01:04:18,542
-I don't say this very
-often, but Sokka's right.
-
-780
-01:04:19,042 --> 01:04:20,970
-- Thank you. - Yep, we're stuck.
-
-781
-01:04:21,170 --> 01:04:24,356
-And there aren't enough lion turtles
-for all of us to have our own island.
-
-782
-01:04:24,536 --> 01:04:27,524
-So, I'm calling this one.
-I'm naming him Snappy.
-
-783
-01:04:27,638 --> 01:04:30,970
-- Aw, Snappy is the best one. - I know.
-
-784
-01:04:31,170 --> 01:04:32,775
-We may not know where
-Taga is,
-
-785
-01:04:33,774 --> 01:04:36,970
-but we know what he's looking for
-is in the spirit world.
-
-786
-01:04:37,395 --> 01:04:41,970
-And lucky for us, we're stuck in the most
-spiritually charged place on the planet.
-
-787
-01:04:42,720 --> 01:04:48,674
-So, I may be able to open a portal to get
-us there, if I can summon an old friend.
-
-788
-01:04:57,216 --> 01:05:00,012
-Wow. The ocean spirit.
-
-789
-01:05:08,768 --> 01:05:11,281
-This portal smells an
-awful lot like the fish market.
-
-790
-01:05:11,475 --> 01:05:12,970
-I'm gonna go check on Snappy.
-
-791
-01:05:13,120 --> 01:05:14,970
-Face your death with honor.
-
-792
-01:05:15,020 --> 01:05:19,970
-I'm sorry. I know I got us into
-this, but I promise you I'll fix it.
-
-793
-01:05:20,712 --> 01:05:21,970
-We'll fix it.
-
-794
-01:05:22,911 --> 01:05:23,444
-Together.
-
-795
-01:05:27,167 --> 01:05:29,325
-We're gonna die! We're gonna die!
-
-796
-01:05:39,976 --> 01:05:41,877
-What? Where's my power pony?
-
-797
-01:05:42,020 --> 01:05:44,665
-Were my hands always this small?
-
-798
-01:05:44,745 --> 01:05:47,830
-It's baby Tuff! Baby Tuff!
-
-799
-01:05:49,220 --> 01:05:50,784
-What the hog monkey?
-
-800
-01:05:51,277 --> 01:05:52,294
-Old people.
-
-801
-01:05:52,581 --> 01:05:53,294
-Grand.. Grand..?
-
-802
-01:05:53,528 --> 01:05:55,587
-That's your sister, you weak head!
-
-803
-01:05:55,993 --> 01:05:57,866
-Give me Toph. There, there, Toph.
-
-804
-01:05:58,079 --> 01:06:01,598
-Oh no, Zuko!
-What happened to your beautiful face?
-
-805
-01:06:01,725 --> 01:06:03,645
-You look like a dried sea squid.
-
-806
-01:06:04,245 --> 01:06:04,970
-No, Zuko!
-
-807
-01:06:06,019 --> 01:06:07,652
-What's going on here?
-
-808
-01:06:09,129 --> 01:06:10,970
-The spirit world is out of balance.
-
-809
-01:06:11,737 --> 01:06:12,970
-And so are we.
-
-810
-01:06:15,444 --> 01:06:17,146
-That's gotta be Taga.
-
-811
-01:06:38,104 --> 01:06:39,197
-Oh no!
-
-812
-01:06:39,419 --> 01:06:42,547
-He's pulling Sonum
-temple into our world!
-
-813
-01:06:42,572 --> 01:06:44,327
-We're running out of time!
-
-814
-01:06:51,949 --> 01:06:53,369
-Pretty good landing.
-
-815
-01:06:53,970 --> 01:06:56,970
-Whoa! Humans! I love humans!
-
-816
-01:06:57,215 --> 01:06:59,970
-Two brothers, their little sister, and an elderly couple.
-
-817
-01:07:00,125 --> 01:07:00,635
--Couple!
--Couple!
-
-818
-01:07:00,673 --> 01:07:01,633
-Not a couple!
-
-819
-01:07:01,792 --> 01:07:03,796
-Whoa! Looks like I touched a nerve.
-
-820
-01:07:04,070 --> 01:07:06,833
-Oh, look at this one! Hello!
-
-821
-01:07:06,971 --> 01:07:09,431
-Toph! No! Bad Toph!
-
-822
-01:07:09,471 --> 01:07:10,970
-We don't bite strangers.
-
-823
-01:07:12,572 --> 01:07:15,662
-Great spirit! Excuse me, did you
-just come from that temple in the sky?
-
-824
-01:07:15,971 --> 01:07:17,702
-I certainly did.
-
-825
-01:07:18,209 --> 01:07:19,970
-It was my favorite hidey hole.
-
-826
-01:07:20,176 --> 01:07:22,970
-Until that dark, yucky energy
-started corrupting this whole place.
-
-827
-01:07:23,749 --> 01:07:26,720
-Please, we need your help getting up there.
-
-828
-01:07:26,971 --> 01:07:28,970
-It's my duty to stop this.
-
-829
-01:07:29,170 --> 01:07:30,720
-I'm the Avatar.
-
-830
-01:07:31,220 --> 01:07:34,970
-Ooh! The Avatar!
-
-831
-01:07:35,070 --> 01:07:36,970
-Let me have a squiz at you.
-
-832
-01:07:37,120 --> 01:07:38,901
-Okay, now with this eye.
-
-833
-01:07:38,961 --> 01:07:39,970
-And this eye.
-
-834
-01:07:39,971 --> 01:07:41,897
-Ooh, don't forget this eye.
-
-835
-01:07:41,937 --> 01:07:42,970
-Can we hurry it up?
-
-836
-01:07:42,971 --> 01:07:43,970
-I need to have a squiz.
-
-837
-01:07:43,971 --> 01:07:45,277
-Sniff check!
-
-838
-01:07:47,775 --> 01:07:49,691
-Ooh, that's Avatar material right there.
-
-839
-01:07:49,971 --> 01:07:52,431
-Yes, it is. Oh!
-
-840
-01:07:52,456 --> 01:07:53,315
-Yes, yes, yes, yes, yes!
-
-841
-01:07:53,522 --> 01:07:57,970
-It appears the universe has brought
-us together for a very important mission.
-
-842
-01:08:00,537 --> 01:08:01,970
-To flee!
-
-843
-01:08:01,971 --> 01:08:03,970
-And be alive!
-
-844
-01:08:03,971 --> 01:08:05,970
-Wait! Come back!
-
-845
-01:08:05,971 --> 01:08:06,970
-We're going the wrong way!
-
-846
-01:08:06,971 --> 01:08:07,970
-Stop!
-
-847
-01:08:07,971 --> 01:08:09,970
-Please, great spirit, both
-of our worlds are in danger.
-
-848
-01:08:09,971 --> 01:08:12,970
-No, no, no, no, no, no.
-I am not going back up there.
-
-849
-01:08:19,427 --> 01:08:22,614
-Hmm, well, when you put it like
-that, it does make more sense.
-
-850
-01:08:23,673 --> 01:08:27,307
-Upon reflection, I've decided I shall
-help you and your human-y friends.
-
-851
-01:08:27,707 --> 01:08:28,970
-What did he say?
-
-852
-01:08:28,971 --> 01:08:30,181
-Nice work, momo.
-
-853
-01:08:30,308 --> 01:08:31,970
-Alright, in you go.
-
-854
-01:08:34,993 --> 01:08:38,449
-By the way, no eating anything you find
-in my teeth, as I'm saving that for later.
-
-855
-01:08:38,983 --> 01:08:40,970
-Ready, set, get steady and rest.
-
-856
-01:08:40,971 --> 01:08:43,662
-One and the two and
-the you know what to do.
-
-857
-01:08:44,168 --> 01:08:44,971
-Bluff!
-
-858
-01:08:50,698 --> 01:08:54,818
-I know we haven't known each
-other very long, but I love you!
-
-859
-01:08:54,925 --> 01:08:56,064
-You don't have to say it back.
-
-860
-01:09:04,878 --> 01:09:06,751
-Hey! You got your hair back!
-
-861
-01:09:06,891 --> 01:09:09,144
-Why are my eyes cheery? Was I crying?
-
-862
-01:09:10,458 --> 01:09:11,970
-No way! Look!
-
-863
-01:09:12,345 --> 01:09:13,970
-What? What is it?
-
-864
-01:09:13,971 --> 01:09:15,364
-It's Republic City.
-
-865
-01:09:19,029 --> 01:09:21,970
-We can't let him destroy
-everything we've built.
-
-866
-01:09:21,971 --> 01:09:23,246
-We won't.
-
-867
-01:09:38,778 --> 01:09:39,965
-Boomerang!
-
-868
-01:09:57,463 --> 01:09:58,970
-Give me the staff, Taga!
-
-869
-01:09:58,971 --> 01:10:00,970
-I see I underestimated you, Avatar.
-
-870
-01:10:01,427 --> 01:10:03,970
-Your friends are stronger than I thought.
-
-871
-01:10:03,971 --> 01:10:05,970
-But you're too late.
-
-872
-01:10:14,550 --> 01:10:14,995
-The Denied.
-
-873
-01:10:15,856 --> 01:10:18,252
-You see, I did what you wanted, Aang.
-
-874
-01:10:18,740 --> 01:10:21,445
-I returned airbending to the world.
-
-875
-01:10:23,163 --> 01:10:23,930
-What's the plan?
-
-876
-01:10:24,245 --> 01:10:27,013
-We'll deal with the Denied.
-You have to get the staff.
-
-877
-01:10:27,570 --> 01:10:32,477
-I will rebuild Geronimo and the ruins
-of our enemies, just as they did on ours.
-
-878
-01:10:32,737 --> 01:10:37,400
-A new air empire will rise. Kill them all.
-
-879
-01:10:55,614 --> 01:10:57,668
-We have to get these people out of here.
-
-880
-01:11:02,144 --> 01:11:03,980
-Whoa!
-
-881
-01:11:14,089 --> 01:11:15,642
-Oh, yeah.
-
-882
-01:11:22,779 --> 01:11:25,366
-Taga! Give it to me!
-
-883
-01:11:27,324 --> 01:11:30,946
-This isn't the way. We can use
-the staff to bring back the balance.
-
-884
-01:11:30,971 --> 01:11:31,970
-Peace!
-
-885
-01:11:31,971 --> 01:11:36,079
-You care so much about your
-ideals that you'd let your people die!
-
-886
-01:11:36,659 --> 01:11:39,970
-I will do anything to
-make sure they survive!
-
-887
-01:11:57,744 --> 01:11:59,556
-My cabbages! My cabbages!
-
-888
-01:12:05,990 --> 01:12:07,334
-My cabbages...!
-
-889
-01:12:07,874 --> 01:12:10,970
-My cabbages!
-
-890
-01:12:23,801 --> 01:12:24,934
-Don't do this.
-
-891
-01:12:25,170 --> 01:12:26,478
-You have the power now.
-
-892
-01:12:26,545 --> 01:12:27,930
-You can decide how to use it.
-
-893
-01:12:28,195 --> 01:12:30,970
-I'm not like you.
-The world hasn't been good to me.
-
-894
-01:12:31,004 --> 01:12:32,739
-The world is what we make it.
-
-895
-01:12:32,992 --> 01:12:34,665
-Get away from her!
-
-896
-01:13:06,745 --> 01:13:07,865
-Taga! Stop!
-
-897
-01:13:12,907 --> 01:13:15,034
-You betrayed me! You betrayed our culture!
-
-898
-01:13:15,360 --> 01:13:17,970
-I gave you every chance to see the truth!
-
-899
-01:13:23,746 --> 01:13:26,355
-Can you be in the Fire Nation?
-
-900
-01:13:28,317 --> 01:13:30,523
-I'm fighting for the peace of all nations.
-
-901
-01:13:34,002 --> 01:13:37,761
-Big talk from someone who sits
-on a throne built on a century of war!
-
-902
-01:14:00,808 --> 01:14:04,557
-I'm still the greatest
-earthbender in the world!
-
-903
-01:14:28,170 --> 01:14:30,337
-Oh no! I'm out of water!
-
-904
-01:14:33,426 --> 01:14:34,720
-We got ya!
-
-905
-01:14:35,033 --> 01:14:37,480
-And there's no Avatar here to save you.
-
-906
-01:14:39,066 --> 01:14:41,142
-Suck a cycle!
-
-907
-01:14:44,829 --> 01:14:49,069
-Let's see if your fancy new bending can
-beat some good ol' non-bending know-how!
-
-908
-01:14:56,229 --> 01:14:57,782
-He comes away!
-
-909
-01:15:04,548 --> 01:15:06,355
-You just got denied!
-
-910
-01:15:14,997 --> 01:15:15,924
-Let's go!
-
-911
-01:15:15,949 --> 01:15:18,130
-Good luck saving your city!
-
-912
-01:15:26,154 --> 01:15:28,720
-We have to save as many people as we can!
-
-913
-01:15:46,835 --> 01:15:50,715
-I know your pain.
-I know what you've been through.
-
-914
-01:15:51,372 --> 01:15:52,339
-You don't know.
-
-915
-01:15:53,502 --> 01:15:57,529
-I watched as all of my brothers
-and sisters were slaughtered.
-
-916
-01:15:58,568 --> 01:16:01,421
-And the Fire Nation burned
-the Air Nomads to ash!
-
-917
-01:16:02,168 --> 01:16:03,343
-Where were you?
-
-918
-01:16:04,531 --> 01:16:05,530
-You ran!
-
-919
-01:16:26,277 --> 01:16:27,992
-Taga!
-
-920
-01:16:37,688 --> 01:16:38,681
-No!
-
-921
-01:17:01,101 --> 01:17:05,970
-The full power of the Spirit
-World flows through me!
-
-922
-01:17:16,105 --> 01:17:19,135
-This is what strength looks like!
-
-923
-01:18:12,058 --> 01:18:16,970
-You should've run away like you
-did all those years ago, little Avatar.
-
-924
-01:18:17,964 --> 01:18:21,486
-I... won't... run.
-
-925
-01:18:21,971 --> 01:18:25,893
-Then at least you'll die knowing
-you're not the last Airbender!
-
-926
-01:19:03,013 --> 01:19:04,061
-Aang...
-
-927
-01:19:12,398 --> 01:19:13,410
-No!
-
-928
-01:20:20,687 --> 01:20:24,864
-We could've been brothers!
-We could've done this together!
-
-929
-01:20:25,483 --> 01:20:27,193
-It didn't have to end like this!
-
-930
-01:20:32,822 --> 01:20:34,222
-It's Aang. He's got the staff!
-
-931
-01:20:34,422 --> 01:20:36,742
-Yeah! Kick his butt, Mega Aang!
-
-932
-01:20:36,822 --> 01:20:40,200
-No! Something's wrong!
-The power is corrupting him!
-
-933
-01:20:48,124 --> 01:20:49,391
-No!
-
-934
-01:20:58,574 --> 01:21:02,764
-I dreamt of bringing the Air Nomads
-back to the world as peacekeepers.
-
-935
-01:21:02,831 --> 01:21:06,324
-They could've been a beacon
-of light for the world to follow.
-
-936
-01:21:06,377 --> 01:21:10,054
-But you ruined it!
-You twisted my dream into a nightmare!
-
-937
-01:21:10,654 --> 01:21:14,339
-Finally.
-You have the power the Air Nomads need.
-
-938
-01:21:14,646 --> 01:21:16,970
-Maybe there is hope for you after all.
-
-939
-01:21:27,648 --> 01:21:30,068
-Do it! Use the staff!
-
-940
-01:21:30,422 --> 01:21:33,607
-Show me you have the strength to bring
-our people back!
-
-941
-01:21:34,417 --> 01:21:35,217
-Do it!
-
-942
-01:22:12,170 --> 01:22:13,170
-Aang...
-
-943
-01:22:16,020 --> 01:22:18,970
-You will do so many
-great things as the Avatar.
-
-944
-01:22:19,920 --> 01:22:23,514
-But you must be prepared to
-do what frightens you the most.
-
-945
-01:22:25,348 --> 01:22:29,970
-Your people, your home,
-we are always with you.
-
-946
-01:22:46,603 --> 01:22:47,408
-No!
-
-947
-01:22:53,728 --> 01:22:54,621
-No...
-
-948
-01:23:18,431 --> 01:23:18,958
-No!
-
-949
-01:23:19,644 --> 01:23:20,937
-My power!
-
-950
-01:23:27,248 --> 01:23:29,558
-No. No!
-
-951
-01:23:39,370 --> 01:23:44,650
-You fool! Why? Why did you break it?
-
-952
-01:23:45,177 --> 01:23:47,538
-We could've fixed everything.
-
-953
-01:23:48,618 --> 01:23:51,198
-We can't erase the pain of the past.
-
-954
-01:23:52,569 --> 01:23:53,889
-We couldn't save them.
-
-955
-01:23:54,049 --> 01:23:57,722
-But it's our duty to protect our people.
-
-956
-01:23:58,136 --> 01:24:01,288
-Not at the cost of betraying
-everything they stood for.
-
-957
-01:24:01,664 --> 01:24:02,322
-No.
-
-958
-01:24:03,342 --> 01:24:04,669
-It's time to let go.
-
-959
-01:24:05,729 --> 01:24:07,569
-You have to forgive yourself.
-
-960
-01:24:10,270 --> 01:24:12,261
-I have to forgive myself too.
-
-961
-01:24:21,370 --> 01:24:24,299
-Air Nomads are formed from the best.
-
-962
-01:24:28,311 --> 01:24:31,970
-We walk the world for a moment in time.
-
-963
-01:24:34,638 --> 01:24:38,970
-Then we return to the eternal wind.
-
-964
-01:24:54,821 --> 01:24:56,195
-Aang!
-
-965
-01:25:00,229 --> 01:25:01,329
-Hey, Katara.
-
-966
-01:25:01,870 --> 01:25:02,970
-Hey, Aang.
-
-967
-01:25:05,455 --> 01:25:06,288
-Seriously?
-
-968
-01:25:06,868 --> 01:25:08,970
-You do realize you're falling, right?
-
-969
-01:25:09,470 --> 01:25:11,676
-Hey, if you ever get
-tired of relying on Appa,
-
-970
-01:25:11,715 --> 01:25:14,178
-I can hook you up with
-one of these babies.
-
-971
-01:25:18,652 --> 01:25:20,970
-I'll give you the best friend discount!
-
-972
-01:25:35,070 --> 01:25:37,098
-I don't know if
-airbending will ever return.
-
-973
-01:25:38,120 --> 01:25:40,970
-But I know now that the
-true power of the Air Nomads
-
-974
-01:25:41,770 --> 01:25:42,970
-was never their bending.
-
-975
-01:25:43,520 --> 01:25:44,970
-It was their values.
-
-976
-01:25:45,670 --> 01:25:47,970
-And that's a power I can pass on to others.
-
-977
-01:25:49,270 --> 01:25:53,970
-Avatar Aang, you are the true
-embodiment of the Air Nomads.
-
-978
-01:25:55,170 --> 01:25:57,970
-Thank you for giving up
-the power that I could not.
-
-979
-01:25:59,345 --> 01:26:01,970
-You give me hope for
-the future of our culture.
-
-980
-01:26:16,058 --> 01:26:18,218
-It's amazing, isn't it?
-
-981
-01:26:18,520 --> 01:26:21,418
-The first new air temple in centuries.
-
-982
-01:26:22,698 --> 01:26:24,970
-Republic City is finally complete.
-
-983
-01:26:29,371 --> 01:26:32,747
-A city for all nations,
-just like you promised.
-
-984
-01:26:33,720 --> 01:26:35,970
-I never could have done
-this without you, Katara.
-
-985
-01:26:37,670 --> 01:26:39,970
-Hey, everybody.
-Sorry I kept you all waiting.
-
-986
-01:26:40,670 --> 01:26:41,970
-Are you ready for our big trip?
-
-987
-01:26:43,020 --> 01:26:44,970
-As my new acolytes,
-
-988
-01:26:45,170 --> 01:26:49,263
-you'll be helping me preserve
-our culture for future generations.
-
-989
-01:26:49,337 --> 01:26:53,970
-So, who wants to search for artifacts
-at an ancient abandoned temple?
-
-990
-01:26:54,051 --> 01:26:54,946
-Yay.
-
-991
-01:26:55,170 --> 01:26:59,112
-I'm only going to make sure you don't
-try to release another beefy old airbender.
-
-992
-01:26:59,372 --> 01:27:01,472
-Yeah, I'm done with bad boys.
-
-993
-01:27:13,726 --> 01:27:15,970
-Avatar Sonum told me about this place,
-
-994
-01:27:16,220 --> 01:27:19,970
-so it's very possible that no one's
-been here in hundreds of years.
-
-995
-01:27:21,370 --> 01:27:23,998
-Oh, is this an airbender relic?
-
-996
-01:27:24,291 --> 01:27:25,518
-I think that's just a rock.
-
-997
-01:27:26,020 --> 01:27:27,970
-But I love the enthusiasm.
-
-998
-01:27:29,408 --> 01:27:30,381
+01:11:39,299 --> 01:11:40,716
 Oh.
 
+657
+01:11:43,887 --> 01:11:45,680
+I thought I was--
+
+658
+01:11:47,641 --> 01:11:49,934
+Look, they're still there.
+I talked to them.
+
+659
+01:11:49,935 --> 01:11:53,312
+I know the radio's been spotty,
+but they've made contact before.
+
+660
+01:11:53,313 --> 01:11:56,440
+Like, we could just be
+out of range.
+
+661
+01:11:56,441 --> 01:11:58,651
+Like, maybe
+we just need to get hold of them
+
+662
+01:11:58,652 --> 01:12:00,319
+and, then, they can send
+someone down to meet us.
+
+663
+01:12:00,320 --> 01:12:01,863
+Oxygen.
+
+664
+01:12:08,912 --> 01:12:10,873
+Is that the last of it?
+
+665
+01:12:14,251 --> 01:12:15,877
+None left, then?
+
+666
+01:12:15,878 --> 01:12:17,212
+Uh...
+
+667
+01:12:18,380 --> 01:12:20,006
+That's not enough.
+
+668
+01:12:23,886 --> 01:12:25,887
+He won't make it.
+
+669
+01:12:31,351 --> 01:12:33,853
+Just try to control
+your breathing.
+
+670
+01:12:41,403 --> 01:12:44,072
+Um, can you just, uh...
+
+671
+01:12:46,408 --> 01:12:48,535
+Can you just keep talking to me?
+
+672
+01:12:50,204 --> 01:12:52,247
+'Cause I just...
+
+673
+01:12:53,415 --> 01:12:56,501
+- Oh!
+- What would be the point?
+
+674
+01:12:56,502 --> 01:12:58,921
+You'll just run out of air
+faster.
+
+675
+01:13:01,131 --> 01:13:03,216
+Maybe that's for the best.
+
+676
+01:13:03,217 --> 01:13:05,510
+Some of the others went
+that way.
+
+677
+01:13:05,511 --> 01:13:08,763
+- Not the worst fate down here.
+- Actually--
+
+678
+01:13:08,764 --> 01:13:11,641
+Actually, I don't want to talk
+anymore.
+
+679
+01:13:11,642 --> 01:13:15,019
+You might still have time
+to talk to them again.
+
+680
+01:13:15,020 --> 01:13:18,940
+- Oh.
+- They don't know the danger of this place.
+
+681
+01:13:18,941 --> 01:13:20,900
+We have to warn them!
+
+682
+01:13:20,901 --> 01:13:22,944
+We can't die down here!
+
+683
+01:13:22,945 --> 01:13:24,946
+I said I don't want to talk.
+
+684
+01:13:24,947 --> 01:13:27,281
+No, you don't understand.
+
+685
+01:13:27,282 --> 01:13:29,492
+You haven't seen the light.
+
+686
+01:13:29,493 --> 01:13:31,202
+You don't...
+
+687
+01:13:31,203 --> 01:13:34,914
+It's been so dark for so long.
+
+688
+01:13:34,915 --> 01:13:36,916
+It changed everything.
+
+689
+01:13:36,917 --> 01:13:39,628
+What are you even
+talking about?
+
+690
+01:13:41,880 --> 01:13:44,298
+It's what caused
+the Quiet Rapture.
+
+691
+01:13:45,843 --> 01:13:48,595
+Or a fragment of it, at least.
+
+692
+01:13:50,472 --> 01:13:52,473
+- What?
+- It was a light--
+
+693
+01:13:52,474 --> 01:13:54,392
+can you believe that?
+
+694
+01:13:54,393 --> 01:13:57,603
+Shining through the hull
+like it didn't even matter,
+
+695
+01:13:57,604 --> 01:14:03,360
+like nothing in this universe
+could ever possibly matter.
+
+696
+01:14:04,486 --> 01:14:06,279
+You actually found something?
+
+697
+01:14:08,282 --> 01:14:10,367
+Does that mean
+you know what happened?
+
+698
+01:14:11,493 --> 01:14:13,703
+Is that how you're still alive?
+
+699
+01:14:13,704 --> 01:14:15,413
+Yes.
+
+700
+01:14:15,414 --> 01:14:18,541
+No. No, no, no.
+This isn't right.
+
+701
+01:14:18,542 --> 01:14:20,585
+I'm forgetting something
+important.
+
+702
+01:14:20,586 --> 01:14:22,712
+We shouldn't be talking
+about this.
+
+703
+01:14:22,713 --> 01:14:25,590
+You have no idea what's waiting
+for us down here.
+
+704
+01:14:25,591 --> 01:14:28,050
+You don't know,
+and it's better that way.
+
+705
+01:14:28,051 --> 01:14:29,677
+Forget about the light.
+
+706
+01:14:29,678 --> 01:14:33,222
+It won't help you.
+And you can't help us.
+
+707
+01:14:33,223 --> 01:14:35,474
+Some things are too dangerous
+to remember. - I...
+
+708
+01:14:37,477 --> 01:14:39,478
+Hold on.
+
+709
+01:14:39,479 --> 01:14:42,399
+I think I have a concussion
+or something.
+
+710
+01:14:43,859 --> 01:14:46,862
+If it's not CO2 buildup,
+my head's not right.
+
+711
+01:14:49,198 --> 01:14:51,283
+I just want to know
+what happened.
+
+712
+01:14:52,367 --> 01:14:53,910
+And you're still alive,
+
+713
+01:14:53,911 --> 01:14:55,411
+so I don't know
+if there's a backup system,
+
+714
+01:14:55,412 --> 01:14:57,205
+but just give me something.
+
+715
+01:15:04,296 --> 01:15:05,755
+Hey, can you still hear me?
+
+716
+01:15:12,930 --> 01:15:14,805
+Please.
+
+717
+01:15:14,806 --> 01:15:18,893
+I don't know
+if you're just my imagination.
+
+718
+01:15:21,605 --> 01:15:23,564
+I don't know
+what's real anymore.
+
+719
+01:15:23,565 --> 01:15:25,526
+I've been losing track of time
+and...
+
+720
+01:15:28,070 --> 01:15:30,155
+I've been seeing some things.
+
+721
+01:15:40,666 --> 01:15:42,583
+Look.
+
+722
+01:15:42,584 --> 01:15:45,545
+I-I just really need you
+to be real right now, okay?
+
+723
+01:15:52,553 --> 01:15:54,345
+I just want to live.
+
+724
+01:15:56,849 --> 01:15:58,392
+Is that so wrong?
+
+725
+01:16:00,269 --> 01:16:02,771
+Why doesn't anybody else
+want that?
+
+726
+01:16:04,982 --> 01:16:07,025
+Everyone on Eden's
+just given up.
+
+727
+01:16:13,490 --> 01:16:16,325
+You know, no one on Eden
+wants to think this way,
+
+728
+01:16:16,326 --> 01:16:18,661
+but what's more likely--
+
+729
+01:16:18,662 --> 01:16:21,205
+that every planet and star
+disappeared
+
+730
+01:16:21,206 --> 01:16:23,583
+or that a few space
+stations disappeared?
+
+731
+01:16:26,545 --> 01:16:28,921
+Isn't it easier to believe
+that they're still there,
+
+732
+01:16:28,922 --> 01:16:30,798
+wondering where all of us went?
+
+733
+01:16:34,136 --> 01:16:35,887
+Isn't that more likely?
+
+734
+01:16:39,224 --> 01:16:40,808
+If it happened...
+
+735
+01:16:43,645 --> 01:16:45,313
+Why can't it happen again?
+
+736
+01:16:50,694 --> 01:16:52,653
+I guess it doesn't matter.
+
+737
+01:16:56,658 --> 01:16:58,284
+Wow.
+
+738
+01:16:58,285 --> 01:16:59,702
+Just...
+
+739
+01:17:03,540 --> 01:17:04,750
+Just if...
+
+740
+01:17:05,834 --> 01:17:07,753
+Oh!
+
+741
+01:17:09,129 --> 01:17:10,713
+It doesn't matter.
+
+742
+01:17:10,714 --> 01:17:13,466
+It doesn't-- It doesn't matter.
+
+743
+01:17:24,561 --> 01:17:26,605
+There's no backup system,
+is there?
+
+744
+01:17:29,566 --> 01:17:30,984
+This piece of shit--
+
+745
+01:17:33,862 --> 01:17:36,989
+They wouldn't put
+a CO2 scrubber in this.
+
+746
+01:17:36,990 --> 01:17:39,492
+They wouldn't put a backup tank.
+
+747
+01:17:39,493 --> 01:17:43,204
+There's no deposits down here.
+
+748
+01:17:43,205 --> 01:17:45,498
+This is the end,
+
+749
+01:17:45,499 --> 01:17:48,668
+And I'm wasting my breath,
+
+750
+01:17:48,669 --> 01:17:51,712
+talking to a phantom...
+
+751
+01:17:51,713 --> 01:17:54,299
+that was never there
+to begin with.
+
+752
+01:17:59,680 --> 01:18:02,808
+Would did you give everything
+just to survive?
+
+753
+01:18:08,981 --> 01:18:10,148
+Yeah.
+
+754
+01:18:15,821 --> 01:18:17,990
+I never had anything
+to begin with.
+
+755
+01:18:22,244 --> 01:18:27,373
+116, 520.
+
+756
+01:18:27,374 --> 01:18:30,459
+We will see the answer
+together,
+
+757
+01:18:30,460 --> 01:18:32,587
+and you will live,
+
+758
+01:18:32,588 --> 01:18:35,464
+and we will be free.
+
+759
+01:18:39,595 --> 01:18:40,720
+Deal.
+
+760
+01:18:43,432 --> 01:18:44,557
+Okay.
+
+761
+01:18:47,728 --> 01:18:49,396
+Okay.
+
+762
+01:18:51,315 --> 01:18:53,317
+116, 520.
+
+763
+01:18:54,818 --> 01:18:57,112
+If that's where you are,
+then they knew you were here.
+
+764
+01:18:58,405 --> 01:19:00,698
+Maybe they were hoping
+that I would find you.
+
+765
+01:19:00,699 --> 01:19:03,492
+They were still looking
+for us?
+
+766
+01:19:03,493 --> 01:19:05,829
+Maybe, yeah.
+
+767
+01:19:07,122 --> 01:19:09,415
+Okay. I'm on the way.
+
+768
+01:19:09,416 --> 01:19:11,876
+I'm, uh--
+
+769
+01:19:11,877 --> 01:19:15,713
+I'm about, um, 380, 614.
+
+770
+01:19:15,714 --> 01:19:17,256
+Not far, I think.
+
+771
+01:19:17,257 --> 01:19:19,008
+It's there.
+
+772
+01:19:19,009 --> 01:19:21,802
+We wouldn't lie.
+Not about this.
+
+773
+01:19:21,803 --> 01:19:23,804
+It's everything.
+
+774
+01:19:23,805 --> 01:19:25,932
+So what is it?
+
+775
+01:19:25,933 --> 01:19:28,809
+What could possibly be
+that important down here?
+
+776
+01:19:28,810 --> 01:19:30,228
+Do you believe in God?
+
+777
+01:19:30,229 --> 01:19:32,813
+Uh, let's not get into that.
+
+778
+01:19:32,814 --> 01:19:35,150
+I hear enough
+of that kind of talk on Eden.
+
+779
+01:19:36,485 --> 01:19:38,819
+An ignorant God
+
+780
+01:19:38,820 --> 01:19:41,781
+sees a sliver of our universe
+through a pinhole
+
+781
+01:19:41,782 --> 01:19:43,449
+and thinks it understands
+
+782
+01:19:43,450 --> 01:19:45,910
+all that is
+and all that will be.
+
+783
+01:19:45,911 --> 01:19:48,746
+- And it will.
+- And why is that?
+
+784
+01:19:48,747 --> 01:19:52,542
+Because a God makes sense
+of what it sees,
+
+785
+01:19:52,543 --> 01:19:55,336
+despite what it should be.
+
+786
+01:19:55,337 --> 01:19:57,338
+What does that even mean?
+
+787
+01:19:57,339 --> 01:20:01,050
+The light-- it illuminates,
+and it blinds.
+
+788
+01:20:01,051 --> 01:20:03,427
+It thinks,
+and therefore we are.
+
+789
+01:20:03,428 --> 01:20:06,557
+Even if your miracle could
+solve all their problems...
+
+790
+01:20:08,100 --> 01:20:10,935
+they would just
+send me down again.
+
+791
+01:20:10,936 --> 01:20:13,312
+Why wouldn't they want
+to save you?
+
+792
+01:20:13,313 --> 01:20:15,815
+Knowledge and skill
+fade every year.
+
+793
+01:20:15,816 --> 01:20:17,191
+Same as the stars.
+
+794
+01:20:17,192 --> 01:20:18,902
+They blame me
+for what happened.
+
+795
+01:20:21,280 --> 01:20:24,031
+I was the only one trying
+to stop it.
+
+796
+01:20:24,032 --> 01:20:26,827
+Blame you? For what?
+
+797
+01:20:28,328 --> 01:20:29,955
+Filament Station.
+
+798
+01:20:31,123 --> 01:20:32,540
+They blame me.
+
+799
+01:20:35,294 --> 01:20:38,422
+What happened
+to Filament Station?
+
+800
+01:20:40,048 --> 01:20:41,383
+Yeah, I, um...
+
+801
+01:20:42,676 --> 01:20:44,720
+Yeah, I really don't want
+to talk about it.
+
+802
+01:20:45,596 --> 01:20:49,849
+What happened
+to Filament Station?
+
+803
+01:20:53,270 --> 01:20:54,354
+It's gone.
+
+804
+01:20:56,064 --> 01:20:57,190
+How do you not know?
+
+805
+01:21:00,152 --> 01:21:01,403
+Filament Station is gone?!
+
+806
+01:21:02,362 --> 01:21:04,071
+Yes.
+
+807
+01:21:04,072 --> 01:21:05,740
+It's gone.
+
+808
+01:21:05,741 --> 01:21:07,992
+Just like everything else
+since the Quiet Rapture.
+
+809
+01:21:07,993 --> 01:21:09,536
+So what does it fucking matter?
+
+810
+01:21:11,121 --> 01:21:12,288
+What do you care?
+
+811
+01:21:15,083 --> 01:21:16,834
+Why does anyone care?
+
+812
+01:21:19,379 --> 01:21:21,340
+Maybe you do deserve this.
+
+813
+01:21:22,716 --> 01:21:24,842
+You think this is fair?
+
+814
+01:21:24,843 --> 01:21:27,053
+I didn't blow up
+Filament Station,
+
+815
+01:21:27,054 --> 01:21:29,222
+but the ones who did
+aren't getting punished.
+
+816
+01:21:29,223 --> 01:21:30,890
+Just me!
+
+817
+01:21:30,891 --> 01:21:32,975
+I didn't get a choice!
+
+818
+01:21:32,976 --> 01:21:34,769
+I just drew the short straw,
+
+819
+01:21:34,770 --> 01:21:38,189
+and then I traded one fancy
+metal box to die in for another
+
+820
+01:21:38,190 --> 01:21:41,567
+while people that I thought were
+my brothers abandoned me!
+
+821
+01:21:44,905 --> 01:21:47,156
+They abandoned me,
+
+822
+01:21:47,157 --> 01:21:48,909
+just like they abandoned you.
+
+823
+01:21:50,494 --> 01:21:52,912
+What does it even matter
+if we meet up?
+
+824
+01:21:52,913 --> 01:21:55,039
+Probably not there.
+
+825
+01:21:55,040 --> 01:21:57,333
+I can't get to the surface,
+and neither can you,
+
+826
+01:21:57,334 --> 01:21:59,293
+so what's the fucking point?!
+
+827
+01:22:11,932 --> 01:22:13,600
+What's the point?
+
+828
+01:22:15,310 --> 01:22:16,645
+I just want to go home.
+
+829
+01:22:40,127 --> 01:22:41,586
+There it is.
+
+830
+01:22:45,883 --> 01:22:47,925
+It's so beautiful.
+
+831
+01:22:47,926 --> 01:22:49,719
+How could we have
+forgotten this?
+
+832
+01:22:52,055 --> 01:22:56,184
+A tiny glimpse
+of answers greater
+
+833
+01:22:56,185 --> 01:22:59,103
+than our infinite.
+
+834
+01:22:59,104 --> 01:23:02,941
+It burst our mind like a tick.
+
+835
+01:23:05,360 --> 01:23:08,738
+Oh, what we would give
+to see it again.
+
+836
+01:23:08,739 --> 01:23:10,156
+What is that?
+
+837
+01:23:10,157 --> 01:23:12,283
+Where are you?
+
+838
+01:23:12,284 --> 01:23:13,911
+There's nothing
+to be afraid of.
+
+839
+01:23:14,995 --> 01:23:16,621
+Not anymore.
+
+840
+01:23:16,622 --> 01:23:19,165
+This wasn't meant for us.
+
+841
+01:23:19,166 --> 01:23:20,583
+I think I'm in the wrong place.
+
+842
+01:23:20,584 --> 01:23:22,543
+We will see, Simon.
+
+843
+01:23:22,544 --> 01:23:25,130
+We will see
+the answer together.
+
+844
+01:23:26,215 --> 01:23:28,716
+They're calling to us.
+
+845
+01:23:28,717 --> 01:23:32,178
+This is our salvation.
+
+846
+01:23:32,179 --> 01:23:35,056
+Our promise.
+
+847
+01:23:39,811 --> 01:23:43,147
+What are you waiting for?
+
+848
+01:23:43,148 --> 01:23:45,816
+The answer is right there.
+
+849
+01:23:49,112 --> 01:23:50,947
+I didn't tell you my name.
+
+850
+01:23:55,160 --> 01:23:56,578
+Yes, you did.
+
+851
+01:23:57,287 --> 01:23:58,287
+Simon!
+
+852
+01:23:58,288 --> 01:24:01,749
+Open your eyes!
+
+853
+01:24:01,750 --> 01:24:03,626
+We will see.
+
+854
+01:24:03,627 --> 01:24:05,920
+We will know.
+
+855
+01:24:05,921 --> 01:24:10,633
+Give us the answers.
+Let us see!
+
+856
+01:24:10,634 --> 01:24:12,927
+We hear them!
+
+857
+01:24:12,928 --> 01:24:14,846
+Our salvation!
+
+858
+01:24:14,847 --> 01:24:16,472
+Our--
+
+859
+01:24:28,402 --> 01:24:31,028
+I see you.
+
+860
+01:24:38,579 --> 01:24:41,205
+I see you.
+
+861
+01:24:50,841 --> 01:24:52,426
+Agreed.
+
+862
+01:25:04,646 --> 01:25:07,148
+We are all...
+
+863
+01:25:07,149 --> 01:25:10,193
+We are one.
+
+864
+01:25:10,194 --> 01:25:12,237
+In the blood.
+
+865
+01:25:14,615 --> 01:25:16,574
+Simon...
+
+866
+01:25:16,575 --> 01:25:20,203
+open your eyes.
+
+867
+01:25:20,204 --> 01:25:21,621
+Simon...
+
+868
+01:25:28,212 --> 01:25:30,214
+Simon...
+
+869
+01:25:33,425 --> 01:25:34,927
+Look.
+
+870
+01:25:37,095 --> 01:25:39,306
+Simon...
+
+871
+01:25:41,350 --> 01:25:43,101
+Simon.
+
+872
+01:25:47,022 --> 01:25:48,064
+Butcher.
+
+873
+01:27:30,375 --> 01:27:33,462
+Hello?
+
+874
+01:27:35,839 --> 01:27:37,882
+- Hello?
+- What?!
+
+875
+01:27:46,350 --> 01:27:47,601
+Is that really you?
+
+876
+01:27:50,062 --> 01:27:53,065
+Stop fucking with me!
+
+877
+01:27:54,399 --> 01:27:55,859
+Who is this?!
+
+878
+01:27:58,654 --> 01:28:00,029
+I don't know what to s--
+
+879
+01:28:00,030 --> 01:28:01,739
+No.
+
+880
+01:28:01,740 --> 01:28:05,535
+No. I'm done, I'm done.
+
+881
+01:28:05,536 --> 01:28:07,955
+I'm done being fucked with!
+
+882
+01:28:09,998 --> 01:28:12,291
+The radio's broken! I broke it!
+
+883
+01:28:12,292 --> 01:28:14,461
+You can't tell me
+that you're you!
+
+884
+01:28:15,963 --> 01:28:18,340
+I don't even know
+how you survived. How-wha--?
+
+885
+01:28:21,218 --> 01:28:22,219
+Hello?
+
+886
+01:28:24,388 --> 01:28:26,389
+Hello?
+
+887
+01:28:26,390 --> 01:28:28,558
+Wh-What did I do
+when I was in the hangar?
+
+888
+01:28:28,559 --> 01:28:29,851
+- What?
+- No, no.
+
+889
+01:28:29,852 --> 01:28:30,977
+How many people were
+in the hangar?!
+
+890
+01:28:30,978 --> 01:28:32,353
+I don't understand. Sorry.
+
+891
+01:28:32,354 --> 01:28:33,855
+Tell me how many people!
+
+892
+01:28:33,856 --> 01:28:36,650
+- Give me a number!
+- Three. Three. Three.
+
+893
+01:28:37,818 --> 01:28:40,946
+Uh, and-- you-- you--
+you took a picture.
+
+894
+01:28:42,155 --> 01:28:44,240
+Yeah? You blasted us
+with radiation.
+
+895
+01:28:44,241 --> 01:28:46,200
+No, no!
+
+896
+01:28:46,201 --> 01:28:48,619
+- You're lying!
+- No. I'm not.
+
+897
+01:28:48,620 --> 01:28:49,829
+You can't be talking to me!
+
+898
+01:28:49,830 --> 01:28:50,956
+I know you're...
+
+899
+01:28:54,751 --> 01:28:55,877
+What?
+
+900
+01:28:55,878 --> 01:28:57,837
+That's not possible.
+
+901
+01:28:57,838 --> 01:28:59,380
+What's wrong?
+
+902
+01:28:59,381 --> 01:29:00,548
+That...
+
+903
+01:29:00,549 --> 01:29:01,967
+What's wrong?
+
+904
+01:29:03,051 --> 01:29:05,428
+Convict, what's wrong?
+
+905
+01:29:05,429 --> 01:29:06,847
+What's my name?
+
+906
+01:29:09,057 --> 01:29:10,433
+This isn't helping.
+
+907
+01:29:10,434 --> 01:29:13,477
+Oh, come on!
+Just tell me my name!
+
+908
+01:29:13,478 --> 01:29:14,854
+Say my name!
+
+909
+01:29:20,652 --> 01:29:22,653
+I don't think
+we ever got your name.
+
+910
+01:29:32,414 --> 01:29:34,457
+You don't even know my...
+
+911
+01:29:40,005 --> 01:29:43,050
+You sent me down here to die,
+and you don't even know my name?
+
+912
+01:29:44,426 --> 01:29:45,844
+We didn't send you to--
+
+913
+01:29:48,222 --> 01:29:49,598
+I'm sorry.
+
+914
+01:29:50,891 --> 01:29:52,600
+Yeah. Look, uh, it's--
+
+915
+01:29:52,601 --> 01:29:55,102
+it's been days
+since your last contact.
+
+916
+01:29:55,103 --> 01:29:57,813
+You should have
+run out of oxygen by now.
+
+917
+01:29:57,814 --> 01:30:00,776
+- How are you still alive?
+- I, uh...
+
+918
+01:30:01,985 --> 01:30:03,070
+I'm not sure.
+
+919
+01:30:04,988 --> 01:30:07,366
+It says I have one light left.
+
+920
+01:30:09,576 --> 01:30:11,244
+I really don't know.
+
+921
+01:30:11,245 --> 01:30:14,247
+I-I-I don't know.
+
+922
+01:30:14,248 --> 01:30:15,624
+I thought I died.
+
+923
+01:30:16,834 --> 01:30:18,418
+I might have died.
+
+924
+01:30:20,546 --> 01:30:24,966
+I-I don't know.
+I don't even know where I am.
+
+925
+01:30:41,108 --> 01:30:43,067
+I...
+
+926
+01:30:43,068 --> 01:30:44,944
+I, um...
+
+927
+01:30:44,945 --> 01:30:48,781
+Uh, I, uh...
+
+928
+01:30:48,782 --> 01:30:52,785
+I think I've done enough and...
+
+929
+01:30:52,786 --> 01:30:55,955
+I would really...
+
+930
+01:30:55,956 --> 01:30:59,209
+I would really like
+to not be down here anymore.
+
+931
+01:31:01,003 --> 01:31:02,086
+Please.
+
+932
+01:31:06,341 --> 01:31:07,551
+I know.
+
+933
+01:31:09,803 --> 01:31:11,680
+I don't think that's possible.
+
+934
+01:31:13,640 --> 01:31:16,017
+I had nothing
+to do with Filament Station.
+
+935
+01:31:16,018 --> 01:31:17,394
+I swear!
+
+936
+01:31:18,645 --> 01:31:21,230
+That wasn't part of the plan.
+
+937
+01:31:21,231 --> 01:31:22,565
+They didn't listen to me.
+
+938
+01:31:22,566 --> 01:31:24,026
+I'm really sorry.
+
+939
+01:31:25,527 --> 01:31:29,030
+It's not a matter of want
+right now. -
+
+940
+01:31:29,031 --> 01:31:31,532
+We can't risk any more dives.
+
+941
+01:31:31,533 --> 01:31:33,951
+But what about the mission?!
+
+942
+01:31:33,952 --> 01:31:35,912
+What about everything
+I learned?!
+
+943
+01:31:35,913 --> 01:31:37,496
+What about the sample?!
+
+944
+01:31:37,497 --> 01:31:40,333
+The reason I came down here
+in the first place?!
+
+945
+01:31:40,334 --> 01:31:42,169
+You need that, right?
+
+946
+01:31:44,171 --> 01:31:45,714
+Yeah. Um...
+
+947
+01:31:47,549 --> 01:31:50,009
+It's not worth the risk.
+
+948
+01:31:50,010 --> 01:31:52,261
+A bone fragment isn't gonna
+tell us anything
+
+949
+01:31:52,262 --> 01:31:54,973
+that we haven't already seen
+with our own eyes.
+
+950
+01:31:56,266 --> 01:31:58,392
+This isn't about your past.
+
+951
+01:31:58,393 --> 01:32:00,978
+It's not punishment.
+
+952
+01:32:00,979 --> 01:32:03,272
+And I know it's not fair.
+
+953
+01:32:03,273 --> 01:32:07,819
+But our new orders are to hold
+and observe.
+
+954
+01:32:09,404 --> 01:32:12,782
+So after everything
+I've been through,
+
+955
+01:32:12,783 --> 01:32:14,158
+you're just gonna leave me
+down here?
+
+956
+01:32:19,164 --> 01:32:20,374
+I'm sorry.
+
+957
+01:32:24,086 --> 01:32:25,211
+Yeah.
+
+958
+01:32:46,567 --> 01:32:48,277
+Has anyone ever made it up?
+
+959
+01:32:50,112 --> 01:32:51,238
+Yes.
+
+960
+01:32:55,284 --> 01:32:56,701
+Did you know their names?
+
+961
+01:33:06,003 --> 01:33:08,713
+You know,
+I remember what you said
+
+962
+01:33:08,714 --> 01:33:11,507
+when you said I was
+the first one down here.
+
+963
+01:33:11,508 --> 01:33:13,134
+I was thinking about it
+when I was looking at
+
+964
+01:33:13,135 --> 01:33:16,012
+the wreck of the other ship
+you left down here.
+
+965
+01:33:16,013 --> 01:33:20,309
+The, um, the SM-8.
+
+966
+01:33:21,935 --> 01:33:23,769
+I almost didn't notice
+the name on account
+
+967
+01:33:23,770 --> 01:33:26,481
+of the big fucking hole
+in the side of it.
+
+968
+01:33:28,150 --> 01:33:29,942
+- I was--
+- SM-8?
+
+969
+01:33:29,943 --> 01:33:32,111
+- Did he just say--
+- I-I-I-I'm not sure.
+
+970
+01:33:32,112 --> 01:33:33,529
+Did you say SM-8?
+
+971
+01:33:33,530 --> 01:33:35,240
+How do you know about
+that ship?
+
+972
+01:33:36,783 --> 01:33:39,620
+It had letters on it.
+I can read.
+
+973
+01:33:40,829 --> 01:33:42,289
+You found the SM-8?
+
+974
+01:33:43,498 --> 01:33:44,499
+Yeah.
+
+975
+01:33:48,253 --> 01:33:49,463
+Yeah, I did.
+
+976
+01:33:50,339 --> 01:33:53,799
+And not only that,
+when I found it, the computer,
+
+977
+01:33:53,800 --> 01:33:56,427
+it connected to it, but it was
+downloading something.
+
+978
+01:33:56,428 --> 01:33:58,387
+- Something about...
+- Insufficient privileges, leave the area immediately
+
+979
+01:33:58,388 --> 01:33:59,680
+Uh, something about
+a black box! - or surrender yourself
+
+980
+01:33:59,681 --> 01:34:00,765
+to council authority.
+
+981
+01:34:00,766 --> 01:34:02,059
+An archive. Right?
+
+982
+01:34:03,393 --> 01:34:05,978
+I'm right, aren't I?
+
+983
+01:34:05,979 --> 01:34:09,315
+Well, if you want it, you
+gotta come down here and get it.
+
+984
+01:34:09,316 --> 01:34:12,193
+That's the deal.
+That's fair. That's fair.
+
+985
+01:34:12,194 --> 01:34:14,070
+I went through hell,
+but I came back with something
+
+986
+01:34:14,071 --> 01:34:16,113
+a lot better than
+a piece of bone.
+
+987
+01:34:16,114 --> 01:34:18,241
+But if you want it,
+you have to get me out.
+
+988
+01:34:18,242 --> 01:34:20,244
+That's fair.
+
+989
+01:34:21,370 --> 01:34:25,498
+Th-There's no way that your
+computer downloaded anything.
+
+990
+01:34:25,499 --> 01:34:26,999
+You don't have
+the right credentials.
+
+991
+01:34:27,000 --> 01:34:28,501
+That computer
+shouldn't even be active
+
+992
+01:34:28,502 --> 01:34:30,211
+without us giving you
+the login.
+
+993
+01:34:30,212 --> 01:34:32,797
+No, no, no.
+I'm not lying. There was a note.
+
+994
+01:34:32,798 --> 01:34:34,632
+Someone told me
+to splice the wires,
+
+995
+01:34:34,633 --> 01:34:36,384
+and I know big secret's out.
+
+996
+01:34:36,385 --> 01:34:39,387
+I'm not the first one down here,
+but this is what you need!
+
+997
+01:34:39,388 --> 01:34:40,973
+Isn't this what you wanted?!
+
+998
+01:34:43,141 --> 01:34:46,102
+Come on. I'm not lying.
+
 999
-01:27:33,804 --> 01:27:34,644
-Keep your eyes open.
+01:34:46,103 --> 01:34:48,896
+I saw it, I fell in a cave,
+and I went down
 
 1000
-01:27:35,270 --> 01:27:36,990
-You never know what we might discover here.
+01:34:48,897 --> 01:34:50,398
+and I navigated through it
 
 1001
-01:27:38,760 --> 01:27:39,506
-Wouh.
+01:34:50,399 --> 01:34:52,316
+and I found this ship
+that was still powered.
 
 1002
-01:27:46,354 --> 01:27:48,120
-I thought they were extinct.
+01:34:52,317 --> 01:34:53,943
+The computer connected to it.
 
 1003
-01:27:55,751 --> 01:27:57,411
-I can't believe it.
+01:34:53,944 --> 01:34:56,196
+It was trying to download.
+I'm telling the truth!
 
 1004
-01:27:57,844 --> 01:27:59,154
-The original airbenders.
+01:35:00,075 --> 01:35:03,077
+How far are you from it
+right now?
 
 1005
-01:28:05,809 --> 01:28:08,970
-Oh, can I have one?
+01:35:03,078 --> 01:35:06,455
+- I mean, not far, I think.
+- Okay.
 
 1006
-01:28:10,392 --> 01:28:12,138
-Appa, yip-yip.
+01:35:06,456 --> 01:35:08,833
+If I give you the right
+credentials for the computer
+
+1007
+01:35:08,834 --> 01:35:10,793
+and you did actually find
+the SM-8, then
+
+1008
+01:35:10,794 --> 01:35:13,337
+you should be able to download
+all of their data, right?
+
+1009
+01:35:13,338 --> 01:35:16,299
+Okay. We put power redundancies
+into the black boxes
+
+1010
+01:35:16,300 --> 01:35:19,260
+for just that reason in case--
+Well, you know.
+
+1011
+01:35:19,261 --> 01:35:22,972
+Yeah. But-- But tell me.
+
+1012
+01:35:22,973 --> 01:35:25,725
+If I do this, you get me out.
+
+1013
+01:35:25,726 --> 01:35:30,062
+If you do this,
+I'll get you myself.
+
+1014
+01:35:30,063 --> 01:35:32,023
+Believe it or not,
+we've salvaged these before.
+
+1015
+01:35:32,024 --> 01:35:33,482
+- And if we're fast--
+- Wait, wait. If we're fast?
+
+1016
+01:35:33,483 --> 01:35:34,942
+What are you talking about?
+
+1017
+01:35:34,943 --> 01:35:36,694
+This is not happening.
+We have orders.
+
+1018
+01:35:36,695 --> 01:35:38,446
+You have orders.
+
+1019
+01:35:38,447 --> 01:35:39,906
+This is my ship,
+and it's my call.
+
+1020
+01:35:39,907 --> 01:35:41,616
+- Get 14 prepped.
+- Captain.
+
+1021
+01:35:41,617 --> 01:35:43,534
+Convict, the SM-8 wasn't
+just another sub.
+
+1022
+01:35:43,535 --> 01:35:45,786
+We put equipment on it
+that we can't make anymore.
+
+1023
+01:35:45,787 --> 01:35:46,954
+Things that we'll never make
+again.
+
+1024
+01:35:46,955 --> 01:35:48,456
+Ava. Look at me!
+
+1025
+01:35:48,457 --> 01:35:51,417
+He is lying!
+He will say anything!
+
+1026
+01:35:51,418 --> 01:35:53,085
+- Are you out of your mind?
+- Are you?
+
+1027
+01:35:53,086 --> 01:35:55,254
+If he's right and we
+do nothing--
+
+1028
+01:35:55,255 --> 01:35:56,964
+No, David,
+this is bigger than us.
+
+1029
+01:35:56,965 --> 01:35:58,841
+Oh, my God, enough with
+the slogan!
+
+1030
+01:35:58,842 --> 01:36:01,344
+It is not worth it!
+He is not worth it!
+
+1031
+01:36:01,345 --> 01:36:04,639
+It is not worth losing you
+over some fucking criminal!
+
+1032
+01:36:04,640 --> 01:36:06,433
+It is worth anything!
+
+1033
+01:36:08,393 --> 01:36:09,936
+And you're lucky
+I'm not sending
+
+1034
+01:36:09,937 --> 01:36:12,396
+you down there instead.
+
+1035
+01:36:12,397 --> 01:36:14,357
+Convict, you said
+you mapped it.
+
+1036
+01:36:14,358 --> 01:36:16,651
+- Do you have the coordinates?
+- Okay.
+
+1037
+01:36:16,652 --> 01:36:18,402
+When the line broke,
+I landed off the map
+
+1038
+01:36:18,403 --> 01:36:20,112
+in some kind of fucked-up cave.
+
+1039
+01:36:20,113 --> 01:36:22,156
+I don't know, but the ship was
+the last thing I found.
+
+1040
+01:36:22,157 --> 01:36:24,742
+About 725, maybe 500.
+
+1041
+01:36:24,743 --> 01:36:26,827
+It was right next to
+the only way out I could find.
+
+1042
+01:36:26,828 --> 01:36:30,665
+And that was-- It spat
+me out around 380, 615.
+
+1043
+01:36:30,666 --> 01:36:33,042
+Alright, here's the plan.
+We'll get prepped on our end.
+
+1044
+01:36:33,043 --> 01:36:35,253
+And if you can make it to
+the SM-8 and back out,
+
+1045
+01:36:35,254 --> 01:36:38,172
+we can meet you outside
+the entrance in 30 minutes.
+
+1046
+01:36:38,173 --> 01:36:39,924
+But I'm serious.
+
+1047
+01:36:39,925 --> 01:36:41,342
+You have got to be there
+in 30 minutes or I'm gone.
+
+1048
+01:36:41,343 --> 01:36:43,594
+- Understood?
+- Yeah, I understand.
+
+1049
+01:36:43,595 --> 01:36:45,763
+Um, so how do I get the files?
+
+1050
+01:36:45,764 --> 01:36:49,183
+Go to the computer.
+Press Ctrl, Alt, Shift, 9.
+
+1051
+01:36:49,184 --> 01:36:51,561
+You should see a window pop up.
+Username-- admin.
+
+1052
+01:36:51,562 --> 01:36:56,608
+Password all caps: 7X11F26A311.
+
+1053
+01:36:59,027 --> 01:37:02,488
+Um, Ctrl, Alt, Shift what?
+
+1054
+01:37:02,489 --> 01:37:04,115
+- Nine.
+- Confirmed.
+
+1055
+01:37:04,116 --> 01:37:05,616
+- Enter your passcode.
+- Username-- admin.
+
+1056
+01:37:05,617 --> 01:37:11,205
+Password all caps: 7X11F26A311.
+
+1057
+01:37:11,206 --> 01:37:13,249
+- Tell me when you have it.
+- Confirmed. Switching mode.
+
+1058
+01:37:13,250 --> 01:37:15,126
+- Welcome, Admin Ava.
+- I'm in.
+
+1059
+01:37:15,127 --> 01:37:17,587
+Okay. 30 minutes, in and out.
+
+1060
+01:37:17,588 --> 01:37:19,672
+If you miss the window,
+you miss your chance.
+
+1061
+01:37:19,673 --> 01:37:23,926
+But if we could pull this off,
+there's hope for the COI,
+
+1062
+01:37:23,927 --> 01:37:26,012
+for Eden, for everyone.
+
+1063
+01:37:26,013 --> 01:37:28,306
+Nothing else
+matters compared to this.
+
+1064
+01:37:28,307 --> 01:37:31,475
+But if you're not there,
+you're not going home.
+
+1065
+01:37:31,476 --> 01:37:33,769
+- 30 minutes.
+- Okay.
+
+1066
+01:37:33,770 --> 01:37:35,980
+I can do that. 30 minutes.
+
+1067
+01:37:35,981 --> 01:37:37,648
+I can do that. It's easy.
+
+1068
+01:37:37,649 --> 01:37:42,028
+I just go in and out and then
+all of humanity's saved.
+
+1069
+01:37:42,029 --> 01:37:43,155
+And then I'm free.
+
+1070
+01:37:46,783 --> 01:37:47,993
+And then you're free.
+
+1071
+01:37:50,829 --> 01:37:52,455
+Deal.
+
+1072
+01:37:52,456 --> 01:37:53,498
+By the way...
+
+1073
+01:37:55,209 --> 01:37:56,376
+What?
+
+1074
+01:37:57,836 --> 01:37:59,087
+My name is Ava.
+
+1075
+01:38:05,302 --> 01:38:06,512
+Simon.
+
+1076
+01:38:08,222 --> 01:38:10,349
+Let's get this done, Simon.
+
+1077
+01:38:15,896 --> 01:38:18,357
+David, pull Jack out of
+medical.
+
+1078
+01:38:19,274 --> 01:38:21,526
+- What?
+- Tell him I need one last weld.
+
+1079
+01:38:21,527 --> 01:38:24,862
+- Ava! Jack can't even stand!
+- Then hold him up!
+
+1080
+01:38:24,863 --> 01:38:27,491
+Just-- Just tell him!
+
+1081
+01:38:28,951 --> 01:38:30,326
+Yes, ma'am.
+
+1082
+01:38:44,883 --> 01:38:46,176
+Eyes up, convict.
+
+1083
+01:38:46,844 --> 01:38:48,886
+I've been assigned
+to carry out your penance.
+
+1084
+01:38:48,887 --> 01:38:51,347
+- I promise...
+- I'll be honest.
+
+1085
+01:38:51,348 --> 01:38:53,099
+Any other captain would
+have had you killed on sight.
+
+1086
+01:38:53,100 --> 01:38:55,393
+So you should consider
+yourself lucky.
+
+1087
+01:38:55,394 --> 01:38:56,978
+- Everything is gone...
+- She was looking for me.
+
+1088
+01:38:56,979 --> 01:38:59,063
+Well, you are lucky.
+
+1089
+01:38:59,064 --> 01:39:01,732
+62 others didn't make it
+out of Filament Station.
+
+1090
+01:39:01,733 --> 01:39:04,110
+And no, that doesn't
+include your compatriots.
+
+1091
+01:39:04,111 --> 01:39:05,319
+Leave him.
+
+1092
+01:39:05,320 --> 01:39:06,529
+We're all dead anyway.
+
+1093
+01:39:06,530 --> 01:39:08,990
+I didn't want them to die.
+
+1094
+01:39:08,991 --> 01:39:12,159
+Excuse me?
+What the fuck did you just say?
+
+1095
+01:39:12,160 --> 01:39:14,579
+When did you grow a conscience,
+Simon?
+
+1096
+01:39:14,580 --> 01:39:16,247
+We are but flesh.
+
+1097
+01:39:16,248 --> 01:39:18,917
+You got the highest body count
+out here, killer.
+
+1098
+01:39:20,544 --> 01:39:23,796
+Not one of us has more blood
+on their hands than you.
+
+1099
+01:39:23,797 --> 01:39:26,883
+- But that flesh has purpose yet.
+- Please, I--
+
+1100
+01:39:26,884 --> 01:39:29,761
+Simon the Butcher
+lost his nerve.
+
+1101
+01:39:30,804 --> 01:39:34,140
+You're gonna have to kill
+your own brothers to stop this.
+
+1102
+01:39:34,141 --> 01:39:35,725
+You're not my brother.
+
+1103
+01:39:35,726 --> 01:39:37,810
+Your words, not mine, Butcher.
+
+1104
+01:39:37,811 --> 01:39:40,771
+- I wasn't even there.
+- Everything bad is happening.
+
+1105
+01:39:40,772 --> 01:39:44,902
+I'm just the guy that told you
+to cross the wires.
+
+1106
+01:39:46,278 --> 01:39:50,281
+The Consolidation
+can wallow in their secrets.
+
+1107
+01:39:50,282 --> 01:39:54,327
+We must bear these burdens,
+these hardships,
+
+1108
+01:39:54,328 --> 01:39:57,663
+this anger, this sorrow.
+
+1109
+01:39:57,664 --> 01:40:00,791
+- Fire!
+- Evacuate. Evacuate.
+
+1110
+01:40:00,792 --> 01:40:04,253
+- We must bear it.
+- We have a dream.
+
+1111
+01:40:04,254 --> 01:40:07,256
+- We are the keepers of Eden.
+- It'll feel just like home.
+
+1112
+01:40:07,257 --> 01:40:09,258
+We must help them.
+
+1113
+01:40:09,259 --> 01:40:12,053
+- Simon, don't be like that.
+- I don't have it.
+
+1114
+01:40:12,054 --> 01:40:13,679
+You'll love it there.
+
+1115
+01:40:13,680 --> 01:40:15,348
+Council authority
+confiscates them.
+
+1116
+01:40:15,349 --> 01:40:17,475
+They're hoping to start
+a garden of their own someday.
+
+1117
+01:40:17,476 --> 01:40:19,852
+Our duty is not done.
+
+1118
+01:40:19,853 --> 01:40:22,230
+The last tree is dead.
+
+1119
+01:40:22,231 --> 01:40:25,483
+- What?
+- The last tree will live again.
+
+1120
+01:40:25,484 --> 01:40:27,318
+It's Eden's grave.
+
+1121
+01:40:27,319 --> 01:40:31,155
+When the last Son of Eden
+joins the grove,
+
+1122
+01:40:31,156 --> 01:40:33,699
+there will be a thousand trees.
+
+1123
+01:40:33,700 --> 01:40:35,368
+You may think
+that there's no soil,
+
+1124
+01:40:35,369 --> 01:40:37,620
+- but we know.
+- We will die.
+
+1125
+01:40:37,621 --> 01:40:41,290
+- We know that when we die...
+- When we die...
+
+1126
+01:40:41,291 --> 01:40:44,502
+Our bodies
+will become the soil.
+
+1127
+01:40:44,503 --> 01:40:47,046
+Simon, how about we just stay
+focused on the mission?
+
+1128
+01:40:47,047 --> 01:40:49,465
+Now, once you're down there,
+you're going to be on your own.
+
+1129
+01:40:49,466 --> 01:40:51,050
+- It's a trap.
+- You'll have to navigate
+
+1130
+01:40:51,051 --> 01:40:53,094
+- the ocean floor carefully.
+- It's right behind you.
+
+1131
+01:40:53,095 --> 01:40:54,679
+The map is current.
+
+1132
+01:40:54,680 --> 01:40:56,097
+Things might change
+and look different
+
+1133
+01:40:56,098 --> 01:40:57,557
+- once you're down there.
+- It's still there.
+
+1134
+01:40:57,558 --> 01:40:58,975
+Take as many pictures
+as possible,
+
+1135
+01:40:58,976 --> 01:41:00,393
+both for navigation
+and for us to...
+
+1136
+01:41:00,394 --> 01:41:01,687
+On your left.
+
+1137
+01:41:06,066 --> 01:41:07,275
+They're watching you.
+
+1138
+01:42:39,159 --> 01:42:40,160
+Okay.
+
+1139
+01:42:41,453 --> 01:42:42,620
+Now what?
+
+1140
+01:42:52,381 --> 01:42:53,674
+Connecting.
+
+1141
+01:42:55,008 --> 01:42:58,052
+Wait, wait, wait.
+
+1142
+01:42:58,053 --> 01:43:01,097
+Wait, wait.
+
+1143
+01:43:01,098 --> 01:43:04,684
+Oxygen, fuel, pressure, all...
+
+1144
+01:43:04,685 --> 01:43:07,854
+Initiating black box
+recovery program.
+
+1145
+01:43:07,855 --> 01:43:09,564
+Okay.
+
+1146
+01:43:09,565 --> 01:43:11,023
+That looks good.
+
+1147
+01:43:11,024 --> 01:43:14,902
+Downloading. Wait, wait, wait,
+
+1148
+01:43:14,903 --> 01:43:21,409
+wait, wait, wait, wait, wait,
+
+1149
+01:43:21,410 --> 01:43:30,459
+wait, wait, wait, wait,
+wait, wait, wait, wait.
+
+1150
+01:43:30,460 --> 01:43:32,045
+Complete. All files confirmed.
+
+1151
+01:43:34,047 --> 01:43:35,799
+That looks good.
+
+1152
+01:43:39,720 --> 01:43:40,971
+Is that it?
+
+1153
+01:43:44,308 --> 01:43:45,684
+I think that's it.
+
+1154
+01:43:46,810 --> 01:43:47,978
+Okay.
+
+1155
+01:43:49,563 --> 01:43:50,814
+Okay.
+
+1156
+01:43:56,236 --> 01:43:58,530
+Okay. Okay.
+
+1157
+01:43:59,406 --> 01:44:00,781
+Almost there.
+
+1158
+01:44:17,424 --> 01:44:18,884
+Hello?
+
+1159
+01:44:20,844 --> 01:44:24,014
+I don't know.
+What am I supposed to say?
+
+1160
+01:44:26,892 --> 01:44:29,519
+I'm losing track of things.
+I...
+
+1161
+01:44:29,520 --> 01:44:31,062
+I might have recorded this
+already.
+
+1162
+01:44:31,063 --> 01:44:33,899
+I--
+It doesn't matter anymore.
+
+1163
+01:44:35,192 --> 01:44:38,110
+The pressure alarm finally
+shut up.
+
+1164
+01:44:38,111 --> 01:44:40,821
+For whatever good that does...
+
+1165
+01:44:40,822 --> 01:44:44,784
+We told you to stop...
+
+1166
+01:44:44,785 --> 01:44:46,453
+Stay on your side!
+
+1167
+01:44:48,288 --> 01:44:51,917
+We told you to stop
+fucking drinking it.
+
+1168
+01:44:53,961 --> 01:44:55,128
+We know!
+
+1169
+01:44:56,630 --> 01:44:59,131
+I know. It's just...
+
+1170
+01:44:59,132 --> 01:45:02,886
+- It's not good for you.
+- Don't fucking say it!
+
+1171
+01:45:04,221 --> 01:45:05,721
+Don't fucking say it.
+
+1172
+01:45:10,352 --> 01:45:11,854
+You were right.
+
+1173
+01:45:12,980 --> 01:45:15,356
+This ocean is different
+from the rest.
+
+1174
+01:45:15,357 --> 01:45:19,402
+But we shouldn't be here.
+
+1175
+01:45:19,403 --> 01:45:22,780
+Yes, we can synthesize food
+from it,
+
+1176
+01:45:22,781 --> 01:45:26,617
+but... I don't think we should.
+
+1177
+01:45:26,618 --> 01:45:28,452
+It shouldn't be possible,
+
+1178
+01:45:28,453 --> 01:45:31,497
+but... it's human.
+
+1179
+01:45:31,498 --> 01:45:34,500
+The blood-- It's us.
+
+1180
+01:45:34,501 --> 01:45:36,460
+We don't know what that means.
+
+1181
+01:45:36,461 --> 01:45:40,131
+We think--
+I think it was the anomaly.
+
+1182
+01:45:40,132 --> 01:45:44,093
+It's at 116, 520.
+
+1183
+01:45:44,094 --> 01:45:49,265
+We only saw it with the samples
+we took from near... the light.
+
+1184
+01:45:49,266 --> 01:45:53,352
+A fragment of what caused
+the Quiet Rapture.
+
+1185
+01:45:53,353 --> 01:45:55,189
+This could actually be
+an answer.
+
+1186
+01:45:55,981 --> 01:45:58,775
+But without the ability to
+study further, we can only--
+
+1187
+01:45:59,943 --> 01:46:01,194
+He went in.
+
+1188
+01:46:01,195 --> 01:46:02,570
+How did we forget?
+
+1189
+01:46:02,571 --> 01:46:06,949
+It... It was everything we saw.
+
+1190
+01:46:06,950 --> 01:46:09,702
+We saw the answer.
+
+1191
+01:46:09,703 --> 01:46:11,412
+- Ava.
+- Ava.
+
+1192
+01:46:11,413 --> 01:46:13,164
+- You have to find us.
+- You have to find us.
+
+1193
+01:46:13,165 --> 01:46:15,124
+We need to see it.
+
+1194
+01:46:15,125 --> 01:46:17,168
+It was meant for us.
+
+1195
+01:46:17,169 --> 01:46:18,711
+Please!
+
+1196
+01:46:18,712 --> 01:46:22,006
+The answer is right there!
+
+1197
+01:46:22,007 --> 01:46:25,551
+It was meant for us!
+We need to see it!
+
+1198
+01:46:25,552 --> 01:46:28,387
+We need to see.
+
+1199
+01:46:28,388 --> 01:46:29,514
+What the fuck?
+
+1200
+01:46:29,515 --> 01:46:30,681
+We need to...
+
+1201
+01:47:55,893 --> 01:47:57,101
+What is that?
+
+1202
+01:48:34,389 --> 01:48:38,017
+If you're gonna kill me,
+just fucking kill me.
+
+1203
+01:48:38,018 --> 01:48:39,352
+- Ava.
+- Simon!
+
+1204
+01:48:39,353 --> 01:48:40,520
+- I'm here.
+- Simon!
+
+1205
+01:48:40,521 --> 01:48:42,438
+You got to get me out of here.
+
+1206
+01:48:42,439 --> 01:48:44,524
+- Did you-- Did you get it?
+- I think I'm sick or something.
+
+1207
+01:48:44,525 --> 01:48:46,192
+Simon, shut up
+and listen to me!
+
+1208
+01:48:46,193 --> 01:48:48,110
+I don't know what's happening
+to me.
+
+1209
+01:48:48,111 --> 01:48:49,570
+I need you to get
+something from the crawlspace.
+
+1210
+01:48:49,571 --> 01:48:51,531
+Trust me on this.
+
+1211
+01:48:51,532 --> 01:48:53,533
+There's something down there
+that you need to keep safe.
+
+1212
+01:48:53,534 --> 01:48:55,826
+Okay? No matter what, you need
+to get it out of there safely.
+
+1213
+01:48:55,827 --> 01:48:56,953
+Do you understand?
+
+1214
+01:48:56,954 --> 01:48:58,829
+You can't be serious.
+
+1215
+01:48:58,830 --> 01:49:01,916
+Ava, I just went through hell
+to get this.
+
+1216
+01:49:01,917 --> 01:49:04,669
+- What did you do, Simon?
+- Simon, I know what I said!
+
+1217
+01:49:04,670 --> 01:49:07,922
+- It doesn't matter anymore!
+- You had to drag her down
+
+1218
+01:49:07,923 --> 01:49:10,842
+- to hell with you.
+- ...to finish the plan.
+
+1219
+01:49:10,843 --> 01:49:12,844
+You are the only one that can!
+
+1220
+01:49:12,845 --> 01:49:15,888
+- Everything is...
+- She can't hear us.
+
+1221
+01:49:15,889 --> 01:49:18,182
+- And she can't save you.
+- No matter what happens,
+
+1222
+01:49:18,183 --> 01:49:20,226
+that data needs to survive
+if any of this is gonna...
+
+1223
+01:49:20,227 --> 01:49:23,229
+She's going to copy
+what you stole from our ship
+
+1224
+01:49:23,230 --> 01:49:26,107
+- and leave you to die.
+- Do you understand me?
+
+1225
+01:49:26,108 --> 01:49:28,776
+Better than you deserve,
+Butcher.
+
+1226
+01:49:28,777 --> 01:49:29,944
+Simon?
+
+1227
+01:49:29,945 --> 01:49:31,988
+But you can still redeem
+yourself.
+
+1228
+01:49:31,989 --> 01:49:33,823
+- Simon.
+- Destroy the data.
+
+1229
+01:49:33,824 --> 01:49:35,950
+- Do you have it?
+- Tell her the SM-8 is lost.
+
+1230
+01:49:35,951 --> 01:49:37,577
+Please tell me you have it.
+
+1231
+01:49:37,578 --> 01:49:41,289
+None can be allowed
+to see the light again.
+
+1232
+01:49:41,290 --> 01:49:43,124
+Simon, you have to go now!
+
+1233
+01:49:43,125 --> 01:49:44,459
+What are you waiting for?!
+
+1234
+01:49:45,752 --> 01:49:47,628
+We had a deal.
+
+1235
+01:49:47,629 --> 01:49:50,214
+Not everyone gets to be saved!
+
+1236
+01:49:50,215 --> 01:49:52,675
+- Do the right thing.
+- What are you talking about?
+
+1237
+01:49:52,676 --> 01:49:54,093
+You said you'd get me
+out of here.
+
+1238
+01:49:54,094 --> 01:49:56,262
+- That was the deal!
+- Simon, please!
+
+1239
+01:49:56,263 --> 01:49:58,807
+Simon, please listen to me!
+
+1240
+01:50:00,726 --> 01:50:01,935
+It's worth it.
+
+1241
+01:50:03,270 --> 01:50:07,733
+You deserve... your freedom.
+
+1242
+01:50:09,276 --> 01:50:13,780
+And I'm sorry
+that I can't give that to you.
+
+1243
+01:50:14,948 --> 01:50:16,241
+But it's worth it.
+
+1244
+01:50:17,743 --> 01:50:19,536
+It is more than me.
+
+1245
+01:50:21,121 --> 01:50:24,207
+It's more than you.
+
+1246
+01:50:24,208 --> 01:50:26,417
+- It's bigger than...
+- Ava.
+
+1247
+01:50:26,418 --> 01:50:28,085
+- We're sorry.
+- Please!
+
+1248
+01:50:28,086 --> 01:50:30,087
+The black box!
+It's in the crawl--
+
+1249
+01:50:30,088 --> 01:50:32,049
+Oh, my God! Oh, my God!
+
+1250
+01:50:37,137 --> 01:50:39,181
+Painless.
+
+1251
+01:50:42,684 --> 01:50:45,728
+Why do we have to do this?
+
+1252
+01:50:45,729 --> 01:50:47,730
+Why only you?
+
+1253
+01:50:47,731 --> 01:50:49,815
+Why you, Simon?
+
+1254
+01:50:49,816 --> 01:50:51,609
+Why you?!
+
+1255
+01:50:51,610 --> 01:50:54,237
+Her blood is on your hands.
+
+1256
+01:50:54,238 --> 01:50:58,908
+How many more bodies would you
+climb over to save yourself?
+
+1257
+01:50:58,909 --> 01:51:02,078
+Always thinking of the life
+you'll never get back.
+
+1258
+01:51:02,079 --> 01:51:05,122
+Thinking of a mother
+who wouldn't even recognize
+
+1259
+01:51:05,123 --> 01:51:07,667
+the killer she spawned.
+
+1260
+01:51:07,668 --> 01:51:09,961
+Or maybe she'd be proud.
+
+1261
+01:51:09,962 --> 01:51:13,965
+Is death the only thing
+she taught you?
+
+1262
+01:51:13,966 --> 01:51:17,510
+Half measured, half committed.
+
+1263
+01:51:17,511 --> 01:51:19,595
+Never enough!
+
+1264
+01:51:19,596 --> 01:51:22,391
+There is nothing else for us
+now.
+
+1265
+01:51:23,559 --> 01:51:24,893
+Nothing else.
+
+1266
+01:51:26,144 --> 01:51:27,396
+What do you know?
+
+1267
+01:51:28,397 --> 01:51:31,023
+You're just a piece of shit that
+doesn't even know it's dead.
+
+1268
+01:51:31,024 --> 01:51:32,525
+What do you know?!
+
+1269
+01:51:32,526 --> 01:51:34,986
+We know more than enough!
+
+1270
+01:51:34,987 --> 01:51:38,739
+Butcher! The light
+must be forgotten!
+
+1271
+01:51:38,740 --> 01:51:42,410
+This madness ends with you!
+
+1272
+01:51:42,411 --> 01:51:45,329
+You think we're just gonna give
+you what you want?
+
+1273
+01:51:45,330 --> 01:51:47,291
+Fuck that and fuck you!
+
+1274
+01:51:49,918 --> 01:51:51,044
+You want to eat me?!
+
+1275
+01:51:52,546 --> 01:51:53,921
+Come and try!
+
+1276
+01:52:02,514 --> 01:52:04,265
+Simon.
+
+1277
+01:52:04,266 --> 01:52:07,227
+Simon!
+
+1278
+01:52:10,522 --> 01:52:12,315
+Oh, fuck me.
+
+1279
+01:52:27,331 --> 01:52:29,790
+Oh, fuck me!
+
+1280
+01:53:15,796 --> 01:53:18,464
+Fuck! Fuck!
+
+1281
+01:53:20,259 --> 01:53:21,259
+Fuck!
+
+1282
+01:53:31,854 --> 01:53:33,021
+Fuck!
+
+1283
+01:53:35,274 --> 01:53:36,566
+Fuck!
+
+1284
+01:54:49,181 --> 01:54:50,806
+You better be right about this.
+
+1285
+01:54:56,355 --> 01:54:57,563
+Okay.
+
+1286
+01:55:07,032 --> 01:55:08,032
+Fuck!
+
+1287
+01:55:41,233 --> 01:55:42,316
+Fuck.
+
+1288
+01:55:53,745 --> 01:55:57,748
+What?
+
+1289
+01:56:37,206 --> 01:56:39,373
+You have nowhere to run.
+
+1290
+01:56:39,374 --> 01:56:41,292
+We can hear you!
+
+1291
+01:56:41,293 --> 01:56:44,462
+- We will find you!
+- Oh, fuck me.
+
+1292
+01:57:46,650 --> 01:57:48,818
+Don't run!
+
+1293
+01:57:56,326 --> 01:57:59,203
+You know this is the only way.
+
+1294
+01:57:59,204 --> 01:58:00,955
+You know it.
+
+1295
+01:58:00,956 --> 01:58:02,123
+Simon!
+
+1296
+01:58:02,124 --> 01:58:04,293
+Please keep this safe,
+okay, mom?
+
+1297
+01:58:06,628 --> 01:58:10,131
+It's more than me.
+It's more than me.
+
+1298
+01:58:10,132 --> 01:58:12,925
+You saw the horror of it.
+
+1299
+01:58:12,926 --> 01:58:15,052
+What did it see in you?
+
+1300
+01:58:15,053 --> 01:58:17,305
+It's more than me.
+It's more than me.
+
+1301
+01:58:20,392 --> 01:58:23,019
+It saw you, Simon.
+
+1302
+01:58:23,020 --> 01:58:25,938
+And it will never let you go!
+
+1303
+01:58:25,939 --> 01:58:28,150
+It wants you to do this.
+
+1304
+01:58:28,984 --> 01:58:30,902
+Can you not see that?
+
+1305
+01:58:52,674 --> 01:58:54,634
+What did you do?!
+
+1306
+01:58:54,635 --> 01:58:57,720
+You changed everything!
+
+1307
+01:58:57,721 --> 01:58:59,514
+Your ship is alive!
+
+1308
+01:58:59,515 --> 01:59:03,976
+Can't you see this is a mercy?!
+
+1309
+01:59:03,977 --> 01:59:06,687
+Fine! You want the Butcher?
+
+1310
+01:59:06,688 --> 01:59:09,106
+Come on!
+
+1311
+01:59:14,321 --> 01:59:16,155
+Fuck you!
+
+1312
+01:59:16,156 --> 01:59:17,323
+Die!
+
+1313
+01:59:37,261 --> 01:59:41,348
+Pray that you stay dead!
+
+1314
+01:59:43,725 --> 01:59:47,562
+We are salvation!
+We are hope.
+
+1315
+01:59:47,563 --> 01:59:52,316
+We can save everyone...
+within us!
+
+1316
+02:00:02,035 --> 02:00:04,579
+We are all.
+
+1317
+02:00:04,580 --> 02:00:06,206
+We are one.
+
+1318
+02:00:07,833 --> 02:00:10,835
+We die. We live! We!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
