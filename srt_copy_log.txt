@@ -1,12 +1,12 @@
-SRT Copy Log - Fri 06/05/2026  7:56:24.26 
+SRT Copy Log - Sat 06/20/2026  7:26:34.79 
 ================================== 
  
 Script started 
 Batch file location: C:\Users\ripja\OneDrive\Pictures\The-Bannered-Pony-Mare\The-Bannered-Pony-Mare\ 
  
-Raw argument 1: ""J:\Movies J Drive\Hokum (2026)\Hokum (2026).eng.srt"" 
-Clean argument 1: "J:\Movies J Drive\Hokum (2026)\Hokum (2026).eng.srt" 
-File name: "Hokum (2026).eng.srt" 
+Raw argument 1: "C:\Users\ripja\Downloads\MovieNightSubtitles.srt" 
+Clean argument 1: "C:\Users\ripja\Downloads\MovieNightSubtitles.srt" 
+File name: "MovieNightSubtitles.srt" 
 File extension: ".srt" 
  
 File argument exists 
