@@ -9,17 +9,31 @@ const execFileAsync = promisify(execFile);
 const FFPROBE_TIMEOUT_MS = 30_000;
 const FFPROBE_ANALYZE = ["-analyzeduration", "50M", "-probesize", "50M"];
 
-const SIDECAR_EXTENSIONS = new Set([".srt", ".ass", ".ssa", ".vtt"]);
+const TEXT_SIDECAR_EXTENSIONS = new Set([".srt", ".ass", ".ssa", ".vtt"]);
+
+const BITMAP_CODECS = new Set([
+  "hdmv_pgs_subtitle",
+  "dvd_subtitle",
+  "dvb_subtitle",
+]);
+
+export type SubtitleKind = "text" | "bitmap";
+
+export type SidecarFormat = "srt" | "ass" | "ssa" | "vtt" | "pgs" | "vobsub";
 
 export type SidecarSubtitle = {
   id: string;
   filename: string;
   language: string;
   label: string;
+  kind: SubtitleKind;
+  format: SidecarFormat;
 };
 
 export type SubtitleTrack = {
   streamIndex: number;
+  codec: string;
+  kind: SubtitleKind;
   language: string;
   name: string | null;
   forced: boolean;
@@ -27,6 +41,10 @@ export type SubtitleTrack = {
   captions: boolean;
   label: string;
 };
+
+export function isBitmapCodec(codec: string | undefined): boolean {
+  return BITMAP_CODECS.has(codec ?? "");
+}
 
 function sanitizeName(name: string): string {
   return name
@@ -37,6 +55,7 @@ function sanitizeName(name: string): string {
 
 function buildTrackLabel(track: Omit<SubtitleTrack, "label">): string {
   const parts = [track.language || "und"];
+  if (track.kind === "bitmap") parts.push("image");
   if (track.forced) parts.push("forced");
   if (track.sdh) parts.push("sdh");
   else if (track.captions) parts.push("cc");
@@ -83,8 +102,11 @@ export async function probeSubtitleTracks(
   for (const stream of parsed.streams ?? []) {
     if (typeof stream.index !== "number") continue;
 
+    const codec = stream.codec_name?.trim() || "unknown";
     const current = {
       streamIndex: stream.index,
+      codec,
+      kind: isBitmapCodec(codec) ? ("bitmap" as const) : ("text" as const),
       language: stream.tags?.language?.trim() || "und",
       name: stream.tags?.title?.trim() || stream.tags?.name?.trim() || null,
       forced: stream.disposition?.forced === 1,
@@ -142,18 +164,36 @@ export async function listSidecarSubtitles(
 
   for (const filename of entries) {
     const ext = path.extname(filename).toLowerCase();
-    if (!SIDECAR_EXTENSIONS.has(ext)) continue;
-
     const stem = path.basename(filename, path.extname(filename));
     if (stem !== videoBase && !stem.startsWith(`${videoBase}.`)) continue;
 
+    let format: SidecarFormat | null = null;
+    let kind: SubtitleKind = "text";
+    if (TEXT_SIDECAR_EXTENSIONS.has(ext)) {
+      format = ext === ".ssa" ? "ssa" : (ext.slice(1) as SidecarFormat);
+    } else if (ext === ".sup") {
+      format = "pgs";
+      kind = "bitmap";
+    } else if (ext === ".idx") {
+      const subName = `${stem}.sub`;
+      const hasSub = entries.some(
+        (entry) => entry.toLowerCase() === subName.toLowerCase(),
+      );
+      if (!hasSub) continue;
+      format = "vobsub";
+      kind = "bitmap";
+    }
+    if (!format) continue;
+
     const language = languageFromSidecarName(filename, videoBase);
-    const parts = [language, "sidecar", filename];
+    const parts = [language, kind === "bitmap" ? "image" : "sidecar", filename];
     sidecars.push({
       id: filename,
       filename,
       language,
       label: parts.join(" - "),
+      kind,
+      format,
     });
   }
 

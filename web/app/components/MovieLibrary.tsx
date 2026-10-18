@@ -7,6 +7,7 @@ import { formatBytes } from "@/lib/format";
 import type { MovieEntry } from "@/lib/movies-library";
 import type { Event } from "@/lib/paths";
 import { MoviePicker } from "./MoviePicker";
+import { SubtitleApplyPanel } from "./SubtitleApplyPanel";
 import styles from "./MovieLibrary.module.css";
 
 export function MovieLibrary() {
@@ -54,6 +55,7 @@ export function MovieLibrary() {
                 Extract subtitles
               </Link>
             </div>
+            <SubtitleApplyPanel movieId={selected.id} />
           </div>
         )}
       </section>

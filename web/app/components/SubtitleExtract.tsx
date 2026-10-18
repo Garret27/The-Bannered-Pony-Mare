@@ -8,6 +8,7 @@ import type { MovieEntry } from "@/lib/movies-library";
 import type { Event } from "@/lib/paths";
 import { EVENT_LABELS } from "@/lib/paths";
 import { MoviePicker } from "./MoviePicker";
+import { OcrProgress, pollOcrJob, type OcrJobView } from "./OcrProgress";
 import { Toast } from "./Toast";
 import styles from "./SubtitleExtract.module.css";
 
@@ -34,6 +35,7 @@ export function SubtitleExtract() {
   const [preview, setPreview] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [toast, setToast] = useState<ToastState>(null);
+  const [ocrJob, setOcrJob] = useState<OcrJobView | null>(null);
 
   const showToast = useCallback((message: string, type: "success" | "error") => {
     setToast({ message, type });
@@ -151,10 +153,23 @@ export function SubtitleExtract() {
         error?: string;
         message?: string;
         preview?: string;
+        jobId?: string;
       };
 
       if (!response.ok) {
         throw new Error(data.error ?? "Extraction failed");
+      }
+
+      if (data.jobId) {
+        const job = await pollOcrJob(data.jobId, setOcrJob);
+        if (job.status === "error") {
+          throw new Error(job.error || job.message || "OCR failed");
+        }
+        if (job.preview) setPreview(job.preview);
+        showToast(job.appliedMessage ?? job.message, "success");
+        setOcrJob(null);
+        setProbe(null);
+        return;
       }
 
       if (data.preview) setPreview(data.preview);
@@ -191,10 +206,23 @@ export function SubtitleExtract() {
         error?: string;
         message?: string;
         preview?: string;
+        jobId?: string;
       };
 
       if (!response.ok) {
         throw new Error(data.error ?? "Failed to apply sidecar subtitle");
+      }
+
+      if (data.jobId) {
+        const job = await pollOcrJob(data.jobId, setOcrJob);
+        if (job.status === "error") {
+          throw new Error(job.error || job.message || "OCR failed");
+        }
+        if (job.preview) setPreview(job.preview);
+        showToast(job.appliedMessage ?? job.message, "success");
+        setOcrJob(null);
+        setProbe(null);
+        return;
       }
 
       if (data.preview) setPreview(data.preview);
@@ -246,6 +274,7 @@ export function SubtitleExtract() {
         (probe.tracks.length > 0 || (probe.sidecars?.length ?? 0) > 0) && (
         <section className={styles.panel}>
           <p className={styles.fileName}>{probe.originalName}</p>
+          {ocrJob && <OcrProgress job={ocrJob} />}
 
           {probe.tracks.length > 0 && (
             <>
@@ -254,6 +283,11 @@ export function SubtitleExtract() {
                 {probe.tracks.map((track) => (
                   <div key={track.streamIndex} className={styles.trackCard}>
                     <h4>{track.label}</h4>
+                    {track.kind === "bitmap" && (
+                      <p className={styles.probing}>
+                        Image subtitles. Reading them can take a few minutes.
+                      </p>
+                    )}
                     <div className={styles.trackActions}>
                       <button
                         type="button"
@@ -262,8 +296,12 @@ export function SubtitleExtract() {
                         onClick={() => void applyTrack(track.streamIndex, "main")}
                       >
                         {applyingKey === `${track.streamIndex}-main`
-                          ? "Applying…"
-                          : `Apply to ${EVENT_LABELS.main}`}
+                          ? track.kind === "bitmap"
+                            ? "Reading…"
+                            : "Applying…"
+                          : track.kind === "bitmap"
+                            ? `Read images for ${EVENT_LABELS.main}`
+                            : `Apply to ${EVENT_LABELS.main}`}
                       </button>
                       <button
                         type="button"
@@ -272,8 +310,12 @@ export function SubtitleExtract() {
                         onClick={() => void applyTrack(track.streamIndex, "hspc")}
                       >
                         {applyingKey === `${track.streamIndex}-hspc`
-                          ? "Applying…"
-                          : `Apply to ${EVENT_LABELS.hspc}`}
+                          ? track.kind === "bitmap"
+                            ? "Reading…"
+                            : "Applying…"
+                          : track.kind === "bitmap"
+                            ? `Read images for ${EVENT_LABELS.hspc}`
+                            : `Apply to ${EVENT_LABELS.hspc}`}
                       </button>
                     </div>
                   </div>
@@ -289,6 +331,11 @@ export function SubtitleExtract() {
                 {probe.sidecars.map((sidecar) => (
                   <div key={sidecar.id} className={styles.trackCard}>
                     <h4>{sidecar.label}</h4>
+                    {sidecar.kind === "bitmap" && (
+                      <p className={styles.probing}>
+                        Image subtitles. Reading them can take a few minutes.
+                      </p>
+                    )}
                     <div className={styles.trackActions}>
                       <button
                         type="button"
@@ -297,8 +344,12 @@ export function SubtitleExtract() {
                         onClick={() => void applySidecar(sidecar.id, "main")}
                       >
                         {applyingKey === `sidecar-${sidecar.id}-main`
-                          ? "Applying…"
-                          : `Apply to ${EVENT_LABELS.main}`}
+                          ? sidecar.kind === "bitmap"
+                            ? "Reading…"
+                            : "Applying…"
+                          : sidecar.kind === "bitmap"
+                            ? `Read images for ${EVENT_LABELS.main}`
+                            : `Apply to ${EVENT_LABELS.main}`}
                       </button>
                       <button
                         type="button"
@@ -307,8 +358,12 @@ export function SubtitleExtract() {
                         onClick={() => void applySidecar(sidecar.id, "hspc")}
                       >
                         {applyingKey === `sidecar-${sidecar.id}-hspc`
-                          ? "Applying…"
-                          : `Apply to ${EVENT_LABELS.hspc}`}
+                          ? sidecar.kind === "bitmap"
+                            ? "Reading…"
+                            : "Applying…"
+                          : sidecar.kind === "bitmap"
+                            ? `Read images for ${EVENT_LABELS.hspc}`
+                            : `Apply to ${EVENT_LABELS.hspc}`}
                       </button>
                     </div>
                   </div>

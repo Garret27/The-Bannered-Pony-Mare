@@ -9,7 +9,9 @@ import {
   listSidecarSubtitles,
   probeSubtitleTracks,
   type SidecarSubtitle,
+  type SubtitleTrack,
 } from "@/lib/ffmpeg";
+import { startOcrJob } from "@/lib/ocr-jobs";
 import {
   isDockerLibraryPath,
   mapHostLibraryPathToDocker,
@@ -41,6 +43,7 @@ type TempSession = {
   videoPath: string;
   originalName: string;
   sidecars: SidecarSubtitle[];
+  tracks: SubtitleTrack[];
 };
 
 const sessions = new Map<string, TempSession>();
@@ -178,6 +181,7 @@ export async function POST(request: Request) {
           videoPath,
           originalName: path.basename(videoPath),
           sidecars,
+          tracks,
         });
 
         return NextResponse.json({
@@ -215,6 +219,15 @@ export async function POST(request: Request) {
           );
         }
 
+        if (sidecar.kind === "bitmap") {
+          const job = startOcrJob({
+            sidecarPath: path.join(path.dirname(session.videoPath), sidecar.filename),
+            sidecarFormat: sidecar.format === "vobsub" ? "vobsub" : "pgs",
+            event: body.event,
+          });
+          return NextResponse.json({ jobId: job.id, ocr: true });
+        }
+
         const ext = path.extname(sidecar.filename).toLowerCase();
         if (ext !== ".srt") {
           return NextResponse.json(
@@ -239,6 +252,19 @@ export async function POST(request: Request) {
           { error: "streamIndex or sidecarId is required" },
           { status: 400 },
         );
+      }
+
+      const track = session.tracks.find(
+        (item) => item.streamIndex === body.streamIndex,
+      );
+      if (track?.kind === "bitmap") {
+        const job = startOcrJob({
+          videoPath: session.videoPath,
+          streamIndex: body.streamIndex,
+          codec: track.codec,
+          event: body.event,
+        });
+        return NextResponse.json({ jobId: job.id, ocr: true });
       }
 
       const sessionDir = path.dirname(session.videoPath);
@@ -286,6 +312,7 @@ export async function POST(request: Request) {
       videoPath,
       originalName: file.name,
       sidecars: [],
+      tracks,
     });
 
     return NextResponse.json({

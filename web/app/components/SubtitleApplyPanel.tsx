@@ -4,6 +4,7 @@ import { useCallback, useEffect, useState } from "react";
 import type { SidecarSubtitle, SubtitleTrack } from "@/lib/ffmpeg";
 import type { Event } from "@/lib/paths";
 import { EVENT_LABELS } from "@/lib/paths";
+import { OcrProgress, pollOcrJob, type OcrJobView } from "./OcrProgress";
 import styles from "./SubtitleApplyPanel.module.css";
 
 export type SubtitleProbeResult = {
@@ -67,6 +68,17 @@ export function SubtitleApplyPanel({
   const [error, setError] = useState<string | null>(null);
   const [applyingKey, setApplyingKey] = useState<string | null>(null);
   const [tracksExpanded, setTracksExpanded] = useState(false);
+  const [ocrJob, setOcrJob] = useState<OcrJobView | null>(null);
+
+  const applyLabel = (
+    kind: "text" | "bitmap" | undefined,
+    event: Event,
+    busy: boolean,
+  ) => {
+    if (busy) return kind === "bitmap" ? "Reading…" : "Applying…";
+    if (kind === "bitmap") return `Read images for ${EVENT_LABELS[event]}`;
+    return `Apply to ${EVENT_LABELS[event]}`;
+  };
 
   const reload = useCallback(async () => {
     if (!movieId && !videoPath) return;
@@ -159,10 +171,22 @@ export function SubtitleApplyPanel({
       const data = (await response.json()) as {
         error?: string;
         message?: string;
+        jobId?: string;
       };
 
       if (!response.ok) {
         throw new Error(data.error ?? "Failed to apply subtitle");
+      }
+
+      if (data.jobId) {
+        const job = await pollOcrJob(data.jobId, setOcrJob);
+        if (job.status === "error") {
+          throw new Error(job.error || job.message || "OCR failed");
+        }
+        onApplied?.(job.appliedMessage ?? job.message);
+        setOcrJob(null);
+        await reload();
+        return;
       }
 
       const message =
@@ -227,13 +251,17 @@ export function SubtitleApplyPanel({
       </div>
 
       {error && <p className={styles.error}>{error}</p>}
+      {ocrJob && <OcrProgress job={ocrJob} />}
 
       {hasTracks && (
         <div className={styles.group}>
           <h4 className={styles.groupTitle}>Embedded tracks</h4>
           {visibleTracks.map((track) => (
             <div key={track.streamIndex} className={styles.trackRow}>
-              <span className={styles.trackLabel}>{track.label}</span>
+              <span className={styles.trackLabel}>
+                {track.label}
+                {track.kind === "bitmap" ? " · image, a few minutes" : ""}
+              </span>
               <div className={styles.actions}>
                 <button
                   type="button"
@@ -243,9 +271,11 @@ export function SubtitleApplyPanel({
                     void apply({ streamIndex: track.streamIndex, event: "main" })
                   }
                 >
-                  {applyingKey === `${track.streamIndex}-main`
-                    ? "Applying…"
-                    : `Apply to ${EVENT_LABELS.main}`}
+                  {applyLabel(
+                    track.kind,
+                    "main",
+                    applyingKey === `${track.streamIndex}-main`,
+                  )}
                 </button>
                 <button
                   type="button"
@@ -255,9 +285,11 @@ export function SubtitleApplyPanel({
                     void apply({ streamIndex: track.streamIndex, event: "hspc" })
                   }
                 >
-                  {applyingKey === `${track.streamIndex}-hspc`
-                    ? "Applying…"
-                    : `Apply to ${EVENT_LABELS.hspc}`}
+                  {applyLabel(
+                    track.kind,
+                    "hspc",
+                    applyingKey === `${track.streamIndex}-hspc`,
+                  )}
                 </button>
               </div>
             </div>
@@ -287,7 +319,10 @@ export function SubtitleApplyPanel({
           <h4 className={styles.groupTitle}>Sidecar files</h4>
           {probe.sidecars.map((sidecar) => (
             <div key={sidecar.id} className={styles.trackRow}>
-              <span className={styles.trackLabel}>{sidecar.label}</span>
+              <span className={styles.trackLabel}>
+                {sidecar.label}
+                {sidecar.kind === "bitmap" ? " · image, a few minutes" : ""}
+              </span>
               <div className={styles.actions}>
                 <button
                   type="button"
@@ -297,9 +332,11 @@ export function SubtitleApplyPanel({
                     void apply({ sidecarId: sidecar.id, event: "main" })
                   }
                 >
-                  {applyingKey === `sidecar-${sidecar.id}-main`
-                    ? "Applying…"
-                    : `Apply to ${EVENT_LABELS.main}`}
+                  {applyLabel(
+                    sidecar.kind,
+                    "main",
+                    applyingKey === `sidecar-${sidecar.id}-main`,
+                  )}
                 </button>
                 <button
                   type="button"
@@ -309,9 +346,11 @@ export function SubtitleApplyPanel({
                     void apply({ sidecarId: sidecar.id, event: "hspc" })
                   }
                 >
-                  {applyingKey === `sidecar-${sidecar.id}-hspc`
-                    ? "Applying…"
-                    : `Apply to ${EVENT_LABELS.hspc}`}
+                  {applyLabel(
+                    sidecar.kind,
+                    "hspc",
+                    applyingKey === `sidecar-${sidecar.id}-hspc`,
+                  )}
                 </button>
               </div>
             </div>
