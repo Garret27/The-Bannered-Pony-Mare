@@ -1,0 +1,174 @@
+.card {
+  position: relative;
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem 0.625rem;
+  min-height: 4.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  text-align: center;
+  overflow: hidden;
+}
+
+.card.inInstance {
+  background: rgba(91, 159, 212, 0.12);
+  border-color: rgba(91, 159, 212, 0.45);
+}
+
+.card.blacklisted {
+  background: rgba(201, 76, 76, 0.12);
+  border-color: rgba(201, 76, 76, 0.45);
+}
+
+.card.offlineRegular {
+  opacity: 0.55;
+}
+
+.card.invited {
+  background: rgba(61, 153, 112, 0.18);
+  border-color: rgba(61, 153, 112, 0.45);
+}
+
+.card.loading {
+  opacity: 0.85;
+}
+
+.checkboxWrap {
+  position: absolute;
+  top: 0.375rem;
+  left: 0.375rem;
+}
+
+.checkboxWrap input {
+  cursor: pointer;
+}
+
+.name {
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.3;
+  word-break: break-word;
+  max-width: 100%;
+}
+
+.meta {
+  font-size: 0.6875rem;
+  color: var(--muted);
+  font-family: var(--font-geist-mono), monospace;
+}
+
+.badgeInvited {
+  font-size: 0.625rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background: var(--success);
+  border-radius: 999px;
+  padding: 0.125rem 0.5rem;
+}
+
+.badgeBlocked {
+  font-size: 0.625rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background: var(--error);
+  border-radius: 999px;
+  padding: 0.125rem 0.5rem;
+}
+
+.badgeOffline {
+  font-size: 0.625rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.125rem 0.5rem;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  gap: 0.375rem;
+  padding: 0.5rem;
+  background: rgba(15, 20, 25, 0.88);
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.card:hover .overlay {
+  opacity: 1;
+}
+
+.card.invited .overlay,
+.card.loading .overlay {
+  opacity: 1;
+}
+
+.overlay button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.375rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.overlay button:hover:not(:disabled) {
+  background: var(--accent-hover);
+}
+
+.overlay button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.overlaySecondary {
+  background: transparent !important;
+  border: 1px solid var(--border) !important;
+  color: var(--foreground) !important;
+}
+
+.overlaySecondary:hover:not(:disabled) {
+  background: var(--surface-hover) !important;
+}
+
+.overlayManage {
+  background: var(--surface) !important;
+  border: 1px solid var(--border) !important;
+  color: var(--foreground) !important;
+}
+
+.overlayManage:hover:not(:disabled) {
+  background: var(--surface-hover) !important;
+}
+
+.overlayDanger {
+  background: rgba(201, 76, 76, 0.2) !important;
+  border: 1px solid var(--error) !important;
+  color: var(--foreground) !important;
+}
+
+.overlayDanger:hover:not(:disabled) {
+  background: rgba(201, 76, 76, 0.35) !important;
+}
+
+.spinner {
+  font-size: 0.75rem;
+  color: var(--foreground);
+}

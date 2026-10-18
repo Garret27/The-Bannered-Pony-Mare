@@ -1,0 +1,103 @@
+name: movie-night-manager
+
+services:
+  # Compose-side gate: becomes healthy once the Docker Desktop VM forwarder on
+  # :18096 is answering. The listener is started with the Docker Desktop VM
+  # (docker-desktop-boot.sh) and by start-stack.ps1 — containers cannot reach
+  # 192.168.0.130 on their own.
+  jellyfin-proxy:
+    image: alpine:3.20
+    volumes:
+      - ./scripts/ensure-jellyfin-proxy.sh:/ensure.sh:ro
+    entrypoint: ["/bin/sh", "/ensure.sh"]
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "wget -q -O- -T 2 http://host.docker.internal:18096/System/Info/Public >/dev/null",
+        ]
+      interval: 5s
+      timeout: 3s
+      retries: 30
+      start_period: 5s
+    restart: unless-stopped
+
+  converter-agent:
+    build: ./converter-agent
+    expose:
+      - "8765"
+    gpus: all
+    # SAFETY: do not bind /mnt/host/{e,h,j} (Samba NAS) into this service.
+    # Media I/O is SSH/SFTP to Fedora; encode staging is local /work only.
+    volumes:
+      - ..:/data:rw
+      - D:/MovieNight/work:/work:rw
+      - ./secrets/fedora_converter_ed25519:/run/secrets/fedora_ssh:ro
+      - ./secrets/fedora_known_hosts:/run/secrets/fedora_known_hosts:ro
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      AGENT_ENABLED: ${AGENT_ENABLED:-false}
+      SETTINGS_JSON_PATH: /data/movie-night-settings.json
+      JOB_HISTORY_PATH: /data/converter-job-history.json
+      NVIDIA_VISIBLE_DEVICES: all
+      NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
+      WORK_ROOT: /work
+      # Containers cannot reach 192.168.0.130:22; use Docker Desktop VM forwarder :18022
+      # (started by docker-desktop-boot.sh), same pattern as Jellyfin :18096.
+      FEDORA_SSH_HOST: ${FEDORA_SSH_HOST:-host.docker.internal}
+      FEDORA_SSH_PORT: ${FEDORA_SSH_PORT:-18022}
+      FEDORA_SSH_USER: ${FEDORA_SSH_USER:-garret}
+      FEDORA_SSH_KEY_SRC: /run/secrets/fedora_ssh
+      FEDORA_SSH_KEY_PATH: /tmp/agent-ssh/id_ed25519
+      FEDORA_SSH_KNOWN_HOSTS_SRC: /run/secrets/fedora_known_hosts
+      FEDORA_SSH_KNOWN_HOSTS: /tmp/agent-ssh/known_hosts
+      REMOTE_MOVIES_E: ${REMOTE_MOVIES_E:-/mnt/bigger-media/Movies E Drive}
+      REMOTE_MOVIES_J: ${REMOTE_MOVIES_J:-/mnt/18tb-media/Movies J Drive}
+      REMOTE_TV_H: ${REMOTE_TV_H:-/mnt/external-media/TV Shows H Drive}
+      REMOTE_TV_E: ${REMOTE_TV_E:-/mnt/bigger-media/TV Shows E Drive}
+      REMOTE_TV_J: ${REMOTE_TV_J:-/mnt/18tb-media/TV Shows J Drive}
+      REMOTE_MOVIES_OUTPUT: ${REMOTE_MOVIES_OUTPUT:-/mnt/18tb-media/Movies J Drive - Jellyfin}
+      REMOTE_TV_OUTPUT: ${REMOTE_TV_OUTPUT:-/mnt/external-media/TV Shows H Drive - Jellyfin}
+      # Legacy local path env kept for Bunny scan helpers; not Samba-mounted.
+      MOVIES_OUTPUT_DIR: /work/jellyfin-cache
+      TV_OUTPUT_DIR: /work/tv-jellyfin-cache
+      HANDBRAKE_PATH: /usr/bin/HandBrakeCLI
+    restart: unless-stopped
+
+  movie-night-web:
+    build: .
+    ports:
+      # 3000 stays on loopback for this PC. 3080 is for LAN clients — Docker Desktop
+      # holds :3000 in a localhost-only way that blocks binding it on the LAN IP.
+      - "127.0.0.1:3000:3000"
+      - "0.0.0.0:3080:3000"
+    depends_on:
+      - converter-agent
+      - jellyfin-proxy
+    volumes:
+      - ..:/data
+      - ${APPDATA}/VRCX/VRCX.sqlite3:/vrcx/VRCX.sqlite3:ro
+      - C:/01 AI/VRCX/vrchat-cli:/vrchat-cli:ro
+      - /mnt/host/e:/movies-e:ro
+      - /mnt/host/j:/movies-j:ro
+      - /mnt/host/h:/tv-h:ro
+      - D:/OneDrive/Pictures/VRChat:/vrchat-photos:ro
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      DATA_ROOT: /data
+      VRCX_DB_PATH: /vrcx/VRCX.sqlite3
+      VRCHAT_PHOTOS_DIR: /vrchat-photos
+      SATURDAY_JOINERS_CSV: /vrchat-cli/saturday_joiners_5pm_mt.csv
+      TV_SOURCE_H: /tv-h/TV Shows H Drive
+      TV_SOURCE_E: /movies-e/TV Shows E Drive
+      TV_SOURCE_J: /movies-j/TV Shows J Drive
+      TV_OUTPUT_DIR: /tv-h/TV Shows H Drive - Jellyfin
+      JELLYFIN_URL: http://host.docker.internal:18096
+      # Set LAN_AUTH_PASSWORD in web/.env to require sign-in on :3080 (LAN). localhost:3000 stays open.
+      LAN_AUTH_PASSWORD: ${LAN_AUTH_PASSWORD:-}
+      LAN_AUTH_SECRET: ${LAN_AUTH_SECRET:-}
+    restart: unless-stopped

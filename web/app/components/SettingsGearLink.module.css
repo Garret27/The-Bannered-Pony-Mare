@@ -1,0 +1,28 @@
+.gearLink {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--muted);
+  line-height: 0;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.gearLink:hover,
+.gearLink.active {
+  color: var(--foreground);
+}
+
+.gearIcon {
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  flex-shrink: 0;
+}

@@ -1,2 +1,12 @@
-# Local Next.js + Docker app (run separately, not pushed to remote)
-web/
+# Secrets and this PC's runtime state
+movie-night-settings.json
+converter-agent-enabled.json
+converter-job-history.json
+
+# Helper build output and logs
+web/dist/
+web/build/
+web/stack-helper.log
+web/secrets/
+web/**/__pycache__/
+web/**/*.pyc

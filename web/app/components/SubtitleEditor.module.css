@@ -1,0 +1,303 @@
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+.header {
+  margin-bottom: 1.5rem;
+}
+
+.header h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 0.375rem;
+}
+
+.header p {
+  color: var(--muted);
+  font-size: 0.9375rem;
+}
+
+.backLink {
+  display: inline-block;
+  color: var(--accent);
+  font-size: 0.875rem;
+  margin-bottom: 0.75rem;
+}
+
+.backLink:hover {
+  text-decoration: underline;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.5rem 0.875rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: var(--accent-hover);
+}
+
+.button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.buttonSecondary {
+  background: var(--surface-hover);
+  color: var(--foreground);
+  border: 1px solid var(--border);
+}
+
+.buttonSecondary:hover {
+  background: var(--border);
+}
+
+.buttonDanger {
+  background: var(--error);
+}
+
+.shiftGroup {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+  margin-left: auto;
+}
+
+.shiftGroup label {
+  font-size: 0.8125rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.shiftGroup input {
+  width: 5.5rem;
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--foreground);
+  padding: 0.375rem 0.5rem;
+  font-size: 0.8125rem;
+  text-align: center;
+  font-family: var(--font-geist-mono), monospace;
+}
+
+.shiftGroup span {
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+.unsaved {
+  font-size: 0.8125rem;
+  color: var(--hspc-color);
+  font-weight: 500;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 1rem;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.cueList {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.cueListHeader {
+  display: grid;
+  grid-template-columns: 3rem 7rem 7rem 1fr;
+  gap: 0.5rem;
+  padding: 0.625rem 1rem;
+  background: var(--background);
+  border-bottom: 1px solid var(--border);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.cueRows {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.cueRow {
+  display: grid;
+  grid-template-columns: 3rem 7rem 7rem 1fr;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.8125rem;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.cueRow:hover {
+  background: var(--surface-hover);
+}
+
+.cueRowSelected {
+  background: rgba(91, 159, 212, 0.15);
+}
+
+.cueRowActive {
+  background: rgba(176, 125, 212, 0.12);
+}
+
+.cueIndex {
+  font-family: var(--font-geist-mono), monospace;
+  color: var(--muted);
+}
+
+.cueTime {
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.75rem;
+}
+
+.cueText {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--foreground);
+}
+
+.editorPanel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem;
+  position: sticky;
+  top: 1rem;
+}
+
+.editorPanel h3 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.editorPanel label {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-bottom: 0.25rem;
+}
+
+.editorPanel input,
+.editorPanel textarea {
+  width: 100%;
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--foreground);
+  padding: 0.5rem;
+  font-size: 0.8125rem;
+  margin-bottom: 0.75rem;
+}
+
+.editorPanel textarea {
+  min-height: 120px;
+  resize: vertical;
+  font-family: inherit;
+  line-height: 1.5;
+}
+
+.timeRow {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+}
+
+.rawMode {
+  margin-top: 1rem;
+}
+
+.rawMode textarea {
+  width: 100%;
+  min-height: 400px;
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--foreground);
+  padding: 1rem;
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.8125rem;
+  line-height: 1.6;
+  resize: vertical;
+}
+
+.issues {
+  margin-top: 1rem;
+  padding: 0.75rem 1rem;
+  background: rgba(201, 76, 76, 0.1);
+  border: 1px solid var(--error);
+  border-radius: 8px;
+  font-size: 0.8125rem;
+}
+
+.issues ul {
+  margin-top: 0.375rem;
+  padding-left: 1.25rem;
+}
+
+.warnings {
+  background: rgba(176, 125, 212, 0.1);
+  border-color: var(--hspc-color);
+}
+
+.loading,
+.empty {
+  color: var(--muted);
+  padding: 3rem;
+  text-align: center;
+}
+
+.modeToggle {
+  margin-bottom: 1rem;
+}
+
+.modeToggle button {
+  background: var(--background);
+  border: 1px solid var(--border);
+  color: var(--foreground);
+  border-radius: 6px;
+  padding: 0.375rem 0.75rem;
+  font-size: 0.8125rem;
+  cursor: pointer;
+  margin-right: 0.375rem;
+}
+
+.modeActive {
+  border-color: var(--accent);
+  background: rgba(91, 159, 212, 0.12);
+}

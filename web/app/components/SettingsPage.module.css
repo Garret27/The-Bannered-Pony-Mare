@@ -1,0 +1,264 @@
+.page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+.hero {
+  margin-bottom: 1.5rem;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  color: var(--muted);
+  max-width: 640px;
+  font-size: 0.9375rem;
+}
+
+.hero code {
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.8125rem;
+  background: var(--surface);
+  padding: 0.125rem 0.375rem;
+  border-radius: 4px;
+}
+
+.banner {
+  margin-bottom: 1.25rem;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 183, 77, 0.35);
+  background: rgba(255, 183, 77, 0.12);
+  color: #ffcc80;
+  font-size: 0.875rem;
+}
+
+.banner code {
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.8125rem;
+}
+
+.form {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  width: 100%;
+  padding: 1rem 1.25rem;
+  border: none;
+  background: transparent;
+  color: var(--foreground);
+  cursor: pointer;
+  text-align: left;
+}
+
+.sectionHeader:hover {
+  background: var(--surface-hover);
+}
+
+.sectionTitle {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.sectionDesc {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.8125rem;
+  color: var(--muted);
+  font-weight: 400;
+}
+
+.chevron {
+  color: var(--muted);
+  font-size: 0.875rem;
+  flex-shrink: 0;
+}
+
+.badge {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  padding: 0.125rem 0.5rem;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  flex-shrink: 0;
+}
+
+.badgeOk {
+  color: #a5d6a7;
+  background: rgba(102, 187, 106, 0.15);
+}
+
+.badgeMissing {
+  color: var(--muted);
+  background: var(--background);
+  border: 1px solid var(--border);
+}
+
+.sectionBody {
+  padding: 0 1.25rem 1.25rem;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.sectionBody label {
+  display: grid;
+  gap: 0.375rem;
+  font-size: 0.875rem;
+  color: var(--muted);
+}
+
+.sectionBody input,
+.sectionBody select {
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--foreground);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
+}
+
+.sectionBody input:focus,
+.sectionBody select:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.passwordRow {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.passwordRow input {
+  flex: 1;
+}
+
+.toggleSecret {
+  flex-shrink: 0;
+  padding: 0.5rem 0.625rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--background);
+  color: var(--muted);
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.toggleSecret:hover {
+  color: var(--foreground);
+  background: var(--surface-hover);
+}
+
+.agentStatus {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.statusDot {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 999px;
+}
+
+.status_online {
+  background: #66bb6a;
+}
+
+.status_disabled {
+  background: #ffb74d;
+}
+
+.status_offline,
+.status_gpu {
+  background: #ef5350;
+}
+
+.agentDetail {
+  margin: 0 0 0.75rem;
+  font-size: 0.8125rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.agentActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.agentButton {
+  padding: 0.5rem 0.875rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--background);
+  color: var(--foreground);
+  font-size: 0.8125rem;
+  cursor: pointer;
+}
+
+.agentButton:hover:not(:disabled) {
+  background: var(--surface-hover);
+}
+
+.agentButton:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.agentDanger {
+  color: #ef5350;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+
+.saveButton {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.625rem 1.25rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.saveButton:hover:not(:disabled) {
+  background: var(--accent-hover);
+}
+
+.saveButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.loading {
+  color: var(--muted);
+  padding: 4rem 0;
+  text-align: center;
+}

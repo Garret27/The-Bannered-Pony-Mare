@@ -1,0 +1,369 @@
+.page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+.hero {
+  margin-bottom: 1.5rem;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  color: var(--muted);
+  max-width: 640px;
+}
+
+.alert {
+  background: rgba(201, 76, 76, 0.12);
+  border: 1px solid var(--error);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.alert code {
+  font-family: var(--font-geist-mono), monospace;
+  background: var(--background);
+  padding: 0.125rem 0.375rem;
+  border-radius: 4px;
+}
+
+.statusCard {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.location {
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.75rem;
+  color: var(--muted);
+  word-break: break-all;
+}
+
+.warn {
+  color: var(--error);
+  font-size: 0.875rem;
+}
+
+.hint {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.controls {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.controls label {
+  display: grid;
+  gap: 0.375rem;
+  font-size: 0.875rem;
+  color: var(--muted);
+}
+
+.controls input,
+.controls select {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--foreground);
+  padding: 0.625rem 0.75rem;
+}
+
+.toggleLabel {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center;
+  gap: 0.5rem !important;
+  cursor: pointer;
+}
+
+.toggleLabel input {
+  width: auto;
+  cursor: pointer;
+}
+
+.section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.sectionHead,
+.collapseHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.collapseHead {
+  width: 100%;
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.collapseHead h2 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-align: left;
+}
+
+.section h2 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.sectionHead h2 {
+  margin-bottom: 0;
+}
+
+.sectionActions {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.sectionActions button,
+.refresh {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--foreground);
+  border-radius: 6px;
+  padding: 0.375rem 0.625rem;
+  font-size: 0.8125rem;
+  cursor: pointer;
+}
+
+.sectionActions button:hover,
+.refresh:hover {
+  background: var(--surface-hover);
+}
+
+.refresh {
+  align-self: flex-start;
+}
+
+.statusActions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.refreshIntervalLabel {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+.refreshIntervalLabel select {
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--foreground);
+  padding: 0.375rem 0.5rem;
+  font-size: 0.8125rem;
+}
+
+.refreshIntervalLabel select:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.statusActions .toggleLabel {
+  font-size: 0.8125rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+}
+
+@media (max-width: 720px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.emptyState {
+  grid-column: 1 / -1;
+  color: var(--muted);
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.actions button {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--foreground);
+  border-radius: 8px;
+  padding: 0.625rem 1rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.actions button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.actions button.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.actions button.primary:hover:not(:disabled) {
+  background: var(--accent-hover);
+}
+
+.sortGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.375rem;
+}
+
+.sortLabel {
+  font-size: 0.875rem;
+  color: var(--muted);
+}
+
+.sortToggle {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  width: fit-content;
+}
+
+.sortToggle button {
+  background: var(--surface);
+  border: none;
+  color: var(--foreground);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.sortToggle button:not(:last-child) {
+  border-right: 1px solid var(--border);
+}
+
+.sortToggle button:hover:not(:disabled) {
+  background: var(--surface-hover);
+}
+
+.sortToggle button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.sortActive {
+  background: var(--accent) !important;
+  color: #fff !important;
+}
+
+.sortActive:hover:not(:disabled) {
+  background: var(--accent-hover) !important;
+}
+
+.addRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  align-items: center;
+}
+
+.addRow select {
+  flex: 1;
+  min-width: 12rem;
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--foreground);
+  padding: 0.5rem 0.625rem;
+  font-size: 0.875rem;
+}
+
+.addRow button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.addRow button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.manageHint {
+  color: var(--muted);
+  font-size: 0.8125rem;
+  margin: 0 0 0.75rem;
+  line-height: 1.5;
+}
+
+.subSectionHead {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.sectionHead .sectionActions,
+.sectionActions {
+  flex-wrap: wrap;
+}
+
+.preview {
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  color: var(--muted);
+  line-height: 1.5;
+}

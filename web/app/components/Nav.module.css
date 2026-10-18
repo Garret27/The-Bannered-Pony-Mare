@@ -1,0 +1,81 @@
+.nav {
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0.875rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.brand {
+  font-weight: 600;
+  font-size: 0.9375rem;
+  color: var(--muted);
+}
+
+.links {
+  list-style: none;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.links a {
+  display: block;
+  padding: 0.375rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  color: var(--muted);
+  transition: background 0.15s, color 0.15s;
+}
+
+.links a:hover {
+  color: var(--foreground);
+  background: var(--surface-hover);
+}
+
+.links a.active {
+  color: var(--foreground);
+  background: var(--background);
+  border: 1px solid var(--border);
+}
+
+/* Icon slot: converter + settings buttons */
+.links .gearSlot {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  margin-left: 0.25rem;
+}
+
+.links .gearSlot > a,
+.links .gearSlot > button,
+.links .gearSlot > * > button:first-child {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--background);
+}
+
+.links .gearSlot > a:hover,
+.links .gearSlot > button:hover,
+.links .gearSlot > * > button:first-child:hover {
+  color: var(--foreground);
+  background: var(--surface-hover);
+}
+
+.links .gearSlot > a.active {
+  color: var(--foreground);
+  background: var(--surface-hover);
+}

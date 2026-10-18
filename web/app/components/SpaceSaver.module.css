@@ -1,0 +1,430 @@
+.spaceSaverTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8125rem;
+}
+
+.spaceSaverTable th,
+.spaceSaverTable td {
+  padding: 0.625rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+.spaceSaverTable th {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.spaceSaverTable tbody tr:hover {
+  background: var(--surface-hover);
+}
+
+.spaceSaverTable tbody tr.selected {
+  background: rgba(59, 130, 246, 0.08);
+}
+
+.checkboxCell {
+  width: 2.5rem;
+}
+
+.sizeCell {
+  font-family: var(--font-geist-mono), monospace;
+  white-space: nowrap;
+}
+
+.driveBadge {
+  display: inline-block;
+  padding: 0.125rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  border: 1px solid var(--border);
+  background: var(--background);
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: flex-end;
+  margin-bottom: 1rem;
+}
+
+.modeToggle {
+  display: inline-flex;
+  gap: 0.25rem;
+  margin: 0 0 1rem;
+  padding: 0.25rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+}
+
+.modeTab {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 5.5rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.modeTab:hover {
+  color: var(--foreground);
+  background: var(--surface-hover);
+}
+
+.modeTabActive {
+  color: var(--foreground);
+  background: var(--background);
+  border-color: var(--border);
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 120px;
+}
+
+.field label {
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.field input,
+.field select {
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.375rem 0.5rem;
+  font-size: 0.8125rem;
+  color: var(--foreground);
+}
+
+.fieldGrow {
+  flex: 1;
+  min-width: 200px;
+}
+
+.statsBar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+.statsBar strong {
+  color: var(--foreground);
+  font-family: var(--font-geist-mono), monospace;
+}
+
+.presetHint {
+  margin: -0.5rem 0 1rem;
+  font-size: 0.8125rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+.modalOverlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 1rem;
+}
+
+.modal {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.25rem;
+  max-width: 480px;
+  width: 100%;
+}
+
+.modal h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.modal p {
+  font-size: 0.875rem;
+  color: var(--muted);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.modalActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: flex-end;
+}
+
+.jellyfinNote {
+  margin-top: 0.75rem;
+  padding: 0.625rem 0.75rem;
+  border-radius: 8px;
+  font-size: 0.8125rem;
+  background: rgba(59, 130, 246, 0.1);
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  color: #93c5fd;
+}
+
+.tuningPanel {
+  margin-bottom: 1.25rem;
+  padding: 1rem 1.125rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--background);
+}
+
+.tuningHeader {
+  margin-bottom: 1rem;
+}
+
+.tuningPresetRow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.tuningPresetRow label {
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.tuningPresetRow select {
+  flex: 1;
+  min-width: 200px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.375rem 0.5rem;
+  font-size: 0.8125rem;
+  color: var(--foreground);
+}
+
+.tuningResetBtn {
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.375rem 0.625rem;
+  font-size: 0.75rem;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.tuningResetBtn:hover:not(:disabled) {
+  color: var(--foreground);
+  border-color: var(--foreground);
+}
+
+.tuningResetBtn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.tuningDescription {
+  margin: 0.5rem 0 0;
+  font-size: 0.8125rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.tuningError {
+  margin: 0 0 0.75rem;
+  font-size: 0.8125rem;
+  color: #f87171;
+}
+
+.tuningLoading {
+  margin: 0;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+.tuningSection {
+  padding-top: 0.875rem;
+  margin-top: 0.875rem;
+  border-top: 1px solid var(--border);
+}
+
+.tuningSectionTitle {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin-bottom: 0.625rem;
+}
+
+.tuningSummaryGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.5rem 1rem;
+  margin-bottom: 0.875rem;
+}
+
+.tuningSummaryItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+  font-size: 0.8125rem;
+}
+
+.tuningSummaryLabel {
+  font-size: 0.6875rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.tuningSummaryText {
+  margin: 0;
+  font-size: 0.8125rem;
+  color: var(--foreground);
+  line-height: 1.5;
+}
+
+.tuningSliderRow {
+  display: flex;
+  flex-direction: column;
+  gap: 0.375rem;
+}
+
+.tuningSliderHeader {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem;
+  font-size: 0.8125rem;
+}
+
+.tuningSliderValue {
+  font-family: var(--font-geist-mono), monospace;
+}
+
+.tuningSliderHint {
+  font-family: var(--font-geist-sans), sans-serif;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.tuningSlider {
+  width: 100%;
+  accent-color: #3b82f6;
+}
+
+.tuningSliderLegend {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.6875rem;
+  color: var(--muted);
+}
+
+.tuningAdvancedToggle {
+  background: transparent;
+  border: none;
+  padding: 0;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--foreground);
+  cursor: pointer;
+}
+
+.tuningAdvancedGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.75rem 1rem;
+  margin-top: 0.75rem;
+}
+
+.tuningField,
+.tuningFieldWide {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.tuningFieldWide {
+  grid-column: 1 / -1;
+}
+
+.tuningField label,
+.tuningFieldWide label {
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.tuningField select {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.375rem 0.5rem;
+  font-size: 0.8125rem;
+  color: var(--foreground);
+}
+
+.tuningCheckbox {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8125rem;
+  cursor: pointer;
+}
+
+.tuningEstimate {
+  margin: 0 0 0.625rem;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+.tuningEstimate strong {
+  color: var(--foreground);
+  font-family: var(--font-geist-mono), monospace;
+}
+
+.tuningCliPreview {
+  margin: 0;
+  padding: 0.625rem 0.75rem;
+  border-radius: 6px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.6875rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-break: break-all;
+  color: var(--muted);
+  max-height: 6rem;
+  overflow: auto;
+}
